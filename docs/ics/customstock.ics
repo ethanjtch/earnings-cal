@@ -6,9 +6,9 @@ METHOD:PUBLISH
 X-WR-CALNAME:Earnings Calendar 财报日历
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:xdd9iVedxd0n5u8unF-N0
+UID:FgrWUBA0FTIE4xo5teYsa
 SUMMARY:京东 发布财报
-DTSTAMP:20260329T060024Z
+DTSTAMP:20260329T170355Z
 DTSTART;VALUE=DATE:20260305
 DESCRIPTION:财务季度：Dec/2025。\n代码：JD，公司：京东，行业: 电子商务。\n预计每股收益: ($0.03)，当前市值: $3
 	7\,015\,410\,227。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=JD \n在富途查看
@@ -22,9 +22,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:-2RZT3KKL0I61iM7mmZuZ
+UID:DmnTi4s969rXOD9bnIEXh
 SUMMARY:理想汽车 发布财报
-DTSTAMP:20260329T060024Z
+DTSTAMP:20260329T170355Z
 DTSTART;VALUE=DATE:20260312
 DESCRIPTION:财务季度：Dec/2025。\n代码：LI，公司：理想汽车，行业: 汽车。\n预计每股收益: $0.05，当前市值: $18\
 	,868\,797\,125。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=LI \n在富途查看：h
@@ -38,9 +38,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:kzNoFNe4ncwna-MY78v-e
+UID:fayWw_0OtaY96xqF32MBn
 SUMMARY:BOSS 直聘 发布财报
-DTSTAMP:20260329T060024Z
+DTSTAMP:20260329T170355Z
 DTSTART;VALUE=DATE:20260318
 DESCRIPTION:财务季度：Dec/2025。\n代码：BZ，公司：BOSS 直聘，行业: 人力资源。\n预计每股收益: $0.25，当前市值:
 	 $5\,951\,531\,774。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=BZ \n在富途
@@ -54,9 +54,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:eiQteb1wP3MkvicYk3-2V
+UID:ZtVvoOR_WmyQd3ZxWTz1H
 SUMMARY:阿里巴巴 发布财报
-DTSTAMP:20260329T060024Z
+DTSTAMP:20260329T170355Z
 DTSTART;VALUE=DATE:20260319
 DESCRIPTION:财务季度：Dec/2025。\n代码：BABA，公司：阿里巴巴，行业: 电子商务。\n预计每股收益: $1.75，当前市值: 
 	$288\,429\,005\,054。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=BABA \n
@@ -70,9 +70,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:jnhLwNO31VgixtMcUf8sj
+UID:sFJLK4CTXmFiKRPPrjog6
 SUMMARY:小鹏汽车 发布财报
-DTSTAMP:20260329T060024Z
+DTSTAMP:20260329T170355Z
 DTSTART;VALUE=DATE:20260320
 DESCRIPTION:财务季度：Dec/2025。\n代码：XPEV，公司：小鹏汽车，行业: 汽车。\n预计每股收益: ，当前市值: $18\,19
 	6\,794\,636。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=XPEV \n在富途查看：ht
@@ -86,9 +86,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:Fc5akSINXjxS5nebWS7LN
+UID:3S61AIf_GKok65xTX7Hvb
 SUMMARY:拼多多 发布财报
-DTSTAMP:20260329T060024Z
+DTSTAMP:20260329T170355Z
 DTSTART;VALUE=DATE:20260325
 DESCRIPTION:财务季度：Dec/2025。\n代码：PDD，公司：拼多多，行业: 电子商务。\n预计每股收益: $3.21，当前市值: $1
 	45\,669\,923\,466。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=PDD \n在富途
@@ -102,9 +102,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:NHjXVYceNmmr9jD_6af7z
+UID:8zm8fJzsSos1_auDSuQAQ
 SUMMARY:台积电 发布财报
-DTSTAMP:20260329T060024Z
+DTSTAMP:20260329T170355Z
 DTSTART;VALUE=DATE:20260416
 DESCRIPTION:财务季度：Mar/2026。\n代码：TSM，公司：台积电，行业: 半导体。\n预计每股收益: $3.27，当前市值: $1\
 	,691\,384\,727\,379。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=TSM \n在
