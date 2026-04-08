@@ -6,9 +6,9 @@ METHOD:PUBLISH
 X-WR-CALNAME:Earnings Calendar 财报日历
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:kJDRiFhh1jXFUmv3dpI_n
+UID:aVfz42QfuWer0Pi7C31t8
 SUMMARY:理想汽车 发布财报
-DTSTAMP:20260407T173548Z
+DTSTAMP:20260408T060952Z
 DTSTART;VALUE=DATE:20260312
 DESCRIPTION:财务季度：Dec/2025。\n代码：LI，公司：理想汽车，行业: 汽车。\n预计每股收益: $0.05，当前市值: $18\
 	,868\,797\,125。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=LI \n在富途查看：h
@@ -22,9 +22,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:aoMOTxCJbfJxhCWulAP5R
+UID:HRiWWEPxhLuKSxvChjry3
 SUMMARY:BOSS 直聘 发布财报
-DTSTAMP:20260407T173548Z
+DTSTAMP:20260408T060952Z
 DTSTART;VALUE=DATE:20260318
 DESCRIPTION:财务季度：Dec/2025。\n代码：BZ，公司：BOSS 直聘，行业: 人力资源。\n预计每股收益: $0.25，当前市值:
 	 $5\,951\,531\,774。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=BZ \n在富途
@@ -38,9 +38,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:0GXFVYQyiV2ORUiNvANyo
+UID:4DbHUy_wHOvPTk1Sq1RC3
 SUMMARY:阿里巴巴 发布财报
-DTSTAMP:20260407T173548Z
+DTSTAMP:20260408T060952Z
 DTSTART;VALUE=DATE:20260319
 DESCRIPTION:财务季度：Dec/2025。\n代码：BABA，公司：阿里巴巴，行业: 电子商务。\n预计每股收益: $1.75，当前市值: 
 	$288\,429\,005\,054。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=BABA \n
@@ -54,9 +54,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:sNAWRmm7KTpK2eln_shuJ
+UID:nUtmvqy4Ibg2yH4oMF-sU
 SUMMARY:小鹏汽车 发布财报
-DTSTAMP:20260407T173548Z
+DTSTAMP:20260408T060952Z
 DTSTART;VALUE=DATE:20260320
 DESCRIPTION:财务季度：Dec/2025。\n代码：XPEV，公司：小鹏汽车，行业: 汽车。\n预计每股收益: ，当前市值: $18\,19
 	6\,794\,636。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=XPEV \n在富途查看：ht
@@ -70,9 +70,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:OaPKlHS11Ih9Aj6EqYiqm
+UID:5b5MKdvyh8J5iMCBVXCcX
 SUMMARY:拼多多 发布财报
-DTSTAMP:20260407T173548Z
+DTSTAMP:20260408T060952Z
 DTSTART;VALUE=DATE:20260325
 DESCRIPTION:财务季度：Dec/2025。\n代码：PDD，公司：拼多多，行业: 电子商务。\n预计每股收益: $3.21，当前市值: $1
 	45\,669\,923\,466。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=PDD \n在富途
@@ -86,9 +86,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:b13vOQLdHrO1I43k8jbRx
+UID:To3DhtHU8JotTzVR6aceO
 SUMMARY:台积电 盘前发布财报
-DTSTAMP:20260407T173548Z
+DTSTAMP:20260408T060952Z
 DTSTART;VALUE=DATE:20260416
 DESCRIPTION:财务季度：Mar/2026。\n代码：TSM，公司：台积电，行业: 半导体。\n预计每股收益: $3.29，当前市值: $1\
 	,772\,554\,182\,420。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=TSM \n在
@@ -102,9 +102,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:NQ61y5K_rqYUfxBTH1lqb
+UID:mt6naTqjaBDSTxnLE3hEF
 SUMMARY:Super Micro Computer 发布财报
-DTSTAMP:20260407T173548Z
+DTSTAMP:20260408T060952Z
 DTSTART;VALUE=DATE:20260505
 DESCRIPTION:财务季度：Mar/2026。\n代码：SMCI，公司：Super Micro Computer，行业: 计算机硬件。\n预计每
 	股收益: $0.54，当前市值: $13\,207\,716\,887。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks:/
@@ -118,9 +118,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:Nt6CSgk_FIcPre7f8dy0L
+UID:KLsbR_V6OKccE9VTg1hGg
 SUMMARY:Novo Nordisk 发布财报
-DTSTAMP:20260407T173548Z
+DTSTAMP:20260408T060952Z
 DTSTART;VALUE=DATE:20260506
 DESCRIPTION:财务季度：Mar/2026。\n代码：NVO，公司：Novo Nordisk，行业: 制药。\n预计每股收益: $0.87，当
 	前市值: $163\,731\,550\,000。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=NV
@@ -134,9 +134,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:azYbyDvHxqo4ZJTkoVjul
+UID:mVFoxorXmA1egruybaxte
 SUMMARY:Arm 发布财报
-DTSTAMP:20260407T173548Z
+DTSTAMP:20260408T060952Z
 DTSTART;VALUE=DATE:20260506
 DESCRIPTION:财务季度：Mar/2026。\n代码：ARM，公司：Arm，行业: 半导体。\n预计每股收益: $0.38，当前市值: $15
 	7\,586\,705\,131。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=ARM \n在富途查
@@ -150,9 +150,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:4ZjNgYRY5vtVLIMn8JbmB
+UID:1JqN_Wt97oEF5ijgmAuyx
 SUMMARY:Unity 发布财报
-DTSTAMP:20260407T173548Z
+DTSTAMP:20260408T060952Z
 DTSTART;VALUE=DATE:20260506
 DESCRIPTION:财务季度：Mar/2026。\n代码：U，公司：Unity，行业: 软件。\n预计每股收益: $0.02，当前市值: $9\,
 	594\,897\,316。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=U \n在富途查看：htt
