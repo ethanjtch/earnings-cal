@@ -2,19 +2,19 @@
   "date": "2026-04-08",
   "data": [
     {
-      "lastYearRptDt": "4/09/2025",
-      "lastYearEPS": "$0.46",
-      "time": "time-pre-market",
+      "eps": "$0.64",
+      "surprise": "4.92",
+      "time": "time-not-supplied",
       "symbol": "DAL",
       "name": "Delta Air Lines, Inc.",
       "marketCap": "$42,858,437,059",
       "fiscalQuarterEnding": "Mar/2026",
-      "epsForecast": "$0.60",
+      "epsForecast": "$0.61",
       "noOfEsts": "8"
     },
     {
-      "lastYearRptDt": "4/09/2025",
-      "lastYearEPS": "$2.63",
+      "eps": "$2.63",
+      "surprise": "N/A",
       "time": "time-after-hours",
       "symbol": "STZ",
       "name": "Constellation Brands Inc",
@@ -24,9 +24,9 @@
       "noOfEsts": "8"
     },
     {
-      "lastYearRptDt": "4/08/2025",
-      "lastYearEPS": "$0.35",
-      "time": "time-pre-market",
+      "eps": "$0.57",
+      "surprise": "54.05",
+      "time": "time-not-supplied",
       "symbol": "RPM",
       "name": "RPM International Inc.",
       "marketCap": "$12,386,199,303",
@@ -35,8 +35,8 @@
       "noOfEsts": "6"
     },
     {
-      "lastYearRptDt": "4/14/2025",
-      "lastYearEPS": "($0.16)",
+      "eps": "($0.16)",
+      "surprise": "N/A",
       "time": "time-after-hours",
       "symbol": "APLD",
       "name": "Applied Digital Corporation",
@@ -46,8 +46,8 @@
       "noOfEsts": "4"
     },
     {
-      "lastYearRptDt": "N/A",
-      "lastYearEPS": "$1.45",
+      "eps": "$1.45",
+      "surprise": "N/A",
       "time": "time-after-hours",
       "symbol": "PSMT",
       "name": "PriceSmart, Inc.",
@@ -57,8 +57,8 @@
       "noOfEsts": "4"
     },
     {
-      "lastYearRptDt": "N/A",
-      "lastYearEPS": "$0.58",
+      "eps": "$0.58",
+      "surprise": "N/A",
       "time": "time-not-supplied",
       "symbol": "GEF.B",
       "name": "Greif, Inc.",
@@ -68,8 +68,19 @@
       "noOfEsts": "4"
     },
     {
-      "lastYearRptDt": "N/A",
-      "lastYearEPS": "$0.03",
+      "eps": "($0.79)",
+      "surprise": "-3.95",
+      "time": "time-not-supplied",
+      "symbol": "NRIX",
+      "name": "Nurix Therapeutics, Inc.",
+      "marketCap": "$1,690,685,043",
+      "fiscalQuarterEnding": "Feb/2026",
+      "epsForecast": "($0.76)",
+      "noOfEsts": "5"
+    },
+    {
+      "eps": "$0.03",
+      "surprise": "N/A",
       "time": "time-after-hours",
       "symbol": "PCYO",
       "name": "Pure Cycle Corporation",
@@ -79,8 +90,8 @@
       "noOfEsts": "4"
     },
     {
-      "lastYearRptDt": "4/09/2025",
-      "lastYearEPS": "$0.11",
+      "eps": "$0.11",
+      "surprise": "N/A",
       "time": "time-after-hours",
       "symbol": "RELL",
       "name": "Richardson Electronics, Ltd.",
@@ -90,8 +101,8 @@
       "noOfEsts": "2"
     },
     {
-      "lastYearRptDt": "4/02/2025",
-      "lastYearEPS": "($0.14)",
+      "eps": "($0.14)",
+      "surprise": "N/A",
       "time": "time-after-hours",
       "symbol": "RGP",
       "name": "Resources Connection, Inc.",
@@ -101,8 +112,30 @@
       "noOfEsts": "2"
     },
     {
-      "lastYearRptDt": "N/A",
-      "lastYearEPS": "($0.01)",
+      "eps": "($0.45)",
+      "surprise": "N/A",
+      "time": "time-not-supplied",
+      "symbol": "VIRC",
+      "name": "Virco Manufacturing Corporation",
+      "marketCap": "$94,566,846",
+      "fiscalQuarterEnding": "Jan/2026",
+      "epsForecast": "",
+      "noOfEsts": "N/A"
+    },
+    {
+      "eps": "$0.02",
+      "surprise": "N/A",
+      "time": "time-not-supplied",
+      "symbol": "AXIL",
+      "name": "AXIL Brands, Inc.",
+      "marketCap": "$47,619,019",
+      "fiscalQuarterEnding": "Feb/2026",
+      "epsForecast": "",
+      "noOfEsts": "N/A"
+    },
+    {
+      "eps": "($0.01)",
+      "surprise": "N/A",
       "time": "time-not-supplied",
       "symbol": "ARTW",
       "name": "Art's-Way Manufacturing Co., Inc.",
@@ -110,6 +143,17 @@
       "fiscalQuarterEnding": "Feb/2026",
       "epsForecast": "",
       "noOfEsts": "4"
+    },
+    {
+      "eps": "($6.95)",
+      "surprise": "N/A",
+      "time": "time-not-supplied",
+      "symbol": "BBGI",
+      "name": "Beasley Broadcast Group, Inc.",
+      "marketCap": "$5,664,541",
+      "fiscalQuarterEnding": "Dec/2025",
+      "epsForecast": "",
+      "noOfEsts": "N/A"
     }
   ]
 }
