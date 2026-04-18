@@ -24,9 +24,9 @@
       "noOfEsts": "1"
     },
     {
-      "eps": "$0.87",
-      "surprise": "N/A",
-      "time": "time-pre-market",
+      "eps": "$1.09",
+      "surprise": "10.1",
+      "time": "time-not-supplied",
       "symbol": "TFC",
       "name": "Truist Financial Corporation",
       "marketCap": "$61,343,112,041",
@@ -35,9 +35,9 @@
       "noOfEsts": "9"
     },
     {
-      "eps": "$0.73",
-      "surprise": "N/A",
-      "time": "time-pre-market",
+      "eps": "$0.83",
+      "surprise": "-1.19",
+      "time": "time-not-supplied",
       "symbol": "FITB",
       "name": "Fifth Third Bancorp",
       "marketCap": "$44,843,504,421",
@@ -46,20 +46,20 @@
       "noOfEsts": "8"
     },
     {
-      "eps": "$0.12",
+      "eps": "$0.13",
       "surprise": "N/A",
-      "time": "time-pre-market",
+      "time": "time-not-supplied",
       "symbol": "ERIC",
       "name": "Ericsson",
       "marketCap": "$40,995,637,098",
       "fiscalQuarterEnding": "Mar/2026",
-      "epsForecast": "$0.11",
+      "epsForecast": "$0.13",
       "noOfEsts": "3"
     },
     {
-      "eps": "$2.04",
-      "surprise": "N/A",
-      "time": "time-pre-market",
+      "eps": "$2.84",
+      "surprise": "9.23",
+      "time": "time-not-supplied",
       "symbol": "STT",
       "name": "State Street Corporation",
       "marketCap": "$39,311,293,461",
@@ -68,9 +68,9 @@
       "noOfEsts": "5"
     },
     {
-      "eps": "$0.54",
-      "surprise": "N/A",
-      "time": "time-pre-market",
+      "eps": "$0.62",
+      "surprise": "1.64",
+      "time": "time-not-supplied",
       "symbol": "RF",
       "name": "Regions Financial Corporation",
       "marketCap": "$24,207,110,647",
@@ -79,9 +79,9 @@
       "noOfEsts": "9"
     },
     {
-      "eps": "$0.58",
-      "surprise": "N/A",
-      "time": "time-pre-market",
+      "eps": "$1.11",
+      "surprise": "19.35",
+      "time": "time-not-supplied",
       "symbol": "ALLY",
       "name": "Ally Financial Inc.",
       "marketCap": "$12,920,249,518",
@@ -90,20 +90,31 @@
       "noOfEsts": "5"
     },
     {
-      "eps": "$2.15",
-      "surprise": "N/A",
-      "time": "time-pre-market",
+      "eps": "$2.05",
+      "surprise": "11.41",
+      "time": "time-not-supplied",
       "symbol": "ALV",
       "name": "Autoliv, Inc.",
       "marketCap": "$8,334,409,060",
       "fiscalQuarterEnding": "Mar/2026",
-      "epsForecast": "$1.77",
-      "noOfEsts": "3"
+      "epsForecast": "$1.84",
+      "noOfEsts": "4"
     },
     {
-      "eps": "$1.30",
+      "eps": "$0.13",
       "surprise": "N/A",
-      "time": "time-pre-market",
+      "time": "time-not-supplied",
+      "symbol": "SGHC",
+      "name": "Super Group (SGHC) Limited",
+      "marketCap": "$5,546,844,395",
+      "fiscalQuarterEnding": "Dec/2025",
+      "epsForecast": "",
+      "noOfEsts": "N/A"
+    },
+    {
+      "eps": "$0.93",
+      "surprise": "-22.5",
+      "time": "time-not-supplied",
       "symbol": "BMI",
       "name": "Badger Meter, Inc.",
       "marketCap": "$4,444,065,559",
@@ -134,6 +145,17 @@
       "noOfEsts": "5"
     },
     {
+      "eps": "$0.99",
+      "surprise": "N/A",
+      "time": "time-not-supplied",
+      "symbol": "PKBK",
+      "name": "Parke Bancorp, Inc.",
+      "marketCap": "$344,068,764",
+      "fiscalQuarterEnding": "Mar/2026",
+      "epsForecast": "",
+      "noOfEsts": "N/A"
+    },
+    {
       "eps": "$0.64",
       "surprise": "N/A",
       "time": "time-not-supplied",
@@ -145,8 +167,8 @@
       "noOfEsts": "5"
     },
     {
-      "eps": "$1.26",
-      "surprise": "N/A",
+      "eps": "$1.91",
+      "surprise": "17.18",
       "time": "time-not-supplied",
       "symbol": "CHMG",
       "name": "Chemung Financial Corp",
