@@ -1,4 +1,27 @@
 {
   "date": "2026-05-02",
-  "data": null
+  "data": [
+    {
+      "lastYearRptDt": "N/A",
+      "lastYearEPS": "N/A",
+      "time": "time-pre-market",
+      "symbol": "BRK.A",
+      "name": "Berkshire Hathaway Inc.",
+      "marketCap": "$1,023,870,953,700",
+      "fiscalQuarterEnding": "Mar/2026",
+      "epsForecast": "",
+      "noOfEsts": "2"
+    },
+    {
+      "lastYearRptDt": "5/03/2025",
+      "lastYearEPS": "$4.47",
+      "time": "time-pre-market",
+      "symbol": "BRK.B",
+      "name": "Berkshire Hathaway Inc.",
+      "marketCap": "$1,023,870,953,700",
+      "fiscalQuarterEnding": "Mar/2026",
+      "epsForecast": "$4.82",
+      "noOfEsts": "2"
+    }
+  ]
 }
