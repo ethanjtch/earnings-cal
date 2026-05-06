@@ -2,12 +2,23 @@
   "date": "2026-06-03",
   "data": [
     {
+      "lastYearRptDt": "6/05/2025",
+      "lastYearEPS": "$1.33",
+      "time": "time-after-hours",
+      "symbol": "AVGO",
+      "name": "Broadcom Inc.",
+      "marketCap": "$1,971,989,298,636",
+      "fiscalQuarterEnding": "Apr/2026",
+      "epsForecast": "$2.02",
+      "noOfEsts": "10"
+    },
+    {
       "lastYearRptDt": "5/21/2025",
       "lastYearEPS": "$1.62",
       "time": "time-pre-market",
       "symbol": "MDT",
       "name": "Medtronic plc",
-      "marketCap": "$102,710,797,120",
+      "marketCap": "$100,528,192,681",
       "fiscalQuarterEnding": "Apr/2026",
       "epsForecast": "$1.58",
       "noOfEsts": "10"
@@ -18,7 +29,7 @@
       "time": "time-not-supplied",
       "symbol": "MDB",
       "name": "MongoDB, Inc.",
-      "marketCap": "$21,174,155,583",
+      "marketCap": "$21,273,010,102",
       "fiscalQuarterEnding": "Apr/2026",
       "epsForecast": "($0.30)",
       "noOfEsts": "11"
@@ -29,7 +40,7 @@
       "time": "time-not-supplied",
       "symbol": "DLTR",
       "name": "Dollar Tree, Inc.",
-      "marketCap": "$18,678,222,203",
+      "marketCap": "$18,313,924,434",
       "fiscalQuarterEnding": "Apr/2026",
       "epsForecast": "$1.55",
       "noOfEsts": "10"
@@ -40,7 +51,7 @@
       "time": "time-not-supplied",
       "symbol": "PL",
       "name": "Planet Labs PBC",
-      "marketCap": "$12,772,899,096",
+      "marketCap": "$13,340,583,501",
       "fiscalQuarterEnding": "Apr/2026",
       "epsForecast": "($0.13)",
       "noOfEsts": "3"
@@ -51,7 +62,7 @@
       "time": "time-not-supplied",
       "symbol": "FIVE",
       "name": "Five Below, Inc.",
-      "marketCap": "$12,733,563,806",
+      "marketCap": "$12,778,658,092",
       "fiscalQuarterEnding": "Apr/2026",
       "epsForecast": "$1.63",
       "noOfEsts": "8"
@@ -62,7 +73,7 @@
       "time": "time-not-supplied",
       "symbol": "AGX",
       "name": "Argan, Inc.",
-      "marketCap": "$9,804,015,756",
+      "marketCap": "$9,732,538,175",
       "fiscalQuarterEnding": "Apr/2026",
       "epsForecast": "$2.27",
       "noOfEsts": "2"
@@ -70,10 +81,10 @@
     {
       "lastYearRptDt": "6/04/2025",
       "lastYearEPS": "$0.41",
-      "time": "time-not-supplied",
+      "time": "time-after-hours",
       "symbol": "DSGX",
       "name": "The Descartes Systems Group Inc.",
-      "marketCap": "$6,291,914,770",
+      "marketCap": "$6,351,159,539",
       "fiscalQuarterEnding": "Apr/2026",
       "epsForecast": "$0.53",
       "noOfEsts": "2"
@@ -84,7 +95,7 @@
       "time": "time-not-supplied",
       "symbol": "PVH",
       "name": "PVH Corp.",
-      "marketCap": "$4,198,168,426",
+      "marketCap": "$4,047,906,614",
       "fiscalQuarterEnding": "Apr/2026",
       "epsForecast": "$1.79",
       "noOfEsts": "3"
@@ -95,7 +106,7 @@
       "time": "time-not-supplied",
       "symbol": "THO",
       "name": "Thor Industries, Inc.",
-      "marketCap": "$4,111,950,042",
+      "marketCap": "$3,877,372,181",
       "fiscalQuarterEnding": "Apr/2026",
       "epsForecast": "$1.88",
       "noOfEsts": "5"
@@ -106,7 +117,7 @@
       "time": "time-pre-market",
       "symbol": "MMED",
       "name": "MiniMed Group, Inc.",
-      "marketCap": "$3,400,730,055",
+      "marketCap": "$3,333,333,258",
       "fiscalQuarterEnding": "Apr/2026",
       "epsForecast": "($0.21)",
       "noOfEsts": "1"
@@ -117,7 +128,7 @@
       "time": "time-not-supplied",
       "symbol": "CXM",
       "name": "Sprinklr, Inc.",
-      "marketCap": "$1,291,605,951",
+      "marketCap": "$1,258,752,354",
       "fiscalQuarterEnding": "Apr/2026",
       "epsForecast": "$0.03",
       "noOfEsts": "3"
@@ -128,7 +139,7 @@
       "time": "time-not-supplied",
       "symbol": "VBNK",
       "name": "VersaBank",
-      "marketCap": "$579,028,445",
+      "marketCap": "$576,758,191",
       "fiscalQuarterEnding": "Apr/2026",
       "epsForecast": "$0.28",
       "noOfEsts": "2"
@@ -139,7 +150,7 @@
       "time": "time-not-supplied",
       "symbol": "GCO",
       "name": "Genesco Inc.",
-      "marketCap": "$378,300,524",
+      "marketCap": "$360,710,201",
       "fiscalQuarterEnding": "Apr/2026",
       "epsForecast": "($2.55)",
       "noOfEsts": "1"
@@ -150,18 +161,7 @@
       "time": "time-not-supplied",
       "symbol": "JFIN",
       "name": "Jiayin Group Inc.",
-      "marketCap": "$250,135,230",
-      "fiscalQuarterEnding": "Mar/2026",
-      "epsForecast": "",
-      "noOfEsts": "1"
-    },
-    {
-      "lastYearRptDt": "N/A",
-      "lastYearEPS": "($0.90)",
-      "time": "time-not-supplied",
-      "symbol": "BNAI",
-      "name": "Brand Engagement Network Inc.",
-      "marketCap": "$157,286,092",
+      "marketCap": "$257,461,366",
       "fiscalQuarterEnding": "Mar/2026",
       "epsForecast": "",
       "noOfEsts": "1"
@@ -172,7 +172,7 @@
       "time": "time-not-supplied",
       "symbol": "CHPT",
       "name": "ChargePoint Holdings, Inc.",
-      "marketCap": "$156,019,748",
+      "marketCap": "$151,624,826",
       "fiscalQuarterEnding": "Apr/2026",
       "epsForecast": "($1.82)",
       "noOfEsts": "2"
@@ -183,9 +183,20 @@
       "time": "time-not-supplied",
       "symbol": "TLYS",
       "name": "Tilly's, Inc.",
-      "marketCap": "$134,149,048",
+      "marketCap": "$138,417,427",
       "fiscalQuarterEnding": "Apr/2026",
       "epsForecast": "($0.33)",
+      "noOfEsts": "1"
+    },
+    {
+      "lastYearRptDt": "N/A",
+      "lastYearEPS": "($0.90)",
+      "time": "time-not-supplied",
+      "symbol": "BNAI",
+      "name": "Brand Engagement Network Inc.",
+      "marketCap": "$137,486,204",
+      "fiscalQuarterEnding": "Mar/2026",
+      "epsForecast": "",
       "noOfEsts": "1"
     },
     {
@@ -194,7 +205,7 @@
       "time": "time-not-supplied",
       "symbol": "BARK",
       "name": "BARK, Inc.",
-      "marketCap": "$83,564,959",
+      "marketCap": "$80,799,624",
       "fiscalQuarterEnding": "Mar/2026",
       "epsForecast": "",
       "noOfEsts": "N/A"
@@ -205,7 +216,7 @@
       "time": "time-not-supplied",
       "symbol": "SJ",
       "name": "Scienjoy Holding Corporation",
-      "marketCap": "$46,946,836",
+      "marketCap": "$46,709,045",
       "fiscalQuarterEnding": "Mar/2026",
       "epsForecast": "",
       "noOfEsts": "1"
