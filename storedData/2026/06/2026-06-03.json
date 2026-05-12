@@ -7,7 +7,7 @@
       "time": "time-after-hours",
       "symbol": "AVGO",
       "name": "Broadcom Inc.",
-      "marketCap": "$2,035,907,319,120",
+      "marketCap": "$2,028,473,890,071",
       "fiscalQuarterEnding": "Apr/2026",
       "epsForecast": "$2.02",
       "noOfEsts": "10"
@@ -18,7 +18,7 @@
       "time": "time-after-hours",
       "symbol": "CRWD",
       "name": "CrowdStrike Holdings, Inc.",
-      "marketCap": "$134,336,739,688",
+      "marketCap": "$138,024,973,877",
       "fiscalQuarterEnding": "Apr/2026",
       "epsForecast": "$0.13",
       "noOfEsts": "14"
@@ -29,7 +29,7 @@
       "time": "time-pre-market",
       "symbol": "MDT",
       "name": "Medtronic plc",
-      "marketCap": "$97,767,840,009",
+      "marketCap": "$95,700,785,217",
       "fiscalQuarterEnding": "Apr/2026",
       "epsForecast": "$1.58",
       "noOfEsts": "10"
@@ -40,7 +40,7 @@
       "time": "time-not-supplied",
       "symbol": "FIVE",
       "name": "Five Below, Inc.",
-      "marketCap": "$12,337,957,508",
+      "marketCap": "$11,509,639,471",
       "fiscalQuarterEnding": "Apr/2026",
       "epsForecast": "$1.63",
       "noOfEsts": "8"
@@ -51,7 +51,7 @@
       "time": "time-not-supplied",
       "symbol": "AGX",
       "name": "Argan, Inc.",
-      "marketCap": "$9,496,745,921",
+      "marketCap": "$9,542,257,037",
       "fiscalQuarterEnding": "Apr/2026",
       "epsForecast": "$2.27",
       "noOfEsts": "2"
@@ -62,7 +62,7 @@
       "time": "time-after-hours",
       "symbol": "DSGX",
       "name": "The Descartes Systems Group Inc.",
-      "marketCap": "$6,216,559,368",
+      "marketCap": "$5,912,942,944",
       "fiscalQuarterEnding": "Apr/2026",
       "epsForecast": "$0.53",
       "noOfEsts": "2"
@@ -73,21 +73,10 @@
       "time": "time-after-hours",
       "symbol": "NTSK",
       "name": "Netskope, Inc.",
-      "marketCap": "$4,651,652,259",
+      "marketCap": "$4,499,532,822",
       "fiscalQuarterEnding": "Apr/2026",
       "epsForecast": "($0.07)",
       "noOfEsts": "1"
-    },
-    {
-      "lastYearRptDt": "6/04/2025",
-      "lastYearEPS": "$2.30",
-      "time": "time-not-supplied",
-      "symbol": "PVH",
-      "name": "PVH Corp.",
-      "marketCap": "$4,099,215,525",
-      "fiscalQuarterEnding": "Apr/2026",
-      "epsForecast": "$1.80",
-      "noOfEsts": "3"
     },
     {
       "lastYearRptDt": "6/04/2025",
@@ -95,10 +84,21 @@
       "time": "time-not-supplied",
       "symbol": "THO",
       "name": "Thor Industries, Inc.",
-      "marketCap": "$4,060,406,028",
+      "marketCap": "$3,926,812,358",
       "fiscalQuarterEnding": "Apr/2026",
       "epsForecast": "$1.88",
       "noOfEsts": "5"
+    },
+    {
+      "lastYearRptDt": "6/04/2025",
+      "lastYearEPS": "$2.30",
+      "time": "time-not-supplied",
+      "symbol": "PVH",
+      "name": "PVH Corp.",
+      "marketCap": "$3,837,968,115",
+      "fiscalQuarterEnding": "Apr/2026",
+      "epsForecast": "$1.80",
+      "noOfEsts": "3"
     },
     {
       "lastYearRptDt": "N/A",
@@ -106,7 +106,7 @@
       "time": "time-pre-market",
       "symbol": "MMED",
       "name": "MiniMed Group, Inc.",
-      "marketCap": "$3,249,087,261",
+      "marketCap": "$3,133,951,066",
       "fiscalQuarterEnding": "Apr/2026",
       "epsForecast": "($0.21)",
       "noOfEsts": "1"
@@ -117,7 +117,7 @@
       "time": "time-not-supplied",
       "symbol": "CXM",
       "name": "Sprinklr, Inc.",
-      "marketCap": "$1,247,053,912",
+      "marketCap": "$1,216,637,963",
       "fiscalQuarterEnding": "Apr/2026",
       "epsForecast": "$0.03",
       "noOfEsts": "3"
@@ -128,7 +128,7 @@
       "time": "time-not-supplied",
       "symbol": "VBNK",
       "name": "VersaBank",
-      "marketCap": "$605,128,168",
+      "marketCap": "$578,655,404",
       "fiscalQuarterEnding": "Apr/2026",
       "epsForecast": "$0.28",
       "noOfEsts": "2"
@@ -139,9 +139,20 @@
       "time": "time-not-supplied",
       "symbol": "GCO",
       "name": "Genesco Inc.",
-      "marketCap": "$378,843,435",
+      "marketCap": "$356,258,329",
       "fiscalQuarterEnding": "Apr/2026",
       "epsForecast": "($2.55)",
+      "noOfEsts": "1"
+    },
+    {
+      "lastYearRptDt": "N/A",
+      "lastYearEPS": "($0.02)",
+      "time": "time-pre-market",
+      "symbol": "ZH",
+      "name": "Zhihu Inc.",
+      "marketCap": "$289,246,938",
+      "fiscalQuarterEnding": "Mar/2026",
+      "epsForecast": "",
       "noOfEsts": "1"
     },
     {
@@ -150,7 +161,7 @@
       "time": "time-not-supplied",
       "symbol": "JFIN",
       "name": "Jiayin Group Inc.",
-      "marketCap": "$259,031,253",
+      "marketCap": "$260,077,844",
       "fiscalQuarterEnding": "Mar/2026",
       "epsForecast": "",
       "noOfEsts": "1"
@@ -161,7 +172,7 @@
       "time": "time-not-supplied",
       "symbol": "CHPT",
       "name": "ChargePoint Holdings, Inc.",
-      "marketCap": "$152,357,313",
+      "marketCap": "$156,508,073",
       "fiscalQuarterEnding": "Apr/2026",
       "epsForecast": "($1.82)",
       "noOfEsts": "2"
@@ -172,7 +183,7 @@
       "time": "time-not-supplied",
       "symbol": "BNAI",
       "name": "Brand Engagement Network Inc.",
-      "marketCap": "$130,398,078",
+      "marketCap": "$138,013,420",
       "fiscalQuarterEnding": "Mar/2026",
       "epsForecast": "",
       "noOfEsts": "1"
@@ -183,7 +194,7 @@
       "time": "time-not-supplied",
       "symbol": "TLYS",
       "name": "Tilly's, Inc.",
-      "marketCap": "$128,661,132",
+      "marketCap": "$119,209,722",
       "fiscalQuarterEnding": "Apr/2026",
       "epsForecast": "($0.33)",
       "noOfEsts": "1"
@@ -194,7 +205,7 @@
       "time": "time-not-supplied",
       "symbol": "BARK",
       "name": "BARK, Inc.",
-      "marketCap": "$78,207,123",
+      "marketCap": "$73,194,953",
       "fiscalQuarterEnding": "Mar/2026",
       "epsForecast": "",
       "noOfEsts": "N/A"
@@ -205,7 +216,7 @@
       "time": "time-not-supplied",
       "symbol": "SJ",
       "name": "Scienjoy Holding Corporation",
-      "marketCap": "$46,709,045",
+      "marketCap": "$47,133,672",
       "fiscalQuarterEnding": "Mar/2026",
       "epsForecast": "",
       "noOfEsts": "1"
