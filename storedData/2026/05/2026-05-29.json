@@ -2,8 +2,8 @@
   "date": "2026-05-29",
   "data": [
     {
-      "lastYearRptDt": "N/A",
-      "lastYearEPS": "N/A",
+      "eps": "N/A",
+      "surprise": "N/A",
       "time": "time-not-supplied",
       "symbol": "SBSW",
       "name": "Sibanye Stillwater Limited",
@@ -13,8 +13,8 @@
       "noOfEsts": "1"
     },
     {
-      "lastYearRptDt": "N/A",
-      "lastYearEPS": "$0.12",
+      "eps": "$0.12",
+      "surprise": "N/A",
       "time": "time-not-supplied",
       "symbol": "HTT",
       "name": "High Templar Tech Limited",
@@ -24,8 +24,8 @@
       "noOfEsts": "1"
     },
     {
-      "lastYearRptDt": "6/04/2025",
-      "lastYearEPS": "($2.05)",
+      "eps": "($2.05)",
+      "surprise": "N/A",
       "time": "time-pre-market",
       "symbol": "GCO",
       "name": "Genesco Inc.",
@@ -35,8 +35,8 @@
       "noOfEsts": "1"
     },
     {
-      "lastYearRptDt": "6/05/2025",
-      "lastYearEPS": "($0.10)",
+      "eps": "($0.10)",
+      "surprise": "N/A",
       "time": "time-pre-market",
       "symbol": "FUFU",
       "name": "BitFuFu Inc.",
@@ -46,8 +46,8 @@
       "noOfEsts": "3"
     },
     {
-      "lastYearRptDt": "5/16/2025",
-      "lastYearEPS": "$0.77",
+      "eps": "$0.77",
+      "surprise": "N/A",
       "time": "time-not-supplied",
       "symbol": "GDEV",
       "name": "GDEV Inc.",
@@ -57,8 +57,8 @@
       "noOfEsts": "2"
     },
     {
-      "lastYearRptDt": "5/30/2025",
-      "lastYearEPS": "($0.15)",
+      "eps": "($0.15)",
+      "surprise": "N/A",
       "time": "time-not-supplied",
       "symbol": "ENLV",
       "name": "Enlivex Ltd.",
@@ -68,19 +68,30 @@
       "noOfEsts": "1"
     },
     {
-      "lastYearRptDt": "N/A",
-      "lastYearEPS": "$0.10",
+      "eps": "$0.30",
+      "surprise": "N/A",
+      "time": "time-pre-market",
+      "symbol": "DLNG",
+      "name": "Dynagas LNG Partners LP",
+      "marketCap": "$140,070,742",
+      "fiscalQuarterEnding": "Mar/2026",
+      "epsForecast": "",
+      "noOfEsts": "1"
+    },
+    {
+      "eps": "$0.10",
+      "surprise": "N/A",
       "time": "time-not-supplied",
       "symbol": "BHM",
       "name": "Bluerock Homes Trust, Inc.",
       "marketCap": "$132,085,454",
       "fiscalQuarterEnding": "Mar/2026",
       "epsForecast": "",
-      "noOfEsts": "N/A"
+      "noOfEsts": "1"
     },
     {
-      "lastYearRptDt": "N/A",
-      "lastYearEPS": "$0.20",
+      "eps": "$0.20",
+      "surprise": "N/A",
       "time": "time-not-supplied",
       "symbol": "NRT",
       "name": "North European Oil Royality Trust",
@@ -90,8 +101,8 @@
       "noOfEsts": "1"
     },
     {
-      "lastYearRptDt": "N/A",
-      "lastYearEPS": "($0.06)",
+      "eps": "($0.06)",
+      "surprise": "N/A",
       "time": "time-not-supplied",
       "symbol": "AACG",
       "name": "ATA Creativity Global",
@@ -101,8 +112,8 @@
       "noOfEsts": "1"
     },
     {
-      "lastYearRptDt": "5/30/2025",
-      "lastYearEPS": "($0.12)",
+      "eps": "($0.12)",
+      "surprise": "N/A",
       "time": "time-not-supplied",
       "symbol": "NTRB",
       "name": "Nutriband Inc.",
@@ -112,19 +123,19 @@
       "noOfEsts": "N/A"
     },
     {
-      "lastYearRptDt": "N/A",
-      "lastYearEPS": "($0.35)",
+      "eps": "($0.35)",
+      "surprise": "N/A",
       "time": "time-not-supplied",
       "symbol": "ITP",
       "name": "IT Tech Packaging, Inc.",
       "marketCap": "$3,206,464",
       "fiscalQuarterEnding": "Mar/2026",
       "epsForecast": "",
-      "noOfEsts": "N/A"
+      "noOfEsts": "1"
     },
     {
-      "lastYearRptDt": "N/A",
-      "lastYearEPS": "$73",
+      "eps": "$73",
+      "surprise": "N/A",
       "time": "time-not-supplied",
       "symbol": "FRGT",
       "name": "Freight Technologies, Inc.",
