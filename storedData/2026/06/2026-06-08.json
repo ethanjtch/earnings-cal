@@ -2,12 +2,34 @@
   "date": "2026-06-08",
   "data": [
     {
+      "lastYearRptDt": "N/A",
+      "lastYearEPS": "N/A",
+      "time": "time-not-supplied",
+      "symbol": "WDS",
+      "name": "Woodside Energy Group Limited",
+      "marketCap": "$42,185,412,173",
+      "fiscalQuarterEnding": "Mar/2026",
+      "epsForecast": "",
+      "noOfEsts": "3"
+    },
+    {
+      "lastYearRptDt": "5/19/2025",
+      "lastYearEPS": "$0.73",
+      "time": "time-not-supplied",
+      "symbol": "TCOM",
+      "name": "Trip.com Group Limited",
+      "marketCap": "$30,408,465,170",
+      "fiscalQuarterEnding": "Mar/2026",
+      "epsForecast": "$0.74",
+      "noOfEsts": "2"
+    },
+    {
       "lastYearRptDt": "6/09/2025",
       "lastYearEPS": "($0.30)",
       "time": "time-not-supplied",
       "symbol": "VFS",
       "name": "VinFast Auto Ltd.",
-      "marketCap": "$8,164,980,675",
+      "marketCap": "$8,118,189,955",
       "fiscalQuarterEnding": "Mar/2026",
       "epsForecast": "($0.31)",
       "noOfEsts": "1"
@@ -18,7 +40,7 @@
       "time": "time-pre-market",
       "symbol": "CPB",
       "name": "The Campbell's Company",
-      "marketCap": "$6,293,872,362",
+      "marketCap": "$6,284,927,967",
       "fiscalQuarterEnding": "Apr/2026",
       "epsForecast": "$0.48",
       "noOfEsts": "8"
@@ -29,7 +51,7 @@
       "time": "time-after-hours",
       "symbol": "MTN",
       "name": "Vail Resorts, Inc.",
-      "marketCap": "$4,760,575,614",
+      "marketCap": "$4,759,862,953",
       "fiscalQuarterEnding": "Apr/2026",
       "epsForecast": "$9.06",
       "noOfEsts": "6"
@@ -40,7 +62,7 @@
       "time": "time-pre-market",
       "symbol": "GHM",
       "name": "Graham Corporation",
-      "marketCap": "$1,168,916,495",
+      "marketCap": "$1,160,395,334",
       "fiscalQuarterEnding": "Mar/2026",
       "epsForecast": "$0.30",
       "noOfEsts": "4"
@@ -51,7 +73,7 @@
       "time": "time-pre-market",
       "symbol": "FCEL",
       "name": "FuelCell Energy, Inc.",
-      "marketCap": "$1,147,500,578",
+      "marketCap": "$1,128,958,324",
       "fiscalQuarterEnding": "Apr/2026",
       "epsForecast": "($0.57)",
       "noOfEsts": "3"
@@ -62,10 +84,21 @@
       "time": "time-after-hours",
       "symbol": "AVO",
       "name": "Mission Produce, Inc.",
-      "marketCap": "$789,228,495",
+      "marketCap": "$771,516,904",
       "fiscalQuarterEnding": "Apr/2026",
       "epsForecast": "$0.05",
       "noOfEsts": "1"
+    },
+    {
+      "lastYearRptDt": "N/A",
+      "lastYearEPS": "$0.05",
+      "time": "time-not-supplied",
+      "symbol": "SB",
+      "name": "Safe Bulkers, Inc",
+      "marketCap": "$676,860,457",
+      "fiscalQuarterEnding": "Mar/2026",
+      "epsForecast": "",
+      "noOfEsts": "3"
     },
     {
       "lastYearRptDt": "6/03/2025",
@@ -73,7 +106,7 @@
       "time": "time-after-hours",
       "symbol": "MAMA",
       "name": "Mama's Creations, Inc.",
-      "marketCap": "$561,756,600",
+      "marketCap": "$580,074,750",
       "fiscalQuarterEnding": "Apr/2026",
       "epsForecast": "$0.03",
       "noOfEsts": "1"
@@ -84,7 +117,7 @@
       "time": "time-after-hours",
       "symbol": "GLOO",
       "name": "Gloo Holdings, Inc.",
-      "marketCap": "$452,416,198",
+      "marketCap": "$454,888,417",
       "fiscalQuarterEnding": "Apr/2026",
       "epsForecast": "($0.16)",
       "noOfEsts": "3"
@@ -95,7 +128,7 @@
       "time": "time-not-supplied",
       "symbol": "MPAA",
       "name": "Motorcar Parts of America, Inc.",
-      "marketCap": "$212,473,151",
+      "marketCap": "$203,828,222",
       "fiscalQuarterEnding": "Mar/2026",
       "epsForecast": "$0.11",
       "noOfEsts": "1"
@@ -106,7 +139,7 @@
       "time": "time-not-supplied",
       "symbol": "CMTL",
       "name": "Comtech Telecommunications Corp.",
-      "marketCap": "$167,105,749",
+      "marketCap": "$170,079,161",
       "fiscalQuarterEnding": "Apr/2026",
       "epsForecast": "($0.30)",
       "noOfEsts": "1"
@@ -117,10 +150,10 @@
       "time": "time-not-supplied",
       "symbol": "COE",
       "name": "51Talk Online Education Group",
-      "marketCap": "$154,688,361",
+      "marketCap": "$152,555,764",
       "fiscalQuarterEnding": "Mar/2026",
       "epsForecast": "",
-      "noOfEsts": "N/A"
+      "noOfEsts": "3"
     },
     {
       "lastYearRptDt": "6/05/2025",
@@ -128,7 +161,7 @@
       "time": "time-pre-market",
       "symbol": "DLTH",
       "name": "Duluth Holdings Inc.",
-      "marketCap": "$127,731,138",
+      "marketCap": "$133,831,730",
       "fiscalQuarterEnding": "Apr/2026",
       "epsForecast": "($0.45)",
       "noOfEsts": "1"
@@ -139,7 +172,7 @@
       "time": "time-pre-market",
       "symbol": "ALOT",
       "name": "AstroNova, Inc.",
-      "marketCap": "$120,162,161",
+      "marketCap": "$119,777,519",
       "fiscalQuarterEnding": "Apr/2026",
       "epsForecast": "",
       "noOfEsts": "3"
@@ -150,10 +183,10 @@
       "time": "time-pre-market",
       "symbol": "ZEPP",
       "name": "Zepp Health Corporation",
-      "marketCap": "$119,666,245",
+      "marketCap": "$109,254,108",
       "fiscalQuarterEnding": "Mar/2026",
       "epsForecast": "",
-      "noOfEsts": "N/A"
+      "noOfEsts": "3"
     },
     {
       "lastYearRptDt": "N/A",
@@ -161,10 +194,10 @@
       "time": "time-pre-market",
       "symbol": "GMHS",
       "name": "Gamehaus Holdings Inc.",
-      "marketCap": "$53,022,951",
+      "marketCap": "$52,497,971",
       "fiscalQuarterEnding": "Mar/2026",
       "epsForecast": "",
-      "noOfEsts": "N/A"
+      "noOfEsts": "3"
     },
     {
       "lastYearRptDt": "N/A",
@@ -172,7 +205,29 @@
       "time": "time-not-supplied",
       "symbol": "GNS",
       "name": "Genius Group Limited",
-      "marketCap": "$49,526,133",
+      "marketCap": "$50,071,232",
+      "fiscalQuarterEnding": "Mar/2026",
+      "epsForecast": "",
+      "noOfEsts": "3"
+    },
+    {
+      "lastYearRptDt": "N/A",
+      "lastYearEPS": "($0.24)",
+      "time": "time-not-supplied",
+      "symbol": "VSTD",
+      "name": "Vestand Inc. ",
+      "marketCap": "$4,992,968",
+      "fiscalQuarterEnding": "Mar/2026",
+      "epsForecast": "",
+      "noOfEsts": "3"
+    },
+    {
+      "lastYearRptDt": "N/A",
+      "lastYearEPS": "N/A",
+      "time": "time-not-supplied",
+      "symbol": "IMTE",
+      "name": "Integrated Media Technology Limited",
+      "marketCap": "$1,826,610",
       "fiscalQuarterEnding": "Mar/2026",
       "epsForecast": "",
       "noOfEsts": "3"
