@@ -2,12 +2,34 @@
   "date": "2026-07-01",
   "data": [
     {
+      "lastYearRptDt": "6/25/2025",
+      "lastYearEPS": "$0.74",
+      "time": "time-pre-market",
+      "symbol": "GIS",
+      "name": "General Mills, Inc.",
+      "marketCap": "$17,168,524,783",
+      "fiscalQuarterEnding": "May/2026",
+      "epsForecast": "$0.82",
+      "noOfEsts": "7"
+    },
+    {
+      "lastYearRptDt": "6/23/2025",
+      "lastYearEPS": "$4.27",
+      "time": "time-pre-market",
+      "symbol": "FDS",
+      "name": "FactSet Research Systems Inc.",
+      "marketCap": "$9,233,104,827",
+      "fiscalQuarterEnding": "May/2026",
+      "epsForecast": "$4.44",
+      "noOfEsts": "7"
+    },
+    {
       "lastYearRptDt": "7/02/2025",
       "lastYearEPS": "$2.17",
       "time": "time-not-supplied",
       "symbol": "UNF",
       "name": "Unifirst Corporation",
-      "marketCap": "$4,765,763,581",
+      "marketCap": "$4,784,569,857",
       "fiscalQuarterEnding": "May/2026",
       "epsForecast": "$1.93",
       "noOfEsts": "1"
@@ -18,7 +40,7 @@
       "time": "time-not-supplied",
       "symbol": "FIZZ",
       "name": "National Beverage Corp.",
-      "marketCap": "$3,330,493,868",
+      "marketCap": "$3,364,201,425",
       "fiscalQuarterEnding": "Apr/2026",
       "epsForecast": "",
       "noOfEsts": "1"
@@ -29,21 +51,10 @@
       "time": "time-not-supplied",
       "symbol": "FC",
       "name": "Franklin Covey Company",
-      "marketCap": "$269,862,309",
+      "marketCap": "$262,647,945",
       "fiscalQuarterEnding": "May/2026",
       "epsForecast": "$0.24",
       "noOfEsts": "3"
-    },
-    {
-      "lastYearRptDt": "7/02/2025",
-      "lastYearEPS": "($0.06)",
-      "time": "time-not-supplied",
-      "symbol": "PODC",
-      "name": "PodcastOne, Inc.",
-      "marketCap": "$124,520,477",
-      "fiscalQuarterEnding": "Mar/2026",
-      "epsForecast": "($0.03)",
-      "noOfEsts": "2"
     },
     {
       "lastYearRptDt": "N/A",
@@ -51,10 +62,21 @@
       "time": "time-not-supplied",
       "symbol": "LASE",
       "name": "Laser Photonics Corporation",
-      "marketCap": "$93,335,196",
+      "marketCap": "$120,718,663",
       "fiscalQuarterEnding": "Mar/2026",
       "epsForecast": "",
       "noOfEsts": "1"
+    },
+    {
+      "lastYearRptDt": "7/02/2025",
+      "lastYearEPS": "($0.06)",
+      "time": "time-not-supplied",
+      "symbol": "PODC",
+      "name": "PodcastOne, Inc.",
+      "marketCap": "$117,648,486",
+      "fiscalQuarterEnding": "Mar/2026",
+      "epsForecast": "($0.03)",
+      "noOfEsts": "2"
     },
     {
       "lastYearRptDt": "N/A",
@@ -62,7 +84,7 @@
       "time": "time-not-supplied",
       "symbol": "MLGO",
       "name": "MicroAlgo, Inc.",
-      "marketCap": "$74,749,141",
+      "marketCap": "$63,555,426",
       "fiscalQuarterEnding": "Mar/2026",
       "epsForecast": "",
       "noOfEsts": "1"
@@ -73,7 +95,7 @@
       "time": "time-not-supplied",
       "symbol": "AERT",
       "name": "Aeries Technology, Inc.",
-      "marketCap": "$39,163,579",
+      "marketCap": "$38,234,699",
       "fiscalQuarterEnding": "Mar/2026",
       "epsForecast": "",
       "noOfEsts": "1"
@@ -84,7 +106,7 @@
       "time": "time-not-supplied",
       "symbol": "TOPS",
       "name": "TOP Ships Inc.",
-      "marketCap": "$6,151,254",
+      "marketCap": "$5,929,587",
       "fiscalQuarterEnding": "Mar/2026",
       "epsForecast": "",
       "noOfEsts": "1"
@@ -95,7 +117,7 @@
       "time": "time-not-supplied",
       "symbol": "NEXR",
       "name": "Nexera Technologies Ltd",
-      "marketCap": "$2,119,074",
+      "marketCap": "$1,801,213",
       "fiscalQuarterEnding": "Mar/2026",
       "epsForecast": "",
       "noOfEsts": "1"
@@ -106,7 +128,7 @@
       "time": "time-not-supplied",
       "symbol": "SCNI",
       "name": "Scinai Immunotherapeutics Ltd.",
-      "marketCap": "$1,896,740",
+      "marketCap": "$1,793,786",
       "fiscalQuarterEnding": "Mar/2026",
       "epsForecast": "",
       "noOfEsts": "1"
@@ -117,7 +139,7 @@
       "time": "time-not-supplied",
       "symbol": "VRAX",
       "name": "Virax Biolabs Group Limited",
-      "marketCap": "$1,605,688",
+      "marketCap": "$1,782,366",
       "fiscalQuarterEnding": "Mar/2026",
       "epsForecast": "($0.07)",
       "noOfEsts": "1"
