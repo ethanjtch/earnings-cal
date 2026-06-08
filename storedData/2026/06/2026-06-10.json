@@ -7,7 +7,7 @@
       "time": "time-after-hours",
       "symbol": "ORCL",
       "name": "Oracle Corporation",
-      "marketCap": "$679,724,711,640",
+      "marketCap": "$614,553,509,280",
       "fiscalQuarterEnding": "May/2026",
       "epsForecast": "$1.58",
       "noOfEsts": "11"
@@ -18,7 +18,7 @@
       "time": "time-not-supplied",
       "symbol": "FER",
       "name": "Ferrovial N.V.",
-      "marketCap": "$47,815,162,198",
+      "marketCap": "$48,066,972,411",
       "fiscalQuarterEnding": "Mar/2026",
       "epsForecast": "",
       "noOfEsts": "2"
@@ -29,7 +29,7 @@
       "time": "time-not-supplied",
       "symbol": "EC",
       "name": "Ecopetrol S.A.",
-      "marketCap": "$32,153,255,255",
+      "marketCap": "$31,145,896,235",
       "fiscalQuarterEnding": "Mar/2026",
       "epsForecast": "$0.60",
       "noOfEsts": "2"
@@ -40,9 +40,9 @@
       "time": "time-not-supplied",
       "symbol": "ICLR",
       "name": "ICON plc",
-      "marketCap": "$11,699,487,260",
+      "marketCap": "$11,442,986,721",
       "fiscalQuarterEnding": "Mar/2026",
-      "epsForecast": "$2.80",
+      "epsForecast": "$2.18",
       "noOfEsts": "3"
     },
     {
@@ -51,7 +51,7 @@
       "time": "time-pre-market",
       "symbol": "CNM",
       "name": "Core & Main, Inc.",
-      "marketCap": "$10,185,438,315",
+      "marketCap": "$10,107,642,338",
       "fiscalQuarterEnding": "Apr/2026",
       "epsForecast": "$0.68",
       "noOfEsts": "1"
@@ -62,7 +62,7 @@
       "time": "time-pre-market",
       "symbol": "CHWY",
       "name": "Chewy, Inc.",
-      "marketCap": "$8,515,039,760",
+      "marketCap": "$8,441,422,701",
       "fiscalQuarterEnding": "Apr/2026",
       "epsForecast": "$0.24",
       "noOfEsts": "8"
@@ -73,10 +73,10 @@
       "time": "time-after-hours",
       "symbol": "NAVN",
       "name": "Navan, Inc.",
-      "marketCap": "$5,621,820,186",
+      "marketCap": "$5,354,114,463",
       "fiscalQuarterEnding": "Apr/2026",
       "epsForecast": "($0.12)",
-      "noOfEsts": "2"
+      "noOfEsts": "N/A"
     },
     {
       "lastYearRptDt": "N/A",
@@ -84,10 +84,10 @@
       "time": "time-pre-market",
       "symbol": "CMCM",
       "name": "Cheetah Mobile Inc.",
-      "marketCap": "$3,211,111,281",
+      "marketCap": "$3,148,759,606",
       "fiscalQuarterEnding": "Mar/2026",
       "epsForecast": "",
-      "noOfEsts": "2"
+      "noOfEsts": "N/A"
     },
     {
       "lastYearRptDt": "6/24/2025",
@@ -95,7 +95,7 @@
       "time": "time-after-hours",
       "symbol": "ATEX",
       "name": "Anterix Inc.",
-      "marketCap": "$1,272,899,808",
+      "marketCap": "$1,248,359,723",
       "fiscalQuarterEnding": "Mar/2026",
       "epsForecast": "($0.56)",
       "noOfEsts": "1"
@@ -106,7 +106,7 @@
       "time": "time-pre-market",
       "symbol": "YB",
       "name": "Yuanbao Inc.",
-      "marketCap": "$681,986,975",
+      "marketCap": "$675,535,747",
       "fiscalQuarterEnding": "Mar/2026",
       "epsForecast": "",
       "noOfEsts": "2"
@@ -117,20 +117,9 @@
       "time": "time-after-hours",
       "symbol": "OXM",
       "name": "Oxford Industries, Inc.",
-      "marketCap": "$675,305,117",
+      "marketCap": "$657,424,134",
       "fiscalQuarterEnding": "Apr/2026",
       "epsForecast": "$1.27",
-      "noOfEsts": "1"
-    },
-    {
-      "lastYearRptDt": "5/14/2025",
-      "lastYearEPS": "($0.04)",
-      "time": "time-not-supplied",
-      "symbol": "RR",
-      "name": "Richtech Robotics Inc.",
-      "marketCap": "$610,417,006",
-      "fiscalQuarterEnding": "Mar/2026",
-      "epsForecast": "($0.03)",
       "noOfEsts": "1"
     },
     {
@@ -139,10 +128,21 @@
       "time": "time-not-supplied",
       "symbol": "CSHR",
       "name": "CoinShares PLC",
-      "marketCap": "$596,964,347",
+      "marketCap": "$565,337,097",
       "fiscalQuarterEnding": "Mar/2026",
       "epsForecast": "",
-      "noOfEsts": "2"
+      "noOfEsts": "N/A"
+    },
+    {
+      "lastYearRptDt": "5/14/2025",
+      "lastYearEPS": "($0.04)",
+      "time": "time-not-supplied",
+      "symbol": "RR",
+      "name": "Richtech Robotics Inc.",
+      "marketCap": "$537,748,315",
+      "fiscalQuarterEnding": "Mar/2026",
+      "epsForecast": "($0.03)",
+      "noOfEsts": "1"
     },
     {
       "lastYearRptDt": "6/10/2025",
@@ -150,7 +150,7 @@
       "time": "time-after-hours",
       "symbol": "SFIX",
       "name": "Stitch Fix, Inc.",
-      "marketCap": "$501,037,648",
+      "marketCap": "$466,907,018",
       "fiscalQuarterEnding": "Apr/2026",
       "epsForecast": "($0.06)",
       "noOfEsts": "4"
@@ -161,7 +161,18 @@
       "time": "time-not-supplied",
       "symbol": "AFJK",
       "name": "Aimei Health Technology Co., Ltd",
-      "marketCap": "$242,460,000",
+      "marketCap": "$242,400,000",
+      "fiscalQuarterEnding": "Mar/2026",
+      "epsForecast": "",
+      "noOfEsts": "N/A"
+    },
+    {
+      "lastYearRptDt": "N/A",
+      "lastYearEPS": "$1.40",
+      "time": "time-not-supplied",
+      "symbol": "JFIN",
+      "name": "Jiayin Group Inc.",
+      "marketCap": "$200,945,457",
       "fiscalQuarterEnding": "Mar/2026",
       "epsForecast": "",
       "noOfEsts": "2"
@@ -172,7 +183,7 @@
       "time": "time-pre-market",
       "symbol": "JILL",
       "name": "J. Jill, Inc.",
-      "marketCap": "$197,507,746",
+      "marketCap": "$194,973,685",
       "fiscalQuarterEnding": "Apr/2026",
       "epsForecast": "$0.44",
       "noOfEsts": "2"
@@ -183,10 +194,10 @@
       "time": "time-not-supplied",
       "symbol": "CAAS",
       "name": "China Automotive Systems, Inc.",
-      "marketCap": "$134,259,624",
+      "marketCap": "$133,656,210",
       "fiscalQuarterEnding": "Mar/2026",
       "epsForecast": "",
-      "noOfEsts": "2"
+      "noOfEsts": "N/A"
     },
     {
       "lastYearRptDt": "5/28/2025",
@@ -194,7 +205,7 @@
       "time": "time-not-supplied",
       "symbol": "ANIX",
       "name": "Anixa Biosciences, Inc.",
-      "marketCap": "$87,842,988",
+      "marketCap": "$83,149,088",
       "fiscalQuarterEnding": "Apr/2026",
       "epsForecast": "($0.10)",
       "noOfEsts": "1"
@@ -205,7 +216,7 @@
       "time": "time-not-supplied",
       "symbol": "RFL",
       "name": "Rafael Holdings, Inc.",
-      "marketCap": "$72,296,875",
+      "marketCap": "$80,618,817",
       "fiscalQuarterEnding": "Apr/2026",
       "epsForecast": "",
       "noOfEsts": "2"
@@ -216,7 +227,7 @@
       "time": "time-after-hours",
       "symbol": "MIND",
       "name": "MIND Technology, Inc.",
-      "marketCap": "$62,260,027",
+      "marketCap": "$56,352,141",
       "fiscalQuarterEnding": "Apr/2026",
       "epsForecast": "",
       "noOfEsts": "2"
@@ -227,7 +238,7 @@
       "time": "time-not-supplied",
       "symbol": "LPSN",
       "name": "LivePerson, Inc.",
-      "marketCap": "$27,517,821",
+      "marketCap": "$25,569,657",
       "fiscalQuarterEnding": "Mar/2026",
       "epsForecast": "($1.02)",
       "noOfEsts": "1"
@@ -238,7 +249,7 @@
       "time": "time-not-supplied",
       "symbol": "SEGG",
       "name": "Sports Entertainment Gaming Global Corporation ",
-      "marketCap": "$22,252,467",
+      "marketCap": "$20,861,688",
       "fiscalQuarterEnding": "Mar/2026",
       "epsForecast": "",
       "noOfEsts": "2"
@@ -249,7 +260,7 @@
       "time": "time-not-supplied",
       "symbol": "DTSS",
       "name": "Datasea Intelligent Technology Ltd.",
-      "marketCap": "$9,350,202",
+      "marketCap": "$8,775,609",
       "fiscalQuarterEnding": "Mar/2026",
       "epsForecast": "",
       "noOfEsts": "2"
@@ -260,20 +271,9 @@
       "time": "time-after-hours",
       "symbol": "AEMD",
       "name": "Aethlon Medical, Inc.",
-      "marketCap": "$2,801,184",
+      "marketCap": "$4,464,871",
       "fiscalQuarterEnding": "Mar/2026",
       "epsForecast": "($2.46)",
-      "noOfEsts": "2"
-    },
-    {
-      "lastYearRptDt": "N/A",
-      "lastYearEPS": "($0.62)",
-      "time": "time-not-supplied",
-      "symbol": "BTTC",
-      "name": "Black Titan Corp",
-      "marketCap": "$1,290,726",
-      "fiscalQuarterEnding": "Mar/2026",
-      "epsForecast": "",
       "noOfEsts": "2"
     },
     {
@@ -282,7 +282,18 @@
       "time": "time-not-supplied",
       "symbol": "LRHC",
       "name": "La Rosa Holdings Corp.",
-      "marketCap": "$58,850",
+      "marketCap": "$1,696,885",
+      "fiscalQuarterEnding": "Mar/2026",
+      "epsForecast": "",
+      "noOfEsts": "N/A"
+    },
+    {
+      "lastYearRptDt": "N/A",
+      "lastYearEPS": "($0.62)",
+      "time": "time-not-supplied",
+      "symbol": "BTTC",
+      "name": "Black Titan Corp",
+      "marketCap": "$1,237,118",
       "fiscalQuarterEnding": "Mar/2026",
       "epsForecast": "",
       "noOfEsts": "2"
