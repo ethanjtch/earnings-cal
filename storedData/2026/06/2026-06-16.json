@@ -2,15 +2,37 @@
   "date": "2026-06-16",
   "data": [
     {
+      "lastYearRptDt": "N/A",
+      "lastYearEPS": "N/A",
+      "time": "time-not-supplied",
+      "symbol": "CCEP",
+      "name": "Coca-Cola Europacific Partners plc",
+      "marketCap": "$43,007,000,357",
+      "fiscalQuarterEnding": "Mar/2026",
+      "epsForecast": "",
+      "noOfEsts": "2"
+    },
+    {
       "lastYearRptDt": "6/17/2025",
       "lastYearEPS": "$1.25",
       "time": "time-not-supplied",
       "symbol": "KEP",
       "name": "Korea Electric Power Corporation",
-      "marketCap": "$15,497,012,819",
+      "marketCap": "$15,638,244,916",
       "fiscalQuarterEnding": "Mar/2026",
       "epsForecast": "$1.26",
       "noOfEsts": "2"
+    },
+    {
+      "lastYearRptDt": "5/06/2025",
+      "lastYearEPS": "$1.36",
+      "time": "time-not-supplied",
+      "symbol": "MASI",
+      "name": "Masimo Corporation",
+      "marketCap": "$9,423,227,150",
+      "fiscalQuarterEnding": "Mar/2026",
+      "epsForecast": "$1.41",
+      "noOfEsts": "4"
     },
     {
       "lastYearRptDt": "6/17/2025",
@@ -18,7 +40,7 @@
       "time": "time-pre-market",
       "symbol": "WLY",
       "name": "John Wiley & Sons, Inc.",
-      "marketCap": "$2,250,000,145",
+      "marketCap": "$2,256,158,904",
       "fiscalQuarterEnding": "Apr/2026",
       "epsForecast": "$1.65",
       "noOfEsts": "1"
@@ -29,8 +51,19 @@
       "time": "time-pre-market",
       "symbol": "WLYB",
       "name": "John Wiley & Sons, Inc.",
-      "marketCap": "$2,250,000,145",
+      "marketCap": "$2,256,158,904",
       "fiscalQuarterEnding": "Apr/2026",
+      "epsForecast": "",
+      "noOfEsts": "2"
+    },
+    {
+      "lastYearRptDt": "N/A",
+      "lastYearEPS": "N/A",
+      "time": "time-not-supplied",
+      "symbol": "CYD",
+      "name": "China Yuchai International Limited",
+      "marketCap": "$2,005,354,311",
+      "fiscalQuarterEnding": "Mar/2026",
       "epsForecast": "",
       "noOfEsts": "2"
     },
@@ -40,7 +73,7 @@
       "time": "time-after-hours",
       "symbol": "LZB",
       "name": "La-Z-Boy Incorporated",
-      "marketCap": "$1,482,666,013",
+      "marketCap": "$1,527,682,094",
       "fiscalQuarterEnding": "Apr/2026",
       "epsForecast": "$0.82",
       "noOfEsts": "3"
@@ -57,15 +90,114 @@
       "noOfEsts": "2"
     },
     {
+      "lastYearRptDt": "N/A",
+      "lastYearEPS": "($0.03)",
+      "time": "time-pre-market",
+      "symbol": "UXIN",
+      "name": "Uxin Limited",
+      "marketCap": "$477,357,166",
+      "fiscalQuarterEnding": "Mar/2026",
+      "epsForecast": "",
+      "noOfEsts": "2"
+    },
+    {
+      "lastYearRptDt": "N/A",
+      "lastYearEPS": "($0.13)",
+      "time": "time-not-supplied",
+      "symbol": "CURR",
+      "name": "Currenc Group Inc.",
+      "marketCap": "$332,354,380",
+      "fiscalQuarterEnding": "Mar/2026",
+      "epsForecast": "",
+      "noOfEsts": "2"
+    },
+    {
+      "lastYearRptDt": "5/13/2025",
+      "lastYearEPS": "($0.13)",
+      "time": "time-not-supplied",
+      "symbol": "AVXL",
+      "name": "Anavex Life Sciences Corp.",
+      "marketCap": "$235,386,265",
+      "fiscalQuarterEnding": "Mar/2026",
+      "epsForecast": "($0.07)",
+      "noOfEsts": "1"
+    },
+    {
+      "lastYearRptDt": "N/A",
+      "lastYearEPS": "N/A",
+      "time": "time-not-supplied",
+      "symbol": "QMCO",
+      "name": "Quantum Corporation",
+      "marketCap": "$191,026,278",
+      "fiscalQuarterEnding": "Mar/2026",
+      "epsForecast": "($0.37)",
+      "noOfEsts": "2"
+    },
+    {
+      "lastYearRptDt": "N/A",
+      "lastYearEPS": "($0.18)",
+      "time": "time-not-supplied",
+      "symbol": "ALPS",
+      "name": "ALPS Group Inc",
+      "marketCap": "$117,312,230",
+      "fiscalQuarterEnding": "Mar/2026",
+      "epsForecast": "",
+      "noOfEsts": "2"
+    },
+    {
+      "lastYearRptDt": "5/13/2025",
+      "lastYearEPS": "($0.20)",
+      "time": "time-not-supplied",
+      "symbol": "ATLN",
+      "name": "Atlantic International Corp.",
+      "marketCap": "$65,417,847",
+      "fiscalQuarterEnding": "Mar/2026",
+      "epsForecast": "",
+      "noOfEsts": "N/A"
+    },
+    {
       "lastYearRptDt": "6/17/2025",
       "lastYearEPS": "($0.37)",
       "time": "time-pre-market",
       "symbol": "VNCE",
       "name": "Vince Holding Corp.",
-      "marketCap": "$59,996,863",
+      "marketCap": "$57,041,985",
       "fiscalQuarterEnding": "Apr/2026",
       "epsForecast": "($0.13)",
       "noOfEsts": "1"
+    },
+    {
+      "lastYearRptDt": "N/A",
+      "lastYearEPS": "$0.01",
+      "time": "time-not-supplied",
+      "symbol": "AAME",
+      "name": "Atlantic American Corporation",
+      "marketCap": "$35,899,121",
+      "fiscalQuarterEnding": "Mar/2026",
+      "epsForecast": "",
+      "noOfEsts": "2"
+    },
+    {
+      "lastYearRptDt": "N/A",
+      "lastYearEPS": "($0.20)",
+      "time": "time-not-supplied",
+      "symbol": "BRLS",
+      "name": "Borealis Foods Inc.",
+      "marketCap": "$32,838,858",
+      "fiscalQuarterEnding": "Mar/2026",
+      "epsForecast": "",
+      "noOfEsts": "2"
+    },
+    {
+      "lastYearRptDt": "N/A",
+      "lastYearEPS": "($0.37)",
+      "time": "time-after-hours",
+      "symbol": "YQ",
+      "name": "17 Education & Technology Group Inc.",
+      "marketCap": "$24,425,298",
+      "fiscalQuarterEnding": "Mar/2026",
+      "epsForecast": "",
+      "noOfEsts": "2"
     },
     {
       "lastYearRptDt": "6/17/2025",
@@ -73,9 +205,97 @@
       "time": "time-not-supplied",
       "symbol": "VTGN",
       "name": "VistaGen Therapeutics, Inc.",
-      "marketCap": "$21,284,034",
+      "marketCap": "$21,307,806",
       "fiscalQuarterEnding": "Mar/2026",
       "epsForecast": "($0.42)",
+      "noOfEsts": "2"
+    },
+    {
+      "lastYearRptDt": "5/13/2025",
+      "lastYearEPS": "($0.24)",
+      "time": "time-not-supplied",
+      "symbol": "FTHM",
+      "name": "Fathom Holdings Inc.",
+      "marketCap": "$15,060,218",
+      "fiscalQuarterEnding": "Mar/2026",
+      "epsForecast": "($0.10)",
+      "noOfEsts": "1"
+    },
+    {
+      "lastYearRptDt": "N/A",
+      "lastYearEPS": "($0.47)",
+      "time": "time-not-supplied",
+      "symbol": "REBN",
+      "name": "Reborn Coffee, Inc.",
+      "marketCap": "$13,059,393",
+      "fiscalQuarterEnding": "Mar/2026",
+      "epsForecast": "",
+      "noOfEsts": "2"
+    },
+    {
+      "lastYearRptDt": "N/A",
+      "lastYearEPS": "N/A",
+      "time": "time-not-supplied",
+      "symbol": "RGNT",
+      "name": "Regentis Biomaterials Ltd.",
+      "marketCap": "$12,482,301",
+      "fiscalQuarterEnding": "Mar/2026",
+      "epsForecast": "",
+      "noOfEsts": "2"
+    },
+    {
+      "lastYearRptDt": "N/A",
+      "lastYearEPS": "($0.54)",
+      "time": "time-not-supplied",
+      "symbol": "GAUZ",
+      "name": "Gauzy Ltd.",
+      "marketCap": "$11,204,023",
+      "fiscalQuarterEnding": "Mar/2026",
+      "epsForecast": "",
+      "noOfEsts": "2"
+    },
+    {
+      "lastYearRptDt": "N/A",
+      "lastYearEPS": "($0.15)",
+      "time": "time-not-supplied",
+      "symbol": "CETY",
+      "name": "Clean Energy Technologies, Inc.",
+      "marketCap": "$9,854,546",
+      "fiscalQuarterEnding": "Mar/2026",
+      "epsForecast": "",
+      "noOfEsts": "2"
+    },
+    {
+      "lastYearRptDt": "N/A",
+      "lastYearEPS": "($0.20)",
+      "time": "time-not-supplied",
+      "symbol": "GITS",
+      "name": "Global Interactive Technologies, Inc. Common Stock",
+      "marketCap": "$6,962,624",
+      "fiscalQuarterEnding": "Mar/2026",
+      "epsForecast": "",
+      "noOfEsts": "2"
+    },
+    {
+      "lastYearRptDt": "N/A",
+      "lastYearEPS": "$4",
+      "time": "time-not-supplied",
+      "symbol": "GURE",
+      "name": "Gulf Resources, Inc.",
+      "marketCap": "$6,815,196",
+      "fiscalQuarterEnding": "Mar/2026",
+      "epsForecast": "",
+      "noOfEsts": "2"
+    },
+    {
+      "lastYearRptDt": "N/A",
+      "lastYearEPS": "($10.14)",
+      "time": "time-not-supplied",
+      "symbol": "RTB",
+      "name": "RTB Digital, Inc.",
+      "marketCap": "$5,367,428",
+      "fiscalQuarterEnding": "Mar/2026",
+      "epsForecast": "",
       "noOfEsts": "2"
     },
     {
@@ -84,7 +304,18 @@
       "time": "time-not-supplied",
       "symbol": "XAIR",
       "name": "Beyond Air, Inc.",
-      "marketCap": "$5,205,270",
+      "marketCap": "$4,899,376",
+      "fiscalQuarterEnding": "Mar/2026",
+      "epsForecast": "",
+      "noOfEsts": "2"
+    },
+    {
+      "lastYearRptDt": "N/A",
+      "lastYearEPS": "($99.99)",
+      "time": "time-not-supplied",
+      "symbol": "IVF",
+      "name": "INVO Fertility, Inc.",
+      "marketCap": "$2,500,449",
       "fiscalQuarterEnding": "Mar/2026",
       "epsForecast": "",
       "noOfEsts": "2"
@@ -95,7 +326,7 @@
       "time": "time-not-supplied",
       "symbol": "SNOA",
       "name": "Sonoma Pharmaceuticals, Inc.",
-      "marketCap": "$1,986,893",
+      "marketCap": "$2,023,350",
       "fiscalQuarterEnding": "Mar/2026",
       "epsForecast": "",
       "noOfEsts": "2"
