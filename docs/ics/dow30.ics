@@ -6,9 +6,9 @@ METHOD:PUBLISH
 X-WR-CALNAME:Earnings Calendar 财报日历
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:vDPG8EnpFEwCfRlzLgfDV
+UID:LDKCDPiUV0w_G7wLQulTZ
 SUMMARY:家得宝 发布财报
-DTSTAMP:20260613T080353Z
+DTSTAMP:20260613T175459Z
 DTSTART;VALUE=DATE:20260519
 DESCRIPTION:财务季度：Apr/2026。\n代码：HD，公司：家得宝，行业: 零售。\n预计每股收益: $3.40，当前市值: $301\
 	,238\,604\,886。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=HD \n在富途查看：h
@@ -22,9 +22,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:g0brZJ2kksgahYp_pVjcT
+UID:amYkEt4zHUG9-w8Qf0r5H
 SUMMARY:沃尔玛 发布财报
-DTSTAMP:20260613T080353Z
+DTSTAMP:20260613T175459Z
 DTSTART;VALUE=DATE:20260521
 DESCRIPTION:财务季度：Apr/2026。\n代码：WMT，公司：沃尔玛，行业: 零售。\n预计每股收益: $0.65，当前市值: $967
 	\,371\,319\,471。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=WMT \n在富途查看
@@ -38,9 +38,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:sckfvExxL2RNxDlrvdbcA
+UID:EkWRqoQNLcLfGpyBzwGT3
 SUMMARY:赛富时 发布财报
-DTSTAMP:20260613T080353Z
+DTSTAMP:20260613T175459Z
 DTSTART;VALUE=DATE:20260527
 DESCRIPTION:财务季度：Apr/2026。\n代码：CRM，公司：赛富时，行业: 云端服务。\n预计每股收益: $2.30，当前市值: $1
 	63\,841\,730\,000。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=CRM \n在富途
@@ -54,9 +54,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:9KP3KRkCisDNIY57il19E
+UID:wAcJI5qIkIGY7o87iJJCd
 SUMMARY:耐克 盘后发布财报
-DTSTAMP:20260613T080353Z
+DTSTAMP:20260613T175459Z
 DTSTART;VALUE=DATE:20260630
 DESCRIPTION:财务季度：May/2026。\n代码：NKE，公司：耐克，行业: 服装。\n预计每股收益: $0.11，当前市值: $68\,
 	061\,568\,037。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=NKE \n在富途查看：h
