@@ -2,8 +2,8 @@
   "date": "2026-06-15",
   "data": [
     {
-      "lastYearRptDt": "N/A",
-      "lastYearEPS": "N/A",
+      "eps": "N/A",
+      "surprise": "N/A",
       "time": "time-not-supplied",
       "symbol": "WDS",
       "name": "Woodside Energy Group Limited",
@@ -13,9 +13,9 @@
       "noOfEsts": "2"
     },
     {
-      "lastYearRptDt": "6/16/2025",
-      "lastYearEPS": "($0.09)",
-      "time": "time-pre-market",
+      "eps": "$0.04",
+      "surprise": "N/A",
+      "time": "time-not-supplied",
       "symbol": "AIOT",
       "name": "PowerFleet, Inc.",
       "marketCap": "$566,101,509",
@@ -24,8 +24,8 @@
       "noOfEsts": "5"
     },
     {
-      "lastYearRptDt": "6/10/2025",
-      "lastYearEPS": "$0.76",
+      "eps": "$0.76",
+      "surprise": "N/A",
       "time": "time-after-hours",
       "symbol": "PLAY",
       "name": "Dave & Buster's Entertainment, Inc.",
@@ -35,9 +35,9 @@
       "noOfEsts": "4"
     },
     {
-      "lastYearRptDt": "5/30/2025",
-      "lastYearEPS": "($0.94)",
-      "time": "time-pre-market",
+      "eps": "($0.17)",
+      "surprise": "-183.33",
+      "time": "time-not-supplied",
       "symbol": "CGC",
       "name": "Canopy Growth Corporation",
       "marketCap": "$432,720,523",
@@ -46,8 +46,8 @@
       "noOfEsts": "3"
     },
     {
-      "lastYearRptDt": "6/16/2025",
-      "lastYearEPS": "($0.03)",
+      "eps": "($0.03)",
+      "surprise": "N/A",
       "time": "time-after-hours",
       "symbol": "HITI",
       "name": "High Tide Inc.",
@@ -57,8 +57,8 @@
       "noOfEsts": "3"
     },
     {
-      "lastYearRptDt": "6/16/2025",
-      "lastYearEPS": "$0.05",
+      "eps": "$0.05",
+      "surprise": "N/A",
       "time": "time-after-hours",
       "symbol": "RFIL",
       "name": "RF Industries, Ltd.",
@@ -68,8 +68,8 @@
       "noOfEsts": "1"
     },
     {
-      "lastYearRptDt": "N/A",
-      "lastYearEPS": "N/A",
+      "eps": "N/A",
+      "surprise": "N/A",
       "time": "time-after-hours",
       "symbol": "QMCO",
       "name": "Quantum Corporation",
@@ -79,9 +79,9 @@
       "noOfEsts": "2"
     },
     {
-      "lastYearRptDt": "6/09/2025",
-      "lastYearEPS": "($0.22)",
-      "time": "time-pre-market",
+      "eps": "($0.26)",
+      "surprise": "13.33",
+      "time": "time-not-supplied",
       "symbol": "CMTL",
       "name": "Comtech Telecommunications Corp.",
       "marketCap": "$143,615,795",
@@ -90,8 +90,8 @@
       "noOfEsts": "1"
     },
     {
-      "lastYearRptDt": "5/21/2025",
-      "lastYearEPS": "($0.48)",
+      "eps": "($0.48)",
+      "surprise": "N/A",
       "time": "time-after-hours",
       "symbol": "DOMO",
       "name": "Domo, Inc.",
@@ -101,8 +101,41 @@
       "noOfEsts": "2"
     },
     {
-      "lastYearRptDt": "N/A",
-      "lastYearEPS": "N/A",
+      "eps": "$0.15",
+      "surprise": "N/A",
+      "time": "time-not-supplied",
+      "symbol": "CODA",
+      "name": "Coda Octopus Group, Inc.",
+      "marketCap": "$123,135,580",
+      "fiscalQuarterEnding": "Apr/2026",
+      "epsForecast": "",
+      "noOfEsts": "N/A"
+    },
+    {
+      "eps": "($0.43)",
+      "surprise": "10.42",
+      "time": "time-not-supplied",
+      "symbol": "ENGN",
+      "name": "enGene Therapeutics Inc.",
+      "marketCap": "$108,522,935",
+      "fiscalQuarterEnding": "Apr/2026",
+      "epsForecast": "($0.48)",
+      "noOfEsts": "5"
+    },
+    {
+      "eps": "$0.12",
+      "surprise": "N/A",
+      "time": "time-not-supplied",
+      "symbol": "JRSH",
+      "name": "Jerash Holdings (US), Inc.",
+      "marketCap": "$43,941,792",
+      "fiscalQuarterEnding": "Mar/2026",
+      "epsForecast": "",
+      "noOfEsts": "N/A"
+    },
+    {
+      "eps": "N/A",
+      "surprise": "N/A",
       "time": "time-not-supplied",
       "symbol": "GNS",
       "name": "Genius Group Limited",
@@ -112,8 +145,8 @@
       "noOfEsts": "2"
     },
     {
-      "lastYearRptDt": "N/A",
-      "lastYearEPS": "($1.33)",
+      "eps": "($1.33)",
+      "surprise": "N/A",
       "time": "time-pre-market",
       "symbol": "ADXN",
       "name": "Addex Therapeutics Ltd",
@@ -123,8 +156,8 @@
       "noOfEsts": "2"
     },
     {
-      "lastYearRptDt": "N/A",
-      "lastYearEPS": "($0.24)",
+      "eps": "($0.24)",
+      "surprise": "N/A",
       "time": "time-not-supplied",
       "symbol": "VSTD",
       "name": "Vestand Inc. ",
@@ -134,8 +167,8 @@
       "noOfEsts": "2"
     },
     {
-      "lastYearRptDt": "N/A",
-      "lastYearEPS": "N/A",
+      "eps": "N/A",
+      "surprise": "N/A",
       "time": "time-not-supplied",
       "symbol": "IMTE",
       "name": "Integrated Media Technology Limited",
