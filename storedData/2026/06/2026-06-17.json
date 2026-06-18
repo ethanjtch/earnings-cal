@@ -2,8 +2,8 @@
   "date": "2026-06-17",
   "data": [
     {
-      "lastYearRptDt": "N/A",
-      "lastYearEPS": "N/A",
+      "eps": "N/A",
+      "surprise": "N/A",
       "time": "time-not-supplied",
       "symbol": "FER",
       "name": "Ferrovial N.V.",
@@ -13,9 +13,9 @@
       "noOfEsts": "1"
     },
     {
-      "lastYearRptDt": "6/17/2025",
-      "lastYearEPS": "$2.39",
-      "time": "time-pre-market",
+      "eps": "$2.93",
+      "surprise": "-1.01",
+      "time": "time-not-supplied",
       "symbol": "JBL",
       "name": "Jabil Inc.",
       "marketCap": "$39,617,289,587",
@@ -24,8 +24,8 @@
       "noOfEsts": "4"
     },
     {
-      "lastYearRptDt": "5/07/2025",
-      "lastYearEPS": "$0.36",
+      "eps": "$0.36",
+      "surprise": "N/A",
       "time": "time-not-supplied",
       "symbol": "EC",
       "name": "Ecopetrol S.A.",
@@ -35,8 +35,8 @@
       "noOfEsts": "2"
     },
     {
-      "lastYearRptDt": "4/30/2025",
-      "lastYearEPS": "$3.07",
+      "eps": "$3.07",
+      "surprise": "N/A",
       "time": "time-not-supplied",
       "symbol": "ICLR",
       "name": "ICON plc",
@@ -46,9 +46,9 @@
       "noOfEsts": "3"
     },
     {
-      "lastYearRptDt": "6/20/2025",
-      "lastYearEPS": "$1.38",
-      "time": "time-pre-market",
+      "eps": "$1.31",
+      "surprise": "39.36",
+      "time": "time-not-supplied",
       "symbol": "KMX",
       "name": "CarMax Inc",
       "marketCap": "$7,394,883,149",
@@ -57,8 +57,8 @@
       "noOfEsts": "6"
     },
     {
-      "lastYearRptDt": "N/A",
-      "lastYearEPS": "$0.05",
+      "eps": "$0.05",
+      "surprise": "N/A",
       "time": "time-after-hours",
       "symbol": "SB",
       "name": "Safe Bulkers, Inc",
@@ -68,8 +68,8 @@
       "noOfEsts": "1"
     },
     {
-      "lastYearRptDt": "6/18/2025",
-      "lastYearEPS": "$0.20",
+      "eps": "$0.20",
+      "surprise": "N/A",
       "time": "time-after-hours",
       "symbol": "SWBI",
       "name": "Smith & Wesson Brands, Inc.",
@@ -79,8 +79,8 @@
       "noOfEsts": "N/A"
     },
     {
-      "lastYearRptDt": "N/A",
-      "lastYearEPS": "$0.06",
+      "eps": "$0.06",
+      "surprise": "N/A",
       "time": "time-not-supplied",
       "symbol": "CSHR",
       "name": "CoinShares PLC",
@@ -90,8 +90,8 @@
       "noOfEsts": "1"
     },
     {
-      "lastYearRptDt": "5/14/2025",
-      "lastYearEPS": "($0.04)",
+      "eps": "($0.04)",
+      "surprise": "N/A",
       "time": "time-not-supplied",
       "symbol": "RR",
       "name": "Richtech Robotics Inc.",
@@ -101,8 +101,8 @@
       "noOfEsts": "1"
     },
     {
-      "lastYearRptDt": "N/A",
-      "lastYearEPS": "$0.24",
+      "eps": "$0.24",
+      "surprise": "N/A",
       "time": "time-not-supplied",
       "symbol": "CAAS",
       "name": "China Automotive Systems, Inc.",
@@ -112,8 +112,8 @@
       "noOfEsts": "1"
     },
     {
-      "lastYearRptDt": "6/18/2025",
-      "lastYearEPS": "($0.30)",
+      "eps": "($0.30)",
+      "surprise": "N/A",
       "time": "time-not-supplied",
       "symbol": "LVO",
       "name": "LiveOne, Inc.",
@@ -123,8 +123,8 @@
       "noOfEsts": "2"
     },
     {
-      "lastYearRptDt": "N/A",
-      "lastYearEPS": "N/A",
+      "eps": "N/A",
+      "surprise": "N/A",
       "time": "time-not-supplied",
       "symbol": "DSWL",
       "name": "Deswell Industries, Inc.",
@@ -134,8 +134,8 @@
       "noOfEsts": "1"
     },
     {
-      "lastYearRptDt": "5/07/2025",
-      "lastYearEPS": "($3.45)",
+      "eps": "($3.45)",
+      "surprise": "N/A",
       "time": "time-not-supplied",
       "symbol": "LPSN",
       "name": "LivePerson, Inc.",
@@ -145,8 +145,8 @@
       "noOfEsts": "1"
     },
     {
-      "lastYearRptDt": "N/A",
-      "lastYearEPS": "($1.40)",
+      "eps": "($1.40)",
+      "surprise": "N/A",
       "time": "time-not-supplied",
       "symbol": "SEGG",
       "name": "Sports Entertainment Gaming Global Corporation ",
@@ -156,8 +156,8 @@
       "noOfEsts": "1"
     },
     {
-      "lastYearRptDt": "N/A",
-      "lastYearEPS": "($0.24)",
+      "eps": "($0.24)",
+      "surprise": "N/A",
       "time": "time-not-supplied",
       "symbol": "DTSS",
       "name": "Datasea Intelligent Technology Ltd.",
@@ -167,8 +167,8 @@
       "noOfEsts": "1"
     },
     {
-      "lastYearRptDt": "N/A",
-      "lastYearEPS": "($99.99)",
+      "eps": "($99.99)",
+      "surprise": "N/A",
       "time": "time-not-supplied",
       "symbol": "LRHC",
       "name": "La Rosa Holdings Corp.",
@@ -178,8 +178,8 @@
       "noOfEsts": "1"
     },
     {
-      "lastYearRptDt": "N/A",
-      "lastYearEPS": "($0.62)",
+      "eps": "($0.62)",
+      "surprise": "N/A",
       "time": "time-not-supplied",
       "symbol": "BTTC",
       "name": "Black Titan Corp",
