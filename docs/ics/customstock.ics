@@ -6,25 +6,9 @@ METHOD:PUBLISH
 X-WR-CALNAME:Earnings Calendar 财报日历
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:YsgkpHcYNDXgT6WtNB01l
-SUMMARY:BOSS 直聘 发布财报
-DTSTAMP:20260619T182030Z
-DTSTART;VALUE=DATE:20260520
-DESCRIPTION:财务季度：Mar/2026。\n代码：BZ，公司：BOSS 直聘，行业: 人力资源。\n预计每股收益: $0.19，当前市值:
-	 $6\,511\,676\,241。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=BZ \n在富途
-	查看：https://www.futunn.com/hk/stock/BZ-US 
-STATUS:CONFIRMED
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-TRIGGER:-PT2H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:pplaKUci6y1InEhM7RvMX
+UID:VQOPvxcNCJaxiw_nl9ML6
 SUMMARY:蔚来 发布财报
-DTSTAMP:20260619T182030Z
+DTSTAMP:20260620T080442Z
 DTSTART;VALUE=DATE:20260521
 DESCRIPTION:财务季度：Mar/2026。\n代码：NIO，公司：蔚来，行业: 汽车。\n预计每股收益: ($0.24)，当前市值: $14
 	\,031\,735\,323。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=NIO \n在富途查看
@@ -38,9 +22,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:Vb-dU_dGgcb35c_NFrbAJ
+UID:-xNgiJ8uAcWnt_-LEZ_Lr
 SUMMARY:拼多多 发布财报
-DTSTAMP:20260619T182030Z
+DTSTAMP:20260620T080442Z
 DTSTART;VALUE=DATE:20260527
 DESCRIPTION:财务季度：Mar/2026。\n代码：PDD，公司：拼多多，行业: 电子商务。\n预计每股收益: $2.03，当前市值: $1
 	23\,280\,367\,574。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=PDD \n在富途
@@ -54,9 +38,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:_gOw_vKzYcDh8ba3TbOi6
+UID:C6beKugAQ2IhTkAVda-1P
 SUMMARY:理想汽车 发布财报
-DTSTAMP:20260619T182030Z
+DTSTAMP:20260620T080442Z
 DTSTART;VALUE=DATE:20260528
 DESCRIPTION:财务季度：Mar/2026。\n代码：LI，公司：理想汽车，行业: 汽车。\n预计每股收益: $0，当前市值: $16\,60
 	0\,690\,517。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=LI \n在富途查看：http
@@ -70,9 +54,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:9nIvGlECxgOsEC-M1mC9p
+UID:YxiR1UbwGkAsZiLbFBlX_
 SUMMARY:小鹏汽车 发布财报
-DTSTAMP:20260619T182030Z
+DTSTAMP:20260620T080442Z
 DTSTART;VALUE=DATE:20260528
 DESCRIPTION:财务季度：Mar/2026。\n代码：XPEV，公司：小鹏汽车，行业: 汽车。\n预计每股收益: ，当前市值: $15\,71
 	3\,833\,692。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=XPEV \n在富途查看：ht
@@ -86,9 +70,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:9Xz09Q-byy4lwamOVnfuA
+UID:Zr9rLvUrb1vlO8kfMG6EM
 SUMMARY:C3.ai 发布财报
-DTSTAMP:20260619T182030Z
+DTSTAMP:20260620T080442Z
 DTSTART;VALUE=DATE:20260603
 DESCRIPTION:财务季度：Apr/2026。\n代码：AI，公司：C3.ai，行业: 软件。\n预计每股收益: ($0.74)，当前市值: $
 	1\,556\,068\,988。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=AI \n在富途查看
@@ -102,9 +86,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:MHaPTCx9s8bjZ3HryBzlc
+UID:0UP6yNc3LFbb9ITft1Ips
 SUMMARY:台积电 发布财报
-DTSTAMP:20260619T182030Z
+DTSTAMP:20260620T080442Z
 DTSTART;VALUE=DATE:20260716
 DESCRIPTION:财务季度：Jun/2026。\n代码：TSM，公司：台积电，行业: 半导体。\n预计每股收益: $3.69，当前市值: $2\
 	,241\,348\,094\,264。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=TSM \n在
