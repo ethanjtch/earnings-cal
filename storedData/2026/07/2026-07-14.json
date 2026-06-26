@@ -7,7 +7,7 @@
       "time": "time-pre-market",
       "symbol": "JPM",
       "name": "J P Morgan Chase & Co",
-      "marketCap": "$893,483,082,332",
+      "marketCap": "$897,957,866,400",
       "fiscalQuarterEnding": "Jun/2026",
       "epsForecast": "$5.44",
       "noOfEsts": "6"
@@ -18,7 +18,7 @@
       "time": "time-pre-market",
       "symbol": "BAC",
       "name": "Bank of America Corporation",
-      "marketCap": "$409,686,178,282",
+      "marketCap": "$412,950,609,982",
       "fiscalQuarterEnding": "Jun/2026",
       "epsForecast": "$1.09",
       "noOfEsts": "6"
@@ -29,7 +29,7 @@
       "time": "time-pre-market",
       "symbol": "GS",
       "name": "Goldman Sachs Group, Inc. (The)",
-      "marketCap": "$317,696,441,749",
+      "marketCap": "$314,209,454,033",
       "fiscalQuarterEnding": "Jun/2026",
       "epsForecast": "$13.64",
       "noOfEsts": "6"
@@ -40,7 +40,7 @@
       "time": "time-pre-market",
       "symbol": "WFC",
       "name": "Wells Fargo & Company",
-      "marketCap": "$257,973,974,344",
+      "marketCap": "$259,320,457,722",
       "fiscalQuarterEnding": "Jun/2026",
       "epsForecast": "$1.74",
       "noOfEsts": "7"
@@ -51,7 +51,7 @@
       "time": "time-pre-market",
       "symbol": "C",
       "name": "Citigroup Inc.",
-      "marketCap": "$244,903,794,968",
+      "marketCap": "$247,274,546,936",
       "fiscalQuarterEnding": "Jun/2026",
       "epsForecast": "$2.62",
       "noOfEsts": "7"
@@ -62,7 +62,7 @@
       "time": "time-pre-market",
       "symbol": "ERIC",
       "name": "Ericsson",
-      "marketCap": "$37,624,285,363",
+      "marketCap": "$37,287,150,189",
       "fiscalQuarterEnding": "Jun/2026",
       "epsForecast": "$0.13",
       "noOfEsts": "3"
@@ -73,10 +73,21 @@
       "time": "time-not-supplied",
       "symbol": "AEHR",
       "name": "Aehr Test Systems",
-      "marketCap": "$3,056,306,322",
+      "marketCap": "$3,171,559,890",
       "fiscalQuarterEnding": "May/2026",
       "epsForecast": "($0.06)",
       "noOfEsts": "1"
+    },
+    {
+      "lastYearRptDt": "7/14/2025",
+      "lastYearEPS": "$0.99",
+      "time": "time-after-hours",
+      "symbol": "EQBK",
+      "name": "Equity Bancshares, Inc.",
+      "marketCap": "$993,234,237",
+      "fiscalQuarterEnding": "Jun/2026",
+      "epsForecast": "$1.24",
+      "noOfEsts": "3"
     }
   ]
 }
