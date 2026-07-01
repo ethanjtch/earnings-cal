@@ -2,12 +2,12 @@
   "date": "2026-06-30",
   "data": [
     {
-      "eps": "$0.14",
-      "surprise": "N/A",
-      "time": "time-after-hours",
+      "eps": "$0.20",
+      "surprise": "81.82",
+      "time": "time-not-supplied",
       "symbol": "NKE",
       "name": "Nike, Inc.",
-      "marketCap": "$61,427,194,129",
+      "marketCap": "$60,790,412,705",
       "fiscalQuarterEnding": "May/2026",
       "epsForecast": "$0.11",
       "noOfEsts": "11"
@@ -18,18 +18,18 @@
       "time": "time-not-supplied",
       "symbol": "CCEP",
       "name": "Coca-Cola Europacific Partners plc",
-      "marketCap": "$45,744,765,481",
+      "marketCap": "$46,240,063,039",
       "fiscalQuarterEnding": "Mar/2026",
       "epsForecast": "",
       "noOfEsts": "1"
     },
     {
-      "eps": "$3.22",
-      "surprise": "N/A",
-      "time": "time-after-hours",
+      "eps": "$3.43",
+      "surprise": "6.52",
+      "time": "time-not-supplied",
       "symbol": "STZ",
       "name": "Constellation Brands Inc",
-      "marketCap": "$24,049,237,901",
+      "marketCap": "$23,951,084,775",
       "fiscalQuarterEnding": "May/2026",
       "epsForecast": "$3.22",
       "noOfEsts": "6"
@@ -40,18 +40,18 @@
       "time": "time-not-supplied",
       "symbol": "CYD",
       "name": "China Yuchai International Limited",
-      "marketCap": "$1,733,346,476",
+      "marketCap": "$1,778,743,646",
       "fiscalQuarterEnding": "Mar/2026",
       "epsForecast": "",
       "noOfEsts": "1"
     },
     {
-      "eps": "$1.11",
-      "surprise": "N/A",
-      "time": "time-after-hours",
+      "eps": "$1.22",
+      "surprise": "6.09",
+      "time": "time-not-supplied",
       "symbol": "PRGS",
       "name": "Progress Software Corporation",
-      "marketCap": "$1,423,940,162",
+      "marketCap": "$1,412,999,724",
       "fiscalQuarterEnding": "May/2026",
       "epsForecast": "$1.15",
       "noOfEsts": "3"
@@ -62,10 +62,21 @@
       "time": "time-not-supplied",
       "symbol": "LAES",
       "name": "SEALSQ Corp",
-      "marketCap": "$715,104,537",
+      "marketCap": "$701,738,097",
       "fiscalQuarterEnding": "Mar/2026",
       "epsForecast": "",
       "noOfEsts": "1"
+    },
+    {
+      "eps": "($0.03)",
+      "surprise": "N/A",
+      "time": "time-not-supplied",
+      "symbol": "NKLR",
+      "name": "Terra Innovatum Global N.V.",
+      "marketCap": "$543,664,467",
+      "fiscalQuarterEnding": "Mar/2026",
+      "epsForecast": "",
+      "noOfEsts": "N/A"
     },
     {
       "eps": "($0.13)",
@@ -73,7 +84,7 @@
       "time": "time-not-supplied",
       "symbol": "CURR",
       "name": "Currenc Group Inc.",
-      "marketCap": "$300,915,452",
+      "marketCap": "$303,161,090",
       "fiscalQuarterEnding": "Mar/2026",
       "epsForecast": "",
       "noOfEsts": "1"
@@ -95,10 +106,21 @@
       "time": "time-not-supplied",
       "symbol": "AVXL",
       "name": "Anavex Life Sciences Corp.",
-      "marketCap": "$240,946,571",
+      "marketCap": "$240,019,853",
       "fiscalQuarterEnding": "Mar/2026",
       "epsForecast": "($0.07)",
       "noOfEsts": "1"
+    },
+    {
+      "eps": "$0.02",
+      "surprise": "N/A",
+      "time": "time-not-supplied",
+      "symbol": "GHG",
+      "name": "GreenTree Hospitality Group Ltd.",
+      "marketCap": "$114,013,977",
+      "fiscalQuarterEnding": "Mar/2026",
+      "epsForecast": "",
+      "noOfEsts": "N/A"
     },
     {
       "eps": "($0.18)",
@@ -106,7 +128,7 @@
       "time": "time-not-supplied",
       "symbol": "ALPS",
       "name": "ALPS Group Inc",
-      "marketCap": "$98,176,192",
+      "marketCap": "$96,512,189",
       "fiscalQuarterEnding": "Mar/2026",
       "epsForecast": "",
       "noOfEsts": "1"
@@ -117,7 +139,7 @@
       "time": "time-not-supplied",
       "symbol": "SOGP",
       "name": "Sound Group Inc.",
-      "marketCap": "$46,959,143",
+      "marketCap": "$46,854,789",
       "fiscalQuarterEnding": "Mar/2026",
       "epsForecast": "",
       "noOfEsts": "1"
@@ -128,10 +150,21 @@
       "time": "time-not-supplied",
       "symbol": "AAME",
       "name": "Atlantic American Corporation",
-      "marketCap": "$35,083,232",
+      "marketCap": "$34,063,371",
       "fiscalQuarterEnding": "Mar/2026",
       "epsForecast": "",
       "noOfEsts": "1"
+    },
+    {
+      "eps": "($0.16)",
+      "surprise": "N/A",
+      "time": "time-not-supplied",
+      "symbol": "BRLS",
+      "name": "Borealis Foods Inc.",
+      "marketCap": "$33,268,124",
+      "fiscalQuarterEnding": "Mar/2026",
+      "epsForecast": "",
+      "noOfEsts": "N/A"
     },
     {
       "eps": "($0.24)",
@@ -139,20 +172,9 @@
       "time": "time-not-supplied",
       "symbol": "FTHM",
       "name": "Fathom Holdings Inc.",
-      "marketCap": "$35,077,129",
+      "marketCap": "$33,110,188",
       "fiscalQuarterEnding": "Mar/2026",
       "epsForecast": "($0.10)",
-      "noOfEsts": "1"
-    },
-    {
-      "eps": "($0.20)",
-      "surprise": "N/A",
-      "time": "time-not-supplied",
-      "symbol": "BRLS",
-      "name": "Borealis Foods Inc.",
-      "marketCap": "$32,194,959",
-      "fiscalQuarterEnding": "Mar/2026",
-      "epsForecast": "",
       "noOfEsts": "1"
     },
     {
@@ -161,7 +183,7 @@
       "time": "time-not-supplied",
       "symbol": "NRSN",
       "name": "NeuroSense Therapeutics Ltd.",
-      "marketCap": "$25,094,832",
+      "marketCap": "$25,451,865",
       "fiscalQuarterEnding": "Mar/2026",
       "epsForecast": "",
       "noOfEsts": "1"
@@ -172,7 +194,7 @@
       "time": "time-not-supplied",
       "symbol": "UTSI",
       "name": "UTStarcom Holdings Corp",
-      "marketCap": "$22,595,982",
+      "marketCap": "$23,640,334",
       "fiscalQuarterEnding": "Mar/2026",
       "epsForecast": "",
       "noOfEsts": "1"
@@ -183,7 +205,7 @@
       "time": "time-not-supplied",
       "symbol": "RGNT",
       "name": "Regentis Biomaterials Ltd.",
-      "marketCap": "$19,526,255",
+      "marketCap": "$18,283,204",
       "fiscalQuarterEnding": "Mar/2026",
       "epsForecast": "",
       "noOfEsts": "1"
@@ -194,7 +216,7 @@
       "time": "time-not-supplied",
       "symbol": "REBN",
       "name": "Reborn Coffee, Inc.",
-      "marketCap": "$12,073,779",
+      "marketCap": "$12,402,317",
       "fiscalQuarterEnding": "Mar/2026",
       "epsForecast": "",
       "noOfEsts": "1"
@@ -205,7 +227,7 @@
       "time": "time-not-supplied",
       "symbol": "GDTC",
       "name": "CytoMed Therapeutics Limited",
-      "marketCap": "$11,828,435",
+      "marketCap": "$12,183,288",
       "fiscalQuarterEnding": "Mar/2026",
       "epsForecast": "",
       "noOfEsts": "1"
@@ -216,7 +238,7 @@
       "time": "time-not-supplied",
       "symbol": "CETY",
       "name": "Clean Energy Technologies, Inc.",
-      "marketCap": "$9,855,762",
+      "marketCap": "$10,268,193",
       "fiscalQuarterEnding": "Mar/2026",
       "epsForecast": "",
       "noOfEsts": "1"
@@ -227,7 +249,7 @@
       "time": "time-not-supplied",
       "symbol": "RVSN",
       "name": "Rail Vision Ltd.",
-      "marketCap": "$9,842,915",
+      "marketCap": "$10,105,977",
       "fiscalQuarterEnding": "Mar/2026",
       "epsForecast": "",
       "noOfEsts": "1"
@@ -238,7 +260,7 @@
       "time": "time-not-supplied",
       "symbol": "GAUZ",
       "name": "Gauzy Ltd.",
-      "marketCap": "$9,104,909",
+      "marketCap": "$8,994,330",
       "fiscalQuarterEnding": "Mar/2026",
       "epsForecast": "",
       "noOfEsts": "1"
@@ -249,7 +271,7 @@
       "time": "time-not-supplied",
       "symbol": "GURE",
       "name": "Gulf Resources, Inc.",
-      "marketCap": "$6,042,659",
+      "marketCap": "$5,619,288",
       "fiscalQuarterEnding": "Mar/2026",
       "epsForecast": "",
       "noOfEsts": "1"
@@ -260,7 +282,7 @@
       "time": "time-not-supplied",
       "symbol": "NIVF",
       "name": "NewGenIvf Group Limited",
-      "marketCap": "$5,225,143",
+      "marketCap": "$5,399,415",
       "fiscalQuarterEnding": "Mar/2026",
       "epsForecast": "",
       "noOfEsts": "1"
@@ -271,7 +293,7 @@
       "time": "time-not-supplied",
       "symbol": "UK",
       "name": "Ucommune International Ltd ",
-      "marketCap": "$1,322,004",
+      "marketCap": "$1,376,241",
       "fiscalQuarterEnding": "Mar/2026",
       "epsForecast": "",
       "noOfEsts": "1"

@@ -7,9 +7,9 @@
       "time": "time-pre-market",
       "symbol": "JPM",
       "name": "J P Morgan Chase & Co",
-      "marketCap": "$882,604,265,975",
+      "marketCap": "$877,084,472,454",
       "fiscalQuarterEnding": "Jun/2026",
-      "epsForecast": "$5.47",
+      "epsForecast": "$5.49",
       "noOfEsts": "6"
     },
     {
@@ -18,7 +18,7 @@
       "time": "time-pre-market",
       "symbol": "BAC",
       "name": "Bank of America Corporation",
-      "marketCap": "$410,750,666,880",
+      "marketCap": "$404,363,735,294",
       "fiscalQuarterEnding": "Jun/2026",
       "epsForecast": "$1.11",
       "noOfEsts": "6"
@@ -29,7 +29,7 @@
       "time": "time-pre-market",
       "symbol": "GS",
       "name": "Goldman Sachs Group, Inc. (The)",
-      "marketCap": "$300,969,520,978",
+      "marketCap": "$298,361,655,377",
       "fiscalQuarterEnding": "Jun/2026",
       "epsForecast": "$13.78",
       "noOfEsts": "6"
@@ -40,7 +40,7 @@
       "time": "time-pre-market",
       "symbol": "WFC",
       "name": "Wells Fargo & Company",
-      "marketCap": "$255,556,424,644",
+      "marketCap": "$252,894,059,784",
       "fiscalQuarterEnding": "Jun/2026",
       "epsForecast": "$1.73",
       "noOfEsts": "7"
@@ -51,7 +51,7 @@
       "time": "time-pre-market",
       "symbol": "C",
       "name": "Citigroup Inc.",
-      "marketCap": "$243,027,660,318",
+      "marketCap": "$238,712,550,622",
       "fiscalQuarterEnding": "Jun/2026",
       "epsForecast": "$2.65",
       "noOfEsts": "7"
@@ -62,7 +62,7 @@
       "time": "time-pre-market",
       "symbol": "FAST",
       "name": "Fastenal Company",
-      "marketCap": "$54,416,861,891",
+      "marketCap": "$55,140,123,980",
       "fiscalQuarterEnding": "Jun/2026",
       "epsForecast": "$0.33",
       "noOfEsts": "7"
@@ -84,7 +84,7 @@
       "time": "time-not-supplied",
       "symbol": "AEHR",
       "name": "Aehr Test Systems",
-      "marketCap": "$3,042,501,577",
+      "marketCap": "$3,083,915,811",
       "fiscalQuarterEnding": "May/2026",
       "epsForecast": "($0.06)",
       "noOfEsts": "1"
@@ -95,10 +95,21 @@
       "time": "time-after-hours",
       "symbol": "EQBK",
       "name": "Equity Bancshares, Inc.",
-      "marketCap": "$1,013,668,608",
+      "marketCap": "$1,011,191,714",
       "fiscalQuarterEnding": "Jun/2026",
       "epsForecast": "$1.24",
       "noOfEsts": "3"
+    },
+    {
+      "lastYearRptDt": "7/15/2025",
+      "lastYearEPS": "($0.03)",
+      "time": "time-pre-market",
+      "symbol": "ANGO",
+      "name": "AngioDynamics, Inc.",
+      "marketCap": "$537,559,084",
+      "fiscalQuarterEnding": "May/2026",
+      "epsForecast": "($0.11)",
+      "noOfEsts": "2"
     }
   ]
 }
