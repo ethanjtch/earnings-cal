@@ -14,6 +14,17 @@
     },
     {
       "lastYearRptDt": "7/29/2025",
+      "lastYearEPS": "$0.60",
+      "time": "time-pre-market",
+      "symbol": "GLW",
+      "name": "Corning Incorporated",
+      "marketCap": "$189,882,523,330",
+      "fiscalQuarterEnding": "Jun/2026",
+      "epsForecast": "$0.76",
+      "noOfEsts": "5"
+    },
+    {
+      "lastYearRptDt": "7/29/2025",
       "lastYearEPS": "($1.24)",
       "time": "time-pre-market",
       "symbol": "BA",
@@ -136,7 +147,7 @@
     {
       "lastYearRptDt": "7/22/2025",
       "lastYearEPS": "$1.37",
-      "time": "time-not-supplied",
+      "time": "time-pre-market",
       "symbol": "PCAR",
       "name": "PACCAR Inc.",
       "marketCap": "$63,806,942,404",
@@ -200,17 +211,6 @@
       "noOfEsts": "5"
     },
     {
-      "lastYearRptDt": "7/22/2025",
-      "lastYearEPS": "$0.45",
-      "time": "time-not-supplied",
-      "symbol": "EQT",
-      "name": "EQT Corporation",
-      "marketCap": "$32,825,085,440",
-      "fiscalQuarterEnding": "Jun/2026",
-      "epsForecast": "$0.53",
-      "noOfEsts": "6"
-    },
-    {
       "lastYearRptDt": "7/30/2025",
       "lastYearEPS": "$2.05",
       "time": "time-after-hours",
@@ -220,6 +220,17 @@
       "fiscalQuarterEnding": "Jun/2026",
       "epsForecast": "$2.06",
       "noOfEsts": "5"
+    },
+    {
+      "lastYearRptDt": "7/31/2025",
+      "lastYearEPS": "$1.26",
+      "time": "time-pre-market",
+      "symbol": "XYL",
+      "name": "Xylem Inc.",
+      "marketCap": "$27,874,315,924",
+      "fiscalQuarterEnding": "Jun/2026",
+      "epsForecast": "$1.34",
+      "noOfEsts": "7"
     },
     {
       "lastYearRptDt": "7/29/2025",
@@ -334,7 +345,7 @@
     {
       "lastYearRptDt": "7/22/2025",
       "lastYearEPS": "$0.08",
-      "time": "time-not-supplied",
+      "time": "time-after-hours",
       "symbol": "CSGP",
       "name": "CoStar Group, Inc.",
       "marketCap": "$11,989,323,792",
@@ -388,17 +399,6 @@
     },
     {
       "lastYearRptDt": "7/22/2025",
-      "lastYearEPS": "$0.61",
-      "time": "time-not-supplied",
-      "symbol": "RRC",
-      "name": "Range Resources Corporation",
-      "marketCap": "$8,710,954,583",
-      "fiscalQuarterEnding": "Jun/2026",
-      "epsForecast": "$0.53",
-      "noOfEsts": "6"
-    },
-    {
-      "lastYearRptDt": "7/22/2025",
       "lastYearEPS": "$0.97",
       "time": "time-not-supplied",
       "symbol": "MANH",
@@ -421,13 +421,24 @@
     },
     {
       "lastYearRptDt": "7/29/2025",
+      "lastYearEPS": "$0.63",
+      "time": "time-after-hours",
+      "symbol": "STAG",
+      "name": "Stag Industrial, Inc.",
+      "marketCap": "$7,330,801,809",
+      "fiscalQuarterEnding": "Jun/2026",
+      "epsForecast": "$0.65",
+      "noOfEsts": "2"
+    },
+    {
+      "lastYearRptDt": "7/29/2025",
       "lastYearEPS": "$1.20",
       "time": "time-after-hours",
       "symbol": "LSTR",
       "name": "Landstar System, Inc.",
       "marketCap": "$7,035,014,344",
       "fiscalQuarterEnding": "Jun/2026",
-      "epsForecast": "$1.41",
+      "epsForecast": "$1.42",
       "noOfEsts": "5"
     },
     {
@@ -460,7 +471,7 @@
       "name": "Chemed Corp.",
       "marketCap": "$6,383,118,390",
       "fiscalQuarterEnding": "Jun/2026",
-      "epsForecast": "$4.98",
+      "epsForecast": "$5.12",
       "noOfEsts": "2"
     },
     {
@@ -497,6 +508,28 @@
       "noOfEsts": "2"
     },
     {
+      "lastYearRptDt": "7/30/2025",
+      "lastYearEPS": "$0.90",
+      "time": "time-after-hours",
+      "symbol": "RUSHA",
+      "name": "Rush Enterprises, Inc.",
+      "marketCap": "$5,592,953,583",
+      "fiscalQuarterEnding": "Jun/2026",
+      "epsForecast": "$0.93",
+      "noOfEsts": "1"
+    },
+    {
+      "lastYearRptDt": "N/A",
+      "lastYearEPS": "$0.90",
+      "time": "time-after-hours",
+      "symbol": "RUSHB",
+      "name": "Rush Enterprises, Inc.",
+      "marketCap": "$5,592,953,583",
+      "fiscalQuarterEnding": "Jun/2026",
+      "epsForecast": "",
+      "noOfEsts": "6"
+    },
+    {
       "lastYearRptDt": "7/22/2025",
       "lastYearEPS": "$0.12",
       "time": "time-not-supplied",
@@ -515,7 +548,7 @@
       "name": "PennyMac Financial Services, Inc.",
       "marketCap": "$4,404,787,146",
       "fiscalQuarterEnding": "Jun/2026",
-      "epsForecast": "$2.37",
+      "epsForecast": "$2.26",
       "noOfEsts": "2"
     },
     {
@@ -559,7 +592,7 @@
       "name": "Community Financial System, Inc.",
       "marketCap": "$3,597,384,890",
       "fiscalQuarterEnding": "Jun/2026",
-      "epsForecast": "$1.20",
+      "epsForecast": "$1.19",
       "noOfEsts": "3"
     },
     {
@@ -616,6 +649,17 @@
       "fiscalQuarterEnding": "Jun/2026",
       "epsForecast": "$0.41",
       "noOfEsts": "3"
+    },
+    {
+      "lastYearRptDt": "7/29/2025",
+      "lastYearEPS": "$0.32",
+      "time": "time-after-hours",
+      "symbol": "AKR",
+      "name": "Acadia Realty Trust",
+      "marketCap": "$2,810,535,818",
+      "fiscalQuarterEnding": "Jun/2026",
+      "epsForecast": "$0.29",
+      "noOfEsts": "1"
     },
     {
       "lastYearRptDt": "7/22/2025",
@@ -693,6 +737,28 @@
       "fiscalQuarterEnding": "May/2026",
       "epsForecast": "$0.51",
       "noOfEsts": "3"
+    },
+    {
+      "lastYearRptDt": "7/29/2025",
+      "lastYearEPS": "($2.71)",
+      "time": "time-after-hours",
+      "symbol": "NBR",
+      "name": "Nabors Industries Ltd.",
+      "marketCap": "$1,234,767,517",
+      "fiscalQuarterEnding": "Jun/2026",
+      "epsForecast": "($1.55)",
+      "noOfEsts": "2"
+    },
+    {
+      "lastYearRptDt": "7/28/2025",
+      "lastYearEPS": "$0.36",
+      "time": "time-after-hours",
+      "symbol": "PDM",
+      "name": "Piedmont Realty Trust, Inc.",
+      "marketCap": "$1,181,429,578",
+      "fiscalQuarterEnding": "Jun/2026",
+      "epsForecast": "$0.37",
+      "noOfEsts": "1"
     },
     {
       "lastYearRptDt": "7/22/2025",

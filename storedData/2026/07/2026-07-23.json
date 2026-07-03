@@ -92,7 +92,7 @@
     {
       "lastYearRptDt": "7/24/2025",
       "lastYearEPS": "$1.43",
-      "time": "time-not-supplied",
+      "time": "time-after-hours",
       "symbol": "NEM",
       "name": "Newmont Corporation",
       "marketCap": "$99,602,672,881",
@@ -103,7 +103,7 @@
     {
       "lastYearRptDt": "7/24/2025",
       "lastYearEPS": "$1.21",
-      "time": "time-not-supplied",
+      "time": "time-pre-market",
       "symbol": "BX",
       "name": "Blackstone Inc.",
       "marketCap": "$88,811,280,927",
@@ -378,7 +378,7 @@
     {
       "lastYearRptDt": "7/24/2025",
       "lastYearEPS": "$2.21",
-      "time": "time-not-supplied",
+      "time": "time-after-hours",
       "symbol": "VRSN",
       "name": "VeriSign, Inc.",
       "marketCap": "$23,286,900,000",
@@ -394,8 +394,8 @@
       "name": "Dow Inc.",
       "marketCap": "$19,474,433,655",
       "fiscalQuarterEnding": "Jun/2026",
-      "epsForecast": "$1.31",
-      "noOfEsts": "4"
+      "epsForecast": "$1.28",
+      "noOfEsts": "5"
     },
     {
       "lastYearRptDt": "7/24/2025",
@@ -411,7 +411,7 @@
     {
       "lastYearRptDt": "7/24/2025",
       "lastYearEPS": "$0.81",
-      "time": "time-not-supplied",
+      "time": "time-pre-market",
       "symbol": "TSCO",
       "name": "Tractor Supply Company",
       "marketCap": "$16,918,744,612",
@@ -422,7 +422,7 @@
     {
       "lastYearRptDt": "7/24/2025",
       "lastYearEPS": "$1.02",
-      "time": "time-not-supplied",
+      "time": "time-after-hours",
       "symbol": "OVV",
       "name": "Ovintiv Inc.",
       "marketCap": "$14,861,928,586",
@@ -497,6 +497,17 @@
       "noOfEsts": "2"
     },
     {
+      "lastYearRptDt": "7/23/2025",
+      "lastYearEPS": "($0.10)",
+      "time": "time-after-hours",
+      "symbol": "MXL",
+      "name": "MaxLinear, Inc",
+      "marketCap": "$10,064,070,332",
+      "fiscalQuarterEnding": "Jun/2026",
+      "epsForecast": "$0.13",
+      "noOfEsts": "4"
+    },
+    {
       "lastYearRptDt": "7/24/2025",
       "lastYearEPS": "$0.83",
       "time": "time-not-supplied",
@@ -564,17 +575,6 @@
     },
     {
       "lastYearRptDt": "7/24/2025",
-      "lastYearEPS": "$1.07",
-      "time": "time-not-supplied",
-      "symbol": "AOS",
-      "name": "A.O. Smith Corporation",
-      "marketCap": "$8,564,670,695",
-      "fiscalQuarterEnding": "Jun/2026",
-      "epsForecast": "$0.99",
-      "noOfEsts": "6"
-    },
-    {
-      "lastYearRptDt": "7/24/2025",
       "lastYearEPS": "$0.23",
       "time": "time-not-supplied",
       "symbol": "VLY",
@@ -598,7 +598,7 @@
     {
       "lastYearRptDt": "7/24/2025",
       "lastYearEPS": "$4.78",
-      "time": "time-not-supplied",
+      "time": "time-after-hours",
       "symbol": "KNSL",
       "name": "Kinsale Capital Group, Inc.",
       "marketCap": "$7,962,899,516",
@@ -638,17 +638,6 @@
       "fiscalQuarterEnding": "Jun/2026",
       "epsForecast": "$1.03",
       "noOfEsts": "1"
-    },
-    {
-      "lastYearRptDt": "7/24/2025",
-      "lastYearEPS": "$2.77",
-      "time": "time-not-supplied",
-      "symbol": "MHK",
-      "name": "Mohawk Industries, Inc.",
-      "marketCap": "$7,305,843,960",
-      "fiscalQuarterEnding": "Jun/2026",
-      "epsForecast": "$2.57",
-      "noOfEsts": "4"
     },
     {
       "lastYearRptDt": "7/24/2025",
@@ -706,6 +695,17 @@
       "noOfEsts": "4"
     },
     {
+      "lastYearRptDt": "7/28/2025",
+      "lastYearEPS": "$1.59",
+      "time": "time-after-hours",
+      "symbol": "ABCB",
+      "name": "Ameris Bancorp",
+      "marketCap": "$6,257,350,501",
+      "fiscalQuarterEnding": "Jun/2026",
+      "epsForecast": "$1.66",
+      "noOfEsts": "3"
+    },
+    {
       "lastYearRptDt": "7/24/2025",
       "lastYearEPS": "$2.95",
       "time": "time-not-supplied",
@@ -735,8 +735,19 @@
       "name": "Associated Banc-Corp",
       "marketCap": "$5,888,354,092",
       "fiscalQuarterEnding": "Jun/2026",
-      "epsForecast": "$0.73",
+      "epsForecast": "$0.71",
       "noOfEsts": "3"
+    },
+    {
+      "lastYearRptDt": "7/21/2025",
+      "lastYearEPS": "($0.50)",
+      "time": "time-pre-market",
+      "symbol": "CLF",
+      "name": "Cleveland-Cliffs Inc.",
+      "marketCap": "$5,373,306,069",
+      "fiscalQuarterEnding": "Jun/2026",
+      "epsForecast": "($0.18)",
+      "noOfEsts": "4"
     },
     {
       "lastYearRptDt": "7/24/2025",
@@ -774,7 +785,7 @@
     {
       "lastYearRptDt": "7/24/2025",
       "lastYearEPS": "$0.41",
-      "time": "time-not-supplied",
+      "time": "time-after-hours",
       "symbol": "EBC",
       "name": "Eastern Bankshares, Inc.",
       "marketCap": "$5,230,768,330",
@@ -818,7 +829,7 @@
     {
       "lastYearRptDt": "7/24/2025",
       "lastYearEPS": "$0.52",
-      "time": "time-not-supplied",
+      "time": "time-pre-market",
       "symbol": "LAZ",
       "name": "Lazard, Inc.",
       "marketCap": "$4,614,917,377",
@@ -867,19 +878,30 @@
       "name": "Liberty Energy Inc.",
       "marketCap": "$3,967,183,323",
       "fiscalQuarterEnding": "Jun/2026",
-      "epsForecast": "$0.07",
+      "epsForecast": "$0.06",
       "noOfEsts": "6"
     },
     {
       "lastYearRptDt": "7/24/2025",
       "lastYearEPS": "$2.91",
-      "time": "time-not-supplied",
+      "time": "time-after-hours",
       "symbol": "SKYW",
       "name": "SkyWest, Inc.",
       "marketCap": "$3,900,588,636",
       "fiscalQuarterEnding": "Jun/2026",
       "epsForecast": "$2.85",
       "noOfEsts": "2"
+    },
+    {
+      "lastYearRptDt": "7/29/2025",
+      "lastYearEPS": "$0.69",
+      "time": "time-after-hours",
+      "symbol": "FIBK",
+      "name": "First Interstate BancSystem, Inc.",
+      "marketCap": "$3,813,829,430",
+      "fiscalQuarterEnding": "Jun/2026",
+      "epsForecast": "$0.64",
+      "noOfEsts": "3"
     },
     {
       "lastYearRptDt": "N/A",
@@ -948,17 +970,6 @@
       "noOfEsts": "3"
     },
     {
-      "lastYearRptDt": "7/24/2025",
-      "lastYearEPS": "$1.55",
-      "time": "time-not-supplied",
-      "symbol": "ITGR",
-      "name": "Integer Holdings Corporation",
-      "marketCap": "$3,211,109,124",
-      "fiscalQuarterEnding": "Jun/2026",
-      "epsForecast": "$1.38",
-      "noOfEsts": "5"
-    },
-    {
       "lastYearRptDt": "N/A",
       "lastYearEPS": "$0.23",
       "time": "time-not-supplied",
@@ -1010,7 +1021,7 @@
       "name": "Customers Bancorp, Inc",
       "marketCap": "$2,701,609,779",
       "fiscalQuarterEnding": "Jun/2026",
-      "epsForecast": "$2.02",
+      "epsForecast": "$2",
       "noOfEsts": "6"
     },
     {
@@ -1067,17 +1078,6 @@
       "fiscalQuarterEnding": "Jun/2026",
       "epsForecast": "$0.42",
       "noOfEsts": "3"
-    },
-    {
-      "lastYearRptDt": "7/24/2025",
-      "lastYearEPS": "$1.55",
-      "time": "time-not-supplied",
-      "symbol": "MTX",
-      "name": "Minerals Technologies Inc.",
-      "marketCap": "$2,287,824,395",
-      "fiscalQuarterEnding": "Jun/2026",
-      "epsForecast": "$1.63",
-      "noOfEsts": "2"
     },
     {
       "lastYearRptDt": "7/24/2025",
@@ -1176,6 +1176,17 @@
       "marketCap": "$1,740,536,897",
       "fiscalQuarterEnding": "Jun/2026",
       "epsForecast": "$0.79",
+      "noOfEsts": "2"
+    },
+    {
+      "lastYearRptDt": "7/29/2025",
+      "lastYearEPS": "($0.02)",
+      "time": "time-after-hours",
+      "symbol": "ATRC",
+      "name": "AtriCure, Inc.",
+      "marketCap": "$1,505,556,038",
+      "fiscalQuarterEnding": "Jun/2026",
+      "epsForecast": "$0.03",
       "noOfEsts": "2"
     },
     {
@@ -1313,13 +1324,24 @@
     {
       "lastYearRptDt": "7/24/2025",
       "lastYearEPS": "$0.87",
-      "time": "time-not-supplied",
+      "time": "time-after-hours",
       "symbol": "SCHL",
       "name": "Scholastic Corporation",
       "marketCap": "$1,029,284,080",
       "fiscalQuarterEnding": "May/2026",
       "epsForecast": "$2.19",
       "noOfEsts": "2"
+    },
+    {
+      "lastYearRptDt": "7/28/2025",
+      "lastYearEPS": "$0.66",
+      "time": "time-after-hours",
+      "symbol": "BFST",
+      "name": "Business First Bancshares, Inc.",
+      "marketCap": "$1,026,741,755",
+      "fiscalQuarterEnding": "Jun/2026",
+      "epsForecast": "$0.71",
+      "noOfEsts": "3"
     },
     {
       "lastYearRptDt": "N/A",
@@ -1485,17 +1507,6 @@
       "fiscalQuarterEnding": "Jun/2026",
       "epsForecast": "$0.78",
       "noOfEsts": "3"
-    },
-    {
-      "lastYearRptDt": "7/24/2025",
-      "lastYearEPS": "$0.53",
-      "time": "time-not-supplied",
-      "symbol": "AMSF",
-      "name": "AMERISAFE, Inc.",
-      "marketCap": "$642,661,572",
-      "fiscalQuarterEnding": "Jun/2026",
-      "epsForecast": "$0.53",
-      "noOfEsts": "1"
     },
     {
       "lastYearRptDt": "7/24/2025",
@@ -1901,8 +1912,8 @@
       "name": "HeartSciences Inc.",
       "marketCap": "$9,363,018",
       "fiscalQuarterEnding": "Apr/2026",
-      "epsForecast": "($0.68)",
-      "noOfEsts": "1"
+      "epsForecast": "($0.73)",
+      "noOfEsts": "2"
     }
   ]
 }
