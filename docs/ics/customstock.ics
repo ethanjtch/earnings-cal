@@ -6,9 +6,9 @@ METHOD:PUBLISH
 X-WR-CALNAME:Earnings Calendar 财报日历
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:5p5Sikt4hA6RHhckMPnId
+UID:dhNURwPKMx1_JSqtFNbY8
 SUMMARY:C3.ai 发布财报
-DTSTAMP:20260702T181738Z
+DTSTAMP:20260703T074911Z
 DTSTART;VALUE=DATE:20260603
 DESCRIPTION:财务季度：Apr/2026。\n代码：AI，公司：C3.ai，行业: 软件。\n预计每股收益: ($0.74)，当前市值: $
 	1\,556\,068\,988。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=AI \n在富途查看
@@ -22,9 +22,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:QVwOfKtiem4D4gW2is62v
+UID:9guK9hPFJvvsv1qcGR3bR
 SUMMARY:台积电 盘前发布财报
-DTSTAMP:20260702T181738Z
+DTSTAMP:20260703T074911Z
 DTSTART;VALUE=DATE:20260716
 DESCRIPTION:财务季度：Jun/2026。\n代码：TSM，公司：台积电，行业: 半导体。\n预计每股收益: $3.77，当前市值: $2\
 	,304\,001\,073\,504。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=TSM \n在
@@ -38,9 +38,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:vB_yb_XYOlDRYrVWwJyW4
+UID:LtM5ofp3u7GxQhB9FHjDd
 SUMMARY:Arm 发布财报
-DTSTAMP:20260702T181738Z
+DTSTAMP:20260703T074911Z
 DTSTART;VALUE=DATE:20260729
 DESCRIPTION:财务季度：Jun/2026。\n代码：ARM，公司：Arm，行业: 半导体。\n预计每股收益: $0.18，当前市值: $35
 	9\,086\,725\,892。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=ARM \n在富途查
@@ -54,9 +54,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:ayXi_D9pEfEB8W7tWs5ET
+UID:khXzDkyFU1NxtnN_eAsa_
 SUMMARY:Cloudflare 发布财报
-DTSTAMP:20260702T181738Z
+DTSTAMP:20260703T074911Z
 DTSTART;VALUE=DATE:20260730
 DESCRIPTION:财务季度：Jun/2026。\n代码：NET，公司：Cloudflare，行业: 云计算。\n预计每股收益: ($0.03)，
 	当前市值: $87\,062\,278\,442。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=NE
@@ -70,9 +70,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:lO2gIG9GpCWEYQti5EeYu
+UID:Rkp-8s9hs-GNyOEzMHZ0u
 SUMMARY:Coinbase 发布财报
-DTSTAMP:20260702T181738Z
+DTSTAMP:20260703T074911Z
 DTSTART;VALUE=DATE:20260730
 DESCRIPTION:财务季度：Jun/2026。\n代码：COIN，公司：Coinbase，行业: 金融科技。\n预计每股收益: $0.31，当前
 	市值: $41\,945\,585\,793。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=COIN

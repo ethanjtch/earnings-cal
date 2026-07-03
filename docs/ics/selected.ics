@@ -6,57 +6,9 @@ METHOD:PUBLISH
 X-WR-CALNAME:Earnings Calendar 财报日历
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:0naTcsCBE4C4dNtBFCrBE
-SUMMARY:派拓网络 发布财报
-DTSTAMP:20260702T181747Z
-DTSTART;VALUE=DATE:20260602
-DESCRIPTION:财务季度：Apr/2026。\n代码：PANW，公司：派拓网络，行业: 信息技术。\n预计每股收益: $0.43，当前市值: 
-	$242\,498\,880\,000。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=PANW \n
-	在富途查看：https://www.futunn.com/hk/stock/PANW-US 
-STATUS:CONFIRMED
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-TRIGGER:-PT2H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:dA_wrIZh-80WJX09hq9G4
-SUMMARY:Dollar General 发布财报
-DTSTAMP:20260702T181747Z
-DTSTART;VALUE=DATE:20260602
-DESCRIPTION:财务季度：Apr/2026。\n代码：DG，公司：Dollar General，行业: 非必需消费品。\n预计每股收益: $1
-	.89，当前市值: $23\,403\,451\,026。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbo
-	l=DG \n在富途查看：https://www.futunn.com/hk/stock/DG-US 
-STATUS:CONFIRMED
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-TRIGGER:-PT2H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:J_SutjBmNnUn7dTCw3Umx
-SUMMARY:犹他美容 发布财报
-DTSTAMP:20260702T181747Z
-DTSTART;VALUE=DATE:20260602
-DESCRIPTION:财务季度：Apr/2026。\n代码：ULTA，公司：犹他美容，行业: 非必需消费品。\n预计每股收益: $6.90，当前市值
-	: $21\,556\,743\,066。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=ULTA \
-	n在富途查看：https://www.futunn.com/hk/stock/ULTA-US 
-STATUS:CONFIRMED
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-TRIGGER:-PT2H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:k86d0uz4P0nf7YbL5u4Ry
+UID:wF6N3nrOi_9KMAKKsrCZT
 SUMMARY:博通有限 发布财报
-DTSTAMP:20260702T181747Z
+DTSTAMP:20260703T074920Z
 DTSTART;VALUE=DATE:20260603
 DESCRIPTION:财务季度：Apr/2026。\n代码：AVGO，公司：博通有限，行业: 信息技术。\n预计每股收益: $2.02，当前市值: 
 	$2\,268\,995\,033\,818。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=AVGO
@@ -70,9 +22,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:vhbVQuNH2Es2T7Z3Sm1WP
+UID:BKQNgLdXp09S9I2UqL1Cj
 SUMMARY:CrowdStrike 发布财报
-DTSTAMP:20260702T181747Z
+DTSTAMP:20260703T074920Z
 DTSTART;VALUE=DATE:20260603
 DESCRIPTION:财务季度：Apr/2026。\n代码：CRWD，公司：CrowdStrike，行业: 信息技术。\n预计每股收益: $0.13
 	，当前市值: $190\,294\,048\,465。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=
@@ -86,9 +38,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:ec7gkDKAydHZlKTWpVGmf
+UID:iAPL5XeyF6GAuEuVQlTRz
 SUMMARY:美敦力 发布财报
-DTSTAMP:20260702T181747Z
+DTSTAMP:20260703T074920Z
 DTSTART;VALUE=DATE:20260603
 DESCRIPTION:财务季度：Apr/2026。\n代码：MDT，公司：美敦力，行业: 卫生保健。\n预计每股收益: $1.54，当前市值: $1
 	00\,078\,832\,944。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=MDT \n在富途
@@ -102,9 +54,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:qM2fe-oH0FK9JlHoHagnH
+UID:b8q7fVqOYzSVp5FhkYC2j
 SUMMARY:C3.ai 发布财报
-DTSTAMP:20260702T181747Z
+DTSTAMP:20260703T074920Z
 DTSTART;VALUE=DATE:20260603
 DESCRIPTION:财务季度：Apr/2026。\n代码：AI，公司：C3.ai，行业: 软件。\n预计每股收益: ($0.74)，当前市值: $
 	1\,556\,068\,988。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=AI \n在富途查看
@@ -118,9 +70,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:dtumJJ4ndPHEXlcpd-FAr
+UID:Hgn2iyDtOAr0jjmWvqYjR
 SUMMARY:露露柠檬 盘后发布财报
-DTSTAMP:20260702T181747Z
+DTSTAMP:20260703T074920Z
 DTSTART;VALUE=DATE:20260604
 DESCRIPTION:财务季度：Apr/2026。\n代码：LULU，公司：露露柠檬，行业: 非必需消费品。\n预计每股收益: $1.67，当前市值
 	: $13\,777\,471\,554。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=LULU \
@@ -134,9 +86,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:9wVfJVuhLtgHFkXIMUsQG
+UID:aLZbfwq98RvY4rTrjtCil
 SUMMARY:The Cooper Companies 盘后发布财报
-DTSTAMP:20260702T181747Z
+DTSTAMP:20260703T074920Z
 DTSTART;VALUE=DATE:20260604
 DESCRIPTION:财务季度：Apr/2026。\n代码：COO，公司：The Cooper Companies，行业: 卫生保健。\n预计每股收
 	益: $1.10，当前市值: $11\,773\,202\,775。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?
@@ -150,9 +102,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:LbQwvxKzP-2Ek8TXLMspa
+UID:l0KkHz_flTno_uwuC9SMh
 SUMMARY:布朗霍文 盘前发布财报
-DTSTAMP:20260702T181747Z
+DTSTAMP:20260703T074920Z
 DTSTART;VALUE=DATE:20260604
 DESCRIPTION:财务季度：Apr/2026。\n代码：BF.B，公司：布朗霍文，行业: 必需品。\n预计每股收益: $0.33，当前市值: $
 	11\,715\,290\,685。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=BF.B \n在富
@@ -166,9 +118,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:5sxQl74Q23PqzCogNv5SB
+UID:3K1fbZB570onUpeKEO1C-
 SUMMARY:金宝汤公司 发布财报
-DTSTAMP:20260702T181747Z
+DTSTAMP:20260703T074920Z
 DTSTART;VALUE=DATE:20260608
 DESCRIPTION:财务季度：Apr/2026。\n代码：CPB，公司：金宝汤公司，行业: 必需品。\n预计每股收益: $0.48，当前市值: $
 	6\,407\,168\,027。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=CPB \n在富途查
@@ -182,9 +134,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:ln6VmKpze23F90qzSQRoP
+UID:tbkZ_xbyWy_cKpj4wJtnI
 SUMMARY:The J.M. Smucker Company 发布财报
-DTSTAMP:20260702T181747Z
+DTSTAMP:20260703T074920Z
 DTSTART;VALUE=DATE:20260609
 DESCRIPTION:财务季度：Apr/2026。\n代码：SJM，公司：The J.M. Smucker Company，行业: 必需品。\n预计
 	每股收益: $2.65，当前市值: $11\,986\,204\,572。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks:
@@ -198,9 +150,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:2IRQ5do5c8d6vXbZYbKEX
+UID:QaMkRHr-akfAgOgNLUImc
 SUMMARY:甲骨文公司 发布财报
-DTSTAMP:20260702T181747Z
+DTSTAMP:20260703T074920Z
 DTSTART;VALUE=DATE:20260610
 DESCRIPTION:财务季度：May/2026。\n代码：ORCL，公司：甲骨文公司，行业: 信息技术。\n预计每股收益: $1.58，当前市值:
 	 $578\,833\,017\,960。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=ORCL \
@@ -214,9 +166,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:5PcQ2E53XSt4gEwPl9WWC
+UID:3RdxspPZrSzneN67VRcWo
 SUMMARY:Adobe 发布财报
-DTSTAMP:20260702T181747Z
+DTSTAMP:20260703T074920Z
 DTSTART;VALUE=DATE:20260611
 DESCRIPTION:财务季度：May/2026。\n代码：ADBE，公司：Adobe，行业: 信息技术。\n预计每股收益: $4.74，当前市值:
 	 $88\,438\,960\,000。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=ADBE \n
@@ -230,9 +182,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:bkp8GWgGc6XU-xjFUSVJo
+UID:G-9n2c0Do9SPLJhH_ToqX
 SUMMARY:Lennar Corporation 发布财报
-DTSTAMP:20260702T181747Z
+DTSTAMP:20260703T074920Z
 DTSTART;VALUE=DATE:20260611
 DESCRIPTION:财务季度：May/2026。\n代码：LEN，公司：Lennar Corporation，行业: 非必需消费品。\n预计每股收
 	益: $1.23，当前市值: $23\,386\,023\,205。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?
@@ -246,9 +198,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:Qw2qd4XEhqUYR8YJ407Op
+UID:-4nrYyBVIc7Rfru0EKvOg
 SUMMARY:CarMax 发布财报
-DTSTAMP:20260702T181747Z
+DTSTAMP:20260703T074920Z
 DTSTART;VALUE=DATE:20260617
 DESCRIPTION:财务季度：May/2026。\n代码：KMX，公司：CarMax，行业: 非必需消费品。\n预计每股收益: $0.94，当前市
 	值: $6\,730\,748\,566。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=KMX \n
@@ -262,9 +214,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:V89tnBV8uEe1j6Mdm3wN-
+UID:GfWGxTBEU38bEdJY-eNFL
 SUMMARY:埃森哲 发布财报
-DTSTAMP:20260702T181747Z
+DTSTAMP:20260703T074920Z
 DTSTART;VALUE=DATE:20260618
 DESCRIPTION:财务季度：May/2026。\n代码：ACN，公司：埃森哲，行业: 信息技术。\n预计每股收益: $3.70，当前市值: $1
 	03\,768\,809\,660。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=ACN \n在富途
@@ -278,9 +230,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:QvXuG-0JBwh_LkY-_ppL_
+UID:OIiLOKBtUr23c7oTvQTq5
 SUMMARY:克罗格 发布财报
-DTSTAMP:20260702T181747Z
+DTSTAMP:20260703T074920Z
 DTSTART;VALUE=DATE:20260618
 DESCRIPTION:财务季度：Apr/2026。\n代码：KR，公司：克罗格，行业: 必需品。\n预计每股收益: $1.59，当前市值: $37\
 	,873\,031\,284。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=KR \n在富途查看：h
@@ -294,9 +246,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:s5l_wbSWW_oJk7y5ga6Ht
+UID:Sn35frJEeYN28fnw7Yepl
 SUMMARY:联邦快递 发布财报
-DTSTAMP:20260702T181747Z
+DTSTAMP:20260703T074920Z
 DTSTART;VALUE=DATE:20260623
 DESCRIPTION:财务季度：May/2026。\n代码：FDX，公司：联邦快递，行业: 工业。\n预计每股收益: $5.91，当前市值: $75
 	\,695\,607\,273。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=FDX \n在富途查看
@@ -310,9 +262,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:zte1thRlbZMM8NOMoyoFw
+UID:HGzWj-rKAsXUwTxNakUsS
 SUMMARY:嘉年华公司 发布财报
-DTSTAMP:20260702T181747Z
+DTSTAMP:20260703T074920Z
 DTSTART;VALUE=DATE:20260623
 DESCRIPTION:财务季度：May/2026。\n代码：CCL，公司：嘉年华公司，行业: 非必需消费品。\n预计每股收益: $0.35，当前市值
 	: $41\,012\,615\,183。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=CCL \n
@@ -326,9 +278,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:O3wE9Ou7AbWVVSb1x3XXw
+UID:R_8ANKLI-Hvg5jtqId322
 SUMMARY:美光科技 发布财报
-DTSTAMP:20260702T181747Z
+DTSTAMP:20260703T074920Z
 DTSTART;VALUE=DATE:20260624
 DESCRIPTION:财务季度：May/2026。\n代码：MU，公司：美光科技，行业: 信息技术。\n预计每股收益: $20.98，当前市值: $
 	1\,182\,440\,429\,814。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=MU \n
@@ -342,9 +294,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:kw4H0rHFgNEfC_UIMbUe1
+UID:Z3Pv0Fe2Op9RwC5meVufV
 SUMMARY:沛齐 发布财报
-DTSTAMP:20260702T181747Z
+DTSTAMP:20260703T074920Z
 DTSTART;VALUE=DATE:20260624
 DESCRIPTION:财务季度：May/2026。\n代码：PAYX，公司：沛齐，行业: 信息技术。\n预计每股收益: $1.31，当前市值: $3
 	4\,503\,411\,840。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=PAYX \n在富途
@@ -358,9 +310,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:EprURtid20ICbmBD_Y8Bd
+UID:CbLvijn0MNQBgfYY-wXD9
 SUMMARY:达登餐饮公司 发布财报
-DTSTAMP:20260702T181747Z
+DTSTAMP:20260703T074920Z
 DTSTART;VALUE=DATE:20260625
 DESCRIPTION:财务季度：May/2026。\n代码：DRI，公司：达登餐饮公司，行业: 非必需消费品。\n预计每股收益: $3.63，当前市
 	值: $24\,368\,467\,238。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=DRI \
@@ -374,9 +326,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:Ipvz2z44f6K1uRLbTTM34
+UID:OxDUGD9fReKBE-omaMzjs
 SUMMARY:味可美 发布财报
-DTSTAMP:20260702T181747Z
+DTSTAMP:20260703T074920Z
 DTSTART;VALUE=DATE:20260625
 DESCRIPTION:财务季度：May/2026。\n代码：MKC，公司：味可美，行业: 必需品。\n预计每股收益: $0.69，当前市值: $12
 	\,992\,852\,300。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=MKC \n在富途查看
@@ -390,9 +342,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:88XU4ALAYt9LF3p-Cr5TN
+UID:OhImWamgv5DyU55kC64xs
 SUMMARY:Nike 发布财报
-DTSTAMP:20260702T181747Z
+DTSTAMP:20260703T074920Z
 DTSTART;VALUE=DATE:20260630
 DESCRIPTION:财务季度：May/2026。\n代码：NKE，公司：Nike，行业: 非必需消费品。\n预计每股收益: $0.11，当前市值:
 	 $60\,790\,412\,705。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=NKE \n在
@@ -406,9 +358,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:pePNuA5GuwJ0HMoye8msZ
+UID:AlPyCvYDOHzcJybWlmWwe
 SUMMARY:Constellation Brands 发布财报
-DTSTAMP:20260702T181747Z
+DTSTAMP:20260703T074920Z
 DTSTART;VALUE=DATE:20260630
 DESCRIPTION:财务季度：May/2026。\n代码：STZ，公司：Constellation Brands，行业: 必需品。\n预计每股收益
 	: $3.22，当前市值: $23\,951\,084\,775。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?s
@@ -422,9 +374,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:DkR4Reth7lZIAxAetZPmU
+UID:8xsnu8mASi4_2RlpJ9zUC
 SUMMARY:通用磨坊 发布财报
-DTSTAMP:20260702T181747Z
+DTSTAMP:20260703T074920Z
 DTSTART;VALUE=DATE:20260701
 DESCRIPTION:财务季度：May/2026。\n代码：GIS，公司：通用磨坊，行业: 必需品。\n预计每股收益: $0.82，当前市值: $2
 	0\,157\,139\,604。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=GIS \n在富途查
@@ -438,9 +390,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:M3iQiCuofvs2Lkx6CodRC
+UID:LxSVrEx4-pb12ZFfk3RBj
 SUMMARY:百事公司 盘前发布财报
-DTSTAMP:20260702T181747Z
+DTSTAMP:20260703T074920Z
 DTSTART;VALUE=DATE:20260709
 DESCRIPTION:财务季度：Jun/2026。\n代码：PEP，公司：百事公司，行业: 必需品。\n预计每股收益: $2.19，当前市值: $1
 	92\,933\,015\,345。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=PEP \n在富途
@@ -454,9 +406,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:XRvi1UXazSqNTRTe8NEqZ
+UID:lCyxGArRvacHlGsBnhgQm
 SUMMARY:达美航空 盘前发布财报
-DTSTAMP:20260702T181747Z
+DTSTAMP:20260703T074920Z
 DTSTART;VALUE=DATE:20260710
 DESCRIPTION:财务季度：Jun/2026。\n代码：DAL，公司：达美航空，行业: 工业。\n预计每股收益: $1.44，当前市值: $61
 	\,139\,893\,280。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=DAL \n在富途查看
@@ -470,9 +422,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:JWjyrYF2luL1_ObmUlc-4
+UID:oeG24ztU1W6__mZo9CUUi
 SUMMARY:摩根大通 盘前发布财报
-DTSTAMP:20260702T181747Z
+DTSTAMP:20260703T074920Z
 DTSTART;VALUE=DATE:20260714
 DESCRIPTION:财务季度：Jun/2026。\n代码：JPM，公司：摩根大通，行业: 金融。\n预计每股收益: $5.49，当前市值: $89
 	5\,144\,379\,411。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=JPM \n在富途查
@@ -486,9 +438,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:xiDXwPWtyT4RZ1Wgn_hAS
+UID:DKrU7qewNRwXSS5VtqIMX
 SUMMARY:美国银行 盘前发布财报
-DTSTAMP:20260702T181747Z
+DTSTAMP:20260703T074920Z
 DTSTART;VALUE=DATE:20260714
 DESCRIPTION:财务季度：Jun/2026。\n代码：BAC，公司：美国银行，行业: 金融。\n预计每股收益: $1.11，当前市值: $41
 	4\,157\,030\,392。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=BAC \n在富途查
@@ -502,9 +454,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:yfPn5mg2iwW5GW_sbQ-kM
+UID:3mdLqHHYLfaee1Exdr4lF
 SUMMARY:高盛 盘前发布财报
-DTSTAMP:20260702T181747Z
+DTSTAMP:20260703T074920Z
 DTSTART;VALUE=DATE:20260714
 DESCRIPTION:财务季度：Jun/2026。\n代码：GS，公司：高盛，行业: 金融。\n预计每股收益: $14.01，当前市值: $300\
 	,792\,516\,526。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=GS \n在富途查看：h
@@ -518,9 +470,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:Ev1LIZ_H9ZkcOC8QptMrp
+UID:V7qMiwTPm9no9yBhOQHH1
 SUMMARY:富国银行集团 盘前发布财报
-DTSTAMP:20260702T181747Z
+DTSTAMP:20260703T074920Z
 DTSTART;VALUE=DATE:20260714
 DESCRIPTION:财务季度：Jun/2026。\n代码：WFC，公司：富国银行集团，行业: 金融。\n预计每股收益: $1.73，当前市值: $
 	262\,992\,685\,114。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=WFC \n在富
@@ -534,9 +486,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:wADNh6sL-55mbM-X64nSs
+UID:vOMbdQefJFRWeZ_eWlWwJ
 SUMMARY:花旗集团 盘前发布财报
-DTSTAMP:20260702T181747Z
+DTSTAMP:20260703T074920Z
 DTSTART;VALUE=DATE:20260714
 DESCRIPTION:财务季度：Jun/2026。\n代码：C，公司：花旗集团，行业: 金融。\n预计每股收益: $2.65，当前市值: $239\
 	,002\,498\,704。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=C \n在富途查看：ht
@@ -550,9 +502,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:X4Fe0oFMw4rdaNZwEVYDE
+UID:VFuVDpCPfihgI6DQue-o4
 SUMMARY:快扣 盘前发布财报
-DTSTAMP:20260702T181747Z
+DTSTAMP:20260703T074920Z
 DTSTART;VALUE=DATE:20260714
 DESCRIPTION:财务季度：Jun/2026。\n代码：FAST，公司：快扣，行业: 工业。\n预计每股收益: $0.33，当前市值: $54\
 	,818\,674\,163。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=FAST \n在富途查看
@@ -566,9 +518,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:ZscEXZXB774voT2RsLBeL
+UID:cDuwOrY7oqJ73mcaTlQT_
 SUMMARY:艾司摩尔 盘前发布财报
-DTSTAMP:20260702T181747Z
+DTSTAMP:20260703T074920Z
 DTSTART;VALUE=DATE:20260715
 DESCRIPTION:财务季度：Jun/2026。\n代码：ASML，公司：艾司摩尔，行业: 信息技术。\n预计每股收益: $7.98，当前市值: 
 	$710\,340\,173\,302。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=ASML \n
@@ -582,9 +534,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:G_aGGCtI7_3-XDH7_nVPR
+UID:HB88DJF5CDg7xTtkmIwQf
 SUMMARY:强生公司 盘前发布财报
-DTSTAMP:20260702T181747Z
+DTSTAMP:20260703T074920Z
 DTSTART;VALUE=DATE:20260715
 DESCRIPTION:财务季度：Jun/2026。\n代码：JNJ，公司：强生公司，行业: 卫生保健。\n预计每股收益: $2.83，当前市值: $
 	611\,384\,966\,295。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=JNJ \n在富
@@ -598,9 +550,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:dmjeq48coYsaZ-5vYiS0d
+UID:99xA_E3M638I5zxPtrvsl
 SUMMARY:摩根士丹利 盘前发布财报
-DTSTAMP:20260702T181747Z
+DTSTAMP:20260703T074920Z
 DTSTART;VALUE=DATE:20260715
 DESCRIPTION:财务季度：Jun/2026。\n代码：MS，公司：摩根士丹利，行业: 金融。\n预计每股收益: $2.78，当前市值: $33
 	4\,163\,561\,330。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=MS \n在富途查看
@@ -614,9 +566,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:p3OXx9RcYAySqL0JahyJ-
+UID:-AtgTi8vJBnAGLPR1OLcH
 SUMMARY:贝莱德 盘前发布财报
-DTSTAMP:20260702T181747Z
+DTSTAMP:20260703T074920Z
 DTSTART;VALUE=DATE:20260715
 DESCRIPTION:财务季度：Jun/2026。\n代码：BLK，公司：贝莱德，行业: 金融。\n预计每股收益: $12.54，当前市值: $15
 	2\,188\,298\,136。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=BLK \n在富途查
@@ -630,9 +582,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:K1lO8UC5E5T9t82yQQytZ
+UID:nTFYZAeCLTs1cntUNMdmI
 SUMMARY:Progressive Corporation 发布财报
-DTSTAMP:20260702T181747Z
+DTSTAMP:20260703T074920Z
 DTSTART;VALUE=DATE:20260715
 DESCRIPTION:财务季度：Jun/2026。\n代码：PGR，公司：Progressive Corporation，行业: 金融。\n预计每股
 	收益: $4.55，当前市值: $131\,651\,005\,339。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks:/
@@ -646,9 +598,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:meZruK1XKBkSN9AaxvYQY
+UID:0uiUNlnlsMRxnb4vZinP2
 SUMMARY:PNC金融服务集团 盘前发布财报
-DTSTAMP:20260702T181747Z
+DTSTAMP:20260703T074920Z
 DTSTART;VALUE=DATE:20260715
 DESCRIPTION:财务季度：Jun/2026。\n代码：PNC，公司：PNC金融服务集团，行业: 金融。\n预计每股收益: $4.53，当前市值
 	: $101\,041\,692\,704。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=PNC \
@@ -662,9 +614,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:SutbsZine5m0reIo_vqdL
+UID:hmtZgjDkX8QH-JmG_FT0n
 SUMMARY:Kinder Morgan 发布财报
-DTSTAMP:20260702T181747Z
+DTSTAMP:20260703T074920Z
 DTSTART;VALUE=DATE:20260715
 DESCRIPTION:财务季度：Jun/2026。\n代码：KMI，公司：Kinder Morgan，行业: 能源。\n预计每股收益: $0.31，
 	当前市值: $70\,571\,473\,012。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=KM
@@ -678,9 +630,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:D9Jak8vt3BowCjQ1OhBpi
+UID:ubgirTwjoWQKkFvkbs9Jz
 SUMMARY:信达思 盘前发布财报
-DTSTAMP:20260702T181747Z
+DTSTAMP:20260703T074920Z
 DTSTART;VALUE=DATE:20260715
 DESCRIPTION:财务季度：May/2026。\n代码：CTAS，公司：信达思，行业: 工业。\n预计每股收益: $1.24，当前市值: $69
 	\,715\,848\,777。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=CTAS \n在富途查
@@ -694,9 +646,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:O_Olu6kKDx9GkWpxuc022
+UID:Zwv-8FRndWSvapcDW-GAo
 SUMMARY:United Airlines Holdings 盘后发布财报
-DTSTAMP:20260702T181747Z
+DTSTAMP:20260703T074920Z
 DTSTART;VALUE=DATE:20260715
 DESCRIPTION:财务季度：Jun/2026。\n代码：UAL，公司：United Airlines Holdings，行业: 工业。\n预计每
 	股收益: $1.78，当前市值: $43\,859\,242\,475。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks:/
@@ -710,9 +662,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:q-pDjx-nSeYUPhPXMuTq6
+UID:CZfvAQFPMDfdeMiqkg4_l
 SUMMARY:M&T Bank 盘前发布财报
-DTSTAMP:20260702T181747Z
+DTSTAMP:20260703T074920Z
 DTSTART;VALUE=DATE:20260715
 DESCRIPTION:财务季度：Jun/2026。\n代码：MTB，公司：M&T Bank，行业: 金融。\n预计每股收益: $4.66，当前市值:
 	 $35\,432\,382\,267。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=MTB \n在
@@ -726,9 +678,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:9kv7SyAqjbjW5V2NUHWx5
+UID:tldyBjtCiHIlg81Siw6pE
 SUMMARY:康尼格拉食品 盘前发布财报
-DTSTAMP:20260702T181747Z
+DTSTAMP:20260703T074921Z
 DTSTART;VALUE=DATE:20260715
 DESCRIPTION:财务季度：May/2026。\n代码：CAG，公司：康尼格拉食品，行业: 必需品。\n预计每股收益: $0.46，当前市值: 
 	$6\,841\,651\,331。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=CAG \n在富途
@@ -742,9 +694,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:wctgtqXx3S0BntijUyihG
+UID:T508tYYTIYA1j26e1nOIA
 SUMMARY:台积电 盘前发布财报
-DTSTAMP:20260702T181747Z
+DTSTAMP:20260703T074921Z
 DTSTART;VALUE=DATE:20260716
 DESCRIPTION:财务季度：Jun/2026。\n代码：TSM，公司：台积电，行业: 半导体。\n预计每股收益: $3.77，当前市值: $2\
 	,304\,001\,073\,504。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=TSM \n在
@@ -758,9 +710,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:AbmzeQ4gXUSYE7nfXEWVN
+UID:uy1f6-WL6fhN1kKsU-EUI
 SUMMARY:通用电气 盘前发布财报
-DTSTAMP:20260702T181747Z
+DTSTAMP:20260703T074921Z
 DTSTART;VALUE=DATE:20260716
 DESCRIPTION:财务季度：Jun/2026。\n代码：GE，公司：通用电气，行业: 工业。\n预计每股收益: $1.86，当前市值: $391
 	\,188\,862\,891。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=GE \n在富途查看：
@@ -774,9 +726,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:PiTcgYQ9NofSHpI3kbZxp
+UID:zJ8kKnVeN5FBK0RFwwAig
 SUMMARY:联合健康保险 盘前发布财报
-DTSTAMP:20260702T181747Z
+DTSTAMP:20260703T074921Z
 DTSTART;VALUE=DATE:20260716
 DESCRIPTION:财务季度：Jun/2026。\n代码：UNH，公司：联合健康保险，行业: 卫生保健。\n预计每股收益: $4.84，当前市值:
 	 $387\,359\,914\,082。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=UNH \n
@@ -790,9 +742,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:tVSkvTRyqU0PNaB-EvkpU
+UID:2ww2Pwxu7qYRyR7qA5AL9
 SUMMARY:Netflix 盘后发布财报
-DTSTAMP:20260702T181747Z
+DTSTAMP:20260703T074921Z
 DTSTART;VALUE=DATE:20260716
 DESCRIPTION:财务季度：Jun/2026。\n代码：NFLX，公司：Netflix，行业: 通讯服务。\n预计每股收益: $0.79，当前市
 	值: $312\,399\,142\,792。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=NFLX
@@ -806,9 +758,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:7LvRwKc3S661EYAQo5XGI
+UID:xsUd1TLNQrqm1Uj3Eg6fb
 SUMMARY:美国雅培 盘前发布财报
-DTSTAMP:20260702T181747Z
+DTSTAMP:20260703T074921Z
 DTSTART;VALUE=DATE:20260716
 DESCRIPTION:财务季度：Jun/2026。\n代码：ABT，公司：美国雅培，行业: 卫生保健。\n预计每股收益: $1.28，当前市值: $
 	160\,560\,269\,705。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=ABT \n在富
@@ -822,9 +774,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:c2vweAvAFo97u7ZgnZ8hK
+UID:MLDGKuRoOSb0nC0MoQk89
 SUMMARY:Prologis 盘前发布财报
-DTSTAMP:20260702T181747Z
+DTSTAMP:20260703T074921Z
 DTSTART;VALUE=DATE:20260716
 DESCRIPTION:财务季度：Jun/2026。\n代码：PLD，公司：Prologis，行业: 房地产。\n预计每股收益: $1.53，当前市值
 	: $127\,543\,838\,400。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=PLD \
@@ -838,9 +790,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:sh0RBUSTHaiLWZs5dKxFB
+UID:_Dsr7bazbuZmvHcacSJPC
 SUMMARY:美国合众银行 盘前发布财报
-DTSTAMP:20260702T181747Z
+DTSTAMP:20260703T074921Z
 DTSTART;VALUE=DATE:20260716
 DESCRIPTION:财务季度：Jun/2026。\n代码：USB，公司：美国合众银行，行业: 金融。\n预计每股收益: $1.27，当前市值: $
 	96\,108\,088\,718。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=USB \n在富途
@@ -854,9 +806,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:PxJ9M7nPK8RG8GQdnNQgr
+UID:uvxArx6-aON8EL63DmrJ9
 SUMMARY:道富公司 盘前发布财报
-DTSTAMP:20260702T181747Z
+DTSTAMP:20260703T074921Z
 DTSTART;VALUE=DATE:20260716
 DESCRIPTION:财务季度：Jun/2026。\n代码：STT，公司：道富公司，行业: 金融。\n预计每股收益: $3.18，当前市值: $46
 	\,959\,062\,489。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=STT \n在富途查看
@@ -870,9 +822,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:KFdzj2IHMSzO5wPLoYdcA
+UID:q9jS69at-bTy7wAA-ejTp
 SUMMARY:公民金融集团 盘前发布财报
-DTSTAMP:20260702T181747Z
+DTSTAMP:20260703T074921Z
 DTSTART;VALUE=DATE:20260716
 DESCRIPTION:财务季度：Jun/2026。\n代码：CFG，公司：公民金融集团，行业: 金融。\n预计每股收益: $1.26，当前市值: $
 	30\,371\,381\,074。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=CFG \n在富途
@@ -886,9 +838,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:NYEzh4tBZ_5XG-H-BWOd_
+UID:Xtyoix26mHOQp6Ee_lpB1
 SUMMARY:Snap-on 发布财报
-DTSTAMP:20260702T181747Z
+DTSTAMP:20260703T074921Z
 DTSTART;VALUE=DATE:20260716
 DESCRIPTION:财务季度：Jun/2026。\n代码：SNA，公司：Snap-on，行业: 工业。\n预计每股收益: $4.90，当前市值: 
 	$20\,890\,676\,684。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=SNA \n在富
@@ -902,9 +854,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:uScpWwHNdGW12zMm3QghU
+UID:Zs1FW0UtqKblbVeCLDBvX
 SUMMARY:3M公司 发布财报
-DTSTAMP:20260702T181747Z
+DTSTAMP:20260703T074921Z
 DTSTART;VALUE=DATE:20260717
 DESCRIPTION:财务季度：Jun/2026。\n代码：MMM，公司：3M公司，行业: 工业。\n预计每股收益: $2.26，当前市值: $83
 	\,429\,899\,070。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=MMM \n在富途查看
@@ -918,9 +870,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:pV65bRciRNg-szHKXisrn
+UID:ApL7kOyQRPLqMmUpfgwNj
 SUMMARY:旅行家集团 盘前发布财报
-DTSTAMP:20260702T181747Z
+DTSTAMP:20260703T074921Z
 DTSTART;VALUE=DATE:20260717
 DESCRIPTION:财务季度：Jun/2026。\n代码：TRV，公司：旅行家集团，行业: 金融。\n预计每股收益: $4.87，当前市值: $7
 	1\,155\,167\,172。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=TRV \n在富途查
@@ -934,9 +886,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:fqNYngp4KHnMGbjrEXJpU
+UID:8DDMKM6BLybCws7CtocZw
 SUMMARY:Truist Financial 盘前发布财报
-DTSTAMP:20260702T181747Z
+DTSTAMP:20260703T074921Z
 DTSTART;VALUE=DATE:20260717
 DESCRIPTION:财务季度：Jun/2026。\n代码：TFC，公司：Truist Financial，行业: 金融。\n预计每股收益: $1.
 	08，当前市值: $63\,402\,796\,305。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol
@@ -950,9 +902,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:poBk0MZIuSR-KwEtPxNoP
+UID:nfNmkEms91K5HxUYpnngL
 SUMMARY:五三银行 盘前发布财报
-DTSTAMP:20260702T181747Z
+DTSTAMP:20260703T074921Z
 DTSTART;VALUE=DATE:20260717
 DESCRIPTION:财务季度：Jun/2026。\n代码：FITB，公司：五三银行，行业: 金融。\n预计每股收益: $0.98，当前市值: $5
 	2\,103\,850\,895。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=FITB \n在富途
@@ -966,9 +918,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:MucN7E8epiR9Z5vzzBU_N
+UID:oYtJsgEVYbupp3lVioA8l
 SUMMARY:Regions Financial Corporation 盘前发布财报
-DTSTAMP:20260702T181747Z
+DTSTAMP:20260703T074921Z
 DTSTART;VALUE=DATE:20260717
 DESCRIPTION:财务季度：Jun/2026。\n代码：RF，公司：Regions Financial Corporation，行业: 金融。\
 	n预计每股收益: $0.64，当前市值: $26\,284\,089\,770。\n ~~~~~~~~~~~~ \n在股票 app 打开： stoc
@@ -982,9 +934,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:m4lu9jgKIzfdRUOzVD-F7
+UID:tLo44mSBG7OrJ-hkBx4tg
 SUMMARY:Steel Dynamics 发布财报
-DTSTAMP:20260702T181747Z
+DTSTAMP:20260703T074921Z
 DTSTART;VALUE=DATE:20260720
 DESCRIPTION:财务季度：Jun/2026。\n代码：STLD，公司：Steel Dynamics，行业: 材料。\n预计每股收益: $3.6
 	2，当前市值: $31\,980\,626\,315。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=
@@ -998,9 +950,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:R-Dtv2naONcwTv1wDV3cP
+UID:phhAgylHihUUorb_Q2O0r
 SUMMARY:W. R. Berkley Corporation 盘后发布财报
-DTSTAMP:20260702T181747Z
+DTSTAMP:20260703T074921Z
 DTSTART;VALUE=DATE:20260720
 DESCRIPTION:财务季度：Jun/2026。\n代码：WRB，公司：W. R. Berkley Corporation，行业: 金融。\n预计
 	每股收益: $1.09，当前市值: $26\,305\,073\,883。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks:
@@ -1014,9 +966,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:J7fjsjSM3CC7yzroznEu_
+UID:6JBfq3ADSa17GE_PRbo2t
 SUMMARY:Zions Bancorporation 盘后发布财报
-DTSTAMP:20260702T181747Z
+DTSTAMP:20260703T074921Z
 DTSTART;VALUE=DATE:20260720
 DESCRIPTION:财务季度：Jun/2026。\n代码：ZION，公司：Zions Bancorporation，行业: 金融。\n预计每股收益
 	: $1.56，当前市值: $10\,399\,391\,462。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?s
@@ -1030,9 +982,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:Gcp5AFNJ3HD_KwJTIWO5y
+UID:rwPMgZE2J3H1rZs6Sp-Ro
 SUMMARY:达美乐薄饼 盘前发布财报
-DTSTAMP:20260702T181747Z
+DTSTAMP:20260703T074921Z
 DTSTART;VALUE=DATE:20260720
 DESCRIPTION:财务季度：Jun/2026。\n代码：DPZ，公司：达美乐薄饼，行业: 非必需消费品。\n预计每股收益: $4.15，当前市值
 	: $10\,117\,595\,617。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=DPZ \n
@@ -1046,9 +998,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:KRFuPUDxjDOqXApkN9TqM
+UID:ZuJZb828bZqO4WS8S4qAD
 SUMMARY:嘉信理财集团 盘前发布财报
-DTSTAMP:20260702T181747Z
+DTSTAMP:20260703T074921Z
 DTSTART;VALUE=DATE:20260721
 DESCRIPTION:财务季度：Jun/2026。\n代码：SCHW，公司：嘉信理财集团，行业: 金融。\n预计每股收益: $1.50，当前市值: 
 	$166\,574\,398\,860。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=SCHW \n
@@ -1062,9 +1014,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:PJOgweSH_PGwpRca8eAwc
+UID:VMYLPuxUr3gDFVacQ_AW-
 SUMMARY:丹纳赫 盘前发布财报
-DTSTAMP:20260702T181747Z
+DTSTAMP:20260703T074921Z
 DTSTART;VALUE=DATE:20260721
 DESCRIPTION:财务季度：Jun/2026。\n代码：DHR，公司：丹纳赫，行业: 卫生保健。\n预计每股收益: $1.83，当前市值: $1
 	37\,109\,325\,862。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=DHR \n在富途
@@ -1078,9 +1030,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:OCeqTyvNktWab4-8ZSNO5
+UID:Tc56Xneo6W9By1FC8q05z
 SUMMARY:安达保险 盘后发布财报
-DTSTAMP:20260702T181747Z
+DTSTAMP:20260703T074921Z
 DTSTART;VALUE=DATE:20260721
 DESCRIPTION:财务季度：Jun/2026。\n代码：CB，公司：安达保险，行业: 金融。\n预计每股收益: $6.57，当前市值: $136
 	\,422\,035\,083。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=CB \n在富途查看：
@@ -1094,9 +1046,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:l_IIqhZ-XOvTfhvZVuOIn
+UID:_D8rCL0rykiJAGAxuEOc2
 SUMMARY:第一资本 盘后发布财报
-DTSTAMP:20260702T181747Z
+DTSTAMP:20260703T074921Z
 DTSTART;VALUE=DATE:20260721
 DESCRIPTION:财务季度：Jun/2026。\n代码：COF，公司：第一资本，行业: 金融。\n预计每股收益: $4.87，当前市值: $12
 	6\,173\,110\,098。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=COF \n在富途查
@@ -1110,9 +1062,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:OYMvbU9mEdZxW6NN7bjdA
+UID:355jdlDwslnNeU9qxjXlo
 SUMMARY:诺斯洛普·格鲁门 盘前发布财报
-DTSTAMP:20260702T181747Z
+DTSTAMP:20260703T074921Z
 DTSTART;VALUE=DATE:20260721
 DESCRIPTION:财务季度：Jun/2026。\n代码：NOC，公司：诺斯洛普·格鲁门，行业: 工业。\n预计每股收益: $6.81，当前市值:
 	 $73\,850\,305\,846。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=NOC \n在
@@ -1126,9 +1078,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:J5uU11rLd2QTRAJaFVhBy
+UID:j64T4jaZlOMpojemeEb_I
 SUMMARY:通用汽车 盘前发布财报
-DTSTAMP:20260702T181747Z
+DTSTAMP:20260703T074921Z
 DTSTART;VALUE=DATE:20260721
 DESCRIPTION:财务季度：Jun/2026。\n代码：GM，公司：通用汽车，行业: 非必需消费品。\n预计每股收益: $3.11，当前市值: 
 	$68\,093\,755\,526。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=GM \n在富途
@@ -1142,9 +1094,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:K-NbWC6-3F9nbhcaC3jEK
+UID:97iv-5YSJ7RL4l3m7NoeN
 SUMMARY:D. R. Horton 盘前发布财报
-DTSTAMP:20260702T181747Z
+DTSTAMP:20260703T074921Z
 DTSTART;VALUE=DATE:20260721
 DESCRIPTION:财务季度：Jun/2026。\n代码：DHI，公司：D. R. Horton，行业: 非必需消费品。\n预计每股收益: $3，
 	当前市值: $44\,539\,014\,018。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=DH
@@ -1158,9 +1110,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:Sm9s1f1GSb3MH5CkyGzOO
+UID:U-k1WYfzmV-sRIo_JXwTh
 SUMMARY:明晟 盘前发布财报
-DTSTAMP:20260702T181747Z
+DTSTAMP:20260703T074921Z
 DTSTART;VALUE=DATE:20260721
 DESCRIPTION:财务季度：Jun/2026。\n代码：MSCI，公司：明晟，行业: 金融。\n预计每股收益: $4.82，当前市值: $42\
 	,371\,784\,000。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=MSCI \n在富途查看
@@ -1174,9 +1126,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:H7heffAheg01kipnMUs94
+UID:PamVYmODlQC1HXkscdqPI
 SUMMARY:哈里伯顿 盘前发布财报
-DTSTAMP:20260702T181747Z
+DTSTAMP:20260703T074921Z
 DTSTART;VALUE=DATE:20260721
 DESCRIPTION:财务季度：Jun/2026。\n代码：HAL，公司：哈里伯顿，行业: 能源。\n预计每股收益: $0.54，当前市值: $27
 	\,576\,479\,232。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=HAL \n在富途查看
@@ -1190,9 +1142,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:g-l2cvdH-UORaPQ54zrzT
+UID:WXFNccG-sW40QMyGwCEOs
 SUMMARY:J. B. Hunt 发布财报
-DTSTAMP:20260702T181747Z
+DTSTAMP:20260703T074921Z
 DTSTART;VALUE=DATE:20260721
 DESCRIPTION:财务季度：Jun/2026。\n代码：JBHT，公司：J. B. Hunt，行业: 工业。\n预计每股收益: $1.70，当前
 	市值: $27\,353\,369\,814。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=JBHT
@@ -1206,9 +1158,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:G3yUqJO18H8m9AdEgnmu2
+UID:XWojhoZE1_lh5RryiirWv
 SUMMARY:Synchrony Financial 盘前发布财报
-DTSTAMP:20260702T181747Z
+DTSTAMP:20260703T074921Z
 DTSTART;VALUE=DATE:20260721
 DESCRIPTION:财务季度：Jun/2026。\n代码：SYF，公司：Synchrony Financial，行业: 金融。\n预计每股收益: 
 	$2，当前市值: $25\,823\,143\,478。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol
@@ -1222,9 +1174,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:8Gl6j8yxl8pxwp_c4_tJ5
+UID:MFWLKguqr0HCcyE1-cENu
 SUMMARY:钥匙银行 盘前发布财报
-DTSTAMP:20260702T181747Z
+DTSTAMP:20260703T074921Z
 DTSTART;VALUE=DATE:20260721
 DESCRIPTION:财务季度：Jun/2026。\n代码：KEY，公司：钥匙银行，行业: 金融。\n预计每股收益: $0.43，当前市值: $25
 	\,208\,247\,246。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=KEY \n在富途查看
@@ -1238,9 +1190,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:6SC3CngnqCNlo60e3dNjI
+UID:UBqHf86xaIjYOxbtSSneD
 SUMMARY:宏盟集团 发布财报
-DTSTAMP:20260702T181747Z
+DTSTAMP:20260703T074921Z
 DTSTART;VALUE=DATE:20260721
 DESCRIPTION:财务季度：Jun/2026。\n代码：OMC，公司：宏盟集团，行业: 通讯服务。\n预计每股收益: $2.64，当前市值: $
 	21\,691\,821\,578。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=OMC \n在富途
@@ -1254,9 +1206,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:nq_3lY82ACV72gCp6kDMK
+UID:nxadiZLvg2Mc0s_1Vty8a
 SUMMARY:Genuine Parts Company 盘前发布财报
-DTSTAMP:20260702T181747Z
+DTSTAMP:20260703T074921Z
 DTSTART;VALUE=DATE:20260721
 DESCRIPTION:财务季度：Jun/2026。\n代码：GPC，公司：Genuine Parts Company，行业: 非必需消费品。\n预计
 	每股收益: $2.10，当前市值: $16\,157\,121\,583。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks:
@@ -1270,9 +1222,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:AO_mptjQMsJhBYd67Jnv4
+UID:FX8kqqfAyeiUzvKIfQxet
 SUMMARY:孩之宝 盘前发布财报
-DTSTAMP:20260702T181747Z
+DTSTAMP:20260703T074921Z
 DTSTART;VALUE=DATE:20260721
 DESCRIPTION:财务季度：Jun/2026。\n代码：HAS，公司：孩之宝，行业: 非必需消费品。\n预计每股收益: $1.18，当前市值: 
 	$11\,525\,831\,770。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=HAS \n在富
@@ -1286,9 +1238,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:73N84fOc1_yuy1URbZRtI
+UID:8RbAXq4wYhL-k0JNI-8AV
 SUMMARY:Alphabet (Class C) 发布财报
-DTSTAMP:20260702T181747Z
+DTSTAMP:20260703T074921Z
 DTSTART;VALUE=DATE:20260722
 DESCRIPTION:财务季度：Jun/2026。\n代码：GOOG，公司：Alphabet (Class C)，行业: 通讯服务。\n预计每股收益
 	: $2.86，当前市值: $4\,376\,420\,360\,000。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks:
@@ -1302,9 +1254,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:wXxihPJyVxDbBWQxvuqFg
+UID:UJkMDOsEm2GfEYx-4s_cx
 SUMMARY:Alphabet (Class A) 发布财报
-DTSTAMP:20260702T181747Z
+DTSTAMP:20260703T074921Z
 DTSTART;VALUE=DATE:20260722
 DESCRIPTION:财务季度：Jun/2026。\n代码：GOOGL，公司：Alphabet (Class A)，行业: 通讯服务。\n预计每股收
 	益: $2.86，当前市值: $4\,376\,420\,360\,000。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks
@@ -1318,9 +1270,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:kyn3BXRj6tr3X0LA7HcLn
+UID:RX7wHM56emlO10z_V6O1m
 SUMMARY:特斯拉 发布财报
-DTSTAMP:20260702T181747Z
+DTSTAMP:20260703T074921Z
 DTSTART;VALUE=DATE:20260722
 DESCRIPTION:财务季度：Jun/2026。\n代码：TSLA，公司：特斯拉，行业: 非必需消费品。\n预计每股收益: $0.27，当前市值:
 	 $1\,597\,309\,362\,336。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=TSL
@@ -1334,9 +1286,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:JhF-A582LY-liliS3bRbn
+UID:4QxyTXiFnT86iggwGq5LX
 SUMMARY:菲利普莫里斯国际 盘前发布财报
-DTSTAMP:20260702T181747Z
+DTSTAMP:20260703T074921Z
 DTSTART;VALUE=DATE:20260722
 DESCRIPTION:财务季度：Jun/2026。\n代码：PM，公司：菲利普莫里斯国际，行业: 必需品。\n预计每股收益: $2.03，当前市值:
 	 $276\,940\,321\,346。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=PM \n在
@@ -1350,9 +1302,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:kZpHL8Kwvh1KpEBsRsXKQ
+UID:AU4eqLTZQT9nuRVHltjY0
 SUMMARY:德州仪器 盘后发布财报
-DTSTAMP:20260702T181747Z
+DTSTAMP:20260703T074921Z
 DTSTART;VALUE=DATE:20260722
 DESCRIPTION:财务季度：Jun/2026。\n代码：TXN，公司：德州仪器，行业: 信息技术。\n预计每股收益: $1.90，当前市值: $
 	271\,580\,789\,762。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=TXN \n在富
@@ -1366,9 +1318,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:clSRJDuoImDIqjpfNGfdD
+UID:lKLO46GzdkKMKAs_msrUm
 SUMMARY:IBM 盘后发布财报
-DTSTAMP:20260702T181747Z
+DTSTAMP:20260703T074921Z
 DTSTART;VALUE=DATE:20260722
 DESCRIPTION:财务季度：Jun/2026。\n代码：IBM，公司：IBM，行业: 信息技术。\n预计每股收益: $3.02，当前市值: $2
 	69\,042\,161\,400。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=IBM \n在富途
@@ -1382,9 +1334,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:e0MvDyGWQxFEM0t0JowND
+UID:dIyMWOGs5Wo70zOFlJxW8
 SUMMARY:NextEra Energy 发布财报
-DTSTAMP:20260702T181747Z
+DTSTAMP:20260703T074921Z
 DTSTART;VALUE=DATE:20260722
 DESCRIPTION:财务季度：Jun/2026。\n代码：NEE，公司：NextEra Energy，行业: 公共事业。\n预计每股收益: $1.
 	08，当前市值: $180\,110\,941\,555。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbo
@@ -1398,9 +1350,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:djiZg-j4v-vVSMKFY2LKi
+UID:6DQx69bZRo5cgvLJBWNES
 SUMMARY:AT&T 盘前发布财报
-DTSTAMP:20260702T181747Z
+DTSTAMP:20260703T074921Z
 DTSTART;VALUE=DATE:20260722
 DESCRIPTION:财务季度：Jun/2026。\n代码：T，公司：AT&T，行业: 通讯服务。\n预计每股收益: $0.59，当前市值: $14
 	2\,301\,979\,341。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=T \n在富途查看：
@@ -1414,9 +1366,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:XHJ3XtUXbP-0amacYW_Q1
+UID:1oTSvHfYMo0TKo1FpdEwl
 SUMMARY:ServiceNow 盘后发布财报
-DTSTAMP:20260702T181747Z
+DTSTAMP:20260703T074921Z
 DTSTART;VALUE=DATE:20260722
 DESCRIPTION:财务季度：Jun/2026。\n代码：NOW，公司：ServiceNow，行业: 信息技术。\n预计每股收益: $0.40，当
 	前市值: $109\,079\,800\,000。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=NO
@@ -1430,9 +1382,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:uWPQTN_lGIu-D1ObFhCsD
+UID:bPkrfxRUYjhWT1klcIahp
 SUMMARY:通用动力 发布财报
-DTSTAMP:20260702T181747Z
+DTSTAMP:20260703T074921Z
 DTSTART;VALUE=DATE:20260722
 DESCRIPTION:财务季度：Jun/2026。\n代码：GD，公司：通用动力，行业: 工业。\n预计每股收益: $3.93，当前市值: $98\
 	,128\,297\,655。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=GD \n在富途查看：h
@@ -1446,9 +1398,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:xWaEx8JfUhI-i2oBQyzDz
+UID:E9Pj9upPWKTyHSVsBZt4i
 SUMMARY:CSX运输 盘后发布财报
-DTSTAMP:20260702T181747Z
+DTSTAMP:20260703T074921Z
 DTSTART;VALUE=DATE:20260722
 DESCRIPTION:财务季度：Jun/2026。\n代码：CSX，公司：CSX运输，行业: 工业。\n预计每股收益: $0.48，当前市值: $8
 	9\,803\,850\,910。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=CSX \n在富途查
@@ -1462,9 +1414,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:RdGCwXgTcf76HR2dOdLZc
+UID:45WUwVbTRWjXmhelF_J3s
 SUMMARY:费利浦·麦克莫兰铜金公司 发布财报
-DTSTAMP:20260702T181747Z
+DTSTAMP:20260703T074921Z
 DTSTART;VALUE=DATE:20260722
 DESCRIPTION:财务季度：Jun/2026。\n代码：FCX，公司：费利浦·麦克莫兰铜金公司，行业: 材料。\n预计每股收益: $0.60，当
 	前市值: $87\,015\,498\,628。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=FCX
@@ -1478,9 +1430,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:tXV0Zht7iz_at41CObULh
+UID:DC7wtpcgaXjccDjbjKd1l
 SUMMARY:芝加哥商品交易所集团 盘前发布财报
-DTSTAMP:20260702T181747Z
+DTSTAMP:20260703T074921Z
 DTSTART;VALUE=DATE:20260722
 DESCRIPTION:财务季度：Jun/2026。\n代码：CME，公司：芝加哥商品交易所集团，行业: 金融。\n预计每股收益: $3，当前市值: 
 	$83\,705\,009\,157。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=CME \n在富
@@ -1494,9 +1446,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:CJYihHQgGnx0awMK3Kgct
+UID:Sl0XaEuliXk5WEJ2o2Ov8
 SUMMARY:穆迪 发布财报
-DTSTAMP:20260702T181747Z
+DTSTAMP:20260703T074921Z
 DTSTART;VALUE=DATE:20260722
 DESCRIPTION:财务季度：Jun/2026。\n代码：MCO，公司：穆迪，行业: 金融。\n预计每股收益: $4.19，当前市值: $81\,
 	825\,986\,000。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=MCO \n在富途查看：h
@@ -1510,9 +1462,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:ezzZNvbltQp5si-ew1xWh
+UID:iuUfZcsfZYnnBg9XspLgZ
 SUMMARY:O'Reilly Auto Parts 发布财报
-DTSTAMP:20260702T181747Z
+DTSTAMP:20260703T074921Z
 DTSTART;VALUE=DATE:20260722
 DESCRIPTION:财务季度：Jun/2026。\n代码：ORLY，公司：O'Reilly Auto Parts，行业: 非必需消费品。\n预计每
 	股收益: $0.85，当前市值: $76\,813\,600\,673。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks:/
@@ -1526,9 +1478,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:lVwN38VfAnJ2GtnGHuV4m
+UID:fCvqMSEex2m4HG6xdHJsI
 SUMMARY:United Rentals 发布财报
-DTSTAMP:20260702T181747Z
+DTSTAMP:20260703T074921Z
 DTSTART;VALUE=DATE:20260722
 DESCRIPTION:财务季度：Jun/2026。\n代码：URI，公司：United Rentals，行业: 工业。\n预计每股收益: $11.6
 	8，当前市值: $69\,647\,936\,210。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=
@@ -1542,9 +1494,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:v2GQJl0CvOhrHpDWVEWWZ
+UID:tIw8v1BtgeSEh5vcaBsTc
 SUMMARY:泰科电子 盘前发布财报
-DTSTAMP:20260702T181747Z
+DTSTAMP:20260703T074921Z
 DTSTART;VALUE=DATE:20260722
 DESCRIPTION:财务季度：Jun/2026。\n代码：TEL，公司：泰科电子，行业: 信息技术。\n预计每股收益: $2.84，当前市值: $
 	58\,799\,489\,751。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=TEL \n在富途
@@ -1558,9 +1510,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:fZgoG4lht--jtWuIKqRa9
+UID:pV_5JGSja3gs3ZxwpxjTN
 SUMMARY:西屋制动公司 盘前发布财报
-DTSTAMP:20260702T181747Z
+DTSTAMP:20260703T074921Z
 DTSTART;VALUE=DATE:20260722
 DESCRIPTION:财务季度：Jun/2026。\n代码：WAB，公司：西屋制动公司，行业: 工业。\n预计每股收益: $2.63，当前市值: $
 	44\,794\,819\,344。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=WAB \n在富途
@@ -1574,9 +1526,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:OppSTachIscc3DBCBfwdO
+UID:uPxa4OPwp9CZoKFK5SWTo
 SUMMARY:Crown Castle 盘后发布财报
-DTSTAMP:20260702T181747Z
+DTSTAMP:20260703T074921Z
 DTSTART;VALUE=DATE:20260722
 DESCRIPTION:财务季度：Jun/2026。\n代码：CCI，公司：Crown Castle，行业: 房地产。\n预计每股收益: $0.95，
 	当前市值: $33\,401\,670\,259。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=CC
@@ -1590,9 +1542,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:SsM4adpWoWZ2RhR8YM5uq
+UID:T9fWU9NuGu3aMNyzu1-ed
 SUMMARY:北方信托银行 盘前发布财报
-DTSTAMP:20260702T181747Z
+DTSTAMP:20260703T074921Z
 DTSTART;VALUE=DATE:20260722
 DESCRIPTION:财务季度：Jun/2026。\n代码：NTRS，公司：北方信托银行，行业: 金融。\n预计每股收益: $2.66，当前市值: 
 	$32\,494\,298\,505。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=NTRS \n在
@@ -1606,9 +1558,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:Q0LexkEgGdBbe0KL5zvrR
+UID:v9lTY2CO41MCuu9XjfJvV
 SUMMARY:Raymond James Financial 盘后发布财报
-DTSTAMP:20260702T181747Z
+DTSTAMP:20260703T074921Z
 DTSTART;VALUE=DATE:20260722
 DESCRIPTION:财务季度：Jun/2026。\n代码：RJF，公司：Raymond James Financial，行业: 金融。\n预计每股
 	收益: $2.91，当前市值: $30\,828\,547\,148。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://
@@ -1622,9 +1574,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:nhfEwWCTBlRRneKeis_Fy
+UID:6QLTLoqS6YNI0-xpYDeGy
 SUMMARY:拉斯维加斯金沙集团 发布财报
-DTSTAMP:20260702T181747Z
+DTSTAMP:20260703T074921Z
 DTSTART;VALUE=DATE:20260722
 DESCRIPTION:财务季度：Jun/2026。\n代码：LVS，公司：拉斯维加斯金沙集团，行业: 非必需消费品。\n预计每股收益: $0.78，
 	当前市值: $30\,646\,976\,281。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=LV
@@ -1638,9 +1590,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:irgONd_KqEbE53zFB1-xj
+UID:NIFN2mjF3txj0yyQXjPb5
 SUMMARY:Teledyne Technologies 发布财报
-DTSTAMP:20260702T181747Z
+DTSTAMP:20260703T074921Z
 DTSTART;VALUE=DATE:20260722
 DESCRIPTION:财务季度：Jun/2026。\n代码：TDY，公司：Teledyne Technologies，行业: 工业。\n预计每股收益
 	: $5.77，当前市值: $30\,632\,826\,046。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?s
@@ -1654,9 +1606,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:M10jRQuAA-CSJnj0emtRu
+UID:xIr55u4TDjneorQw-Gm22
 SUMMARY:奥的斯电梯公司 发布财报
-DTSTAMP:20260702T181747Z
+DTSTAMP:20260703T074921Z
 DTSTART;VALUE=DATE:20260722
 DESCRIPTION:财务季度：Jun/2026。\n代码：OTIS，公司：奥的斯电梯公司，行业: 工业。\n预计每股收益: $1.01，当前市值:
 	 $27\,105\,703\,609。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=OTIS \n
@@ -1670,9 +1622,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:uZH-70jxv6-3dVz_JMRGK
+UID:U0pce4mXvIUUuvKdWgcIt
 SUMMARY:Fiserv 发布财报
-DTSTAMP:20260702T181747Z
+DTSTAMP:20260703T074921Z
 DTSTART;VALUE=DATE:20260722
 DESCRIPTION:财务季度：Jun/2026。\n代码：FISV，公司：Fiserv，行业: 信息技术。\n预计每股收益: $1.91，当前市值
 	: $27\,051\,974\,710。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=FISV \
@@ -1686,9 +1638,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:5vNuCiSgKxyvGoj1UVXvy
+UID:zU_x4EcnOqj4IVjtoaPxA
 SUMMARY:PulteGroup 盘前发布财报
-DTSTAMP:20260702T181747Z
+DTSTAMP:20260703T074921Z
 DTSTART;VALUE=DATE:20260722
 DESCRIPTION:财务季度：Jun/2026。\n代码：PHM，公司：PulteGroup，行业: 非必需消费品。\n预计每股收益: $2.38
 	，当前市值: $25\,256\,585\,544。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=P
@@ -1702,9 +1654,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:R6pdizBRSbUDKc1_pwqML
+UID:baN6ms3VYPZ9sPySKJ-ph
 SUMMARY:西南航空 盘后发布财报
-DTSTAMP:20260702T181747Z
+DTSTAMP:20260703T074921Z
 DTSTART;VALUE=DATE:20260722
 DESCRIPTION:财务季度：Jun/2026。\n代码：LUV，公司：西南航空，行业: 工业。\n预计每股收益: $0.50，当前市值: $24
 	\,668\,409\,295。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=LUV \n在富途查看
@@ -1718,9 +1670,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:gohAM1NIAj4kd_19sXEAr
+UID:WAYeBti7_wZ4N56Q-bZ8k
 SUMMARY:Packaging Corporation of America 盘后发布财报
-DTSTAMP:20260702T181747Z
+DTSTAMP:20260703T074921Z
 DTSTART;VALUE=DATE:20260722
 DESCRIPTION:财务季度：Jun/2026。\n代码：PKG，公司：Packaging Corporation of America，行业: 
 	材料。\n预计每股收益: $2.36，当前市值: $21\,199\,241\,081。\n ~~~~~~~~~~~~ \n在股票 app 打开： 
@@ -1734,9 +1686,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:4gKJ6FEUZQlcTCFu1bc9C
+UID:nV3G5iJL2q3OaBmhFg1bL
 SUMMARY:Rollins 发布财报
-DTSTAMP:20260702T181747Z
+DTSTAMP:20260703T074921Z
 DTSTART;VALUE=DATE:20260722
 DESCRIPTION:财务季度：Jun/2026。\n代码：ROL，公司：Rollins，行业:  Inc.。\n预计每股收益: $0.34，当前市
 	值: $20\,288\,878\,759。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=ROL \
@@ -1750,9 +1702,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:NJl7qWc4IccaGeMRtm9d0
+UID:pfKoDOyCGppi_P-4AX85K
 SUMMARY:NVR 发布财报
-DTSTAMP:20260702T181747Z
+DTSTAMP:20260703T074921Z
 DTSTART;VALUE=DATE:20260722
 DESCRIPTION:财务季度：Jun/2026。\n代码：NVR，公司：NVR，行业:  Inc.。\n预计每股收益: $95.80，当前市值: 
 	$17\,933\,367\,239。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=NVR \n在富
@@ -1766,9 +1718,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:cKXRUsMSlwirCAvIT8onb
+UID:A5TKSIJAv3p6ovWJwUPtI
 SUMMARY:Globe Life 发布财报
-DTSTAMP:20260702T181747Z
+DTSTAMP:20260703T074921Z
 DTSTART;VALUE=DATE:20260722
 DESCRIPTION:财务季度：Jun/2026。\n代码：GL，公司：Globe Life，行业: 金融。\n预计每股收益: $3.66，当前市值
 	: $13\,981\,492\,113。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=GL \n在
@@ -1782,9 +1734,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:Fy2K1mOxKLeVfZfHPwSkk
+UID:0SvDsRUmTp8tDsCa3oBE8
 SUMMARY:Alaska Air Group 发布财报
-DTSTAMP:20260702T181747Z
+DTSTAMP:20260703T074921Z
 DTSTART;VALUE=DATE:20260722
 DESCRIPTION:财务季度：Jun/2026。\n代码：ALK，公司：Alaska Air Group，行业: 工业。\n预计每股收益: ($0
 	.92)，当前市值: $5\,710\,735\,123。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbo
@@ -1798,9 +1750,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:MXkvP4w0C5rfLvxKwg5Xc
+UID:xl_u1B-P1yW_Z7stV47V5
 SUMMARY:Robert Half International 发布财报
-DTSTAMP:20260702T181747Z
+DTSTAMP:20260703T074921Z
 DTSTART;VALUE=DATE:20260722
 DESCRIPTION:财务季度：Jun/2026。\n代码：RHI，公司：Robert Half International，行业: 工业。\n预计
 	每股收益: $0.26，当前市值: $3\,372\,619\,629。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks:/
@@ -1814,9 +1766,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:JMNWA0JEQAZBucUMm-MFT
+UID:wc6MAWMv6R_ytgcITjeiy
 SUMMARY:英特尔 盘后发布财报
-DTSTAMP:20260702T181747Z
+DTSTAMP:20260703T074921Z
 DTSTART;VALUE=DATE:20260723
 DESCRIPTION:财务季度：Jun/2026。\n代码：INTC，公司：英特尔，行业: 信息技术。\n预计每股收益: $0.10，当前市值: $
 	638\,402\,520\,000。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=INTC \n在
@@ -1830,9 +1782,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:TvkM28RMoKJ8LaYVu7w_X
+UID:edSPckXHAJe468N3RzVad
 SUMMARY:雷神技术公司 盘前发布财报
-DTSTAMP:20260702T181747Z
+DTSTAMP:20260703T074921Z
 DTSTART;VALUE=DATE:20260723
 DESCRIPTION:财务季度：Jun/2026。\n代码：RTX，公司：雷神技术公司，行业: 工业。\n预计每股收益: $1.66，当前市值: $
 	258\,266\,947\,822。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=RTX \n在富
@@ -1846,9 +1798,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:4_4knP94APSg7sz-kgjT7
+UID:9nRpfkqOwXnwOZCLSqIN2
 SUMMARY:赛默飞世尔科技 盘前发布财报
-DTSTAMP:20260702T181747Z
+DTSTAMP:20260703T074921Z
 DTSTART;VALUE=DATE:20260723
 DESCRIPTION:财务季度：Jun/2026。\n代码：TMO，公司：赛默飞世尔科技，行业: 卫生保健。\n预计每股收益: $5.71，当前市值
 	: $190\,764\,446\,628。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=TMO \
@@ -1862,9 +1814,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:xc-RFPxQTsSrCE_XxbY2U
+UID:q0544SqCxQQmMdznIqW_r
 SUMMARY:T-Mobile美国 盘前发布财报
-DTSTAMP:20260702T181747Z
+DTSTAMP:20260703T074921Z
 DTSTART;VALUE=DATE:20260723
 DESCRIPTION:财务季度：Jun/2026。\n代码：TMUS，公司：T-Mobile美国，行业: 通讯服务。\n预计每股收益: $2.57，
 	当前市值: $187\,286\,348\,324。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=T
@@ -1878,9 +1830,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:Dzz5BmE6TtYOQuJEBWZZW
+UID:gtbVsQpjG2FUj8tlpnsB8
 SUMMARY:Union Pacific Corporation 盘前发布财报
-DTSTAMP:20260702T181747Z
+DTSTAMP:20260703T074921Z
 DTSTART;VALUE=DATE:20260723
 DESCRIPTION:财务季度：Jun/2026。\n代码：UNP，公司：Union Pacific Corporation，行业: 工业。\n预计
 	每股收益: $3.14，当前市值: $164\,891\,970\,646。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks
@@ -1894,9 +1846,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:7_EkS3ime9u1K1JCJ8iG8
+UID:27gvq3R2pj7wC2XLRQhMr
 SUMMARY:洛克希德·马丁 盘前发布财报
-DTSTAMP:20260702T181747Z
+DTSTAMP:20260703T074921Z
 DTSTART;VALUE=DATE:20260723
 DESCRIPTION:财务季度：Jun/2026。\n代码：LMT，公司：洛克希德·马丁，行业: 工业。\n预计每股收益: $7.28，当前市值: 
 	$120\,312\,701\,927。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=LMT \n在
@@ -1910,9 +1862,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:WQkxw9XYb5rK6mqMakslO
+UID:2WfGAtNwkpZHWNDyzttKe
 SUMMARY:纽蒙特黄金公司 发布财报
-DTSTAMP:20260702T181747Z
+DTSTAMP:20260703T074921Z
 DTSTART;VALUE=DATE:20260723
 DESCRIPTION:财务季度：Jun/2026。\n代码：NEM，公司：纽蒙特黄金公司，行业: 材料。\n预计每股收益: $2.20，当前市值: 
 	$99\,602\,672\,881。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=NEM \n在富
@@ -1926,9 +1878,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:BYPPnl-ivFKM-BKDN48ST
+UID:InOuHhYMl1ZvtsnDdCT_h
 SUMMARY:黑石集团 发布财报
-DTSTAMP:20260702T181747Z
+DTSTAMP:20260703T074921Z
 DTSTART;VALUE=DATE:20260723
 DESCRIPTION:财务季度：Jun/2026。\n代码：BX，公司：黑石集团，行业: 金融。\n预计每股收益: $1.34，当前市值: $88\
 	,811\,280\,927。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=BX \n在富途查看：h
@@ -1942,9 +1894,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:JjpX7qLl1xSKDwuQHYBYQ
+UID:yE4TtRrsiw6WyDEHlDtx1
 SUMMARY:康卡斯特 盘前发布财报
-DTSTAMP:20260702T181747Z
+DTSTAMP:20260703T074921Z
 DTSTART;VALUE=DATE:20260723
 DESCRIPTION:财务季度：Jun/2026。\n代码：CMCSA，公司：康卡斯特，行业: 通讯服务。\n预计每股收益: $0.97，当前市值:
 	 $84\,806\,783\,483。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=CMCSA \
@@ -1958,9 +1910,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:5wTHi80t1iGRkLemx8W6w
+UID:esczDEP4Be-xS8IVFnOFr
 SUMMARY:诺福克南方铁路 盘前发布财报
-DTSTAMP:20260702T181747Z
+DTSTAMP:20260703T074921Z
 DTSTART;VALUE=DATE:20260723
 DESCRIPTION:财务季度：Jun/2026。\n代码：NSC，公司：诺福克南方铁路，行业: 工业。\n预计每股收益: $3.12，当前市值: 
 	$71\,643\,240\,379。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=NSC \n在富
@@ -1974,9 +1926,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:Rmz-MTaNy5hRrZA20oME1
+UID:FeGBnrm_SxFvj5uNwL2Dz
 SUMMARY:霍尼韦尔 盘前发布财报
-DTSTAMP:20260702T181747Z
+DTSTAMP:20260703T074921Z
 DTSTART;VALUE=DATE:20260723
 DESCRIPTION:财务季度：Jun/2026。\n代码：HON，公司：霍尼韦尔，行业: 工业。\n预计每股收益: $4.83，当前市值: $70
 	\,256\,289\,680。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=HON \n在富途查看
@@ -1990,9 +1942,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:sqC2dVHCFzlpQx67eMoky
+UID:NYgbarcJDh5x0ezS77b4X
 SUMMARY:Digital Realty 盘后发布财报
-DTSTAMP:20260702T181747Z
+DTSTAMP:20260703T074921Z
 DTSTART;VALUE=DATE:20260723
 DESCRIPTION:财务季度：Jun/2026。\n代码：DLR，公司：Digital Realty，行业: 房地产。\n预计每股收益: $1.9
 	8，当前市值: $61\,959\,918\,262。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=
@@ -2006,9 +1958,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:kGHEq5yv1Ii1iHcSfBUNa
+UID:THxxsaJlIqeHFDLvrdmRr
 SUMMARY:L3Harris Technologies（英语：L3Harris Technologies） 发布财报
-DTSTAMP:20260702T181747Z
+DTSTAMP:20260703T074921Z
 DTSTART;VALUE=DATE:20260723
 DESCRIPTION:财务季度：Jun/2026。\n代码：LHX，公司：L3Harris Technologies（英语：L3Harris Tec
 	hnologies），行业: 工业。\n预计每股收益: $2.79，当前市值: $54\,440\,973\,531。\n ~~~~~~~~~~~~
@@ -2023,9 +1975,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:BqgtEr5EJdFlb-qJSH7lh
+UID:0MbgRPNA6vQsyLd-0y_Fw
 SUMMARY:爱德华生命科学 发布财报
-DTSTAMP:20260702T181747Z
+DTSTAMP:20260703T074921Z
 DTSTART;VALUE=DATE:20260723
 DESCRIPTION:财务季度：Jun/2026。\n代码：EW，公司：爱德华生命科学，行业: 卫生保健。\n预计每股收益: $0.73，当前市值:
 	 $52\,967\,842\,000。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=EW \n在富
@@ -2039,9 +1991,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:uBMpq-qpWMg7GLuZ13kuu
+UID:lb0reIfw4bi7m6_pQlvIH
 SUMMARY:纳斯达克 盘前发布财报
-DTSTAMP:20260702T181747Z
+DTSTAMP:20260703T074921Z
 DTSTART;VALUE=DATE:20260723
 DESCRIPTION:财务季度：Jun/2026。\n代码：NDAQ，公司：纳斯达克，行业: 金融。\n预计每股收益: $0.96，当前市值: $4
 	6\,787\,190\,219。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=NDAQ \n在富途
@@ -2055,9 +2007,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:nWreHf2nbdrJNcWg4ngr4
+UID:9kmjsl_fTRof35X-UWSha
 SUMMARY:太平洋煤气电力公司 盘前发布财报
-DTSTAMP:20260702T181747Z
+DTSTAMP:20260703T074921Z
 DTSTART;VALUE=DATE:20260723
 DESCRIPTION:财务季度：Jun/2026。\n代码：PCG，公司：太平洋煤气电力公司，行业: 公共事业。\n预计每股收益: $0.37，当前
 	市值: $44\,407\,075\,029。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=PCG 
@@ -2071,9 +2023,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:I7dFbK_cttLEY22OV53tk
+UID:5XrvE2W_LDBVhFhTkD-t8
 SUMMARY:Ameriprise Financial 盘前发布财报
-DTSTAMP:20260702T181747Z
+DTSTAMP:20260703T074921Z
 DTSTART;VALUE=DATE:20260723
 DESCRIPTION:财务季度：Jun/2026。\n代码：AMP，公司：Ameriprise Financial，行业: 金融。\n预计每股收益:
 	 $10.63，当前市值: $43\,121\,833\,253。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?s
@@ -2087,9 +2039,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:mxQyLF5ZXbLlPZYn0TvBO
+UID:tG5s4qY4MoynIy83KrbFY
 SUMMARY:Huntington Bancshares 盘前发布财报
-DTSTAMP:20260702T181747Z
+DTSTAMP:20260703T074921Z
 DTSTART;VALUE=DATE:20260723
 DESCRIPTION:财务季度：Jun/2026。\n代码：HBAN，公司：Huntington Bancshares，行业: 金融。\n预计每股收
 	益: $0.39，当前市值: $36\,711\,334\,931。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?
@@ -2103,9 +2055,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:l2eS_8VRHz878cBX0IYPC
+UID:zggWEDJZAygPN6MV8tzVy
 SUMMARY:The Hartford 盘后发布财报
-DTSTAMP:20260702T181747Z
+DTSTAMP:20260703T074921Z
 DTSTART;VALUE=DATE:20260723
 DESCRIPTION:财务季度：Jun/2026。\n代码：HIG，公司：The Hartford，行业: 金融。\n预计每股收益: $3.24，当
 	前市值: $36\,703\,375\,490。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=HIG
@@ -2119,9 +2071,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:WB29w2BqzYbFsGn08Mhtk
+UID:OnPiHavgxKphpvnJkWpJO
 SUMMARY:Roper Technologies 盘前发布财报
-DTSTAMP:20260702T181747Z
+DTSTAMP:20260703T074921Z
 DTSTART;VALUE=DATE:20260723
 DESCRIPTION:财务季度：Jun/2026。\n代码：ROP，公司：Roper Technologies，行业: 工业。\n预计每股收益: $
 	5.29，当前市值: $35\,793\,368\,890。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symb
@@ -2135,9 +2087,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:zw4tlTp1uI9BXxRKa4oUb
+UID:17gfN8ztHzbSSa0ZCaaMM
 SUMMARY:Dover Corporation 盘前发布财报
-DTSTAMP:20260702T181747Z
+DTSTAMP:20260703T074921Z
 DTSTART;VALUE=DATE:20260723
 DESCRIPTION:财务季度：Jun/2026。\n代码：DOV，公司：Dover Corporation，行业: 工业。\n预计每股收益: $2
 	.72，当前市值: $29\,244\,419\,278。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbo
@@ -2151,9 +2103,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:ERSauctKU6o8MC2k-qiXV
+UID:jFrBySgcArlx6h0rTRXws
 SUMMARY:CenterPoint Energy 发布财报
-DTSTAMP:20260702T181747Z
+DTSTAMP:20260703T074921Z
 DTSTART;VALUE=DATE:20260723
 DESCRIPTION:财务季度：Jun/2026。\n代码：CNP，公司：CenterPoint Energy，行业: 公共事业。\n预计每股收益:
 	 $0.38，当前市值: $28\,606\,831\,360。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?sy
@@ -2167,9 +2119,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:Boa31whWqV0m7nq2EVh5c
+UID:Dbugl47v0u6E2Z8Oe2yZl
 SUMMARY:West Pharmaceutical Services 发布财报
-DTSTAMP:20260702T181747Z
+DTSTAMP:20260703T074921Z
 DTSTART;VALUE=DATE:20260723
 DESCRIPTION:财务季度：Jun/2026。\n代码：WST，公司：West Pharmaceutical Services，行业: 卫生保健
 	。\n预计每股收益: $2.08，当前市值: $25\,786\,372\,175。\n ~~~~~~~~~~~~ \n在股票 app 打开： st
@@ -2183,9 +2135,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:BHKCUSJQayZB1RvXyuUjP
+UID:VmFBUvG_lz8_achtzzt5l
 SUMMARY:Quest Diagnostics 盘前发布财报
-DTSTAMP:20260702T181747Z
+DTSTAMP:20260703T074921Z
 DTSTART;VALUE=DATE:20260723
 DESCRIPTION:财务季度：Jun/2026。\n代码：DGX，公司：Quest Diagnostics，行业: 卫生保健。\n预计每股收益: 
 	$2.81，当前市值: $23\,912\,642\,593。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?sym
@@ -2199,9 +2151,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:MfKt7BLO0QUIssgJISgvS
+UID:-hvWiw5AViNERfRdiB2oj
 SUMMARY:威瑞信 发布财报
-DTSTAMP:20260702T181747Z
+DTSTAMP:20260703T074921Z
 DTSTART;VALUE=DATE:20260723
 DESCRIPTION:财务季度：Jun/2026。\n代码：VRSN，公司：威瑞信，行业: 信息技术。\n预计每股收益: $2.39，当前市值: $
 	23\,286\,900\,000。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=VRSN \n在富
@@ -2215,9 +2167,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:IgTmxyssKcxldStZtMh6r
+UID:Bs1WaEx5hTVyKCGwOXy5N
 SUMMARY:Dow Inc. 盘前发布财报
-DTSTAMP:20260702T181747Z
+DTSTAMP:20260703T074921Z
 DTSTART;VALUE=DATE:20260723
 DESCRIPTION:财务季度：Jun/2026。\n代码：DOW，公司：Dow Inc.，行业: 材料。\n预计每股收益: $1.31，当前市值:
 	 $19\,474\,433\,655。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=DOW \n在
@@ -2231,9 +2183,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:8YqNySKLfVBdgN_Is5mgT
+UID:_-s06ifb6Eo0X1ZvdMPsy
 SUMMARY:牵引机供应公司 发布财报
-DTSTAMP:20260702T181747Z
+DTSTAMP:20260703T074921Z
 DTSTART;VALUE=DATE:20260723
 DESCRIPTION:财务季度：Jun/2026。\n代码：TSCO，公司：牵引机供应公司，行业: 非必需消费品。\n预计每股收益: $0.85，当
 	前市值: $16\,918\,744\,612。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=TSC
@@ -2247,9 +2199,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:6s_E62tz77sCMznNpEdX5
+UID:XRmHmFPPKktIWgDOoaKsc
 SUMMARY:Allegion 发布财报
-DTSTAMP:20260702T181747Z
+DTSTAMP:20260703T074921Z
 DTSTART;VALUE=DATE:20260723
 DESCRIPTION:财务季度：Jun/2026。\n代码：ALLE，公司：Allegion，行业: 工业。\n预计每股收益: $2.22，当前市值
 	: $12\,025\,005\,030。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=ALLE \
@@ -2263,9 +2215,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:igB6Ptk9CjKAh8ZRQI6sI
+UID:QmnSLEmBNwAVlDRV_B0AM
 SUMMARY:美国航空集团 发布财报
-DTSTAMP:20260702T181747Z
+DTSTAMP:20260703T074921Z
 DTSTART;VALUE=DATE:20260723
 DESCRIPTION:财务季度：Jun/2026。\n代码：AAL，公司：美国航空集团，行业: 工业。\n预计每股收益: $0.06，当前市值: $
 	12\,004\,140\,237。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=AAL \n在富途
@@ -2279,9 +2231,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:XMPpAwhIL5-M_RDR9azaV
+UID:iXm663462geYcRo_KsKvI
 SUMMARY:艾欧史密斯 发布财报
-DTSTAMP:20260702T181747Z
+DTSTAMP:20260703T074921Z
 DTSTART;VALUE=DATE:20260723
 DESCRIPTION:财务季度：Jun/2026。\n代码：AOS，公司：艾欧史密斯，行业: 工业。\n预计每股收益: $0.99，当前市值: $8
 	\,564\,670\,695。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=AOS \n在富途查看
@@ -2295,9 +2247,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:v8pKUTI-olSFXKV71QsmO
+UID:mBsVvqgG9XsgZjZw5eMuH
 SUMMARY:Pool Corporation 发布财报
-DTSTAMP:20260702T181747Z
+DTSTAMP:20260703T074921Z
 DTSTART;VALUE=DATE:20260723
 DESCRIPTION:财务季度：Jun/2026。\n代码：POOL，公司：Pool Corporation，行业: 非必需消费品。\n预计每股收益
 	: $5.36，当前市值: $7\,860\,391\,317。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?sy
@@ -2311,9 +2263,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:7E5xAF7LCEmgVsUms4D2x
+UID:1ppzwDFdxVLKTCdXmxtEj
 SUMMARY:Mohawk Industries 发布财报
-DTSTAMP:20260702T181747Z
+DTSTAMP:20260703T074921Z
 DTSTART;VALUE=DATE:20260723
 DESCRIPTION:财务季度：Jun/2026。\n代码：MHK，公司：Mohawk Industries，行业: 非必需消费品。\n预计每股收益
 	: $2.57，当前市值: $7\,305\,843\,960。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?sy
@@ -2327,9 +2279,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:TCfRInd4EqnU8k31VasBV
+UID:3LtbJ1iVyTo70MARvrzKJ
 SUMMARY:美国运通 盘前发布财报
-DTSTAMP:20260702T181747Z
+DTSTAMP:20260703T074921Z
 DTSTART;VALUE=DATE:20260724
 DESCRIPTION:财务季度：Jun/2026。\n代码：AXP，公司：美国运通，行业: 金融。\n预计每股收益: $4.39，当前市值: $23
 	7\,449\,602\,164。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=AXP \n在富途查
@@ -2343,9 +2295,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:UoTBp1YKrmenkc6dPys3f
+UID:7i88D-5hKmI4sk_YVd-9A
 SUMMARY:威讯通讯 盘前发布财报
-DTSTAMP:20260702T181747Z
+DTSTAMP:20260703T074921Z
 DTSTART;VALUE=DATE:20260724
 DESCRIPTION:财务季度：Jun/2026。\n代码：VZ，公司：威讯通讯，行业: 通讯服务。\n预计每股收益: $1.27，当前市值: $1
 	75\,331\,718\,631。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=VZ \n在富途查
@@ -2359,9 +2311,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:WR2mok69n6-k5Nrq1CCvQ
+UID:VL-9kKszL1WDYqXjOAatD
 SUMMARY:HCA Healthcare 发布财报
-DTSTAMP:20260702T181747Z
+DTSTAMP:20260703T074921Z
 DTSTART;VALUE=DATE:20260724
 DESCRIPTION:财务季度：Jun/2026。\n代码：HCA，公司：HCA Healthcare，行业: 卫生保健。\n预计每股收益: $7.
 	37，当前市值: $87\,236\,282\,952。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol
@@ -2375,9 +2327,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:QWuQn3mKNaSiVSsULilXG
+UID:K3SBcQ9DZeqpn8rDfCsVw
 SUMMARY:怡安集团 发布财报
-DTSTAMP:20260702T181747Z
+DTSTAMP:20260703T074921Z
 DTSTART;VALUE=DATE:20260724
 DESCRIPTION:财务季度：Jun/2026。\n代码：AON，公司：怡安集团，行业: 金融。\n预计每股收益: $3.77，当前市值: $73
 	\,376\,496\,598。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=AON \n在富途查看
@@ -2391,9 +2343,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:nXeNS0bXbXJPm2X9nZvdU
+UID:B_0Z23HRGZ2LhB3D-eYMz
 SUMMARY:斯伦贝谢有限公司 盘前发布财报
-DTSTAMP:20260702T181747Z
+DTSTAMP:20260703T074921Z
 DTSTART;VALUE=DATE:20260724
 DESCRIPTION:财务季度：Jun/2026。\n代码：SLB，公司：斯伦贝谢有限公司，行业: 能源。\n预计每股收益: $0.52，当前市值:
 	 $67\,412\,149\,934。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=SLB \n在
@@ -2407,9 +2359,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:lRisgMxz0eitQ5QZPCJBZ
+UID:aOMJhJScFLbAWluORP6Hp
 SUMMARY:特许通讯 盘前发布财报
-DTSTAMP:20260702T181747Z
+DTSTAMP:20260703T074921Z
 DTSTART;VALUE=DATE:20260724
 DESCRIPTION:财务季度：Jun/2026。\n代码：CHTR，公司：特许通讯，行业: 通讯服务。\n预计每股收益: $10.24，当前市值:
 	 $19\,435\,597\,654。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=CHTR \n
@@ -2423,9 +2375,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:FhjBh-vWufldpExKqzR-M
+UID:_KhfQkxZgNCHS19iJ03zA
 SUMMARY:蓝威斯顿 盘前发布财报
-DTSTAMP:20260702T181747Z
+DTSTAMP:20260703T074921Z
 DTSTART;VALUE=DATE:20260724
 DESCRIPTION:财务季度：May/2026。\n代码：LW，公司：蓝威斯顿，行业: 必需品。\n预计每股收益: $0.61，当前市值: $6\
 	,149\,762\,646。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=LW \n在富途查看：h
@@ -2439,9 +2391,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:33XHgJgHFG8diYmcqjaUp
+UID:OF2QIS1xKWOOn-Vb928co
 SUMMARY:贝克休斯 盘后发布财报
-DTSTAMP:20260702T181747Z
+DTSTAMP:20260703T074921Z
 DTSTART;VALUE=DATE:20260726
 DESCRIPTION:财务季度：Jun/2026。\n代码：BKR，公司：贝克休斯，行业: 能源。\n预计每股收益: $0.50，当前市值: $53
 	\,393\,137\,273。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=BKR \n在富途查看
@@ -2455,9 +2407,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:JmeAl0edY3hYh7pBXdHVn
+UID:ycxnhHLaD5Nqds5J-pRft
 SUMMARY:阿斯利康 盘前发布财报
-DTSTAMP:20260702T181747Z
+DTSTAMP:20260703T074921Z
 DTSTART;VALUE=DATE:20260727
 DESCRIPTION:财务季度：Jun/2026。\n代码：AZN，公司：阿斯利康，行业: N/A。\n预计每股收益: $2.52，当前市值: $5
 	79\,426\,534\,428。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=AZN \n在富途
@@ -2471,9 +2423,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:pD2sberqPJy5tB9hQ7nu9
+UID:2mpRuhiguCZ-ihOFPgyGS
 SUMMARY:Welltower 盘后发布财报
-DTSTAMP:20260702T181747Z
+DTSTAMP:20260703T074921Z
 DTSTART;VALUE=DATE:20260727
 DESCRIPTION:财务季度：Jun/2026。\n代码：WELL，公司：Welltower，行业: 房地产。\n预计每股收益: $1.54，当前
 	市值: $162\,494\,447\,246。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=WEL
@@ -2487,9 +2439,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:JbvrzsAvHTAW4cKTsJbd-
+UID:1nUOCEoo0hGVSzNbcSbBq
 SUMMARY:Cadence 发布财报
-DTSTAMP:20260702T181747Z
+DTSTAMP:20260703T074921Z
 DTSTART;VALUE=DATE:20260727
 DESCRIPTION:财务季度：Jun/2026。\n代码：CDNS，公司：Cadence，行业: 信息技术。\n预计每股收益: $1.62，当前市
 	值: $104\,183\,977\,680。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=CDNS
@@ -2503,9 +2455,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:978dGYQCg6H6n-T5Nzn98
+UID:1OCBEMcASdNQbsNnkyeH9
 SUMMARY:Nucor 盘后发布财报
-DTSTAMP:20260702T181747Z
+DTSTAMP:20260703T074921Z
 DTSTART;VALUE=DATE:20260727
 DESCRIPTION:财务季度：Jun/2026。\n代码：NUE，公司：Nucor，行业: 材料。\n预计每股收益: $4.63，当前市值: $4
 	9\,879\,822\,869。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=NUE \n在富途查
@@ -2519,9 +2471,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:IOYYj5AhHiRzmKbPQMekO
+UID:XGm30dXlikoH0ZIkuCB9v
 SUMMARY:Cincinnati Financial 发布财报
-DTSTAMP:20260702T181747Z
+DTSTAMP:20260703T074921Z
 DTSTART;VALUE=DATE:20260727
 DESCRIPTION:财务季度：Jun/2026。\n代码：CINF，公司：Cincinnati Financial，行业: 金融。\n预计每股收益
 	: $1.73，当前市值: $28\,958\,904\,970。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?s
@@ -2535,9 +2487,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:ecwhLiUYXt7atgpY4Ab_g
+UID:uDVY4NIhQvopXOCzx3kZv
 SUMMARY:美国信安金融集团 盘后发布财报
-DTSTAMP:20260702T181747Z
+DTSTAMP:20260703T074921Z
 DTSTART;VALUE=DATE:20260727
 DESCRIPTION:财务季度：Jun/2026。\n代码：PFG，公司：美国信安金融集团，行业: 金融。\n预计每股收益: $2.34，当前市值:
 	 $23\,530\,228\,989。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=PFG \n在
@@ -2551,9 +2503,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:MEOgW2S7_HDli62tPDLBx
+UID:Xge0sPbYwRYYc0EUcm5qH
 SUMMARY:Universal Health Services 发布财报
-DTSTAMP:20260702T181747Z
+DTSTAMP:20260703T074921Z
 DTSTART;VALUE=DATE:20260727
 DESCRIPTION:财务季度：Jun/2026。\n代码：UHS，公司：Universal Health Services，行业: 卫生保健。\n
 	预计每股收益: $5.66，当前市值: $9\,115\,563\,734。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks
@@ -2567,9 +2519,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:W8LijE7x5ctKxZccrwNx0
+UID:bpKmj2BC2ZvmXLTJXJa9C
 SUMMARY:惠而浦 发布财报
-DTSTAMP:20260702T181747Z
+DTSTAMP:20260703T074921Z
 DTSTART;VALUE=DATE:20260727
 DESCRIPTION:财务季度：Jun/2026。\n代码：WHR，公司：惠而浦，行业: 非必需消费品。\n预计每股收益: $0.13，当前市值: 
 	$2\,603\,944\,771。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=WHR \n在富途
@@ -2583,9 +2535,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:qDTvsjwh5MCdr-aMi_atR
+UID:Oem-3uvQZivHwOtCsBDCx
 SUMMARY:西联汇款 发布财报
-DTSTAMP:20260702T181747Z
+DTSTAMP:20260703T074921Z
 DTSTART;VALUE=DATE:20260727
 DESCRIPTION:财务季度：Jun/2026。\n代码：WU，公司：西联汇款，行业: 信息技术。\n预计每股收益: $0.43，当前市值: $2
 	\,452\,615\,566。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=WU \n在富途查看：
@@ -2599,9 +2551,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:J4uMRIdmNiWvH22cVTa3R
+UID:gg4BVXEPCh-MWbEgI-6C8
 SUMMARY:可口可乐公司 盘前发布财报
-DTSTAMP:20260702T181747Z
+DTSTAMP:20260703T074921Z
 DTSTART;VALUE=DATE:20260728
 DESCRIPTION:财务季度：Jun/2026。\n代码：KO，公司：可口可乐公司，行业: 必需品。\n预计每股收益: $0.92，当前市值: $
 	349\,884\,587\,371。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=KO \n在富途
@@ -2615,9 +2567,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:-H23tmTPZR7Ymtsu1C_rC
+UID:6PhAs7hkIiSGwOqaB2W6N
 SUMMARY:波音 盘前发布财报
-DTSTAMP:20260702T181747Z
+DTSTAMP:20260703T074921Z
 DTSTART;VALUE=DATE:20260728
 DESCRIPTION:财务季度：Jun/2026。\n代码：BA，公司：波音，行业: 工业。\n预计每股收益: ($0.25)，当前市值: $172
 	\,307\,123\,510。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=BA \n在富途查看：
@@ -2631,9 +2583,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:2sng8SBUrYoKSLQbKSQiN
+UID:qzzy-k-GFwOadH-SdrPG1
 SUMMARY:直觉手术 发布财报
-DTSTAMP:20260702T181747Z
+DTSTAMP:20260703T074921Z
 DTSTART;VALUE=DATE:20260728
 DESCRIPTION:财务季度：Jun/2026。\n代码：ISRG，公司：直觉手术，行业: 卫生保健。\n预计每股收益: $2.02，当前市值: 
 	$142\,508\,044\,364。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=ISRG \n
@@ -2647,9 +2599,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:LWW_AJHZb-EEXaVrU2vg8
+UID:2Jo4mkU9c9EBiL8KLRBrS
 SUMMARY:Waste Management (corporation) 盘后发布财报
-DTSTAMP:20260702T181747Z
+DTSTAMP:20260703T074921Z
 DTSTART;VALUE=DATE:20260728
 DESCRIPTION:财务季度：Jun/2026。\n代码：WM，公司：Waste Management (corporation)，行业: 工业。
 	\n预计每股收益: $2.01，当前市值: $89\,985\,094\,508。\n ~~~~~~~~~~~~ \n在股票 app 打开： sto
@@ -2663,9 +2615,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:YruqnHIJst2WzGjsqivxz
+UID:h01WmzJVr2LK4W04Mi8Eu
 SUMMARY:Sherwin-Williams 盘前发布财报
-DTSTAMP:20260702T181747Z
+DTSTAMP:20260703T074921Z
 DTSTART;VALUE=DATE:20260728
 DESCRIPTION:财务季度：Jun/2026。\n代码：SHW，公司：Sherwin-Williams，行业: 材料。\n预计每股收益: $3.
 	55，当前市值: $85\,348\,256\,647。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol
@@ -2679,9 +2631,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:Fe2bIbspRmq5uOWAUawT9
+UID:BusMuaHgAPwcyeDLGSxKX
 SUMMARY:艺康集团 盘前发布财报
-DTSTAMP:20260702T181747Z
+DTSTAMP:20260703T074921Z
 DTSTART;VALUE=DATE:20260728
 DESCRIPTION:财务季度：Jun/2026。\n代码：ECL，公司：艺康集团，行业: 材料。\n预计每股收益: $2.08，当前市值: $78
 	\,343\,757\,432。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=ECL \n在富途查看
@@ -2695,9 +2647,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:5wanEKdzyG6DlQlqGpTQ2
+UID:AWS757W-I8MtfMu0waabG
 SUMMARY:American Tower 盘前发布财报
-DTSTAMP:20260702T181747Z
+DTSTAMP:20260703T074921Z
 DTSTART;VALUE=DATE:20260728
 DESCRIPTION:财务季度：Jun/2026。\n代码：AMT，公司：American Tower，行业: 房地产。\n预计每股收益: $2.6
 	2，当前市值: $77\,375\,520\,900。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=
@@ -2711,9 +2663,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:DE9Ct2AvOBocFsAtG-0JN
+UID:9Oa1MCxPTA86UL3_D-0fR
 SUMMARY:希尔顿全球酒店集团 盘前发布财报
-DTSTAMP:20260702T181747Z
+DTSTAMP:20260703T074921Z
 DTSTART;VALUE=DATE:20260728
 DESCRIPTION:财务季度：Jun/2026。\n代码：HLT，公司：希尔顿全球酒店集团，行业: 非必需消费品。\n预计每股收益: $2.27，
 	当前市值: $75\,606\,577\,309。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=HL
@@ -2727,9 +2679,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:GKEDbCFdv0gs1iRujNMdj
+UID:1bIoLw6EDJjU4rFambP1I
 SUMMARY:恩智浦半导体 盘后发布财报
-DTSTAMP:20260702T181747Z
+DTSTAMP:20260703T074921Z
 DTSTART;VALUE=DATE:20260728
 DESCRIPTION:财务季度：Jun/2026。\n代码：NXPI，公司：恩智浦半导体，行业: 信息技术。\n预计每股收益: $3.20，当前市值
 	: $70\,484\,875\,835。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=NXPI \
@@ -2743,9 +2695,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:iaBavXvyjHFlIn1fz0U5c
+UID:GIF3YCKhFfeZnPWswrm_r
 SUMMARY:帕卡 发布财报
-DTSTAMP:20260702T181747Z
+DTSTAMP:20260703T074921Z
 DTSTART;VALUE=DATE:20260728
 DESCRIPTION:财务季度：Jun/2026。\n代码：PCAR，公司：帕卡，行业: 工业。\n预计每股收益: $1.32，当前市值: $63\
 	,806\,942\,404。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=PCAR \n在富途查看
@@ -2759,9 +2711,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:KXvt6ilFZaGs8YhIxL6Ya
+UID:yqMGEqUW07mEifZRx7_j4
 SUMMARY:福特汽车 盘后发布财报
-DTSTAMP:20260702T181747Z
+DTSTAMP:20260703T074921Z
 DTSTART;VALUE=DATE:20260728
 DESCRIPTION:财务季度：Jun/2026。\n代码：F，公司：福特汽车，行业: 非必需消费品。\n预计每股收益: $0.35，当前市值: $
 	54\,351\,207\,473。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=F \n在富途查看
@@ -2775,9 +2727,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:LESLJ3Wtx-ll-f3Fd_jfc
+UID:q2KQNU0EV-hl2uUbiY_xX
 SUMMARY:Arch Capital Group 盘后发布财报
-DTSTAMP:20260702T181747Z
+DTSTAMP:20260703T074921Z
 DTSTART;VALUE=DATE:20260728
 DESCRIPTION:财务季度：Jun/2026。\n代码：ACGL，公司：Arch Capital Group，行业: 金融。\n预计每股收益: 
 	$2.46，当前市值: $34\,432\,343\,897。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?sym
@@ -2791,9 +2743,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:mSC8zscFViqHE-_g9ADr_
+UID:uRQ32l46I9IWe1MllkcaG
 SUMMARY:昆泰 发布财报
-DTSTAMP:20260702T181747Z
+DTSTAMP:20260703T074921Z
 DTSTART;VALUE=DATE:20260728
 DESCRIPTION:财务季度：Jun/2026。\n代码：IQV，公司：昆泰，行业: 卫生保健。\n预计每股收益: $2.74，当前市值: $33
 	\,914\,080\,000。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=IQV \n在富途查看
@@ -2807,9 +2759,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:ojsFOUxUCvegv-hLp8EA5
+UID:aFNuT3ArkJBnqpMHidQJx
 SUMMARY:Centene Corporation 盘前发布财报
-DTSTAMP:20260702T181747Z
+DTSTAMP:20260703T074921Z
 DTSTART;VALUE=DATE:20260728
 DESCRIPTION:财务季度：Jun/2026。\n代码：CNC，公司：Centene Corporation，行业: 卫生保健。\n预计每股收益
 	: $0.89，当前市值: $33\,751\,024\,950。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?s
@@ -2823,9 +2775,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:-EgbUkOJIw_rEl98AIpC6
+UID:lUu-NjNlOai0Lj1NR_uVe
 SUMMARY:EQT 发布财报
-DTSTAMP:20260702T181747Z
+DTSTAMP:20260703T074921Z
 DTSTART;VALUE=DATE:20260728
 DESCRIPTION:财务季度：Jun/2026。\n代码：EQT，公司：EQT，行业: 能源。\n预计每股收益: $0.53，当前市值: $32\
 	,825\,085\,440。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=EQT \n在富途查看：
@@ -2839,9 +2791,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:HDmWo8PMuR50UHMkZoHR8
+UID:ZRlR1UPZ7ke2KTgrNidmR
 SUMMARY:Extra Space Storage 盘后发布财报
-DTSTAMP:20260702T181747Z
+DTSTAMP:20260703T074921Z
 DTSTART;VALUE=DATE:20260728
 DESCRIPTION:财务季度：Jun/2026。\n代码：EXR，公司：Extra Space Storage，行业: 房地产。\n预计每股收益:
 	 $2.06，当前市值: $31\,116\,623\,263。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?sy
@@ -2855,9 +2807,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:_mwc_JzQD3vRoHF2UfpS8
+UID:4a1SPOWlvkKjuh0BTid-t
 SUMMARY:PPG工业集团 盘后发布财报
-DTSTAMP:20260702T181747Z
+DTSTAMP:20260703T074921Z
 DTSTART;VALUE=DATE:20260728
 DESCRIPTION:财务季度：Jun/2026。\n代码：PPG，公司：PPG工业集团，行业: 材料。\n预计每股收益: $2.25，当前市值: 
 	$27\,329\,769\,000。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=PPG \n在富
@@ -2871,9 +2823,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:cs2tHN3mNFTfRJNgHtJX8
+UID:dnmV7hE6ThrhpMxUPlnXY
 SUMMARY:Equifax 发布财报
-DTSTAMP:20260702T181747Z
+DTSTAMP:20260703T074921Z
 DTSTART;VALUE=DATE:20260728
 DESCRIPTION:财务季度：Jun/2026。\n代码：EFX，公司：Equifax，行业: 工业。\n预计每股收益: $2.22，当前市值: 
 	$19\,309\,972\,568。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=EFX \n在富
@@ -2887,9 +2839,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:lgvEZSmkyCMtmsaaEL4F9
+UID:ehCcnYLw3jZvB-2MWV1VX
 SUMMARY:德事隆 盘前发布财报
-DTSTAMP:20260702T181747Z
+DTSTAMP:20260703T074921Z
 DTSTART;VALUE=DATE:20260728
 DESCRIPTION:财务季度：Jun/2026。\n代码：TXT，公司：德事隆，行业: 工业。\n预计每股收益: $1.52，当前市值: $15\
 	,985\,614\,023。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=TXT \n在富途查看：
@@ -2903,9 +2855,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:2edsuxwO39x_9plVqDjQF
+UID:uaguaJCEFVlOljEJaa9Om
 SUMMARY:Pentair 发布财报
-DTSTAMP:20260702T181747Z
+DTSTAMP:20260703T074921Z
 DTSTART;VALUE=DATE:20260728
 DESCRIPTION:财务季度：Jun/2026。\n代码：PNR，公司：Pentair，行业: 工业。\n预计每股收益: $1.48，当前市值: 
 	$12\,343\,431\,222。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=PNR \n在富
@@ -2919,9 +2871,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:ep6CVUvS9J65qmI46xtoD
+UID:Jx2o5hlXIHVIjkH9KTucV
 SUMMARY:科斯塔集团 发布财报
-DTSTAMP:20260702T181747Z
+DTSTAMP:20260703T074921Z
 DTSTART;VALUE=DATE:20260728
 DESCRIPTION:财务季度：Jun/2026。\n代码：CSGP，公司：科斯塔集团，行业: 工业。\n预计每股收益: $0.21，当前市值: $
 	11\,989\,323\,792。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=CSGP \n在富
@@ -2935,9 +2887,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:c7iqsxMzpmx1J-mkErD8B
+UID:3nsYV37_ZMl8vaIp9vF8T
 SUMMARY:Invesco 盘前发布财报
-DTSTAMP:20260702T181747Z
+DTSTAMP:20260703T074921Z
 DTSTART;VALUE=DATE:20260728
 DESCRIPTION:财务季度：Jun/2026。\n代码：IVZ，公司：Invesco，行业: 金融。\n预计每股收益: $0.61，当前市值: 
 	$11\,893\,648\,556。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=IVZ \n在富
@@ -2951,9 +2903,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:7c4v3VIot1hV9TYSJS5l7
+UID:AZKmdeFWKL-Zra_jEhg4E
 SUMMARY:Boston Properties 盘后发布财报
-DTSTAMP:20260702T181747Z
+DTSTAMP:20260703T074921Z
 DTSTART;VALUE=DATE:20260728
 DESCRIPTION:财务季度：Jun/2026。\n代码：BXP，公司：Boston Properties，行业: 房地产。\n预计每股收益: $
 	1.71，当前市值: $10\,806\,188\,014。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symb
@@ -2967,9 +2919,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:mUw_SOxKJUKEgIJFurwY5
+UID:_1qNt-mGoDzKodzlBpZNi
 SUMMARY:NOV Inc. 盘后发布财报
-DTSTAMP:20260702T181747Z
+DTSTAMP:20260703T074921Z
 DTSTART;VALUE=DATE:20260728
 DESCRIPTION:财务季度：Jun/2026。\n代码：NOV，公司：NOV Inc.，行业: 能源。\n预计每股收益: $0.16，当前市值:
 	 $6\,495\,881\,488。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=NOV \n在富
@@ -2983,9 +2935,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:8g7f7Va8-RuUy17F_9eSr
+UID:dowS2FpH__izS4z5de3hU
 SUMMARY:Enphase Energy 发布财报
-DTSTAMP:20260702T181747Z
+DTSTAMP:20260703T074921Z
 DTSTART;VALUE=DATE:20260728
 DESCRIPTION:财务季度：Jun/2026。\n代码：ENPH，公司：Enphase Energy，行业: 信息技术。\n预计每股收益: $0
 	.16，当前市值: $6\,173\,428\,625。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol
@@ -2999,9 +2951,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:it632MrwNkKrzUjAaJ3uE
+UID:oiZHrffgVq6Xh0WRBLAbM
 SUMMARY:微软 发布财报
-DTSTAMP:20260702T181747Z
+DTSTAMP:20260703T074921Z
 DTSTART;VALUE=DATE:20260729
 DESCRIPTION:财务季度：Jun/2026。\n代码：MSFT，公司：微软，行业: 信息技术。\n预计每股收益: $4.21，当前市值: $2
 	\,854\,598\,888\,053。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=MSFT \
@@ -3015,9 +2967,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:zdF5Od5d-MLszjI80d4SL
+UID:TWSlqul4aASFFVTGOaBI1
 SUMMARY:Meta 公司 发布财报
-DTSTAMP:20260702T181747Z
+DTSTAMP:20260703T074921Z
 DTSTART;VALUE=DATE:20260729
 DESCRIPTION:财务季度：Jun/2026。\n代码：META，公司：Meta 公司，行业: 通讯服务。\n预计每股收益: $7.09，当前市
 	值: $1\,555\,825\,027\,255。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=M
@@ -3031,9 +2983,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:qYF9D20Ak7U0zZIXVJXdL
+UID:xZm_ijkRFQ69Ijow6mBFT
 SUMMARY:泛林集团 发布财报
-DTSTAMP:20260702T181747Z
+DTSTAMP:20260703T074921Z
 DTSTART;VALUE=DATE:20260729
 DESCRIPTION:财务季度：Jun/2026。\n代码：LRCX，公司：泛林集团，行业: 信息技术。\n预计每股收益: $1.68，当前市值: 
 	$489\,298\,409\,460。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=LRCX \n
@@ -3047,9 +2999,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:zioR_9N8wLuRE3_u-tcHl
+UID:Fr_vj_a9KxjUrTAQ3Zxqy
 SUMMARY:Arm 发布财报
-DTSTAMP:20260702T181747Z
+DTSTAMP:20260703T074921Z
 DTSTART;VALUE=DATE:20260729
 DESCRIPTION:财务季度：Jun/2026。\n代码：ARM，公司：Arm，行业: 半导体。\n预计每股收益: $0.18，当前市值: $35
 	9\,086\,725\,892。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=ARM \n在富途查
@@ -3063,9 +3015,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:zBokUE6BkDKj726xApwP4
+UID:4xWIdld4lEjTQJGUOLgvE
 SUMMARY:宝洁 盘前发布财报
-DTSTAMP:20260702T181747Z
+DTSTAMP:20260703T074921Z
 DTSTART;VALUE=DATE:20260729
 DESCRIPTION:财务季度：Jun/2026。\n代码：PG，公司：宝洁，行业: 必需品。\n预计每股收益: $1.43，当前市值: $343\
 	,305\,347\,327。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=PG \n在富途查看：h
@@ -3079,9 +3031,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:Hfp9_tdT6ISRcE3QEKUnI
+UID:DxcFjOCwFmU476ML47HFS
 SUMMARY:安费诺 盘前发布财报
-DTSTAMP:20260702T181747Z
+DTSTAMP:20260703T074921Z
 DTSTART;VALUE=DATE:20260729
 DESCRIPTION:财务季度：Jun/2026。\n代码：APH，公司：安费诺，行业: 信息技术。\n预计每股收益: $1.16，当前市值: $2
 	11\,870\,976\,118。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=APH \n在富途
@@ -3095,9 +3047,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:xJ_uDcAWUBB8UVE3-fNpb
+UID:P2KiESbYupAZdw9EPVwDI
 SUMMARY:西部数据 发布财报
-DTSTAMP:20260702T181747Z
+DTSTAMP:20260703T074921Z
 DTSTART;VALUE=DATE:20260729
 DESCRIPTION:财务季度：Jun/2026。\n代码：WDC，公司：西部数据，行业: 信息技术。\n预计每股收益: $3.22，当前市值: $
 	206\,247\,446\,726。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=WDC \n在富
@@ -3111,9 +3063,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:WGlRTo6L3mJF8FXNNZwJP
+UID:C7svepe1qmnwBiaiJw42c
 SUMMARY:高通 发布财报
-DTSTAMP:20260702T181747Z
+DTSTAMP:20260703T074921Z
 DTSTART;VALUE=DATE:20260729
 DESCRIPTION:财务季度：Jun/2026。\n代码：QCOM，公司：高通，行业: 信息技术。\n预计每股收益: $1.53，当前市值: $1
 	91\,743\,680\,000。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=QCOM \n在富
@@ -3127,9 +3079,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:GC-hVXXZ27JrnlCjCBFbR
+UID:T6S-02kysfFHdXMAbCWyO
 SUMMARY:Trane Technologies 发布财报
-DTSTAMP:20260702T181747Z
+DTSTAMP:20260703T074921Z
 DTSTART;VALUE=DATE:20260729
 DESCRIPTION:财务季度：Jun/2026。\n代码：TT，公司：Trane Technologies，行业: 工业。\n预计每股收益: $4
 	.27，当前市值: $107\,119\,063\,045。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symb
@@ -3143,9 +3095,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:pau3dkqdbIY0kt3Zwv194
+UID:c1ZAAt_s87wDCgDB-szkf
 SUMMARY:Equinix 盘后发布财报
-DTSTAMP:20260702T181747Z
+DTSTAMP:20260703T074921Z
 DTSTART;VALUE=DATE:20260729
 DESCRIPTION:财务季度：Jun/2026。\n代码：EQIX，公司：Equinix，行业: 房地产。\n预计每股收益: $10.14，当前市
 	值: $99\,967\,510\,258。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=EQIX 
@@ -3159,9 +3111,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:Bzq9WE00EQPjro_yddRPm
+UID:4AbkI2E6sRQnz_KL2LtPO
 SUMMARY:ADP (公司) 盘前发布财报
-DTSTAMP:20260702T181747Z
+DTSTAMP:20260703T074921Z
 DTSTART;VALUE=DATE:20260729
 DESCRIPTION:财务季度：Jun/2026。\n代码：ADP，公司：ADP (公司)，行业: 信息技术。\n预计每股收益: $2.59，当前市
 	值: $94\,915\,355\,926。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=ADP \
@@ -3175,9 +3127,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:a3NOJVC2KBdruM43bp-8j
+UID:VZ7C1-Q3-0vY7Brh-XclH
 SUMMARY:伊利诺伊州工具厂股份 发布财报
-DTSTAMP:20260702T181747Z
+DTSTAMP:20260703T074921Z
 DTSTART;VALUE=DATE:20260729
 DESCRIPTION:财务季度：Jun/2026。\n代码：ITW，公司：伊利诺伊州工具厂股份，行业: 工业。\n预计每股收益: $2.80，当前市
 	值: $77\,382\,669\,000。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=ITW \
@@ -3191,9 +3143,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:6OzpfsvjEli_SjA9T6e-O
+UID:6W4V7H66sRZrf9j5mUyuu
 SUMMARY:美国电力公司 发布财报
-DTSTAMP:20260702T181747Z
+DTSTAMP:20260703T074921Z
 DTSTART;VALUE=DATE:20260729
 DESCRIPTION:财务季度：Jun/2026。\n代码：AEP，公司：美国电力公司，行业: 公共事业。\n预计每股收益: $1.48，当前市值:
 	 $73\,481\,384\,572。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=AEP \n在
@@ -3207,9 +3159,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:pPBv1M-Ruc-X2IjUKdz4B
+UID:fyRiQKpDZLAD7Q6Wv5Yag
 SUMMARY:波士顿科学 盘前发布财报
-DTSTAMP:20260702T181747Z
+DTSTAMP:20260703T074921Z
 DTSTART;VALUE=DATE:20260729
 DESCRIPTION:财务季度：Jun/2026。\n代码：BSX，公司：波士顿科学，行业: 卫生保健。\n预计每股收益: $0.83，当前市值: 
 	$64\,002\,454\,008。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=BSX \n在富
@@ -3223,9 +3175,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:XSokd33YGrAVdb6PAXMTL
+UID:nwifJjOYZYVL__pejY9FM
 SUMMARY:Allstate 发布财报
-DTSTAMP:20260702T181747Z
+DTSTAMP:20260703T074921Z
 DTSTART;VALUE=DATE:20260729
 DESCRIPTION:财务季度：Jun/2026。\n代码：ALL，公司：Allstate，行业: 金融。\n预计每股收益: $4.90，当前市值:
 	 $62\,584\,176\,502。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=ALL \n在
@@ -3239,9 +3191,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:pl3FGIJbO2c-ySxh05n9E
+UID:rCAsrlqsYNXvSbjbX2cLV
 SUMMARY:Public Storage 发布财报
-DTSTAMP:20260702T181747Z
+DTSTAMP:20260703T074921Z
 DTSTART;VALUE=DATE:20260729
 DESCRIPTION:财务季度：Jun/2026。\n代码：PSA，公司：Public Storage，行业: 房地产。\n预计每股收益: $4.2
 	7，当前市值: $56\,708\,298\,434。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=
@@ -3255,9 +3207,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:67fgb0d10AoUZM49qtum0
+UID:0BFkInxvOaZm6ryTY2qcj
 SUMMARY:Entergy 发布财报
-DTSTAMP:20260702T181747Z
+DTSTAMP:20260703T074921Z
 DTSTART;VALUE=DATE:20260729
 DESCRIPTION:财务季度：Jun/2026。\n代码：ETR，公司：Entergy，行业: 公共事业。\n预计每股收益: $1.08，当前市值
 	: $51\,677\,109\,552。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=ETR \n
@@ -3271,9 +3223,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:0rpfDrFQ0sGzz0h90b6E6
+UID:B7_3UBp-AwoKkIo9gHKo7
 SUMMARY:eBay 发布财报
-DTSTAMP:20260702T181747Z
+DTSTAMP:20260703T074921Z
 DTSTART;VALUE=DATE:20260729
 DESCRIPTION:财务季度：Jun/2026。\n代码：EBAY，公司：eBay，行业: 非必需消费品。\n预计每股收益: $1.20，当前市值
 	: $49\,520\,844\,222。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=EBAY \
@@ -3287,9 +3239,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:NAcsyBMOyJ9IeXuBfJzp-
+UID:PGPIgSTbbPGcdeSUjZckd
 SUMMARY:Humana 盘前发布财报
-DTSTAMP:20260702T181747Z
+DTSTAMP:20260703T074921Z
 DTSTART;VALUE=DATE:20260729
 DESCRIPTION:财务季度：Jun/2026。\n代码：HUM，公司：Humana，行业: 卫生保健。\n预计每股收益: $6.17，当前市值:
 	 $49\,155\,579\,330。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=HUM \n在
@@ -3303,9 +3255,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:ng07HdIPCXkTrFnz5U4Ah
+UID:WYekq3umGW0QTV8jB8-jD
 SUMMARY:Garmin 盘前发布财报
-DTSTAMP:20260702T181747Z
+DTSTAMP:20260703T074921Z
 DTSTART;VALUE=DATE:20260729
 DESCRIPTION:财务季度：Jun/2026。\n代码：GRMN，公司：Garmin，行业: 非必需消费品。\n预计每股收益: $2.27，当前
 	市值: $45\,830\,348\,794。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=GRMN
@@ -3319,9 +3271,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:cLHUewly9DlOTA8eaTDvW
+UID:t1-87wQgzp1ZS4HxUNgsp
 SUMMARY:Old Dominion Freight Line 盘前发布财报
-DTSTAMP:20260702T181747Z
+DTSTAMP:20260703T074921Z
 DTSTART;VALUE=DATE:20260729
 DESCRIPTION:财务季度：Jun/2026。\n代码：ODFL，公司：Old Dominion Freight Line，行业: 工业。\n预
 	计每股收益: $1.47，当前市值: $45\,328\,766\,963。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks
@@ -3335,9 +3287,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:SSKg4y9wXQTMqnHCgdI3t
+UID:7suIszyn2JiVcuzC2vJsN
 SUMMARY:奇波雷墨西哥烧烤 盘后发布财报
-DTSTAMP:20260702T181747Z
+DTSTAMP:20260703T074921Z
 DTSTART;VALUE=DATE:20260729
 DESCRIPTION:财务季度：Jun/2026。\n代码：CMG，公司：奇波雷墨西哥烧烤，行业: 非必需消费品。\n预计每股收益: $0.32，当
 	前市值: $44\,895\,690\,000。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=CMG
@@ -3351,9 +3303,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:7HKTbdM0z4XJDnKZGlAch
+UID:stOu2xVMYu-_kLqz5PMVx
 SUMMARY:Ventas (company) 盘后发布财报
-DTSTAMP:20260702T181747Z
+DTSTAMP:20260703T074921Z
 DTSTART;VALUE=DATE:20260729
 DESCRIPTION:财务季度：Jun/2026。\n代码：VTR，公司：Ventas (company)，行业: 房地产。\n预计每股收益: $0
 	.96，当前市值: $43\,585\,115\,667。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbo
@@ -3367,9 +3319,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:lBLVRkfi00O4avphMf4Tm
+UID:tsVP_w4jxO5ke7ZDb8liy
 SUMMARY:世邦魏理仕 盘前发布财报
-DTSTAMP:20260702T181747Z
+DTSTAMP:20260703T074921Z
 DTSTART;VALUE=DATE:20260729
 DESCRIPTION:财务季度：Jun/2026。\n代码：CBRE，公司：世邦魏理仕，行业: 房地产。\n预计每股收益: $1.49，当前市值: 
 	$40\,496\,532\,876。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=CBRE \n在
@@ -3383,9 +3335,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:25MVgLRsGrEdW9S4iF4o7
+UID:ImIcezaHIjUNv_yimObMb
 SUMMARY:Prudential Financial 发布财报
-DTSTAMP:20260702T181747Z
+DTSTAMP:20260703T074921Z
 DTSTART;VALUE=DATE:20260729
 DESCRIPTION:财务季度：Jun/2026。\n代码：PRU，公司：Prudential Financial，行业: 金融。\n预计每股收益:
 	 $3.38，当前市值: $38\,541\,290\,000。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?sy
@@ -3399,9 +3351,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:KPZ9y_2N44OP4Jysa9-u2
+UID:sWkNSfrwdNHNOJLYGKpMG
 SUMMARY:WEC Energy Group 发布财报
-DTSTAMP:20260702T181747Z
+DTSTAMP:20260703T074921Z
 DTSTART;VALUE=DATE:20260729
 DESCRIPTION:财务季度：Jun/2026。\n代码：WEC，公司：WEC Energy Group，行业: 公共事业。\n预计每股收益: $
 	0.82，当前市值: $37\,855\,838\,297。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symb
@@ -3415,9 +3367,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:xMFJOijty9Txzr1dRmslN
+UID:TjwFYoekYGhZuq_QsrL_E
 SUMMARY:好时 发布财报
-DTSTAMP:20260702T181747Z
+DTSTAMP:20260703T074921Z
 DTSTART;VALUE=DATE:20260729
 DESCRIPTION:财务季度：Jun/2026。\n代码：HSY，公司：好时，行业: 必需品。\n预计每股收益: $1.46，当前市值: $36\
 	,242\,025\,275。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=HSY \n在富途查看：
@@ -3431,9 +3383,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:amHvE1k-FQsfNL2YW1tz0
+UID:Rr_OJxXSAeyyzHz12myGl
 SUMMARY:卡夫亨氏 发布财报
-DTSTAMP:20260702T181747Z
+DTSTAMP:20260703T074921Z
 DTSTART;VALUE=DATE:20260729
 DESCRIPTION:财务季度：Jun/2026。\n代码：KHC，公司：卡夫亨氏，行业: 必需品。\n预计每股收益: $0.53，当前市值: $2
 	9\,656\,298\,726。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=KHC \n在富途查
@@ -3447,9 +3399,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:PvlBdegfs-5uZweH3Kt0T
+UID:IHS6stXAiiPfU-RTvHPZj
 SUMMARY:GE医疗 发布财报
-DTSTAMP:20260702T181747Z
+DTSTAMP:20260703T074921Z
 DTSTART;VALUE=DATE:20260729
 DESCRIPTION:财务季度：Jun/2026。\n代码：GEHC，公司：GE医疗，行业: 卫生保健。\n预计每股收益: $1.04，当前市值: 
 	$29\,504\,281\,240。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=GEHC \n在
@@ -3463,9 +3415,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:o91VKEwUZUJEyBY5HtoUf
+UID:-9chFxndxnXm1IcfHDZVi
 SUMMARY:FICO 发布财报
-DTSTAMP:20260702T181747Z
+DTSTAMP:20260703T074921Z
 DTSTART;VALUE=DATE:20260729
 DESCRIPTION:财务季度：Jun/2026。\n代码：FICO，公司：FICO，行业: 信息技术。\n预计每股收益: $10.41，当前市值:
 	 $27\,983\,306\,725。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=FICO \n
@@ -3479,9 +3431,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:CDc7AZvIs3RoJALLKiwbO
+UID:dudnIG7y4_g954CCYlZp7
 SUMMARY:FirstEnergy 发布财报
-DTSTAMP:20260702T181747Z
+DTSTAMP:20260703T074921Z
 DTSTART;VALUE=DATE:20260729
 DESCRIPTION:财务季度：Jun/2026。\n代码：FE，公司：FirstEnergy，行业: 公共事业。\n预计每股收益: $0.56，当
 	前市值: $27\,226\,755\,407。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=FE 
@@ -3495,9 +3447,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:kcg3PFsQdAehLFA1CB9F2
+UID:5--mXq4aWhXFd8bAK0JYn
 SUMMARY:Dexcom 发布财报
-DTSTAMP:20260702T181747Z
+DTSTAMP:20260703T074921Z
 DTSTART;VALUE=DATE:20260729
 DESCRIPTION:财务季度：Jun/2026。\n代码：DXCM，公司：Dexcom，行业: 卫生保健。\n预计每股收益: $0.61，当前市值
 	: $26\,571\,213\,196。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=DXCM \
@@ -3511,9 +3463,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:qtsyO-goJA8dNxoise2zh
+UID:Js1U8IJTwbj2H5bDqFSN2
 SUMMARY:艾芙隆海湾社区公司 发布财报
-DTSTAMP:20260702T181747Z
+DTSTAMP:20260703T074921Z
 DTSTART;VALUE=DATE:20260729
 DESCRIPTION:财务季度：Jun/2026。\n代码：AVB，公司：艾芙隆海湾社区公司，行业: 房地产。\n预计每股收益: $2.80，当前市
 	值: $26\,491\,111\,300。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=AVB \
@@ -3527,9 +3479,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:N8PVF4WGQ5iK6VDGg3aB2
+UID:PyA_Z5VIM3nhgeQnjR9HA
 SUMMARY:American Water Works 发布财报
-DTSTAMP:20260702T181747Z
+DTSTAMP:20260703T074921Z
 DTSTART;VALUE=DATE:20260729
 DESCRIPTION:财务季度：Jun/2026。\n代码：AWK，公司：American Water Works，行业: 公共事业。\n预计每股收
 	益: $1.55，当前市值: $25\,736\,019\,863。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?
@@ -3543,9 +3495,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:1FreBM6Ie1jBrj6o1ipeX
+UID:_OWA-mDgswK6GDcA_yYMt
 SUMMARY:Verisk Analytics 发布财报
-DTSTAMP:20260702T181747Z
+DTSTAMP:20260703T074921Z
 DTSTART;VALUE=DATE:20260729
 DESCRIPTION:财务季度：Jun/2026。\n代码：VRSK，公司：Verisk Analytics，行业: 工业。\n预计每股收益: $1
 	.95，当前市值: $24\,071\,332\,445。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbo
@@ -3559,9 +3511,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:9FO0y3ECdNzq9Tvj4WwjW
+UID:5W98Pish8Q12vOmGdAfc8
 SUMMARY:F5网络公司 发布财报
-DTSTAMP:20260702T181747Z
+DTSTAMP:20260703T074921Z
 DTSTART;VALUE=DATE:20260729
 DESCRIPTION:财务季度：Jun/2026。\n代码：FFIV，公司：F5网络公司，行业: 信息技术。\n预计每股收益: $3.04，当前市值
 	: $23\,931\,916\,192。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=FFIV \
@@ -3575,9 +3527,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:J9igbGbO4odjcj0dRKglR
+UID:dgQKtLRe7GhuHV6t6cCV0
 SUMMARY:C. H. Robinson 发布财报
-DTSTAMP:20260702T181747Z
+DTSTAMP:20260703T074921Z
 DTSTART;VALUE=DATE:20260729
 DESCRIPTION:财务季度：Jun/2026。\n代码：CHRW，公司：C. H. Robinson，行业: 工业。\n预计每股收益: $1.4
 	9，当前市值: $22\,545\,576\,743。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=
@@ -3591,9 +3543,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:RXwYjyodY-74Mxmsg1VCY
+UID:9yqdSUje-gB57eqQ_ZJvk
 SUMMARY:邦吉公司 盘前发布财报
-DTSTAMP:20260702T181747Z
+DTSTAMP:20260703T074921Z
 DTSTART;VALUE=DATE:20260729
 DESCRIPTION:财务季度：Jun/2026。\n代码：BG，公司：邦吉公司，行业: 必需品。\n预计每股收益: $2，当前市值: $20\,3
 	50\,560\,082。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=BG \n在富途查看：htt
@@ -3607,9 +3559,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:fEGrj-7tyWsExT08WAsAr
+UID:alw646Wc5_1wh3cNv01YU
 SUMMARY:高知特 盘前发布财报
-DTSTAMP:20260702T181747Z
+DTSTAMP:20260703T074921Z
 DTSTART;VALUE=DATE:20260729
 DESCRIPTION:财务季度：Jun/2026。\n代码：CTSH，公司：高知特，行业: 信息技术。\n预计每股收益: $1.38，当前市值: $
 	19\,461\,819\,092。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=CTSH \n在富
@@ -3623,9 +3575,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:gb6w8gaUF_SYL0PXysGKx
+UID:1xeFYFn5xSG8BrFgwr_l9
 SUMMARY:Fortive 盘前发布财报
-DTSTAMP:20260702T181747Z
+DTSTAMP:20260703T074921Z
 DTSTART;VALUE=DATE:20260729
 DESCRIPTION:财务季度：Jun/2026。\n代码：FTV，公司：Fortive，行业: 工业。\n预计每股收益: $0.69，当前市值: 
 	$18\,840\,411\,098。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=FTV \n在富
@@ -3639,9 +3591,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:h3v76Q1ezSeQCekhRU0Bc
+UID:yM_T89ehpdNBAJ88Qb3Ym
 SUMMARY:Invitation Homes 发布财报
-DTSTAMP:20260702T181747Z
+DTSTAMP:20260703T074921Z
 DTSTART;VALUE=DATE:20260729
 DESCRIPTION:财务季度：Jun/2026。\n代码：INVH，公司：Invitation Homes，行业: 房地产。\n预计每股收益: $
 	0.48，当前市值: $18\,029\,173\,365。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symb
@@ -3655,9 +3607,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:uP2CNgP8UUzHFVq3ZuG0L
+UID:DgrP8L2Rc2wUMQpuxukOX
 SUMMARY:IDEX Corporation 盘前发布财报
-DTSTAMP:20260702T181747Z
+DTSTAMP:20260703T074921Z
 DTSTART;VALUE=DATE:20260729
 DESCRIPTION:财务季度：Jun/2026。\n代码：IEX，公司：IDEX Corporation，行业: 工业。\n预计每股收益: $2.
 	12，当前市值: $16\,650\,426\,098。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol
@@ -3671,9 +3623,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:b36Sf3RJubUtMDDp3kwDt
+UID:QW335yngcyvnfocgMMXA4
 SUMMARY:Masco 盘前发布财报
-DTSTAMP:20260702T181747Z
+DTSTAMP:20260703T074921Z
 DTSTART;VALUE=DATE:20260729
 DESCRIPTION:财务季度：Jun/2026。\n代码：MAS，公司：Masco，行业: 工业。\n预计每股收益: $1.29，当前市值: $1
 	6\,469\,599\,437。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=MAS \n在富途查
@@ -3687,9 +3639,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:DPib_Cxzk9iTngYcrB6TO
+UID:mW5g6qbY5kBjxhZGGWSYj
 SUMMARY:Mid-America Apartment Communities 发布财报
-DTSTAMP:20260702T181747Z
+DTSTAMP:20260703T074921Z
 DTSTART;VALUE=DATE:20260729
 DESCRIPTION:财务季度：Jun/2026。\n代码：MAA，公司：Mid-America Apartment Communities，行业:
 	 房地产。\n预计每股收益: $2.08，当前市值: $16\,286\,889\,192。\n ~~~~~~~~~~~~ \n在股票 app 打开
@@ -3703,9 +3655,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:4G_icP7oPG2cQD6lyZPUm
+UID:XmPc6QTYUN2lEYn-2o9HM
 SUMMARY:Albemarle Corporation 发布财报
-DTSTAMP:20260702T181747Z
+DTSTAMP:20260703T074921Z
 DTSTART;VALUE=DATE:20260729
 DESCRIPTION:财务季度：Jun/2026。\n代码：ALB，公司：Albemarle Corporation，行业: 材料。\n预计每股收益
 	: $3.21，当前市值: $16\,048\,547\,308。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?s
@@ -3719,9 +3671,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:5awAShi4Brd5XFcNpNGML
+UID:-AAfYWkY3yXCrjyZr0J3m
 SUMMARY:Generac Holdings 发布财报
-DTSTAMP:20260702T181747Z
+DTSTAMP:20260703T074921Z
 DTSTART;VALUE=DATE:20260729
 DESCRIPTION:财务季度：Jun/2026。\n代码：GNRC，公司：Generac Holdings，行业: 工业。\n预计每股收益: $1
 	.95，当前市值: $15\,907\,494\,980。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbo
@@ -3735,9 +3687,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:klvXzIEWvACDcnP1T9Al9
+UID:z_k0a20t3Clox6O6Uj2WE
 SUMMARY:Regency Centers 盘后发布财报
-DTSTAMP:20260702T181747Z
+DTSTAMP:20260703T074921Z
 DTSTART;VALUE=DATE:20260729
 DESCRIPTION:财务季度：Jun/2026。\n代码：REG，公司：Regency Centers，行业: 房地产。\n预计每股收益: $1.
 	20，当前市值: $14\,532\,392\,222。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol
@@ -3751,9 +3703,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:bQfClI3lzNKxeypC9-JtC
+UID:YBiUWAMZOpFYW4Nkjh1wI
 SUMMARY:史丹利百得 盘前发布财报
-DTSTAMP:20260702T181747Z
+DTSTAMP:20260703T074921Z
 DTSTART;VALUE=DATE:20260729
 DESCRIPTION:财务季度：Jun/2026。\n代码：SWK，公司：史丹利百得，行业: 工业。\n预计每股收益: $1.21，当前市值: $1
 	4\,199\,311\,216。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=SWK \n在富途查
@@ -3767,9 +3719,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:J0xuNOM-xkYw6tRIkS1di
+UID:2XB7V6XtUoPde3ZH7hSN0
 SUMMARY:PTC (软件公司) 发布财报
-DTSTAMP:20260702T181747Z
+DTSTAMP:20260703T074921Z
 DTSTART;VALUE=DATE:20260729
 DESCRIPTION:财务季度：Jun/2026。\n代码：PTC，公司：PTC (软件公司)，行业: 信息技术。\n预计每股收益: $1.19，当
 	前市值: $13\,835\,283\,646。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=PTC
@@ -3783,9 +3735,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:nZqaZ5cofIvgPUv8tVXyz
+UID:ixgaB6paDeY_3P3kbclUy
 SUMMARY:UDR 发布财报
-DTSTAMP:20260702T181747Z
+DTSTAMP:20260703T074921Z
 DTSTART;VALUE=DATE:20260729
 DESCRIPTION:财务季度：Jun/2026。\n代码：UDR，公司：UDR，行业:  Inc.。\n预计每股收益: $0.63，当前市值: $
 	13\,198\,073\,825。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=UDR \n在富途
@@ -3799,9 +3751,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:1DROv1jmHcxNZnWPxLfAz
+UID:L7jREWc-EfelXa9H-VuFx
 SUMMARY:艾利科技 盘后发布财报
-DTSTAMP:20260702T181747Z
+DTSTAMP:20260703T074921Z
 DTSTART;VALUE=DATE:20260729
 DESCRIPTION:财务季度：Jun/2026。\n代码：ALGN，公司：艾利科技，行业: 卫生保健。\n预计每股收益: $2.08，当前市值: 
 	$12\,997\,973\,869。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=ALGN \n在
@@ -3815,9 +3767,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:5h1BL0RD41BWEsqtcR3Pg
+UID:YiWUMpXdtjxgUybgxC3i9
 SUMMARY:Tyler Technologies 发布财报
-DTSTAMP:20260702T181747Z
+DTSTAMP:20260703T074921Z
 DTSTART;VALUE=DATE:20260729
 DESCRIPTION:财务季度：Jun/2026。\n代码：TYL，公司：Tyler Technologies，行业: 信息技术。\n预计每股收益:
 	 $2.40，当前市值: $12\,720\,656\,150。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?sy
@@ -3831,9 +3783,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:3X6dWg6vlYzo2Vq58nebl
+UID:cJ4JAxvCzG5rb16s5AJg3
 SUMMARY:美高梅国际酒店集团 盘后发布财报
-DTSTAMP:20260702T181747Z
+DTSTAMP:20260703T074921Z
 DTSTART;VALUE=DATE:20260729
 DESCRIPTION:财务季度：Jun/2026。\n代码：MGM，公司：美高梅国际酒店集团，行业: 非必需消费品。\n预计每股收益: $0.60，
 	当前市值: $12\,158\,050\,687。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=MG
@@ -3847,9 +3799,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:fCVSDW1pO11EIBXmWkZL9
+UID:8unGA-BOzawX9MbWg2yYo
 SUMMARY:Etsy 发布财报
-DTSTAMP:20260702T181747Z
+DTSTAMP:20260703T074921Z
 DTSTART;VALUE=DATE:20260729
 DESCRIPTION:财务季度：Jun/2026。\n代码：ETSY，公司：Etsy，行业: 非必需消费品。\n预计每股收益: $0.77，当前市值
 	: $6\,911\,292\,504。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=ETSY \n
@@ -3863,9 +3815,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:YBJp7CePG5HPKOoP0QNs_
+UID:jEsjdH30xyoxbNIm_1wu6
 SUMMARY:威富公司 发布财报
-DTSTAMP:20260702T181747Z
+DTSTAMP:20260703T074921Z
 DTSTART;VALUE=DATE:20260729
 DESCRIPTION:财务季度：Jun/2026。\n代码：VFC，公司：威富公司，行业: 非必需消费品。\n预计每股收益: ($0.22)，当前市
 	值: $6\,603\,200\,902。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=VFC \n
@@ -3879,9 +3831,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:FUjSUnLtJGfSx684Tq_7Y
+UID:wr60xPyTW3dXnKqZ8h-ar
 SUMMARY:FMC Corporation 盘后发布财报
-DTSTAMP:20260702T181747Z
+DTSTAMP:20260703T074921Z
 DTSTART;VALUE=DATE:20260729
 DESCRIPTION:财务季度：Jun/2026。\n代码：FMC，公司：FMC Corporation，行业: 材料。\n预计每股收益: $0.2
 	1，当前市值: $1\,369\,246\,046。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=F
@@ -3895,9 +3847,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:gc1c4MGboPNdvKQPWn7SI
+UID:_FnNmW92wjp7q2z39Rkle
 SUMMARY:苹果公司 发布财报
-DTSTAMP:20260702T181747Z
+DTSTAMP:20260703T074921Z
 DTSTART;VALUE=DATE:20260730
 DESCRIPTION:财务季度：Jun/2026。\n代码：AAPL，公司：苹果公司，行业: 信息技术。\n预计每股收益: $1.88，当前市值: 
 	$4\,323\,663\,859\,280。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=AAPL
@@ -3911,9 +3863,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:oe7PM1lFIj0K1tMIswzSa
+UID:SIP2U8botHaRFv_BY_AZc
 SUMMARY:亚马逊公司 发布财报
-DTSTAMP:20260702T181747Z
+DTSTAMP:20260703T074921Z
 DTSTART;VALUE=DATE:20260730
 DESCRIPTION:财务季度：Jun/2026。\n代码：AMZN，公司：亚马逊公司，行业: 非必需消费品。\n预计每股收益: $1.82，当前市
 	值: $2\,599\,993\,350\,681。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=A
@@ -3927,9 +3879,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:chMSZLr1f-NPg0lzxzQKX
+UID:s7_REh2o6i65ST7e7za89
 SUMMARY:万事达卡 发布财报
-DTSTAMP:20260702T181747Z
+DTSTAMP:20260703T074921Z
 DTSTART;VALUE=DATE:20260730
 DESCRIPTION:财务季度：Jun/2026。\n代码：MA，公司：万事达卡，行业: 信息技术。\n预计每股收益: $4.75，当前市值: $4
 	61\,619\,549\,206。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=MA \n在富途查
@@ -3943,9 +3895,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:8-3YjdR6jMy8yfJ0xG5sK
+UID:W9Gua8b7VcGmGTaS0Yz16
 SUMMARY:科磊 发布财报
-DTSTAMP:20260702T181747Z
+DTSTAMP:20260703T074921Z
 DTSTART;VALUE=DATE:20260730
 DESCRIPTION:财务季度：Jun/2026。\n代码：KLAC，公司：科磊，行业: 信息技术。\n预计每股收益: $1，当前市值: $347\
 	,717\,398\,150。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=KLAC \n在富途查看
@@ -3959,9 +3911,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:ligdmX1hV7byJBwPhkovR
+UID:FY6xn5_UV-rl7SG4zPFBV
 SUMMARY:CVS健康 发布财报
-DTSTAMP:20260702T181747Z
+DTSTAMP:20260703T074921Z
 DTSTART;VALUE=DATE:20260730
 DESCRIPTION:财务季度：Jun/2026。\n代码：CVS，公司：CVS健康，行业: 卫生保健。\n预计每股收益: $1.86，当前市值: 
 	$133\,729\,941\,047。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=CVS \n在
@@ -3975,9 +3927,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:w0LnbDGRzwgN-gf3l0NYJ
+UID:KKZElaQKpZLUW_TO2Xuos
 SUMMARY:标普全球 发布财报
-DTSTAMP:20260702T181747Z
+DTSTAMP:20260703T074921Z
 DTSTART;VALUE=DATE:20260730
 DESCRIPTION:财务季度：Jun/2026。\n代码：SPGI，公司：标普全球，行业: 金融。\n预计每股收益: $4.92，当前市值: $1
 	22\,831\,120\,000。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=SPGI \n在富
@@ -3991,9 +3943,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:q0sB3ZCFSQwhMcY9BbYOU
+UID:2s9-NKmGtbzwIC3CRwwRc
 SUMMARY:史赛克 盘后发布财报
-DTSTAMP:20260702T181747Z
+DTSTAMP:20260703T074921Z
 DTSTART;VALUE=DATE:20260730
 DESCRIPTION:财务季度：Jun/2026。\n代码：SYK，公司：史赛克，行业: 卫生保健。\n预计每股收益: $3.49，当前市值: $1
 	20\,141\,429\,203。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=SYK \n在富途
@@ -4007,9 +3959,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:gpMp0mtqQByOAeh4V-mD-
+UID:Z4G9m2bmeB-r5_jONGvQL
 SUMMARY:奥驰亚 盘前发布财报
-DTSTAMP:20260702T181747Z
+DTSTAMP:20260703T074921Z
 DTSTART;VALUE=DATE:20260730
 DESCRIPTION:财务季度：Jun/2026。\n代码：MO，公司：奥驰亚，行业: 必需品。\n预计每股收益: $1.48，当前市值: $119
 	\,464\,018\,952。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=MO \n在富途查看：
@@ -4023,9 +3975,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:VRbK70YaFx1SFyLIm3PR1
+UID:6Vrz_UGN60-nevBQK9g9f
 SUMMARY:百时美施贵宝 盘前发布财报
-DTSTAMP:20260702T181747Z
+DTSTAMP:20260703T074921Z
 DTSTART;VALUE=DATE:20260730
 DESCRIPTION:财务季度：Jun/2026。\n代码：BMY，公司：百时美施贵宝，行业: 卫生保健。\n预计每股收益: $1.62，当前市值:
 	 $115\,254\,501\,181。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=BMY \n
@@ -4039,9 +3991,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:u8_kPRGjPgpbgsvHBslw5
+UID:K10e2tuBpz-XBTSS7CgCY
 SUMMARY:美国南方电力公司 盘前发布财报
-DTSTAMP:20260702T181747Z
+DTSTAMP:20260703T074921Z
 DTSTART;VALUE=DATE:20260730
 DESCRIPTION:财务季度：Jun/2026。\n代码：SO，公司：美国南方电力公司，行业: 公共事业。\n预计每股收益: $1.03，当前市值
 	: $107\,325\,781\,754。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=SO \n
@@ -4055,9 +4007,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:8idTiXKB6SV45ezLBdg4j
+UID:lNEVp0p-qMqCFsb_Bpk30
 SUMMARY:Howmet Aerospace 发布财报
-DTSTAMP:20260702T181747Z
+DTSTAMP:20260703T074921Z
 DTSTART;VALUE=DATE:20260730
 DESCRIPTION:财务季度：Jun/2026。\n代码：HWM，公司：Howmet Aerospace，行业: 工业。\n预计每股收益: $1.
 	24，当前市值: $106\,992\,742\,029。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbo
@@ -4071,9 +4023,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:Sx7Ol-1d8ZCU6Jbw16nj8
+UID:BLa70YqEVZAnDZIlQGQqJ
 SUMMARY:Quanta Services 发布财报
-DTSTAMP:20260702T181747Z
+DTSTAMP:20260703T074921Z
 DTSTART;VALUE=DATE:20260730
 DESCRIPTION:财务季度：Jun/2026。\n代码：PWR，公司：Quanta Services，行业: 工业。\n预计每股收益: $3.0
 	3，当前市值: $103\,751\,587\,019。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol
@@ -4087,9 +4039,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:km7VgxiaRA8YaSOL82m_P
+UID:8r2R30dzJOHZoca6RWgIw
 SUMMARY:Cloudflare 发布财报
-DTSTAMP:20260702T181747Z
+DTSTAMP:20260703T074921Z
 DTSTART;VALUE=DATE:20260730
 DESCRIPTION:财务季度：Jun/2026。\n代码：NET，公司：Cloudflare，行业: 云计算。\n预计每股收益: ($0.03)，
 	当前市值: $87\,062\,278\,442。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=NE
@@ -4103,9 +4055,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:OBISMoNCGLLBs5S1BUFKN
+UID:Jft7QWts2yfrdC4JnQ2WO
 SUMMARY:瓦莱罗能源 盘前发布财报
-DTSTAMP:20260702T181747Z
+DTSTAMP:20260703T074921Z
 DTSTART;VALUE=DATE:20260730
 DESCRIPTION:财务季度：Jun/2026。\n代码：VLO，公司：瓦莱罗能源，行业: 能源。\n预计每股收益: $8.50，当前市值: $8
 	0\,005\,568\,782。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=VLO \n在富途查
@@ -4119,9 +4071,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:SMWczeH_jfjCsyXJBbMfx
+UID:ixKo6mX4bCfR5pQ2gpEhx
 SUMMARY:信诺 盘前发布财报
-DTSTAMP:20260702T181747Z
+DTSTAMP:20260703T074921Z
 DTSTART;VALUE=DATE:20260730
 DESCRIPTION:财务季度：Jun/2026。\n代码：CI，公司：信诺，行业: 卫生保健。\n预计每股收益: $7.58，当前市值: $73\
 	,293\,993\,176。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=CI \n在富途查看：h
@@ -4135,9 +4087,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:olBXD0IA2F5vvJNtrQMao
+UID:mROIZ-Z7WRLTGqSR_aqxt
 SUMMARY:洲际交易所集团 盘前发布财报
-DTSTAMP:20260702T181747Z
+DTSTAMP:20260703T074921Z
 DTSTART;VALUE=DATE:20260730
 DESCRIPTION:财务季度：Jun/2026。\n代码：ICE，公司：洲际交易所集团，行业: 金融。\n预计每股收益: $1.96，当前市值: 
 	$71\,667\,398\,491。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=ICE \n在富
@@ -4151,9 +4103,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:sk4Tk1r7b3BFHKnjDrfPO
+UID:clf4G_tQMSresEE2nrqza
 SUMMARY:空气化工 发布财报
-DTSTAMP:20260702T181747Z
+DTSTAMP:20260703T074921Z
 DTSTART;VALUE=DATE:20260730
 DESCRIPTION:财务季度：Jun/2026。\n代码：APD，公司：空气化工，行业: 材料。\n预计每股收益: $3.35，当前市值: $68
 	\,229\,362\,190。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=APD \n在富途查看
@@ -4167,9 +4119,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:ndwxh_svKz30wsDp9ugQb
+UID:aTtpiZhCvRm2MJxon4thF
 SUMMARY:再生元制药 盘前发布财报
-DTSTAMP:20260702T181747Z
+DTSTAMP:20260703T074921Z
 DTSTART;VALUE=DATE:20260730
 DESCRIPTION:财务季度：Jun/2026。\n代码：REGN，公司：再生元制药，行业: 卫生保健。\n预计每股收益: $8.47，当前市值:
 	 $65\,495\,040\,071。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=REGN \n
@@ -4183,9 +4135,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:tHqj7oNKXbFuVkbEDnMq5
+UID:yNBpH55lreq5q_MxdXqUl
 SUMMARY:Monolithic Power Systems 发布财报
-DTSTAMP:20260702T181747Z
+DTSTAMP:20260703T074921Z
 DTSTART;VALUE=DATE:20260730
 DESCRIPTION:财务季度：Jun/2026。\n代码：MPWR，公司：Monolithic Power Systems，行业: 信息技术。\n
 	预计每股收益: $4.83，当前市值: $65\,427\,894\,900。\n ~~~~~~~~~~~~ \n在股票 app 打开： stock
@@ -4199,9 +4151,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:DyizEqzg1Ou3X_1vuK7kX
+UID:7wQGZ6N93Ws5VlKUX0Zce
 SUMMARY:Arthur J. Gallagher & Co. 发布财报
-DTSTAMP:20260702T181747Z
+DTSTAMP:20260703T074921Z
 DTSTART;VALUE=DATE:20260730
 DESCRIPTION:财务季度：Jun/2026。\n代码：AJG，公司：Arthur J. Gallagher & Co.，行业: 金融。\n预计
 	每股收益: $2.86，当前市值: $61\,571\,223\,000。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks:
@@ -4215,9 +4167,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:1fNNNJl8nSxjn3FoPwObi
+UID:X1qHpqbPgsNT7YlMGY02B
 SUMMARY:Corteva 盘后发布财报
-DTSTAMP:20260702T181747Z
+DTSTAMP:20260703T074921Z
 DTSTART;VALUE=DATE:20260730
 DESCRIPTION:财务季度：Jun/2026。\n代码：CTVA，公司：Corteva，行业: 材料。\n预计每股收益: $2.08，当前市值:
 	 $55\,873\,222\,800。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=CTVA \n
@@ -4231,9 +4183,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:Q52AhfDW2ua99kuRghYDj
+UID:7j1UJvLRAuDde6Nzwe3z6
 SUMMARY:Ametek 发布财报
-DTSTAMP:20260702T181747Z
+DTSTAMP:20260703T074921Z
 DTSTART;VALUE=DATE:20260730
 DESCRIPTION:财务季度：Jun/2026。\n代码：AME，公司：Ametek，行业: 工业。\n预计每股收益: $1.99，当前市值: $
 	54\,350\,907\,864。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=AME \n在富途
@@ -4247,9 +4199,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:84rjy1BpIhHwphoRbxB49
+UID:nTUiwycU35y_YZuozj6EI
 SUMMARY:Xcel Energy 发布财报
-DTSTAMP:20260702T181747Z
+DTSTAMP:20260703T074921Z
 DTSTART;VALUE=DATE:20260730
 DESCRIPTION:财务季度：Jun/2026。\n代码：XEL，公司：Xcel Energy，行业: 公共事业。\n预计每股收益: $0.77，
 	当前市值: $49\,754\,283\,932。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=XE
@@ -4263,9 +4215,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:CL4qX6YiytNB7LUdvEy7I
+UID:HNuMREN6_JRZN2KEvupoZ
 SUMMARY:艾索伦电力公司 发布财报
-DTSTAMP:20260702T181747Z
+DTSTAMP:20260703T074921Z
 DTSTART;VALUE=DATE:20260730
 DESCRIPTION:财务季度：Jun/2026。\n代码：EXC，公司：艾索伦电力公司，行业: 公共事业。\n预计每股收益: $0.54，当前市值
 	: $47\,333\,608\,649。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=EXC \n
@@ -4279,9 +4231,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:w_8_jex_0PdH0pj_eE3y7
+UID:MIxk4gNRMNdRvcIIslNKj
 SUMMARY:Coinbase 发布财报
-DTSTAMP:20260702T181747Z
+DTSTAMP:20260703T074921Z
 DTSTART;VALUE=DATE:20260730
 DESCRIPTION:财务季度：Jun/2026。\n代码：COIN，公司：Coinbase，行业: 金融科技。\n预计每股收益: $0.31，当前
 	市值: $41\,945\,585\,793。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=COIN
@@ -4295,9 +4247,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:fCKYbjlZ5boaq70Whq9zb
+UID:cDHxlyi0sfGdEE3c3NkB5
 SUMMARY:Vulcan Materials Company 发布财报
-DTSTAMP:20260702T181747Z
+DTSTAMP:20260703T074921Z
 DTSTART;VALUE=DATE:20260730
 DESCRIPTION:财务季度：Jun/2026。\n代码：VMC，公司：Vulcan Materials Company，行业: 材料。\n预计每
 	股收益: $2.65，当前市值: $38\,281\,583\,722。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks:/
@@ -4311,9 +4263,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:lt4c5GQPPwkKHDBT30o9q
+UID:U979ibO7QbXbxrPoBcYa8
 SUMMARY:英格索兰 发布财报
-DTSTAMP:20260702T181747Z
+DTSTAMP:20260703T074921Z
 DTSTART;VALUE=DATE:20260730
 DESCRIPTION:财务季度：Jun/2026。\n代码：IR，公司：英格索兰，行业: 工业。\n预计每股收益: $0.80，当前市值: $31\
 	,643\,496\,397。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=IR \n在富途查看：h
@@ -4327,9 +4279,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:MzKgZTLzWYgIjy66cxcQD
+UID:9sDYm3BKi93nyMhOvOrCS
 SUMMARY:阿莫林公司 发布财报
-DTSTAMP:20260702T181747Z
+DTSTAMP:20260703T074921Z
 DTSTART;VALUE=DATE:20260730
 DESCRIPTION:财务季度：Jun/2026。\n代码：AEE，公司：阿莫林公司，行业: 公共事业。\n预计每股收益: $1.04，当前市值: 
 	$31\,048\,763\,799。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=AEE \n在富
@@ -4343,9 +4295,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:6TTLthE1saX1A55fNcbCC
+UID:z3WjrF5G-1BdYj_EOemW_
 SUMMARY:Biogen 发布财报
-DTSTAMP:20260702T181747Z
+DTSTAMP:20260703T074921Z
 DTSTART;VALUE=DATE:20260730
 DESCRIPTION:财务季度：Jun/2026。\n代码：BIIB，公司：Biogen，行业: 卫生保健。\n预计每股收益: $3.35，当前市值
 	: $30\,965\,408\,920。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=BIIB \
@@ -4359,9 +4311,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:Voax2OFA1wX58c9SGJ_n-
+UID:i5OKbW-viUgYL91IZcCjS
 SUMMARY:Edison International 发布财报
-DTSTAMP:20260702T181747Z
+DTSTAMP:20260703T074921Z
 DTSTART;VALUE=DATE:20260730
 DESCRIPTION:财务季度：Jun/2026。\n代码：EIX，公司：Edison International，行业: 公共事业。\n预计每股收
 	益: $1.02，当前市值: $28\,282\,354\,664。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?
@@ -4375,9 +4327,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:hhDxN5c4_NHP5EXMW2Jaw
+UID:b24XKRrCEOuajkCa_zMvo
 SUMMARY:赛莱默 发布财报
-DTSTAMP:20260702T181747Z
+DTSTAMP:20260703T074921Z
 DTSTART;VALUE=DATE:20260730
 DESCRIPTION:财务季度：Jun/2026。\n代码：XYL，公司：赛莱默，行业: 工业。\n预计每股收益: $1.34，当前市值: $27\
 	,874\,315\,924。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=XYL \n在富途查看：
@@ -4391,9 +4343,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:OVNm-N9EURRxhuJIFOLRi
+UID:0rXQkBq0zWGA722TqnmZP
 SUMMARY:Illumina 发布财报
-DTSTAMP:20260702T181747Z
+DTSTAMP:20260703T074921Z
 DTSTART;VALUE=DATE:20260730
 DESCRIPTION:财务季度：Jun/2026。\n代码：ILMN，公司：Illumina，行业: 卫生保健。\n预计每股收益: $1.24，当前
 	市值: $27\,822\,557\,000。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=ILMN
@@ -4407,9 +4359,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:ZVu7Q1deVsaOsxCRpWqaX
+UID:SqRommeedeIdVxHlC_oaZ
 SUMMARY:永源能源 发布财报
-DTSTAMP:20260702T181747Z
+DTSTAMP:20260703T074921Z
 DTSTART;VALUE=DATE:20260730
 DESCRIPTION:财务季度：Jun/2026。\n代码：ES，公司：永源能源，行业: 公共事业。\n预计每股收益: $0.94，当前市值: $2
 	7\,152\,977\,805。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=ES \n在富途查看
@@ -4423,9 +4375,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:uk4RlbKE3PnXVodhsE3e4
+UID:2ETr9L1fvLILnA2kRyJph
 SUMMARY:PPL Corporation 发布财报
-DTSTAMP:20260702T181747Z
+DTSTAMP:20260703T074921Z
 DTSTART;VALUE=DATE:20260730
 DESCRIPTION:财务季度：Jun/2026。\n代码：PPL，公司：PPL Corporation，行业: 公共事业。\n预计每股收益: $0
 	.35，当前市值: $26\,798\,719\,894。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbo
@@ -4439,9 +4391,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:Ye-_9X9feI9_uwAPNNZTq
+UID:O6XOuUoYcFhv_NLLq5lDB
 SUMMARY:梅特勒-托利多 发布财报
-DTSTAMP:20260702T181747Z
+DTSTAMP:20260703T074921Z
 DTSTART;VALUE=DATE:20260730
 DESCRIPTION:财务季度：Jun/2026。\n代码：MTD，公司：梅特勒-托利多，行业: 卫生保健。\n预计每股收益: $10.78，当前市
 	值: $26\,277\,560\,188。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=MTD \
@@ -4455,9 +4407,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:ye_PqZb_1yBV1O03z1ba7
+UID:kXu3GF4M_t_SKLtjgs7Yw
 SUMMARY:CMS Energy 发布财报
-DTSTAMP:20260702T181747Z
+DTSTAMP:20260703T074921Z
 DTSTART;VALUE=DATE:20260730
 DESCRIPTION:财务季度：Jun/2026。\n代码：CMS，公司：CMS Energy，行业: 公共事业。\n预计每股收益: $0.70，当
 	前市值: $23\,453\,176\,184。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=CMS
@@ -4471,9 +4423,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:XEhFUxSwaYG4cYKmjKhT-
+UID:uRAS0EMyFkExI-PG37fa0
 SUMMARY:LabCorp 盘前发布财报
-DTSTAMP:20260702T181747Z
+DTSTAMP:20260703T074921Z
 DTSTART;VALUE=DATE:20260730
 DESCRIPTION:财务季度：Jun/2026。\n代码：LH，公司：LabCorp，行业: 卫生保健。\n预计每股收益: $4.79，当前市值:
 	 $23\,278\,160\,000。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=LH \n在富
@@ -4487,9 +4439,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:dfvpYJcACbw9EbQXtu4lZ
+UID:3uQ_qA6JuLPwzgchGgbH9
 SUMMARY:国际纸业 盘前发布财报
-DTSTAMP:20260702T181747Z
+DTSTAMP:20260703T074921Z
 DTSTART;VALUE=DATE:20260730
 DESCRIPTION:财务季度：Jun/2026。\n代码：IP，公司：国际纸业，行业: 材料。\n预计每股收益: ($0.01)，当前市值: $2
 	0\,301\,680\,783。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=IP \n在富途查看
@@ -4503,9 +4455,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:JWuhT9hLNMs8Sb-0wnGnK
+UID:v7evr4jRIfq4gQ28I-iY0
 SUMMARY:惠好 盘后发布财报
-DTSTAMP:20260702T181747Z
+DTSTAMP:20260703T074921Z
 DTSTART;VALUE=DATE:20260730
 DESCRIPTION:财务季度：Jun/2026。\n代码：WY，公司：惠好，行业: 房地产。\n预计每股收益: $0.10，当前市值: $16\,
 	987\,773\,080。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=WY \n在富途查看：ht
@@ -4519,9 +4471,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:wl179BzdD5_ui3mKKxmlw
+UID:0DWxQYjVrMxjnbTOfDWZg
 SUMMARY:德尔福汽车 发布财报
-DTSTAMP:20260702T181747Z
+DTSTAMP:20260703T074921Z
 DTSTART;VALUE=DATE:20260730
 DESCRIPTION:财务季度：Jun/2026。\n代码：APTV，公司：德尔福汽车，行业: 非必需消费品。\n预计每股收益: $1.41，当前市
 	值: $12\,756\,485\,368。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=APTV 
@@ -4535,9 +4487,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:-63A8EBrg-4v8dNPv2snC
+UID:uJwgDk6YMOZWom_xPb_-z
 SUMMARY:艾利丹尼森 盘前发布财报
-DTSTAMP:20260702T181747Z
+DTSTAMP:20260703T074921Z
 DTSTART;VALUE=DATE:20260730
 DESCRIPTION:财务季度：Jun/2026。\n代码：AVY，公司：艾利丹尼森，行业: 材料。\n预计每股收益: $2.46，当前市值: $1
 	2\,477\,111\,601。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=AVY \n在富途查
@@ -4551,9 +4503,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:EHNK157bbEQSaUFXDYNek
+UID:k7DZ0kVVzBXvXQ4xPXi8l
 SUMMARY:高乐氏 发布财报
-DTSTAMP:20260702T181747Z
+DTSTAMP:20260703T074921Z
 DTSTART;VALUE=DATE:20260730
 DESCRIPTION:财务季度：Jun/2026。\n代码：CLX，公司：高乐氏，行业: 必需品。\n预计每股收益: $1.64，当前市值: $11
 	\,659\,236\,663。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=CLX \n在富途查看
@@ -4567,9 +4519,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:cQYIsIQs49kM4ssqqbXUX
+UID:UZc392dkoZyhJ-kjqowY0
 SUMMARY:百特国际 发布财报
-DTSTAMP:20260702T181747Z
+DTSTAMP:20260703T074921Z
 DTSTART;VALUE=DATE:20260730
 DESCRIPTION:财务季度：Jun/2026。\n代码：BAX，公司：百特国际，行业: 卫生保健。\n预计每股收益: $0.37，当前市值: $
 	11\,202\,212\,784。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=BAX \n在富途
@@ -4583,9 +4535,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:6crl0nUacizj9TIL9V0cI
+UID:UtvEK4He--Cc1_4zLNfBL
 SUMMARY:亨廷顿·英格尔斯工业 发布财报
-DTSTAMP:20260702T181747Z
+DTSTAMP:20260703T074921Z
 DTSTART;VALUE=DATE:20260730
 DESCRIPTION:财务季度：Jun/2026。\n代码：HII，公司：亨廷顿·英格尔斯工业，行业: 工业。\n预计每股收益: $3.84，当前市
 	值: $10\,992\,541\,970。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=HII \
@@ -4599,9 +4551,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:svk2iSXsJwuQKHUEtDVDI
+UID:M4Ug11JcbA-fSP68GqJvB
 SUMMARY:AES Corporation 发布财报
-DTSTAMP:20260702T181747Z
+DTSTAMP:20260703T074921Z
 DTSTART;VALUE=DATE:20260730
 DESCRIPTION:财务季度：Jun/2026。\n代码：AES，公司：AES Corporation，行业: 公共事业。\n预计每股收益: $0
 	.74，当前市值: $10\,440\,628\,918。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbo
@@ -4615,9 +4567,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:4O0PWGPzahCaBOiT89g85
+UID:eY-pJCeMnzVF0832t05o4
 SUMMARY:天狼星XM 发布财报
-DTSTAMP:20260702T181747Z
+DTSTAMP:20260703T074921Z
 DTSTART;VALUE=DATE:20260730
 DESCRIPTION:财务季度：Jun/2026。\n代码：SIRI，公司：天狼星XM，行业: 通讯服务。\n预计每股收益: $0.78，当前市值:
 	 $10\,081\,767\,083。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=SIRI \n
@@ -4631,9 +4583,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:4niqmqXs_3cmS-78-Slgx
+UID:4P00bA8tZduKHr3cFipXP
 SUMMARY:Norwegian Cruise Line Holdings 发布财报
-DTSTAMP:20260702T181747Z
+DTSTAMP:20260703T074921Z
 DTSTART;VALUE=DATE:20260730
 DESCRIPTION:财务季度：Jun/2026。\n代码：NCLH，公司：Norwegian Cruise Line Holdings，行业: 非
 	必需消费品。\n预计每股收益: $0.34，当前市值: $9\,489\,806\,594。\n ~~~~~~~~~~~~ \n在股票 app 打开
@@ -4647,9 +4599,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:4E9WAeHpl7YFl6lNfq30U
+UID:S-aIsfv-IG3XbQwJnLvtw
 SUMMARY:Bio-Rad Laboratories 发布财报
-DTSTAMP:20260702T181747Z
+DTSTAMP:20260703T074921Z
 DTSTART;VALUE=DATE:20260730
 DESCRIPTION:财务季度：Jun/2026。\n代码：BIO，公司：Bio-Rad Laboratories，行业: 卫生保健。\n预计每股收
 	益: $2.34，当前市值: $7\,950\,603\,150。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?s
@@ -4663,9 +4615,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:jYrN_kU_N-VE7Fu97LkrF
+UID:hB1drhw5rA4wurrENTesI
 SUMMARY:Eastman Chemical Company 发布财报
-DTSTAMP:20260702T181747Z
+DTSTAMP:20260703T074921Z
 DTSTART;VALUE=DATE:20260730
 DESCRIPTION:财务季度：Jun/2026。\n代码：EMN，公司：Eastman Chemical Company，行业: 材料。\n预计每
 	股收益: $1.80，当前市值: $7\,671\,738\,816。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://
@@ -4679,9 +4631,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:mH-304jj1eh_ywDMXCXKR
+UID:ishOG_q0l2eUUsEYw8Lng
 SUMMARY:LKQ Corporation 盘前发布财报
-DTSTAMP:20260702T181747Z
+DTSTAMP:20260703T074921Z
 DTSTART;VALUE=DATE:20260730
 DESCRIPTION:财务季度：Jun/2026。\n代码：LKQ，公司：LKQ Corporation，行业: 非必需消费品。\n预计每股收益: 
 	$0.73，当前市值: $6\,662\,780\,335。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symb
@@ -4695,9 +4647,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:yWXb3xmdwkWuhnjdkIG4W
+UID:wwdk31BzDFwU4Mxr-FNPa
 SUMMARY:Teleflex 发布财报
-DTSTAMP:20260702T181747Z
+DTSTAMP:20260703T074921Z
 DTSTART;VALUE=DATE:20260730
 DESCRIPTION:财务季度：Jun/2026。\n代码：TFX，公司：Teleflex，行业: 卫生保健。\n预计每股收益: $1.28，当前市
 	值: $5\,744\,059\,877。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=TFX \n
@@ -4711,9 +4663,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:JUFywHh8hHCzwriA453m5
+UID:NeaO7nV3hvQ5a1yi7lCGw
 SUMMARY:Leggett & Platt 发布财报
-DTSTAMP:20260702T181747Z
+DTSTAMP:20260703T074921Z
 DTSTART;VALUE=DATE:20260730
 DESCRIPTION:财务季度：Jun/2026。\n代码：LEG，公司：Leggett & Platt，行业: 非必需消费品。\n预计每股收益: 
 	$0.29，当前市值: $1\,592\,166\,762。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symb
@@ -4727,9 +4679,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:cCwvq_UA7JzheUkNkN3ov
+UID:sPRDmjz7Ya4Chavotm1qM
 SUMMARY:DXC Technology 盘后发布财报
-DTSTAMP:20260702T181747Z
+DTSTAMP:20260703T074921Z
 DTSTART;VALUE=DATE:20260730
 DESCRIPTION:财务季度：Jun/2026。\n代码：DXC，公司：DXC Technology，行业: 信息技术。\n预计每股收益: $0.
 	44，当前市值: $1\,578\,733\,683。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=
@@ -4743,9 +4695,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:Ren_cnuwdQAiI6qpg9myM
+UID:89GafvJPzSwXdl4-02RYa
 SUMMARY:艾伯维 盘前发布财报
-DTSTAMP:20260702T181747Z
+DTSTAMP:20260703T074921Z
 DTSTART;VALUE=DATE:20260731
 DESCRIPTION:财务季度：Jun/2026。\n代码：ABBV，公司：艾伯维，行业: 卫生保健。\n预计每股收益: $3.79，当前市值: $
 	443\,571\,005\,640。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=ABBV \n在
@@ -4759,9 +4711,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:Ydz_1Y9ZShXKOOjMbBN3g
+UID:9VO5uA3C5MfzohHxQa9CY
 SUMMARY:林德集团 盘前发布财报
-DTSTAMP:20260702T181747Z
+DTSTAMP:20260703T074921Z
 DTSTART;VALUE=DATE:20260731
 DESCRIPTION:财务季度：Jun/2026。\n代码：LIN，公司：林德集团，行业: 材料。\n预计每股收益: $4.48，当前市值: $24
 	6\,819\,984\,033。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=LIN \n在富途查
@@ -4775,9 +4727,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:FcSKXi5Gj6iwotoSwqAu1
+UID:tAB9Ygx95zYWW4o6u-eju
 SUMMARY:高露洁-棕榄 盘前发布财报
-DTSTAMP:20260702T181747Z
+DTSTAMP:20260703T074921Z
 DTSTART;VALUE=DATE:20260731
 DESCRIPTION:财务季度：Jun/2026。\n代码：CL，公司：高露洁-棕榄，行业: 必需品。\n预计每股收益: $0.95，当前市值: $
 	74\,225\,560\,396。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=CL \n在富途查
@@ -4791,9 +4743,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:potwZyF2F2s6vXkH2ebES
+UID:D2NQpmwiznmvtO4oZKNgU
 SUMMARY:Church & Dwight 盘前发布财报
-DTSTAMP:20260702T181747Z
+DTSTAMP:20260703T074921Z
 DTSTART;VALUE=DATE:20260731
 DESCRIPTION:财务季度：Jun/2026。\n代码：CHD，公司：Church & Dwight，行业: 必需品。\n预计每股收益: $0.
 	90，当前市值: $23\,033\,287\,550。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol
@@ -4807,9 +4759,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:dHZ_COwpTM9mJdVEEQyjM
+UID:pOTw_ttRk848Cv3aSx8eE
 SUMMARY:Federal Realty Investment Trust 盘前发布财报
-DTSTAMP:20260702T181747Z
+DTSTAMP:20260703T074921Z
 DTSTART;VALUE=DATE:20260731
 DESCRIPTION:财务季度：Jun/2026。\n代码：FRT，公司：Federal Realty Investment Trust，行业: 房
 	地产。\n预计每股收益: $1.85，当前市值: $10\,402\,123\,211。\n ~~~~~~~~~~~~ \n在股票 app 打开： 
