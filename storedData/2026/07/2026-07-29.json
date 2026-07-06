@@ -7,7 +7,7 @@
       "time": "time-not-supplied",
       "symbol": "MSFT",
       "name": "Microsoft Corporation",
-      "marketCap": "$2,854,598,888,053",
+      "marketCap": "$2,900,729,467,565",
       "fiscalQuarterEnding": "Jun/2026",
       "epsForecast": "$4.21",
       "noOfEsts": "15"
@@ -18,7 +18,7 @@
       "time": "time-not-supplied",
       "symbol": "META",
       "name": "Meta Platforms, Inc.",
-      "marketCap": "$1,555,825,027,255",
+      "marketCap": "$1,479,646,943,902",
       "fiscalQuarterEnding": "Jun/2026",
       "epsForecast": "$7.09",
       "noOfEsts": "11"
@@ -29,21 +29,10 @@
       "time": "time-not-supplied",
       "symbol": "LRCX",
       "name": "Lam Research Corporation",
-      "marketCap": "$489,298,409,460",
+      "marketCap": "$439,463,155,110",
       "fiscalQuarterEnding": "Jun/2026",
       "epsForecast": "$1.68",
       "noOfEsts": "9"
-    },
-    {
-      "lastYearRptDt": "7/30/2025",
-      "lastYearEPS": "$0.16",
-      "time": "time-not-supplied",
-      "symbol": "ARM",
-      "name": "Arm Holdings plc",
-      "marketCap": "$359,086,725,892",
-      "fiscalQuarterEnding": "Jun/2026",
-      "epsForecast": "$0.18",
-      "noOfEsts": "4"
     },
     {
       "lastYearRptDt": "7/29/2025",
@@ -51,10 +40,21 @@
       "time": "time-pre-market",
       "symbol": "PG",
       "name": "Procter & Gamble Company (The)",
-      "marketCap": "$343,305,347,327",
+      "marketCap": "$352,573,171,259",
       "fiscalQuarterEnding": "Jun/2026",
       "epsForecast": "$1.43",
       "noOfEsts": "10"
+    },
+    {
+      "lastYearRptDt": "7/30/2025",
+      "lastYearEPS": "$0.16",
+      "time": "time-not-supplied",
+      "symbol": "ARM",
+      "name": "Arm Holdings plc",
+      "marketCap": "$335,475,339,851",
+      "fiscalQuarterEnding": "Jun/2026",
+      "epsForecast": "$0.18",
+      "noOfEsts": "4"
     },
     {
       "lastYearRptDt": "7/30/2025",
@@ -62,7 +62,7 @@
       "time": "time-not-supplied",
       "symbol": "HSBC",
       "name": "HSBC Holdings plc",
-      "marketCap": "$325,766,492,360",
+      "marketCap": "$332,959,971,053",
       "fiscalQuarterEnding": "Jun/2026",
       "epsForecast": "$2.25",
       "noOfEsts": "1"
@@ -73,7 +73,7 @@
       "time": "time-not-supplied",
       "symbol": "SAN",
       "name": "Banco Santander, S.A.",
-      "marketCap": "$229,200,730,706",
+      "marketCap": "$236,831,695,323",
       "fiscalQuarterEnding": "Jun/2026",
       "epsForecast": "",
       "noOfEsts": "N/A"
@@ -84,7 +84,7 @@
       "time": "time-pre-market",
       "symbol": "APH",
       "name": "Amphenol Corporation",
-      "marketCap": "$211,870,976,118",
+      "marketCap": "$202,484,287,303",
       "fiscalQuarterEnding": "Jun/2026",
       "epsForecast": "$1.16",
       "noOfEsts": "3"
@@ -95,7 +95,7 @@
       "time": "time-not-supplied",
       "symbol": "WDC",
       "name": "Western Digital Corporation",
-      "marketCap": "$206,247,446,726",
+      "marketCap": "$185,783,668,609",
       "fiscalQuarterEnding": "Jun/2026",
       "epsForecast": "$3.22",
       "noOfEsts": "4"
@@ -106,7 +106,7 @@
       "time": "time-not-supplied",
       "symbol": "QCOM",
       "name": "QUALCOMM Incorporated",
-      "marketCap": "$191,743,680,000",
+      "marketCap": "$185,767,500,000",
       "fiscalQuarterEnding": "Jun/2026",
       "epsForecast": "$1.53",
       "noOfEsts": "7"
@@ -117,7 +117,7 @@
       "time": "time-after-hours",
       "symbol": "BBVA",
       "name": "Banco Bilbao Viscaya Argentaria S.A.",
-      "marketCap": "$142,610,038,126",
+      "marketCap": "$146,149,598,720",
       "fiscalQuarterEnding": "Jun/2026",
       "epsForecast": "$0.61",
       "noOfEsts": "2"
@@ -128,7 +128,7 @@
       "time": "time-not-supplied",
       "symbol": "VRT",
       "name": "Vertiv Holdings, LLC",
-      "marketCap": "$119,619,167,479",
+      "marketCap": "$115,436,222,472",
       "fiscalQuarterEnding": "Jun/2026",
       "epsForecast": "$1.42",
       "noOfEsts": "6"
@@ -139,7 +139,7 @@
       "time": "time-after-hours",
       "symbol": "FTNT",
       "name": "Fortinet, Inc.",
-      "marketCap": "$116,476,441,201",
+      "marketCap": "$114,476,311,094",
       "fiscalQuarterEnding": "Jun/2026",
       "epsForecast": "$0.66",
       "noOfEsts": "12"
@@ -150,9 +150,20 @@
       "time": "time-not-supplied",
       "symbol": "TT",
       "name": "Trane Technologies plc",
-      "marketCap": "$107,119,063,045",
+      "marketCap": "$105,693,255,218",
       "fiscalQuarterEnding": "Jun/2026",
       "epsForecast": "$4.27",
+      "noOfEsts": "6"
+    },
+    {
+      "lastYearRptDt": "7/30/2025",
+      "lastYearEPS": "$0.42",
+      "time": "time-after-hours",
+      "symbol": "HOOD",
+      "name": "Robinhood Markets, Inc.",
+      "marketCap": "$101,513,935,076",
+      "fiscalQuarterEnding": "Jun/2026",
+      "epsForecast": "$0.41",
       "noOfEsts": "6"
     },
     {
@@ -161,21 +172,10 @@
       "time": "time-after-hours",
       "symbol": "EQIX",
       "name": "Equinix, Inc.",
-      "marketCap": "$99,967,510,258",
+      "marketCap": "$98,823,468,981",
       "fiscalQuarterEnding": "Jun/2026",
       "epsForecast": "$10.14",
       "noOfEsts": "5"
-    },
-    {
-      "lastYearRptDt": "7/30/2025",
-      "lastYearEPS": "$0.42",
-      "time": "time-after-hours",
-      "symbol": "HOOD",
-      "name": "Robinhood Markets, Inc.",
-      "marketCap": "$97,839,874,443",
-      "fiscalQuarterEnding": "Jun/2026",
-      "epsForecast": "$0.41",
-      "noOfEsts": "6"
     },
     {
       "lastYearRptDt": "7/30/2025",
@@ -183,7 +183,7 @@
       "time": "time-pre-market",
       "symbol": "ADP",
       "name": "Automatic Data Processing, Inc.",
-      "marketCap": "$94,915,355,926",
+      "marketCap": "$97,548,650,066",
       "fiscalQuarterEnding": "Jun/2026",
       "epsForecast": "$2.59",
       "noOfEsts": "4"
@@ -194,7 +194,7 @@
       "time": "time-after-hours",
       "symbol": "AEM",
       "name": "Agnico Eagle Mines Limited",
-      "marketCap": "$77,627,307,487",
+      "marketCap": "$78,939,319,768",
       "fiscalQuarterEnding": "Jun/2026",
       "epsForecast": "$3.14",
       "noOfEsts": "5"
@@ -205,7 +205,7 @@
       "time": "time-not-supplied",
       "symbol": "ITW",
       "name": "Illinois Tool Works Inc.",
-      "marketCap": "$77,382,669,000",
+      "marketCap": "$78,473,052,000",
       "fiscalQuarterEnding": "Jun/2026",
       "epsForecast": "$2.80",
       "noOfEsts": "6"
@@ -216,9 +216,20 @@
       "time": "time-after-hours",
       "symbol": "CP",
       "name": "Canadian Pacific Kansas City Limited",
-      "marketCap": "$77,222,539,143",
+      "marketCap": "$78,369,949,138",
       "fiscalQuarterEnding": "Jun/2026",
       "epsForecast": "$0.90",
+      "noOfEsts": "7"
+    },
+    {
+      "lastYearRptDt": "7/30/2025",
+      "lastYearEPS": "$0.26",
+      "time": "time-after-hours",
+      "symbol": "CVNA",
+      "name": "Carvana Co.",
+      "marketCap": "$75,242,931,764",
+      "fiscalQuarterEnding": "Jun/2026",
+      "epsForecast": "$0.42",
       "noOfEsts": "7"
     },
     {
@@ -227,32 +238,10 @@
       "time": "time-after-hours",
       "symbol": "ORLY",
       "name": "O'Reilly Automotive, Inc.",
-      "marketCap": "$76,813,600,673",
+      "marketCap": "$74,791,535,880",
       "fiscalQuarterEnding": "Jun/2026",
       "epsForecast": "$0.85",
       "noOfEsts": "10"
-    },
-    {
-      "lastYearRptDt": "7/30/2025",
-      "lastYearEPS": "$0.26",
-      "time": "time-after-hours",
-      "symbol": "CVNA",
-      "name": "Carvana Co.",
-      "marketCap": "$74,442,241,674",
-      "fiscalQuarterEnding": "Jun/2026",
-      "epsForecast": "$0.42",
-      "noOfEsts": "7"
-    },
-    {
-      "lastYearRptDt": "7/30/2025",
-      "lastYearEPS": "$0.12",
-      "time": "time-pre-market",
-      "symbol": "UMC",
-      "name": "United Microelectronics Corporation",
-      "marketCap": "$64,728,299,926",
-      "fiscalQuarterEnding": "Jun/2026",
-      "epsForecast": "$0.15",
-      "noOfEsts": "1"
     },
     {
       "lastYearRptDt": "7/23/2025",
@@ -260,7 +249,7 @@
       "time": "time-pre-market",
       "symbol": "BSX",
       "name": "Boston Scientific Corporation",
-      "marketCap": "$64,002,454,008",
+      "marketCap": "$67,094,072,780",
       "fiscalQuarterEnding": "Jun/2026",
       "epsForecast": "$0.83",
       "noOfEsts": "7"
@@ -271,10 +260,21 @@
       "time": "time-not-supplied",
       "symbol": "ALL",
       "name": "Allstate Corporation (The)",
-      "marketCap": "$62,584,176,502",
+      "marketCap": "$64,440,181,407",
       "fiscalQuarterEnding": "Jun/2026",
       "epsForecast": "$4.90",
       "noOfEsts": "9"
+    },
+    {
+      "lastYearRptDt": "7/30/2025",
+      "lastYearEPS": "$0.12",
+      "time": "time-pre-market",
+      "symbol": "UMC",
+      "name": "United Microelectronics Corporation",
+      "marketCap": "$61,782,671,341",
+      "fiscalQuarterEnding": "Jun/2026",
+      "epsForecast": "$0.15",
+      "noOfEsts": "1"
     },
     {
       "lastYearRptDt": "7/30/2025",
@@ -282,7 +282,7 @@
       "time": "time-not-supplied",
       "symbol": "PSA",
       "name": "Public Storage",
-      "marketCap": "$56,708,298,434",
+      "marketCap": "$57,866,900,371",
       "fiscalQuarterEnding": "Jun/2026",
       "epsForecast": "$4.27",
       "noOfEsts": "6"
@@ -293,7 +293,7 @@
       "time": "time-not-supplied",
       "symbol": "ETR",
       "name": "Entergy Corporation",
-      "marketCap": "$51,677,109,552",
+      "marketCap": "$52,707,354,958",
       "fiscalQuarterEnding": "Jun/2026",
       "epsForecast": "$1.08",
       "noOfEsts": "7"
@@ -304,7 +304,7 @@
       "time": "time-not-supplied",
       "symbol": "EBAY",
       "name": "eBay Inc.",
-      "marketCap": "$49,520,844,222",
+      "marketCap": "$51,105,084,026",
       "fiscalQuarterEnding": "Jun/2026",
       "epsForecast": "$1.20",
       "noOfEsts": "5"
@@ -315,7 +315,7 @@
       "time": "time-pre-market",
       "symbol": "HUM",
       "name": "Humana Inc.",
-      "marketCap": "$49,155,579,330",
+      "marketCap": "$47,634,400,125",
       "fiscalQuarterEnding": "Jun/2026",
       "epsForecast": "$6.17",
       "noOfEsts": "9"
@@ -326,21 +326,10 @@
       "time": "time-pre-market",
       "symbol": "GRMN",
       "name": "Garmin Ltd.",
-      "marketCap": "$45,830,348,794",
+      "marketCap": "$46,289,346,564",
       "fiscalQuarterEnding": "Jun/2026",
       "epsForecast": "$2.27",
       "noOfEsts": "3"
-    },
-    {
-      "lastYearRptDt": "7/30/2025",
-      "lastYearEPS": "$1.27",
-      "time": "time-pre-market",
-      "symbol": "ODFL",
-      "name": "Old Dominion Freight Line, Inc.",
-      "marketCap": "$45,328,766,963",
-      "fiscalQuarterEnding": "Jun/2026",
-      "epsForecast": "$1.47",
-      "noOfEsts": "7"
     },
     {
       "lastYearRptDt": "7/23/2025",
@@ -348,10 +337,21 @@
       "time": "time-after-hours",
       "symbol": "CMG",
       "name": "Chipotle Mexican Grill, Inc.",
-      "marketCap": "$44,895,690,000",
+      "marketCap": "$45,395,956,260",
       "fiscalQuarterEnding": "Jun/2026",
       "epsForecast": "$0.32",
       "noOfEsts": "12"
+    },
+    {
+      "lastYearRptDt": "7/30/2025",
+      "lastYearEPS": "$1.27",
+      "time": "time-pre-market",
+      "symbol": "ODFL",
+      "name": "Old Dominion Freight Line, Inc.",
+      "marketCap": "$45,264,296,795",
+      "fiscalQuarterEnding": "Jun/2026",
+      "epsForecast": "$1.47",
+      "noOfEsts": "7"
     },
     {
       "lastYearRptDt": "7/30/2025",
@@ -359,7 +359,7 @@
       "time": "time-after-hours",
       "symbol": "VTR",
       "name": "Ventas, Inc.",
-      "marketCap": "$43,585,115,667",
+      "marketCap": "$44,980,422,772",
       "fiscalQuarterEnding": "Jun/2026",
       "epsForecast": "$0.96",
       "noOfEsts": "7"
@@ -370,7 +370,7 @@
       "time": "time-pre-market",
       "symbol": "CBRE",
       "name": "CBRE Group, Inc.",
-      "marketCap": "$40,496,532,876",
+      "marketCap": "$41,456,971,255",
       "fiscalQuarterEnding": "Jun/2026",
       "epsForecast": "$1.49",
       "noOfEsts": "4"
@@ -381,7 +381,7 @@
       "time": "time-pre-market",
       "symbol": "TEVA",
       "name": "Teva Pharmaceutical Industries Limited",
-      "marketCap": "$38,938,437,944",
+      "marketCap": "$40,335,750,310",
       "fiscalQuarterEnding": "Jun/2026",
       "epsForecast": "$0.37",
       "noOfEsts": "2"
@@ -392,7 +392,7 @@
       "time": "time-not-supplied",
       "symbol": "PRU",
       "name": "Prudential Financial, Inc.",
-      "marketCap": "$38,541,290,000",
+      "marketCap": "$39,193,650,000",
       "fiscalQuarterEnding": "Jun/2026",
       "epsForecast": "$3.38",
       "noOfEsts": "7"
@@ -403,7 +403,7 @@
       "time": "time-not-supplied",
       "symbol": "WEC",
       "name": "WEC Energy Group, Inc.",
-      "marketCap": "$37,855,838,297",
+      "marketCap": "$38,705,982,317",
       "fiscalQuarterEnding": "Jun/2026",
       "epsForecast": "$0.82",
       "noOfEsts": "3"
@@ -414,7 +414,7 @@
       "time": "time-not-supplied",
       "symbol": "HSY",
       "name": "Hershey Company (The)",
-      "marketCap": "$36,242,025,275",
+      "marketCap": "$36,945,891,776",
       "fiscalQuarterEnding": "Jun/2026",
       "epsForecast": "$1.46",
       "noOfEsts": "7"
@@ -425,10 +425,21 @@
       "time": "time-pre-market",
       "symbol": "BIIB",
       "name": "Biogen Inc.",
-      "marketCap": "$30,965,408,920",
+      "marketCap": "$31,907,333,726",
       "fiscalQuarterEnding": "Jun/2026",
       "epsForecast": "$3.35",
       "noOfEsts": "21"
+    },
+    {
+      "lastYearRptDt": "7/30/2025",
+      "lastYearEPS": "$0.44",
+      "time": "time-after-hours",
+      "symbol": "KGC",
+      "name": "Kinross Gold Corporation",
+      "marketCap": "$30,302,327,319",
+      "fiscalQuarterEnding": "Jun/2026",
+      "epsForecast": "$0.71",
+      "noOfEsts": "5"
     },
     {
       "lastYearRptDt": "7/30/2025",
@@ -436,7 +447,7 @@
       "time": "time-not-supplied",
       "symbol": "KHC",
       "name": "The Kraft Heinz Company",
-      "marketCap": "$29,656,298,726",
+      "marketCap": "$30,083,178,676",
       "fiscalQuarterEnding": "Jun/2026",
       "epsForecast": "$0.53",
       "noOfEsts": "7"
@@ -447,43 +458,10 @@
       "time": "time-not-supplied",
       "symbol": "GEHC",
       "name": "GE HealthCare Technologies Inc.",
-      "marketCap": "$29,504,281,240",
+      "marketCap": "$29,824,979,949",
       "fiscalQuarterEnding": "Jun/2026",
       "epsForecast": "$1.04",
       "noOfEsts": "6"
-    },
-    {
-      "lastYearRptDt": "7/30/2025",
-      "lastYearEPS": "$0.99",
-      "time": "time-not-supplied",
-      "symbol": "TS",
-      "name": "Tenaris S.A.",
-      "marketCap": "$29,045,702,628",
-      "fiscalQuarterEnding": "Jun/2026",
-      "epsForecast": "$0.79",
-      "noOfEsts": "5"
-    },
-    {
-      "lastYearRptDt": "7/30/2025",
-      "lastYearEPS": "$0.44",
-      "time": "time-after-hours",
-      "symbol": "KGC",
-      "name": "Kinross Gold Corporation",
-      "marketCap": "$28,223,332,507",
-      "fiscalQuarterEnding": "Jun/2026",
-      "epsForecast": "$0.71",
-      "noOfEsts": "5"
-    },
-    {
-      "lastYearRptDt": "7/30/2025",
-      "lastYearEPS": "$0.60",
-      "time": "time-after-hours",
-      "symbol": "VICI",
-      "name": "VICI Properties Inc.",
-      "marketCap": "$28,083,423,012",
-      "fiscalQuarterEnding": "Jun/2026",
-      "epsForecast": "$0.62",
-      "noOfEsts": "7"
     },
     {
       "lastYearRptDt": "7/30/2025",
@@ -491,10 +469,32 @@
       "time": "time-not-supplied",
       "symbol": "FICO",
       "name": "Fair Isaac Corporation",
-      "marketCap": "$27,983,306,725",
+      "marketCap": "$29,471,699,072",
       "fiscalQuarterEnding": "Jun/2026",
       "epsForecast": "$10.41",
       "noOfEsts": "4"
+    },
+    {
+      "lastYearRptDt": "7/30/2025",
+      "lastYearEPS": "$0.60",
+      "time": "time-after-hours",
+      "symbol": "VICI",
+      "name": "VICI Properties Inc.",
+      "marketCap": "$29,066,930,785",
+      "fiscalQuarterEnding": "Jun/2026",
+      "epsForecast": "$0.62",
+      "noOfEsts": "7"
+    },
+    {
+      "lastYearRptDt": "7/30/2025",
+      "lastYearEPS": "$0.99",
+      "time": "time-not-supplied",
+      "symbol": "TS",
+      "name": "Tenaris S.A.",
+      "marketCap": "$29,013,542,780",
+      "fiscalQuarterEnding": "Jun/2026",
+      "epsForecast": "$0.79",
+      "noOfEsts": "5"
     },
     {
       "lastYearRptDt": "7/30/2025",
@@ -502,21 +502,10 @@
       "time": "time-not-supplied",
       "symbol": "FE",
       "name": "FirstEnergy Corp.",
-      "marketCap": "$27,226,755,407",
+      "marketCap": "$28,071,264,923",
       "fiscalQuarterEnding": "Jun/2026",
       "epsForecast": "$0.56",
       "noOfEsts": "3"
-    },
-    {
-      "lastYearRptDt": "7/29/2025",
-      "lastYearEPS": "$1.57",
-      "time": "time-after-hours",
-      "symbol": "FTAI",
-      "name": "FTAI Aviation Ltd.",
-      "marketCap": "$26,859,299,559",
-      "fiscalQuarterEnding": "Jun/2026",
-      "epsForecast": "$1.52",
-      "noOfEsts": "1"
     },
     {
       "lastYearRptDt": "7/30/2025",
@@ -524,7 +513,7 @@
       "time": "time-not-supplied",
       "symbol": "DXCM",
       "name": "DexCom, Inc.",
-      "marketCap": "$26,571,213,196",
+      "marketCap": "$27,493,449,611",
       "fiscalQuarterEnding": "Jun/2026",
       "epsForecast": "$0.61",
       "noOfEsts": "9"
@@ -535,7 +524,7 @@
       "time": "time-not-supplied",
       "symbol": "AVB",
       "name": "AvalonBay Communities, Inc.",
-      "marketCap": "$26,491,111,300",
+      "marketCap": "$26,982,176,903",
       "fiscalQuarterEnding": "Jun/2026",
       "epsForecast": "$2.80",
       "noOfEsts": "6"
@@ -546,7 +535,7 @@
       "time": "time-not-supplied",
       "symbol": "AWK",
       "name": "American Water Works",
-      "marketCap": "$25,736,019,863",
+      "marketCap": "$26,726,092,104",
       "fiscalQuarterEnding": "Jun/2026",
       "epsForecast": "$1.55",
       "noOfEsts": "3"
@@ -557,43 +546,21 @@
       "time": "time-not-supplied",
       "symbol": "AER",
       "name": "AerCap Holdings N.V.",
-      "marketCap": "$25,409,887,439",
+      "marketCap": "$26,469,826,374",
       "fiscalQuarterEnding": "Jun/2026",
       "epsForecast": "$3.94",
       "noOfEsts": "3"
     },
     {
-      "lastYearRptDt": "7/30/2025",
-      "lastYearEPS": "$0.66",
-      "time": "time-not-supplied",
-      "symbol": "ENTG",
-      "name": "Entegris, Inc.",
-      "marketCap": "$25,191,475,000",
+      "lastYearRptDt": "7/29/2025",
+      "lastYearEPS": "$1.57",
+      "time": "time-after-hours",
+      "symbol": "FTAI",
+      "name": "FTAI Aviation Ltd.",
+      "marketCap": "$25,446,732,034",
       "fiscalQuarterEnding": "Jun/2026",
-      "epsForecast": "$0.81",
-      "noOfEsts": "3"
-    },
-    {
-      "lastYearRptDt": "7/30/2025",
-      "lastYearEPS": "$0.45",
-      "time": "time-not-supplied",
-      "symbol": "SW",
-      "name": "Smurfit WestRock plc",
-      "marketCap": "$24,172,549,355",
-      "fiscalQuarterEnding": "Jun/2026",
-      "epsForecast": "$0.58",
-      "noOfEsts": "4"
-    },
-    {
-      "lastYearRptDt": "7/30/2025",
-      "lastYearEPS": "$1.88",
-      "time": "time-not-supplied",
-      "symbol": "VRSK",
-      "name": "Verisk Analytics, Inc.",
-      "marketCap": "$24,071,332,445",
-      "fiscalQuarterEnding": "Jun/2026",
-      "epsForecast": "$1.95",
-      "noOfEsts": "8"
+      "epsForecast": "$1.52",
+      "noOfEsts": "1"
     },
     {
       "lastYearRptDt": "7/30/2025",
@@ -601,32 +568,32 @@
       "time": "time-not-supplied",
       "symbol": "MKL",
       "name": "Markel Group Inc.",
-      "marketCap": "$23,984,277,134",
+      "marketCap": "$24,772,766,002",
       "fiscalQuarterEnding": "Jun/2026",
       "epsForecast": "$29.94",
       "noOfEsts": "1"
     },
     {
       "lastYearRptDt": "7/30/2025",
-      "lastYearEPS": "$3.42",
+      "lastYearEPS": "$1.88",
       "time": "time-not-supplied",
-      "symbol": "FFIV",
-      "name": "F5, Inc.",
-      "marketCap": "$23,931,916,192",
+      "symbol": "VRSK",
+      "name": "Verisk Analytics, Inc.",
+      "marketCap": "$24,677,963,564",
       "fiscalQuarterEnding": "Jun/2026",
-      "epsForecast": "$3.04",
-      "noOfEsts": "6"
+      "epsForecast": "$1.95",
+      "noOfEsts": "8"
     },
     {
-      "lastYearRptDt": "7/29/2025",
-      "lastYearEPS": "$0.08",
-      "time": "time-pre-market",
-      "symbol": "SOFI",
-      "name": "SoFi Technologies, Inc. ",
-      "marketCap": "$23,653,747,728",
+      "lastYearRptDt": "7/30/2025",
+      "lastYearEPS": "$0.45",
+      "time": "time-not-supplied",
+      "symbol": "SW",
+      "name": "Smurfit WestRock plc",
+      "marketCap": "$24,088,635,103",
       "fiscalQuarterEnding": "Jun/2026",
-      "epsForecast": "$0.12",
-      "noOfEsts": "7"
+      "epsForecast": "$0.58",
+      "noOfEsts": "4"
     },
     {
       "lastYearRptDt": "7/30/2025",
@@ -634,21 +601,32 @@
       "time": "time-not-supplied",
       "symbol": "UTHR",
       "name": "United Therapeutics Corporation",
-      "marketCap": "$23,224,729,961",
+      "marketCap": "$23,596,563,342",
       "fiscalQuarterEnding": "Jun/2026",
       "epsForecast": "$6.83",
       "noOfEsts": "5"
     },
     {
-      "lastYearRptDt": "7/30/2025",
-      "lastYearEPS": "($0.79)",
-      "time": "time-not-supplied",
-      "symbol": "GH",
-      "name": "Guardant Health, Inc.",
-      "marketCap": "$22,644,089,875",
+      "lastYearRptDt": "7/29/2025",
+      "lastYearEPS": "$0.08",
+      "time": "time-pre-market",
+      "symbol": "SOFI",
+      "name": "SoFi Technologies, Inc. ",
+      "marketCap": "$23,397,199,488",
       "fiscalQuarterEnding": "Jun/2026",
-      "epsForecast": "($0.75)",
-      "noOfEsts": "3"
+      "epsForecast": "$0.12",
+      "noOfEsts": "7"
+    },
+    {
+      "lastYearRptDt": "7/30/2025",
+      "lastYearEPS": "$3.42",
+      "time": "time-not-supplied",
+      "symbol": "FFIV",
+      "name": "F5, Inc.",
+      "marketCap": "$23,026,951,471",
+      "fiscalQuarterEnding": "Jun/2026",
+      "epsForecast": "$3.04",
+      "noOfEsts": "6"
     },
     {
       "lastYearRptDt": "7/30/2025",
@@ -656,10 +634,32 @@
       "time": "time-not-supplied",
       "symbol": "CHRW",
       "name": "C.H. Robinson Worldwide, Inc.",
-      "marketCap": "$22,545,576,743",
+      "marketCap": "$22,378,197,024",
       "fiscalQuarterEnding": "Jun/2026",
       "epsForecast": "$1.49",
       "noOfEsts": "6"
+    },
+    {
+      "lastYearRptDt": "7/30/2025",
+      "lastYearEPS": "$0.66",
+      "time": "time-not-supplied",
+      "symbol": "ENTG",
+      "name": "Entegris, Inc.",
+      "marketCap": "$22,365,650,000",
+      "fiscalQuarterEnding": "Jun/2026",
+      "epsForecast": "$0.81",
+      "noOfEsts": "3"
+    },
+    {
+      "lastYearRptDt": "7/30/2025",
+      "lastYearEPS": "($0.79)",
+      "time": "time-not-supplied",
+      "symbol": "GH",
+      "name": "Guardant Health, Inc.",
+      "marketCap": "$22,274,136,073",
+      "fiscalQuarterEnding": "Jun/2026",
+      "epsForecast": "($0.75)",
+      "noOfEsts": "3"
     },
     {
       "lastYearRptDt": "7/30/2025",
@@ -667,7 +667,7 @@
       "time": "time-pre-market",
       "symbol": "BG",
       "name": "Bunge Global SA",
-      "marketCap": "$20,350,560,082",
+      "marketCap": "$20,655,168,523",
       "fiscalQuarterEnding": "Jun/2026",
       "epsForecast": "$2",
       "noOfEsts": "2"
@@ -678,21 +678,10 @@
       "time": "time-pre-market",
       "symbol": "CTSH",
       "name": "Cognizant Technology Solutions Corporation",
-      "marketCap": "$19,461,819,092",
+      "marketCap": "$19,897,779,003",
       "fiscalQuarterEnding": "Jun/2026",
       "epsForecast": "$1.38",
       "noOfEsts": "6"
-    },
-    {
-      "lastYearRptDt": "7/30/2025",
-      "lastYearEPS": "$0.44",
-      "time": "time-pre-market",
-      "symbol": "EDU",
-      "name": "New Oriental Education & Technology Group, Inc.",
-      "marketCap": "$18,978,130,354",
-      "fiscalQuarterEnding": "May/2026",
-      "epsForecast": "$0.43",
-      "noOfEsts": "1"
     },
     {
       "lastYearRptDt": "7/30/2025",
@@ -700,21 +689,21 @@
       "time": "time-pre-market",
       "symbol": "FTV",
       "name": "Fortive Corporation",
-      "marketCap": "$18,840,411,098",
+      "marketCap": "$19,099,542,966",
       "fiscalQuarterEnding": "Jun/2026",
       "epsForecast": "$0.69",
       "noOfEsts": "5"
     },
     {
       "lastYearRptDt": "7/30/2025",
-      "lastYearEPS": "$0.52",
-      "time": "time-not-supplied",
-      "symbol": "TTMI",
-      "name": "TTM Technologies, Inc.",
-      "marketCap": "$18,661,855,602",
-      "fiscalQuarterEnding": "Jun/2026",
-      "epsForecast": "$0.89",
-      "noOfEsts": "2"
+      "lastYearEPS": "$0.44",
+      "time": "time-pre-market",
+      "symbol": "EDU",
+      "name": "New Oriental Education & Technology Group, Inc.",
+      "marketCap": "$18,711,561,227",
+      "fiscalQuarterEnding": "May/2026",
+      "epsForecast": "$0.43",
+      "noOfEsts": "1"
     },
     {
       "lastYearRptDt": "7/30/2025",
@@ -722,7 +711,7 @@
       "time": "time-not-supplied",
       "symbol": "INVH",
       "name": "Invitation Homes Inc.",
-      "marketCap": "$18,029,173,365",
+      "marketCap": "$18,136,100,917",
       "fiscalQuarterEnding": "Jun/2026",
       "epsForecast": "$0.48",
       "noOfEsts": "5"
@@ -733,10 +722,21 @@
       "time": "time-not-supplied",
       "symbol": "NBIX",
       "name": "Neurocrine Biosciences, Inc.",
-      "marketCap": "$16,869,270,648",
+      "marketCap": "$17,521,840,038",
       "fiscalQuarterEnding": "Jun/2026",
       "epsForecast": "$1.85",
       "noOfEsts": "7"
+    },
+    {
+      "lastYearRptDt": "7/31/2025",
+      "lastYearEPS": "$1.30",
+      "time": "time-pre-market",
+      "symbol": "MAS",
+      "name": "Masco Corporation",
+      "marketCap": "$16,697,559,350",
+      "fiscalQuarterEnding": "Jun/2026",
+      "epsForecast": "$1.29",
+      "noOfEsts": "6"
     },
     {
       "lastYearRptDt": "7/30/2025",
@@ -744,10 +744,21 @@
       "time": "time-pre-market",
       "symbol": "IEX",
       "name": "IDEX Corporation",
-      "marketCap": "$16,650,426,098",
+      "marketCap": "$16,566,048,939",
       "fiscalQuarterEnding": "Jun/2026",
       "epsForecast": "$2.11",
       "noOfEsts": "5"
+    },
+    {
+      "lastYearRptDt": "7/30/2025",
+      "lastYearEPS": "$2.15",
+      "time": "time-after-hours",
+      "symbol": "MAA",
+      "name": "Mid-America Apartment Communities, Inc.",
+      "marketCap": "$16,548,754,996",
+      "fiscalQuarterEnding": "Jun/2026",
+      "epsForecast": "$2.08",
+      "noOfEsts": "7"
     },
     {
       "lastYearRptDt": "7/30/2025",
@@ -755,7 +766,7 @@
       "time": "time-not-supplied",
       "symbol": "WSO",
       "name": "Watsco, Inc.",
-      "marketCap": "$16,572,824,009",
+      "marketCap": "$16,454,510,585",
       "fiscalQuarterEnding": "Jun/2026",
       "epsForecast": "$4.29",
       "noOfEsts": "5"
@@ -766,32 +777,21 @@
       "time": "time-not-supplied",
       "symbol": "WSO.B",
       "name": "Watsco, Inc.",
-      "marketCap": "$16,572,824,009",
+      "marketCap": "$16,454,510,585",
       "fiscalQuarterEnding": "Jun/2026",
       "epsForecast": "",
       "noOfEsts": "1"
     },
     {
-      "lastYearRptDt": "7/31/2025",
-      "lastYearEPS": "$1.30",
-      "time": "time-pre-market",
-      "symbol": "MAS",
-      "name": "Masco Corporation",
-      "marketCap": "$16,469,599,437",
-      "fiscalQuarterEnding": "Jun/2026",
-      "epsForecast": "$1.29",
-      "noOfEsts": "6"
-    },
-    {
       "lastYearRptDt": "7/30/2025",
-      "lastYearEPS": "$2.15",
-      "time": "time-after-hours",
-      "symbol": "MAA",
-      "name": "Mid-America Apartment Communities, Inc.",
-      "marketCap": "$16,286,889,192",
+      "lastYearEPS": "$0.52",
+      "time": "time-not-supplied",
+      "symbol": "TTMI",
+      "name": "TTM Technologies, Inc.",
+      "marketCap": "$16,198,532,203",
       "fiscalQuarterEnding": "Jun/2026",
-      "epsForecast": "$2.08",
-      "noOfEsts": "7"
+      "epsForecast": "$0.89",
+      "noOfEsts": "2"
     },
     {
       "lastYearRptDt": "7/30/2025",
@@ -799,20 +799,9 @@
       "time": "time-not-supplied",
       "symbol": "ALB",
       "name": "Albemarle Corporation",
-      "marketCap": "$16,048,547,308",
+      "marketCap": "$15,987,221,290",
       "fiscalQuarterEnding": "Jun/2026",
       "epsForecast": "$3.21",
-      "noOfEsts": "6"
-    },
-    {
-      "lastYearRptDt": "7/30/2025",
-      "lastYearEPS": "$1.65",
-      "time": "time-not-supplied",
-      "symbol": "GNRC",
-      "name": "Generac Holdings Inc.",
-      "marketCap": "$15,907,494,980",
-      "fiscalQuarterEnding": "Jun/2026",
-      "epsForecast": "$1.95",
       "noOfEsts": "6"
     },
     {
@@ -821,7 +810,7 @@
       "time": "time-not-supplied",
       "symbol": "CLH",
       "name": "Clean Harbors, Inc.",
-      "marketCap": "$15,364,455,344",
+      "marketCap": "$15,388,764,518",
       "fiscalQuarterEnding": "Jun/2026",
       "epsForecast": "$2.70",
       "noOfEsts": "5"
@@ -832,10 +821,21 @@
       "time": "time-not-supplied",
       "symbol": "SUI",
       "name": "Sun Communities, Inc.",
-      "marketCap": "$14,883,810,830",
+      "marketCap": "$15,235,018,488",
       "fiscalQuarterEnding": "Jun/2026",
       "epsForecast": "$1.76",
       "noOfEsts": "3"
+    },
+    {
+      "lastYearRptDt": "7/30/2025",
+      "lastYearEPS": "$1.65",
+      "time": "time-not-supplied",
+      "symbol": "GNRC",
+      "name": "Generac Holdings Inc.",
+      "marketCap": "$14,873,760,941",
+      "fiscalQuarterEnding": "Jun/2026",
+      "epsForecast": "$1.95",
+      "noOfEsts": "6"
     },
     {
       "lastYearRptDt": "7/30/2025",
@@ -843,7 +843,7 @@
       "time": "time-not-supplied",
       "symbol": "CSL",
       "name": "Carlisle Companies Incorporated",
-      "marketCap": "$14,601,822,675",
+      "marketCap": "$14,839,757,321",
       "fiscalQuarterEnding": "Jun/2026",
       "epsForecast": "$6.45",
       "noOfEsts": "5"
@@ -854,7 +854,7 @@
       "time": "time-after-hours",
       "symbol": "REG",
       "name": "Regency Centers Corporation",
-      "marketCap": "$14,532,392,222",
+      "marketCap": "$14,823,516,118",
       "fiscalQuarterEnding": "Jun/2026",
       "epsForecast": "$1.20",
       "noOfEsts": "6"
@@ -865,7 +865,7 @@
       "time": "time-after-hours",
       "symbol": "OHI",
       "name": "Omega Healthcare Investors, Inc.",
-      "marketCap": "$14,345,122,340",
+      "marketCap": "$14,711,418,800",
       "fiscalQuarterEnding": "Jun/2026",
       "epsForecast": "$0.77",
       "noOfEsts": "1"
@@ -876,32 +876,21 @@
       "time": "time-after-hours",
       "symbol": "EG",
       "name": "Everest Group, Ltd.",
-      "marketCap": "$14,243,006,708",
+      "marketCap": "$14,694,914,403",
       "fiscalQuarterEnding": "Jun/2026",
       "epsForecast": "$14.79",
       "noOfEsts": "5"
     },
     {
-      "lastYearRptDt": "7/29/2025",
-      "lastYearEPS": "$1.08",
-      "time": "time-pre-market",
-      "symbol": "SWK",
-      "name": "Stanley Black & Decker, Inc.",
-      "marketCap": "$14,199,311,216",
-      "fiscalQuarterEnding": "Jun/2026",
-      "epsForecast": "$1.21",
-      "noOfEsts": "5"
-    },
-    {
       "lastYearRptDt": "7/30/2025",
-      "lastYearEPS": "($0.11)",
-      "time": "time-not-supplied",
-      "symbol": "AUR",
-      "name": "Aurora Innovation, Inc. ",
-      "marketCap": "$13,865,705,839",
+      "lastYearEPS": "$0.19",
+      "time": "time-after-hours",
+      "symbol": "GFL",
+      "name": "GFL Environmental Inc.",
+      "marketCap": "$14,444,039,227",
       "fiscalQuarterEnding": "Jun/2026",
-      "epsForecast": "($0.12)",
-      "noOfEsts": "3"
+      "epsForecast": "$0.16",
+      "noOfEsts": "5"
     },
     {
       "lastYearRptDt": "7/30/2025",
@@ -909,10 +898,21 @@
       "time": "time-not-supplied",
       "symbol": "PTC",
       "name": "PTC Inc.",
-      "marketCap": "$13,835,283,646",
+      "marketCap": "$14,386,246,269",
       "fiscalQuarterEnding": "Jun/2026",
       "epsForecast": "$1.19",
       "noOfEsts": "6"
+    },
+    {
+      "lastYearRptDt": "7/29/2025",
+      "lastYearEPS": "$1.08",
+      "time": "time-pre-market",
+      "symbol": "SWK",
+      "name": "Stanley Black & Decker, Inc.",
+      "marketCap": "$14,286,366,332",
+      "fiscalQuarterEnding": "Jun/2026",
+      "epsForecast": "$1.21",
+      "noOfEsts": "5"
     },
     {
       "lastYearRptDt": "7/30/2025",
@@ -920,10 +920,32 @@
       "time": "time-pre-market",
       "symbol": "GIB",
       "name": "CGI Inc.",
-      "marketCap": "$13,643,900,042",
+      "marketCap": "$13,925,982,151",
       "fiscalQuarterEnding": "Jun/2026",
       "epsForecast": "$1.66",
       "noOfEsts": "3"
+    },
+    {
+      "lastYearRptDt": "7/30/2025",
+      "lastYearEPS": "$0.34",
+      "time": "time-after-hours",
+      "symbol": "AGI",
+      "name": "Alamos Gold Inc.",
+      "marketCap": "$13,691,310,448",
+      "fiscalQuarterEnding": "Jun/2026",
+      "epsForecast": "$0.51",
+      "noOfEsts": "2"
+    },
+    {
+      "lastYearRptDt": "7/30/2025",
+      "lastYearEPS": "$0.70",
+      "time": "time-not-supplied",
+      "symbol": "IONS",
+      "name": "Ionis Pharmaceuticals, Inc.",
+      "marketCap": "$13,518,477,081",
+      "fiscalQuarterEnding": "Jun/2026",
+      "epsForecast": "($1.08)",
+      "noOfEsts": "8"
     },
     {
       "lastYearRptDt": "7/29/2025",
@@ -931,10 +953,21 @@
       "time": "time-pre-market",
       "symbol": "ARCC",
       "name": "Ares Capital Corporation",
-      "marketCap": "$13,398,306,288",
+      "marketCap": "$13,448,567,887",
       "fiscalQuarterEnding": "Jun/2026",
       "epsForecast": "$0.47",
       "noOfEsts": "5"
+    },
+    {
+      "lastYearRptDt": "7/30/2025",
+      "lastYearEPS": "$2.22",
+      "time": "time-not-supplied",
+      "symbol": "TYL",
+      "name": "Tyler Technologies, Inc.",
+      "marketCap": "$13,413,467,436",
+      "fiscalQuarterEnding": "Jun/2026",
+      "epsForecast": "$2.40",
+      "noOfEsts": "7"
     },
     {
       "lastYearRptDt": "7/30/2025",
@@ -942,7 +975,7 @@
       "time": "time-not-supplied",
       "symbol": "UDR",
       "name": "UDR, Inc.",
-      "marketCap": "$13,198,073,825",
+      "marketCap": "$13,350,784,182",
       "fiscalQuarterEnding": "Jun/2026",
       "epsForecast": "$0.63",
       "noOfEsts": "5"
@@ -953,32 +986,10 @@
       "time": "time-not-supplied",
       "symbol": "EVR",
       "name": "Evercore Inc.",
-      "marketCap": "$13,192,274,343",
+      "marketCap": "$13,254,166,318",
       "fiscalQuarterEnding": "Jun/2026",
       "epsForecast": "$2.55",
       "noOfEsts": "4"
-    },
-    {
-      "lastYearRptDt": "7/30/2025",
-      "lastYearEPS": "$0.19",
-      "time": "time-after-hours",
-      "symbol": "GFL",
-      "name": "GFL Environmental Inc.",
-      "marketCap": "$13,166,164,388",
-      "fiscalQuarterEnding": "Jun/2026",
-      "epsForecast": "$0.16",
-      "noOfEsts": "5"
-    },
-    {
-      "lastYearRptDt": "7/30/2025",
-      "lastYearEPS": "$0.70",
-      "time": "time-not-supplied",
-      "symbol": "IONS",
-      "name": "Ionis Pharmaceuticals, Inc.",
-      "marketCap": "$13,087,141,810",
-      "fiscalQuarterEnding": "Jun/2026",
-      "epsForecast": "($1.08)",
-      "noOfEsts": "8"
     },
     {
       "lastYearRptDt": "7/30/2025",
@@ -986,10 +997,21 @@
       "time": "time-after-hours",
       "symbol": "ALGN",
       "name": "Align Technology, Inc.",
-      "marketCap": "$12,997,973,869",
+      "marketCap": "$13,214,976,794",
       "fiscalQuarterEnding": "Jun/2026",
       "epsForecast": "$2.08",
       "noOfEsts": "4"
+    },
+    {
+      "lastYearRptDt": "7/30/2025",
+      "lastYearEPS": "($0.11)",
+      "time": "time-not-supplied",
+      "symbol": "AUR",
+      "name": "Aurora Innovation, Inc. ",
+      "marketCap": "$13,002,776,480",
+      "fiscalQuarterEnding": "Jun/2026",
+      "epsForecast": "($0.12)",
+      "noOfEsts": "3"
     },
     {
       "lastYearRptDt": "7/30/2025",
@@ -997,32 +1019,10 @@
       "time": "time-not-supplied",
       "symbol": "MOD",
       "name": "Modine Manufacturing Company",
-      "marketCap": "$12,912,931,275",
+      "marketCap": "$12,198,861,861",
       "fiscalQuarterEnding": "Jun/2026",
       "epsForecast": "$1.43",
       "noOfEsts": "5"
-    },
-    {
-      "lastYearRptDt": "7/30/2025",
-      "lastYearEPS": "$2.22",
-      "time": "time-not-supplied",
-      "symbol": "TYL",
-      "name": "Tyler Technologies, Inc.",
-      "marketCap": "$12,720,656,150",
-      "fiscalQuarterEnding": "Jun/2026",
-      "epsForecast": "$2.40",
-      "noOfEsts": "7"
-    },
-    {
-      "lastYearRptDt": "7/30/2025",
-      "lastYearEPS": "$0.34",
-      "time": "time-after-hours",
-      "symbol": "AGI",
-      "name": "Alamos Gold Inc.",
-      "marketCap": "$12,710,682,789",
-      "fiscalQuarterEnding": "Jun/2026",
-      "epsForecast": "$0.51",
-      "noOfEsts": "2"
     },
     {
       "lastYearRptDt": "7/30/2025",
@@ -1030,21 +1030,10 @@
       "time": "time-after-hours",
       "symbol": "MGM",
       "name": "MGM Resorts International",
-      "marketCap": "$12,158,050,687",
+      "marketCap": "$12,050,593,169",
       "fiscalQuarterEnding": "Jun/2026",
       "epsForecast": "$0.60",
       "noOfEsts": "7"
-    },
-    {
-      "lastYearRptDt": "7/30/2025",
-      "lastYearEPS": "$0.19",
-      "time": "time-not-supplied",
-      "symbol": "CGNX",
-      "name": "Cognex Corporation",
-      "marketCap": "$11,866,538,954",
-      "fiscalQuarterEnding": "Jun/2026",
-      "epsForecast": "$0.42",
-      "noOfEsts": "4"
     },
     {
       "lastYearRptDt": "7/30/2025",
@@ -1052,43 +1041,21 @@
       "time": "time-not-supplied",
       "symbol": "PAG",
       "name": "Penske Automotive Group, Inc.",
-      "marketCap": "$11,642,878,075",
+      "marketCap": "$11,796,731,332",
       "fiscalQuarterEnding": "Jun/2026",
       "epsForecast": "$3.39",
       "noOfEsts": "5"
     },
     {
       "lastYearRptDt": "7/30/2025",
-      "lastYearEPS": "$0.16",
+      "lastYearEPS": "$0.19",
       "time": "time-not-supplied",
-      "symbol": "FORM",
-      "name": "FormFactor, Inc.",
-      "marketCap": "$11,469,485,604",
+      "symbol": "CGNX",
+      "name": "Cognex Corporation",
+      "marketCap": "$11,283,238,778",
       "fiscalQuarterEnding": "Jun/2026",
-      "epsForecast": "$0.51",
+      "epsForecast": "$0.42",
       "noOfEsts": "4"
-    },
-    {
-      "lastYearRptDt": "7/30/2025",
-      "lastYearEPS": "$0.37",
-      "time": "time-not-supplied",
-      "symbol": "ESI",
-      "name": "Element Solutions Inc.",
-      "marketCap": "$11,142,593,237",
-      "fiscalQuarterEnding": "Jun/2026",
-      "epsForecast": "$0.43",
-      "noOfEsts": "3"
-    },
-    {
-      "lastYearRptDt": "7/30/2025",
-      "lastYearEPS": "$2.85",
-      "time": "time-not-supplied",
-      "symbol": "LFUS",
-      "name": "Littelfuse, Inc.",
-      "marketCap": "$11,136,980,433",
-      "fiscalQuarterEnding": "Jun/2026",
-      "epsForecast": "$3.77",
-      "noOfEsts": "1"
     },
     {
       "lastYearRptDt": "7/30/2025",
@@ -1096,7 +1063,7 @@
       "time": "time-not-supplied",
       "symbol": "SF",
       "name": "Stifel Financial Corporation",
-      "marketCap": "$11,021,917,103",
+      "marketCap": "$11,224,407,438",
       "fiscalQuarterEnding": "Jun/2026",
       "epsForecast": "$1.40",
       "noOfEsts": "1"
@@ -1107,32 +1074,10 @@
       "time": "time-not-supplied",
       "symbol": "AR",
       "name": "Antero Resources Corporation",
-      "marketCap": "$10,816,374,760",
+      "marketCap": "$10,961,997,680",
       "fiscalQuarterEnding": "Jun/2026",
       "epsForecast": "$0.83",
       "noOfEsts": "6"
-    },
-    {
-      "lastYearRptDt": "7/30/2025",
-      "lastYearEPS": "$0.49",
-      "time": "time-not-supplied",
-      "symbol": "SIMO",
-      "name": "Silicon Motion Technology Corporation",
-      "marketCap": "$10,748,105,538",
-      "fiscalQuarterEnding": "Jun/2026",
-      "epsForecast": "$1.96",
-      "noOfEsts": "5"
-    },
-    {
-      "lastYearRptDt": "7/30/2025",
-      "lastYearEPS": "$0.26",
-      "time": "time-not-supplied",
-      "symbol": "AM",
-      "name": "Antero Midstream Corporation",
-      "marketCap": "$10,653,801,400",
-      "fiscalQuarterEnding": "Jun/2026",
-      "epsForecast": "$0.27",
-      "noOfEsts": "5"
     },
     {
       "lastYearRptDt": "7/30/2025",
@@ -1140,21 +1085,43 @@
       "time": "time-not-supplied",
       "symbol": "SCI",
       "name": "Service Corporation International",
-      "marketCap": "$10,589,274,097",
+      "marketCap": "$10,839,001,603",
       "fiscalQuarterEnding": "Jun/2026",
       "epsForecast": "$0.87",
       "noOfEsts": "4"
     },
     {
       "lastYearRptDt": "7/30/2025",
-      "lastYearEPS": "$7.36",
+      "lastYearEPS": "$0.26",
       "time": "time-not-supplied",
-      "symbol": "MUSA",
-      "name": "Murphy USA Inc.",
-      "marketCap": "$10,321,418,778",
+      "symbol": "AM",
+      "name": "Antero Midstream Corporation",
+      "marketCap": "$10,668,050,800",
       "fiscalQuarterEnding": "Jun/2026",
-      "epsForecast": "$9.52",
+      "epsForecast": "$0.27",
       "noOfEsts": "5"
+    },
+    {
+      "lastYearRptDt": "7/30/2025",
+      "lastYearEPS": "$0.37",
+      "time": "time-not-supplied",
+      "symbol": "ESI",
+      "name": "Element Solutions Inc.",
+      "marketCap": "$10,631,018,121",
+      "fiscalQuarterEnding": "Jun/2026",
+      "epsForecast": "$0.43",
+      "noOfEsts": "3"
+    },
+    {
+      "lastYearRptDt": "7/30/2025",
+      "lastYearEPS": "$2.85",
+      "time": "time-not-supplied",
+      "symbol": "LFUS",
+      "name": "Littelfuse, Inc.",
+      "marketCap": "$10,582,647,657",
+      "fiscalQuarterEnding": "Jun/2026",
+      "epsForecast": "$3.77",
+      "noOfEsts": "1"
     },
     {
       "lastYearRptDt": "7/30/2025",
@@ -1162,21 +1129,21 @@
       "time": "time-not-supplied",
       "symbol": "TIMB",
       "name": "TIM S.A.",
-      "marketCap": "$10,204,809,047",
+      "marketCap": "$10,386,610,614",
       "fiscalQuarterEnding": "Jun/2026",
       "epsForecast": "$0.37",
       "noOfEsts": "2"
     },
     {
       "lastYearRptDt": "7/30/2025",
-      "lastYearEPS": "($0.12)",
+      "lastYearEPS": "$7.36",
       "time": "time-not-supplied",
-      "symbol": "APLD",
-      "name": "Applied Digital Corporation",
-      "marketCap": "$10,150,534,025",
-      "fiscalQuarterEnding": "May/2026",
-      "epsForecast": "($0.20)",
-      "noOfEsts": "2"
+      "symbol": "MUSA",
+      "name": "Murphy USA Inc.",
+      "marketCap": "$10,357,436,614",
+      "fiscalQuarterEnding": "Jun/2026",
+      "epsForecast": "$9.52",
+      "noOfEsts": "5"
     },
     {
       "lastYearRptDt": "7/29/2025",
@@ -1184,10 +1151,21 @@
       "time": "time-pre-market",
       "symbol": "OGE",
       "name": "OGE Energy Corp",
-      "marketCap": "$9,963,752,218",
+      "marketCap": "$10,203,146,430",
       "fiscalQuarterEnding": "Jun/2026",
       "epsForecast": "$0.59",
       "noOfEsts": "4"
+    },
+    {
+      "lastYearRptDt": "7/30/2025",
+      "lastYearEPS": "$0.49",
+      "time": "time-not-supplied",
+      "symbol": "SIMO",
+      "name": "Silicon Motion Technology Corporation",
+      "marketCap": "$10,196,425,063",
+      "fiscalQuarterEnding": "Jun/2026",
+      "epsForecast": "$1.96",
+      "noOfEsts": "5"
     },
     {
       "lastYearRptDt": "7/30/2025",
@@ -1195,10 +1173,21 @@
       "time": "time-not-supplied",
       "symbol": "TKR",
       "name": "Timken Company (The)",
-      "marketCap": "$9,850,846,793",
+      "marketCap": "$9,670,856,012",
       "fiscalQuarterEnding": "Jun/2026",
       "epsForecast": "$1.63",
       "noOfEsts": "8"
+    },
+    {
+      "lastYearRptDt": "7/30/2025",
+      "lastYearEPS": "$0.16",
+      "time": "time-not-supplied",
+      "symbol": "FORM",
+      "name": "FormFactor, Inc.",
+      "marketCap": "$9,634,430,271",
+      "fiscalQuarterEnding": "Jun/2026",
+      "epsForecast": "$0.51",
+      "noOfEsts": "4"
     },
     {
       "lastYearRptDt": "7/30/2025",
@@ -1206,10 +1195,21 @@
       "time": "time-not-supplied",
       "symbol": "VIRT",
       "name": "Virtu Financial, Inc.",
-      "marketCap": "$9,573,480,756",
+      "marketCap": "$9,579,684,210",
       "fiscalQuarterEnding": "Jun/2026",
       "epsForecast": "$1.34",
       "noOfEsts": "4"
+    },
+    {
+      "lastYearRptDt": "7/30/2025",
+      "lastYearEPS": "($0.12)",
+      "time": "time-not-supplied",
+      "symbol": "APLD",
+      "name": "Applied Digital Corporation",
+      "marketCap": "$9,447,540,959",
+      "fiscalQuarterEnding": "May/2026",
+      "epsForecast": "($0.20)",
+      "noOfEsts": "2"
     },
     {
       "lastYearRptDt": "7/30/2025",
@@ -1217,21 +1217,10 @@
       "time": "time-not-supplied",
       "symbol": "COMP",
       "name": "Compass, Inc.",
-      "marketCap": "$9,376,770,715",
+      "marketCap": "$9,429,071,428",
       "fiscalQuarterEnding": "Jun/2026",
       "epsForecast": "$0.09",
       "noOfEsts": "4"
-    },
-    {
-      "lastYearRptDt": "7/30/2025",
-      "lastYearEPS": "$1.35",
-      "time": "time-after-hours",
-      "symbol": "SFM",
-      "name": "Sprouts Farmers Market, Inc.",
-      "marketCap": "$8,153,640,897",
-      "fiscalQuarterEnding": "Jun/2026",
-      "epsForecast": "$1.35",
-      "noOfEsts": "6"
     },
     {
       "lastYearRptDt": "7/30/2025",
@@ -1239,10 +1228,32 @@
       "time": "time-not-supplied",
       "symbol": "GKOS",
       "name": "Glaukos Corporation",
-      "marketCap": "$8,080,024,136",
+      "marketCap": "$8,712,588,358",
       "fiscalQuarterEnding": "Jun/2026",
       "epsForecast": "($0.28)",
       "noOfEsts": "5"
+    },
+    {
+      "lastYearRptDt": "7/23/2025",
+      "lastYearEPS": "$1.42",
+      "time": "time-pre-market",
+      "symbol": "PB",
+      "name": "Prosperity Bancshares, Inc.",
+      "marketCap": "$8,497,697,450",
+      "fiscalQuarterEnding": "Jun/2026",
+      "epsForecast": "$1.54",
+      "noOfEsts": "7"
+    },
+    {
+      "lastYearRptDt": "7/30/2025",
+      "lastYearEPS": "$1.35",
+      "time": "time-after-hours",
+      "symbol": "SFM",
+      "name": "Sprouts Farmers Market, Inc.",
+      "marketCap": "$8,458,344,432",
+      "fiscalQuarterEnding": "Jun/2026",
+      "epsForecast": "$1.35",
+      "noOfEsts": "6"
     },
     {
       "lastYearRptDt": "7/30/2025",
@@ -1250,7 +1261,7 @@
       "time": "time-not-supplied",
       "symbol": "FSS",
       "name": "Federal Signal Corporation",
-      "marketCap": "$7,783,277,843",
+      "marketCap": "$7,996,785,739",
       "fiscalQuarterEnding": "Jun/2026",
       "epsForecast": "$1.28",
       "noOfEsts": "7"
@@ -1261,32 +1272,10 @@
       "time": "time-not-supplied",
       "symbol": "TTEK",
       "name": "Tetra Tech, Inc.",
-      "marketCap": "$7,572,930,717",
+      "marketCap": "$7,759,788,500",
       "fiscalQuarterEnding": "Jun/2026",
       "epsForecast": "$0.40",
       "noOfEsts": "2"
-    },
-    {
-      "lastYearRptDt": "7/23/2025",
-      "lastYearEPS": "$1.42",
-      "time": "time-pre-market",
-      "symbol": "PB",
-      "name": "Prosperity Bancshares, Inc.",
-      "marketCap": "$7,399,708,532",
-      "fiscalQuarterEnding": "Jun/2026",
-      "epsForecast": "$1.54",
-      "noOfEsts": "7"
-    },
-    {
-      "lastYearRptDt": "7/24/2025",
-      "lastYearEPS": "$0.50",
-      "time": "time-after-hours",
-      "symbol": "HXL",
-      "name": "Hexcel Corporation",
-      "marketCap": "$7,398,652,479",
-      "fiscalQuarterEnding": "Jun/2026",
-      "epsForecast": "$0.55",
-      "noOfEsts": "3"
     },
     {
       "lastYearRptDt": "7/30/2025",
@@ -1294,7 +1283,7 @@
       "time": "time-not-supplied",
       "symbol": "NFG",
       "name": "National Fuel Gas Company",
-      "marketCap": "$7,365,240,555",
+      "marketCap": "$7,540,105,621",
       "fiscalQuarterEnding": "Jun/2026",
       "epsForecast": "$1.45",
       "noOfEsts": "3"
@@ -1305,10 +1294,21 @@
       "time": "time-not-supplied",
       "symbol": "AXTA",
       "name": "Axalta Coating Systems Ltd.",
-      "marketCap": "$7,319,441,866",
+      "marketCap": "$7,514,198,944",
       "fiscalQuarterEnding": "Jun/2026",
       "epsForecast": "$0.65",
       "noOfEsts": "4"
+    },
+    {
+      "lastYearRptDt": "7/24/2025",
+      "lastYearEPS": "$0.50",
+      "time": "time-after-hours",
+      "symbol": "HXL",
+      "name": "Hexcel Corporation",
+      "marketCap": "$7,490,673,643",
+      "fiscalQuarterEnding": "Jun/2026",
+      "epsForecast": "$0.55",
+      "noOfEsts": "3"
     },
     {
       "lastYearRptDt": "7/30/2025",
@@ -1316,42 +1316,9 @@
       "time": "time-not-supplied",
       "symbol": "RSI",
       "name": "Rush Street Interactive, Inc.",
-      "marketCap": "$7,275,080,343",
+      "marketCap": "$7,372,826,145",
       "fiscalQuarterEnding": "Jun/2026",
       "epsForecast": "$0.10",
-      "noOfEsts": "2"
-    },
-    {
-      "lastYearRptDt": "N/A",
-      "lastYearEPS": "$11.84",
-      "time": "time-not-supplied",
-      "symbol": "NEU",
-      "name": "NewMarket Corporation",
-      "marketCap": "$7,225,963,726",
-      "fiscalQuarterEnding": "Jun/2026",
-      "epsForecast": "",
-      "noOfEsts": "1"
-    },
-    {
-      "lastYearRptDt": "7/30/2025",
-      "lastYearEPS": "$1.70",
-      "time": "time-not-supplied",
-      "symbol": "MYRG",
-      "name": "MYR Group, Inc.",
-      "marketCap": "$7,211,102,482",
-      "fiscalQuarterEnding": "Jun/2026",
-      "epsForecast": "$2.53",
-      "noOfEsts": "3"
-    },
-    {
-      "lastYearRptDt": "7/31/2025",
-      "lastYearEPS": "$1.67",
-      "time": "time-pre-market",
-      "symbol": "KEX",
-      "name": "Kirby Corporation",
-      "marketCap": "$7,006,895,000",
-      "fiscalQuarterEnding": "Jun/2026",
-      "epsForecast": "$1.66",
       "noOfEsts": "2"
     },
     {
@@ -1360,21 +1327,21 @@
       "time": "time-not-supplied",
       "symbol": "ETSY",
       "name": "Etsy, Inc.",
-      "marketCap": "$6,911,292,504",
+      "marketCap": "$7,304,162,900",
       "fiscalQuarterEnding": "Jun/2026",
       "epsForecast": "$0.77",
       "noOfEsts": "4"
     },
     {
-      "lastYearRptDt": "7/30/2025",
-      "lastYearEPS": "$0.37",
+      "lastYearRptDt": "N/A",
+      "lastYearEPS": "$11.84",
       "time": "time-not-supplied",
-      "symbol": "GTES",
-      "name": "Gates Industrial Corporation plc",
-      "marketCap": "$6,896,098,045",
+      "symbol": "NEU",
+      "name": "NewMarket Corporation",
+      "marketCap": "$7,235,161,745",
       "fiscalQuarterEnding": "Jun/2026",
-      "epsForecast": "$0.38",
-      "noOfEsts": "2"
+      "epsForecast": "",
+      "noOfEsts": "1"
     },
     {
       "lastYearRptDt": "8/01/2025",
@@ -1382,10 +1349,21 @@
       "time": "time-pre-market",
       "symbol": "AVTR",
       "name": "Avantor, Inc.",
-      "marketCap": "$6,834,381,574",
+      "marketCap": "$7,046,035,749",
       "fiscalQuarterEnding": "Jun/2026",
       "epsForecast": "$0.19",
       "noOfEsts": "7"
+    },
+    {
+      "lastYearRptDt": "7/31/2025",
+      "lastYearEPS": "$1.67",
+      "time": "time-pre-market",
+      "symbol": "KEX",
+      "name": "Kirby Corporation",
+      "marketCap": "$6,946,440,000",
+      "fiscalQuarterEnding": "Jun/2026",
+      "epsForecast": "$1.66",
+      "noOfEsts": "2"
     },
     {
       "lastYearRptDt": "7/30/2025",
@@ -1393,21 +1371,32 @@
       "time": "time-not-supplied",
       "symbol": "PPC",
       "name": "Pilgrim's Pride Corporation",
-      "marketCap": "$6,792,671,416",
+      "marketCap": "$6,842,635,023",
       "fiscalQuarterEnding": "Jun/2026",
       "epsForecast": "$0.96",
       "noOfEsts": "2"
     },
     {
       "lastYearRptDt": "7/30/2025",
-      "lastYearEPS": "($0.24)",
+      "lastYearEPS": "$0.37",
       "time": "time-not-supplied",
-      "symbol": "VFC",
-      "name": "V.F. Corporation",
-      "marketCap": "$6,603,200,902",
+      "symbol": "GTES",
+      "name": "Gates Industrial Corporation plc",
+      "marketCap": "$6,779,258,078",
       "fiscalQuarterEnding": "Jun/2026",
-      "epsForecast": "($0.22)",
-      "noOfEsts": "7"
+      "epsForecast": "$0.38",
+      "noOfEsts": "2"
+    },
+    {
+      "lastYearRptDt": "7/30/2025",
+      "lastYearEPS": "$1.70",
+      "time": "time-not-supplied",
+      "symbol": "MYRG",
+      "name": "MYR Group, Inc.",
+      "marketCap": "$6,742,414,298",
+      "fiscalQuarterEnding": "Jun/2026",
+      "epsForecast": "$2.53",
+      "noOfEsts": "3"
     },
     {
       "lastYearRptDt": "7/30/2025",
@@ -1415,21 +1404,21 @@
       "time": "time-not-supplied",
       "symbol": "VSEC",
       "name": "VSE Corporation",
-      "marketCap": "$6,418,073,520",
+      "marketCap": "$6,518,518,124",
       "fiscalQuarterEnding": "Jun/2026",
       "epsForecast": "$0.92",
       "noOfEsts": "5"
     },
     {
       "lastYearRptDt": "7/30/2025",
-      "lastYearEPS": "$1.15",
+      "lastYearEPS": "($0.24)",
       "time": "time-not-supplied",
-      "symbol": "ACT",
-      "name": "Enact Holdings, Inc.",
-      "marketCap": "$6,336,477,816",
+      "symbol": "VFC",
+      "name": "V.F. Corporation",
+      "marketCap": "$6,395,256,964",
       "fiscalQuarterEnding": "Jun/2026",
-      "epsForecast": "$1.21",
-      "noOfEsts": "2"
+      "epsForecast": "($0.22)",
+      "noOfEsts": "7"
     },
     {
       "lastYearRptDt": "7/23/2025",
@@ -1437,10 +1426,21 @@
       "time": "time-after-hours",
       "symbol": "CHDN",
       "name": "Churchill Downs, Incorporated",
-      "marketCap": "$6,213,479,348",
+      "marketCap": "$6,336,145,906",
       "fiscalQuarterEnding": "Jun/2026",
       "epsForecast": "$3.58",
       "noOfEsts": "3"
+    },
+    {
+      "lastYearRptDt": "7/30/2025",
+      "lastYearEPS": "$1.15",
+      "time": "time-not-supplied",
+      "symbol": "ACT",
+      "name": "Enact Holdings, Inc.",
+      "marketCap": "$6,329,497,778",
+      "fiscalQuarterEnding": "Jun/2026",
+      "epsForecast": "$1.21",
+      "noOfEsts": "2"
     },
     {
       "lastYearRptDt": "N/A",
@@ -1448,21 +1448,10 @@
       "time": "time-after-hours",
       "symbol": "MORN",
       "name": "Morningstar, Inc.",
-      "marketCap": "$6,159,398,075",
+      "marketCap": "$6,310,369,307",
       "fiscalQuarterEnding": "Jun/2026",
       "epsForecast": "",
       "noOfEsts": "1"
-    },
-    {
-      "lastYearRptDt": "7/30/2025",
-      "lastYearEPS": "$0.82",
-      "time": "time-after-hours",
-      "symbol": "MTG",
-      "name": "MGIC Investment Corporation",
-      "marketCap": "$5,949,221,239",
-      "fiscalQuarterEnding": "Jun/2026",
-      "epsForecast": "$0.74",
-      "noOfEsts": "3"
     },
     {
       "lastYearRptDt": "7/30/2025",
@@ -1470,32 +1459,10 @@
       "time": "time-not-supplied",
       "symbol": "BLCO",
       "name": "Bausch + Lomb Corporation",
-      "marketCap": "$5,901,193,002",
+      "marketCap": "$6,118,699,209",
       "fiscalQuarterEnding": "Jun/2026",
       "epsForecast": "$0.16",
       "noOfEsts": "5"
-    },
-    {
-      "lastYearRptDt": "7/30/2025",
-      "lastYearEPS": "$1.37",
-      "time": "time-not-supplied",
-      "symbol": "MTRN",
-      "name": "Materion Corporation",
-      "marketCap": "$5,898,261,072",
-      "fiscalQuarterEnding": "Jun/2026",
-      "epsForecast": "$1.56",
-      "noOfEsts": "2"
-    },
-    {
-      "lastYearRptDt": "7/30/2025",
-      "lastYearEPS": "$0.39",
-      "time": "time-not-supplied",
-      "symbol": "REYN",
-      "name": "Reynolds Consumer Products Inc.",
-      "marketCap": "$5,718,118,938",
-      "fiscalQuarterEnding": "Jun/2026",
-      "epsForecast": "$0.41",
-      "noOfEsts": "1"
     },
     {
       "lastYearRptDt": "8/06/2025",
@@ -1503,10 +1470,32 @@
       "time": "time-pre-market",
       "symbol": "PSN",
       "name": "Parsons Corporation",
-      "marketCap": "$5,686,978,176",
+      "marketCap": "$6,021,820,947",
       "fiscalQuarterEnding": "Jun/2026",
       "epsForecast": "$0.66",
       "noOfEsts": "4"
+    },
+    {
+      "lastYearRptDt": "7/30/2025",
+      "lastYearEPS": "$0.82",
+      "time": "time-after-hours",
+      "symbol": "MTG",
+      "name": "MGIC Investment Corporation",
+      "marketCap": "$5,970,370,266",
+      "fiscalQuarterEnding": "Jun/2026",
+      "epsForecast": "$0.74",
+      "noOfEsts": "3"
+    },
+    {
+      "lastYearRptDt": "7/30/2025",
+      "lastYearEPS": "$0.39",
+      "time": "time-not-supplied",
+      "symbol": "REYN",
+      "name": "Reynolds Consumer Products Inc.",
+      "marketCap": "$5,728,657,307",
+      "fiscalQuarterEnding": "Jun/2026",
+      "epsForecast": "$0.41",
+      "noOfEsts": "1"
     },
     {
       "lastYearRptDt": "7/30/2025",
@@ -1514,10 +1503,21 @@
       "time": "time-not-supplied",
       "symbol": "BKH",
       "name": "Black Hills Corporation",
-      "marketCap": "$5,606,074,610",
+      "marketCap": "$5,617,493,827",
       "fiscalQuarterEnding": "Jun/2026",
       "epsForecast": "",
       "noOfEsts": "N/A"
+    },
+    {
+      "lastYearRptDt": "7/30/2025",
+      "lastYearEPS": "$1.37",
+      "time": "time-not-supplied",
+      "symbol": "MTRN",
+      "name": "Materion Corporation",
+      "marketCap": "$5,521,338,164",
+      "fiscalQuarterEnding": "Jun/2026",
+      "epsForecast": "$1.56",
+      "noOfEsts": "2"
     },
     {
       "lastYearRptDt": "7/23/2025",
@@ -1525,21 +1525,10 @@
       "time": "time-after-hours",
       "symbol": "MTH",
       "name": "Meritage Homes Corporation",
-      "marketCap": "$5,439,583,411",
+      "marketCap": "$5,460,261,165",
       "fiscalQuarterEnding": "Jun/2026",
       "epsForecast": "$1.29",
       "noOfEsts": "10"
-    },
-    {
-      "lastYearRptDt": "N/A",
-      "lastYearEPS": "$14.33",
-      "time": "time-not-supplied",
-      "symbol": "GHC",
-      "name": "Graham Holdings Company",
-      "marketCap": "$5,038,900,642",
-      "fiscalQuarterEnding": "Jun/2026",
-      "epsForecast": "",
-      "noOfEsts": "1"
     },
     {
       "lastYearRptDt": "7/30/2025",
@@ -1547,9 +1536,20 @@
       "time": "time-not-supplied",
       "symbol": "VAL",
       "name": "Valaris Limited",
-      "marketCap": "$5,017,983,979",
+      "marketCap": "$5,218,121,623",
       "fiscalQuarterEnding": "Jun/2026",
       "epsForecast": "$0.46",
+      "noOfEsts": "1"
+    },
+    {
+      "lastYearRptDt": "N/A",
+      "lastYearEPS": "$14.33",
+      "time": "time-not-supplied",
+      "symbol": "GHC",
+      "name": "Graham Holdings Company",
+      "marketCap": "$5,096,443,285",
+      "fiscalQuarterEnding": "Jun/2026",
+      "epsForecast": "",
       "noOfEsts": "1"
     },
     {
@@ -1558,7 +1558,7 @@
       "time": "time-not-supplied",
       "symbol": "RDN",
       "name": "Radian Group Inc.",
-      "marketCap": "$5,015,824,393",
+      "marketCap": "$5,045,078,936",
       "fiscalQuarterEnding": "Jun/2026",
       "epsForecast": "$1.38",
       "noOfEsts": "2"
@@ -1569,10 +1569,21 @@
       "time": "time-not-supplied",
       "symbol": "TFSL",
       "name": "TFS Financial Corporation",
-      "marketCap": "$5,008,518,038",
+      "marketCap": "$5,002,909,395",
       "fiscalQuarterEnding": "Jun/2026",
       "epsForecast": "$0.08",
       "noOfEsts": "1"
+    },
+    {
+      "lastYearRptDt": "7/30/2025",
+      "lastYearEPS": "$2.86",
+      "time": "time-not-supplied",
+      "symbol": "SITE",
+      "name": "SiteOne Landscape Supply, Inc.",
+      "marketCap": "$4,979,801,857",
+      "fiscalQuarterEnding": "Jun/2026",
+      "epsForecast": "$3.38",
+      "noOfEsts": "2"
     },
     {
       "lastYearRptDt": "7/30/2025",
@@ -1580,7 +1591,7 @@
       "time": "time-not-supplied",
       "symbol": "ALHC",
       "name": "Alignment Healthcare, Inc.",
-      "marketCap": "$4,963,679,090",
+      "marketCap": "$4,920,264,987",
       "fiscalQuarterEnding": "Jun/2026",
       "epsForecast": "$0.13",
       "noOfEsts": "4"
@@ -1591,21 +1602,10 @@
       "time": "time-not-supplied",
       "symbol": "SLGN",
       "name": "Silgan Holdings Inc.",
-      "marketCap": "$4,872,893,641",
+      "marketCap": "$4,902,483,974",
       "fiscalQuarterEnding": "Jun/2026",
       "epsForecast": "$0.95",
       "noOfEsts": "5"
-    },
-    {
-      "lastYearRptDt": "7/30/2025",
-      "lastYearEPS": "$2.86",
-      "time": "time-not-supplied",
-      "symbol": "SITE",
-      "name": "SiteOne Landscape Supply, Inc.",
-      "marketCap": "$4,865,043,544",
-      "fiscalQuarterEnding": "Jun/2026",
-      "epsForecast": "$3.38",
-      "noOfEsts": "2"
     },
     {
       "lastYearRptDt": "7/30/2025",
@@ -1613,7 +1613,7 @@
       "time": "time-not-supplied",
       "symbol": "HESM",
       "name": "Hess Midstream LP",
-      "marketCap": "$4,850,379,793",
+      "marketCap": "$4,897,869,619",
       "fiscalQuarterEnding": "Jun/2026",
       "epsForecast": "$0.73",
       "noOfEsts": "3"
@@ -1624,7 +1624,7 @@
       "time": "time-pre-market",
       "symbol": "WING",
       "name": "Wingstop Inc.",
-      "marketCap": "$4,764,879,798",
+      "marketCap": "$4,847,122,108",
       "fiscalQuarterEnding": "Jun/2026",
       "epsForecast": "$1.02",
       "noOfEsts": "6"
@@ -1635,7 +1635,7 @@
       "time": "time-not-supplied",
       "symbol": "MGY",
       "name": "Magnolia Oil & Gas Corporation",
-      "marketCap": "$4,619,998,767",
+      "marketCap": "$4,660,687,307",
       "fiscalQuarterEnding": "Jun/2026",
       "epsForecast": "$0.82",
       "noOfEsts": "6"
@@ -1657,10 +1657,21 @@
       "time": "time-not-supplied",
       "symbol": "EPR",
       "name": "EPR Properties",
-      "marketCap": "$4,417,552,635",
+      "marketCap": "$4,521,603,061",
       "fiscalQuarterEnding": "Jun/2026",
       "epsForecast": "$1.31",
       "noOfEsts": "3"
+    },
+    {
+      "lastYearRptDt": "7/30/2025",
+      "lastYearEPS": "$0.31",
+      "time": "time-not-supplied",
+      "symbol": "WAY",
+      "name": "Waystar Holding Corp.",
+      "marketCap": "$4,499,930,423",
+      "fiscalQuarterEnding": "Jun/2026",
+      "epsForecast": "$0.35",
+      "noOfEsts": "5"
     },
     {
       "lastYearRptDt": "7/30/2025",
@@ -1668,7 +1679,7 @@
       "time": "time-after-hours",
       "symbol": "NWE",
       "name": "NorthWestern Energy Group, Inc. ",
-      "marketCap": "$4,394,747,743",
+      "marketCap": "$4,386,751,701",
       "fiscalQuarterEnding": "Jun/2026",
       "epsForecast": "$0.53",
       "noOfEsts": "1"
@@ -1679,7 +1690,7 @@
       "time": "time-not-supplied",
       "symbol": "PI",
       "name": "Impinj, Inc.",
-      "marketCap": "$4,374,243,558",
+      "marketCap": "$4,312,411,412",
       "fiscalQuarterEnding": "Jun/2026",
       "epsForecast": "$0.34",
       "noOfEsts": "1"
@@ -1701,21 +1712,10 @@
       "time": "time-not-supplied",
       "symbol": "TENB",
       "name": "Tenable Holdings, Inc.",
-      "marketCap": "$4,179,307,777",
+      "marketCap": "$4,256,498,158",
       "fiscalQuarterEnding": "Jun/2026",
       "epsForecast": "$0.10",
       "noOfEsts": "7"
-    },
-    {
-      "lastYearRptDt": "7/30/2025",
-      "lastYearEPS": "$0.31",
-      "time": "time-not-supplied",
-      "symbol": "WAY",
-      "name": "Waystar Holding Corp.",
-      "marketCap": "$4,110,550,254",
-      "fiscalQuarterEnding": "Jun/2026",
-      "epsForecast": "$0.35",
-      "noOfEsts": "5"
     },
     {
       "lastYearRptDt": "7/30/2025",
@@ -1723,10 +1723,32 @@
       "time": "time-not-supplied",
       "symbol": "IRT",
       "name": "Independence Realty Trust, Inc.",
-      "marketCap": "$4,045,400,485",
+      "marketCap": "$4,085,477,296",
       "fiscalQuarterEnding": "Jun/2026",
       "epsForecast": "$0.28",
       "noOfEsts": "1"
+    },
+    {
+      "lastYearRptDt": "7/30/2025",
+      "lastYearEPS": "$0.38",
+      "time": "time-after-hours",
+      "symbol": "BNL",
+      "name": "Broadstone Net Lease, Inc.",
+      "marketCap": "$4,075,039,294",
+      "fiscalQuarterEnding": "Jun/2026",
+      "epsForecast": "$0.37",
+      "noOfEsts": "3"
+    },
+    {
+      "lastYearRptDt": "7/30/2025",
+      "lastYearEPS": "$0.66",
+      "time": "time-not-supplied",
+      "symbol": "WHD",
+      "name": "Cactus, Inc.",
+      "marketCap": "$4,042,517,533",
+      "fiscalQuarterEnding": "Jun/2026",
+      "epsForecast": "$0.70",
+      "noOfEsts": "3"
     },
     {
       "lastYearRptDt": "7/23/2025",
@@ -1734,7 +1756,7 @@
       "time": "time-pre-market",
       "symbol": "MHO",
       "name": "M/I Homes, Inc.",
-      "marketCap": "$4,006,387,465",
+      "marketCap": "$4,013,552,696",
       "fiscalQuarterEnding": "Jun/2026",
       "epsForecast": "$3.17",
       "noOfEsts": "1"
@@ -1745,20 +1767,31 @@
       "time": "time-pre-market",
       "symbol": "SMG",
       "name": "Scotts Miracle-Gro Company (The)",
-      "marketCap": "$3,989,535,420",
+      "marketCap": "$4,005,826,362",
       "fiscalQuarterEnding": "Jun/2026",
       "epsForecast": "$2.53",
       "noOfEsts": "5"
     },
     {
       "lastYearRptDt": "7/30/2025",
-      "lastYearEPS": "$0.38",
-      "time": "time-after-hours",
-      "symbol": "BNL",
-      "name": "Broadstone Net Lease, Inc.",
-      "marketCap": "$3,984,909,013",
+      "lastYearEPS": "$0.52",
+      "time": "time-not-supplied",
+      "symbol": "CHEF",
+      "name": "The Chefs' Warehouse, Inc.",
+      "marketCap": "$3,899,156,885",
       "fiscalQuarterEnding": "Jun/2026",
-      "epsForecast": "$0.37",
+      "epsForecast": "$0.63",
+      "noOfEsts": "2"
+    },
+    {
+      "lastYearRptDt": "7/30/2025",
+      "lastYearEPS": "$1.41",
+      "time": "time-not-supplied",
+      "symbol": "STNG",
+      "name": "Scorpio Tankers Inc.",
+      "marketCap": "$3,779,201,298",
+      "fiscalQuarterEnding": "Jun/2026",
+      "epsForecast": "$5.65",
       "noOfEsts": "3"
     },
     {
@@ -1767,32 +1800,10 @@
       "time": "time-not-supplied",
       "symbol": "COCO",
       "name": "The Vita Coco Company, Inc.",
-      "marketCap": "$3,939,630,114",
+      "marketCap": "$3,778,572,461",
       "fiscalQuarterEnding": "Jun/2026",
       "epsForecast": "$0.56",
       "noOfEsts": "4"
-    },
-    {
-      "lastYearRptDt": "7/30/2025",
-      "lastYearEPS": "$0.66",
-      "time": "time-not-supplied",
-      "symbol": "WHD",
-      "name": "Cactus, Inc.",
-      "marketCap": "$3,910,225,706",
-      "fiscalQuarterEnding": "Jun/2026",
-      "epsForecast": "$0.70",
-      "noOfEsts": "3"
-    },
-    {
-      "lastYearRptDt": "7/30/2025",
-      "lastYearEPS": "$0.52",
-      "time": "time-not-supplied",
-      "symbol": "CHEF",
-      "name": "The Chefs' Warehouse, Inc.",
-      "marketCap": "$3,888,554,701",
-      "fiscalQuarterEnding": "Jun/2026",
-      "epsForecast": "$0.63",
-      "noOfEsts": "2"
     },
     {
       "lastYearRptDt": "7/30/2025",
@@ -1811,43 +1822,10 @@
       "time": "time-not-supplied",
       "symbol": "GNW",
       "name": "Genworth Financial Inc",
-      "marketCap": "$3,657,738,395",
+      "marketCap": "$3,680,718,950",
       "fiscalQuarterEnding": "Jun/2026",
       "epsForecast": "",
       "noOfEsts": "N/A"
-    },
-    {
-      "lastYearRptDt": "7/30/2025",
-      "lastYearEPS": "$1.41",
-      "time": "time-not-supplied",
-      "symbol": "STNG",
-      "name": "Scorpio Tankers Inc.",
-      "marketCap": "$3,599,066,789",
-      "fiscalQuarterEnding": "Jun/2026",
-      "epsForecast": "$5.65",
-      "noOfEsts": "3"
-    },
-    {
-      "lastYearRptDt": "N/A",
-      "lastYearEPS": "$0.40",
-      "time": "time-not-supplied",
-      "symbol": "BHE",
-      "name": "Benchmark Electronics, Inc.",
-      "marketCap": "$3,408,677,190",
-      "fiscalQuarterEnding": "Jun/2026",
-      "epsForecast": "",
-      "noOfEsts": "1"
-    },
-    {
-      "lastYearRptDt": "N/A",
-      "lastYearEPS": "$1.85",
-      "time": "time-not-supplied",
-      "symbol": "GRBK",
-      "name": "Green Brick Partners, Inc.",
-      "marketCap": "$3,393,886,621",
-      "fiscalQuarterEnding": "Jun/2026",
-      "epsForecast": "",
-      "noOfEsts": "1"
     },
     {
       "lastYearRptDt": "7/30/2025",
@@ -1855,21 +1833,21 @@
       "time": "time-not-supplied",
       "symbol": "OPCH",
       "name": "Option Care Health, Inc.",
-      "marketCap": "$3,303,858,684",
+      "marketCap": "$3,438,902,338",
       "fiscalQuarterEnding": "Jun/2026",
       "epsForecast": "$0.37",
       "noOfEsts": "5"
     },
     {
-      "lastYearRptDt": "7/30/2025",
-      "lastYearEPS": "$0.80",
-      "time": "time-pre-market",
-      "symbol": "LXP",
-      "name": "LXP Industrial Trust",
-      "marketCap": "$3,216,449,055",
+      "lastYearRptDt": "N/A",
+      "lastYearEPS": "$1.85",
+      "time": "time-not-supplied",
+      "symbol": "GRBK",
+      "name": "Green Brick Partners, Inc.",
+      "marketCap": "$3,419,342,928",
       "fiscalQuarterEnding": "Jun/2026",
-      "epsForecast": "$0.83",
-      "noOfEsts": "3"
+      "epsForecast": "",
+      "noOfEsts": "1"
     },
     {
       "lastYearRptDt": "7/30/2025",
@@ -1877,21 +1855,21 @@
       "time": "time-not-supplied",
       "symbol": "QTWO",
       "name": "Q2 Holdings, Inc.",
-      "marketCap": "$3,142,541,235",
+      "marketCap": "$3,294,660,262",
       "fiscalQuarterEnding": "Jun/2026",
       "epsForecast": "$0.42",
       "noOfEsts": "3"
     },
     {
-      "lastYearRptDt": "7/24/2025",
-      "lastYearEPS": "$0.55",
-      "time": "time-after-hours",
-      "symbol": "PFS",
-      "name": "Provident Financial Services, Inc",
-      "marketCap": "$3,123,619,077",
+      "lastYearRptDt": "7/30/2025",
+      "lastYearEPS": "$0.80",
+      "time": "time-pre-market",
+      "symbol": "LXP",
+      "name": "LXP Industrial Trust",
+      "marketCap": "$3,275,401,567",
       "fiscalQuarterEnding": "Jun/2026",
-      "epsForecast": "$0.56",
-      "noOfEsts": "4"
+      "epsForecast": "$0.83",
+      "noOfEsts": "3"
     },
     {
       "lastYearRptDt": "7/30/2025",
@@ -1899,10 +1877,21 @@
       "time": "time-pre-market",
       "symbol": "ARCB",
       "name": "ArcBest Corporation",
-      "marketCap": "$3,112,921,720",
+      "marketCap": "$3,109,582,153",
       "fiscalQuarterEnding": "Jun/2026",
       "epsForecast": "$2.02",
       "noOfEsts": "4"
+    },
+    {
+      "lastYearRptDt": "N/A",
+      "lastYearEPS": "$0.40",
+      "time": "time-not-supplied",
+      "symbol": "BHE",
+      "name": "Benchmark Electronics, Inc.",
+      "marketCap": "$3,090,089,111",
+      "fiscalQuarterEnding": "Jun/2026",
+      "epsForecast": "",
+      "noOfEsts": "1"
     },
     {
       "lastYearRptDt": "N/A",
@@ -1910,10 +1899,32 @@
       "time": "time-not-supplied",
       "symbol": "USLM",
       "name": "United States Lime & Minerals, Inc.",
-      "marketCap": "$3,041,158,398",
+      "marketCap": "$3,083,321,020",
       "fiscalQuarterEnding": "Jun/2026",
       "epsForecast": "",
       "noOfEsts": "1"
+    },
+    {
+      "lastYearRptDt": "7/24/2025",
+      "lastYearEPS": "$0.55",
+      "time": "time-after-hours",
+      "symbol": "PFS",
+      "name": "Provident Financial Services, Inc",
+      "marketCap": "$3,067,584,192",
+      "fiscalQuarterEnding": "Jun/2026",
+      "epsForecast": "$0.56",
+      "noOfEsts": "4"
+    },
+    {
+      "lastYearRptDt": "7/30/2025",
+      "lastYearEPS": "$2.31",
+      "time": "time-not-supplied",
+      "symbol": "EEFT",
+      "name": "Euronet Worldwide, Inc.",
+      "marketCap": "$2,938,635,755",
+      "fiscalQuarterEnding": "Jun/2026",
+      "epsForecast": "$2.69",
+      "noOfEsts": "3"
     },
     {
       "lastYearRptDt": "7/30/2025",
@@ -1921,10 +1932,32 @@
       "time": "time-not-supplied",
       "symbol": "SHOO",
       "name": "Steven Madden, Ltd.",
-      "marketCap": "$3,038,892,429",
+      "marketCap": "$2,917,570,605",
       "fiscalQuarterEnding": "Jun/2026",
       "epsForecast": "$0.31",
       "noOfEsts": "3"
+    },
+    {
+      "lastYearRptDt": "7/30/2025",
+      "lastYearEPS": "$0.23",
+      "time": "time-not-supplied",
+      "symbol": "OSW",
+      "name": "OneSpaWorld Holdings Limited",
+      "marketCap": "$2,911,445,783",
+      "fiscalQuarterEnding": "Jun/2026",
+      "epsForecast": "$0.27",
+      "noOfEsts": "2"
+    },
+    {
+      "lastYearRptDt": "7/30/2025",
+      "lastYearEPS": "$0.15",
+      "time": "time-not-supplied",
+      "symbol": "BXMT",
+      "name": "Capital Trust, Inc.",
+      "marketCap": "$2,909,790,720",
+      "fiscalQuarterEnding": "Jun/2026",
+      "epsForecast": "$0.38",
+      "noOfEsts": "2"
     },
     {
       "lastYearRptDt": "7/24/2025",
@@ -1932,7 +1965,7 @@
       "time": "time-after-hours",
       "symbol": "MGRC",
       "name": "McGrath RentCorp",
-      "marketCap": "$2,944,710,605",
+      "marketCap": "$2,896,078,301",
       "fiscalQuarterEnding": "Jun/2026",
       "epsForecast": "$1.46",
       "noOfEsts": "3"
@@ -1943,7 +1976,7 @@
       "time": "time-not-supplied",
       "symbol": "HWKN",
       "name": "Hawkins, Inc.",
-      "marketCap": "$2,886,546,648",
+      "marketCap": "$2,895,327,336",
       "fiscalQuarterEnding": "Jun/2026",
       "epsForecast": "$1.40",
       "noOfEsts": "4"
@@ -1954,42 +1987,9 @@
       "time": "time-not-supplied",
       "symbol": "CVI",
       "name": "CVR Energy Inc.",
-      "marketCap": "$2,880,201,661",
+      "marketCap": "$2,863,111,460",
       "fiscalQuarterEnding": "Jun/2026",
       "epsForecast": "$0.67",
-      "noOfEsts": "2"
-    },
-    {
-      "lastYearRptDt": "7/30/2025",
-      "lastYearEPS": "$2.31",
-      "time": "time-not-supplied",
-      "symbol": "EEFT",
-      "name": "Euronet Worldwide, Inc.",
-      "marketCap": "$2,864,008,571",
-      "fiscalQuarterEnding": "Jun/2026",
-      "epsForecast": "$2.69",
-      "noOfEsts": "3"
-    },
-    {
-      "lastYearRptDt": "7/30/2025",
-      "lastYearEPS": "$0.15",
-      "time": "time-not-supplied",
-      "symbol": "BXMT",
-      "name": "Capital Trust, Inc.",
-      "marketCap": "$2,860,872,499",
-      "fiscalQuarterEnding": "Jun/2026",
-      "epsForecast": "$0.38",
-      "noOfEsts": "2"
-    },
-    {
-      "lastYearRptDt": "7/30/2025",
-      "lastYearEPS": "$0.23",
-      "time": "time-not-supplied",
-      "symbol": "OSW",
-      "name": "OneSpaWorld Holdings Limited",
-      "marketCap": "$2,855,612,618",
-      "fiscalQuarterEnding": "Jun/2026",
-      "epsForecast": "$0.27",
       "noOfEsts": "2"
     },
     {
@@ -1998,7 +1998,7 @@
       "time": "time-pre-market",
       "symbol": "NMRK",
       "name": "Newmark Group, Inc.",
-      "marketCap": "$2,746,353,782",
+      "marketCap": "$2,790,735,711",
       "fiscalQuarterEnding": "Jun/2026",
       "epsForecast": "$0.38",
       "noOfEsts": "2"
@@ -2009,7 +2009,7 @@
       "time": "time-not-supplied",
       "symbol": "HOG",
       "name": "Harley-Davidson, Inc.",
-      "marketCap": "$2,542,229,493",
+      "marketCap": "$2,627,496,818",
       "fiscalQuarterEnding": "Jun/2026",
       "epsForecast": "$0.58",
       "noOfEsts": "5"
@@ -2020,32 +2020,10 @@
       "time": "time-after-hours",
       "symbol": "NGVT",
       "name": "Ingevity Corporation",
-      "marketCap": "$2,523,729,260",
+      "marketCap": "$2,520,599,808",
       "fiscalQuarterEnding": "Jun/2026",
       "epsForecast": "$1.31",
       "noOfEsts": "1"
-    },
-    {
-      "lastYearRptDt": "7/30/2025",
-      "lastYearEPS": "($0.13)",
-      "time": "time-not-supplied",
-      "symbol": "CTOS",
-      "name": "Custom Truck One Source, Inc.",
-      "marketCap": "$2,510,858,344",
-      "fiscalQuarterEnding": "Jun/2026",
-      "epsForecast": "$0.02",
-      "noOfEsts": "3"
-    },
-    {
-      "lastYearRptDt": "7/30/2025",
-      "lastYearEPS": "$0.27",
-      "time": "time-not-supplied",
-      "symbol": "PBI",
-      "name": "Pitney Bowes Inc.",
-      "marketCap": "$2,378,351,423",
-      "fiscalQuarterEnding": "Jun/2026",
-      "epsForecast": "$0.34",
-      "noOfEsts": "2"
     },
     {
       "lastYearRptDt": "7/30/2025",
@@ -2053,7 +2031,7 @@
       "time": "time-not-supplied",
       "symbol": "TMDX",
       "name": "TransMedics Group, Inc.",
-      "marketCap": "$2,344,957,811",
+      "marketCap": "$2,379,864,331",
       "fiscalQuarterEnding": "Jun/2026",
       "epsForecast": "$0.51",
       "noOfEsts": "5"
@@ -2064,10 +2042,32 @@
       "time": "time-not-supplied",
       "symbol": "TNK",
       "name": "Teekay Tankers Ltd.",
-      "marketCap": "$2,228,639,385",
+      "marketCap": "$2,341,924,801",
       "fiscalQuarterEnding": "Jun/2026",
       "epsForecast": "$5.23",
       "noOfEsts": "1"
+    },
+    {
+      "lastYearRptDt": "7/30/2025",
+      "lastYearEPS": "($0.13)",
+      "time": "time-not-supplied",
+      "symbol": "CTOS",
+      "name": "Custom Truck One Source, Inc.",
+      "marketCap": "$2,283,425,523",
+      "fiscalQuarterEnding": "Jun/2026",
+      "epsForecast": "$0.02",
+      "noOfEsts": "3"
+    },
+    {
+      "lastYearRptDt": "7/30/2025",
+      "lastYearEPS": "$0.27",
+      "time": "time-not-supplied",
+      "symbol": "PBI",
+      "name": "Pitney Bowes Inc.",
+      "marketCap": "$2,278,124,769",
+      "fiscalQuarterEnding": "Jun/2026",
+      "epsForecast": "$0.34",
+      "noOfEsts": "2"
     },
     {
       "lastYearRptDt": "7/30/2025",
@@ -2075,7 +2075,7 @@
       "time": "time-not-supplied",
       "symbol": "CLBK",
       "name": "Columbia Financial, Inc.",
-      "marketCap": "$2,213,089,666",
+      "marketCap": "$2,202,684,919",
       "fiscalQuarterEnding": "Jun/2026",
       "epsForecast": "$0.16",
       "noOfEsts": "2"
@@ -2086,7 +2086,7 @@
       "time": "time-not-supplied",
       "symbol": "EZPW",
       "name": "EZCORP, Inc.",
-      "marketCap": "$2,186,373,298",
+      "marketCap": "$2,190,065,457",
       "fiscalQuarterEnding": "Jun/2026",
       "epsForecast": "$0.39",
       "noOfEsts": "1"
@@ -2097,21 +2097,10 @@
       "time": "time-not-supplied",
       "symbol": "SPSC",
       "name": "SPS Commerce, Inc.",
-      "marketCap": "$2,139,983,400",
+      "marketCap": "$2,168,435,744",
       "fiscalQuarterEnding": "Jun/2026",
       "epsForecast": "$0.72",
       "noOfEsts": "5"
-    },
-    {
-      "lastYearRptDt": "7/30/2025",
-      "lastYearEPS": "$0.57",
-      "time": "time-not-supplied",
-      "symbol": "AIN",
-      "name": "Albany International Corporation",
-      "marketCap": "$2,113,528,000",
-      "fiscalQuarterEnding": "Jun/2026",
-      "epsForecast": "$0.75",
-      "noOfEsts": "1"
     },
     {
       "lastYearRptDt": "N/A",
@@ -2119,7 +2108,7 @@
       "time": "time-not-supplied",
       "symbol": "HYMC",
       "name": "Hycroft Mining Holding Corporation",
-      "marketCap": "$2,107,689,065",
+      "marketCap": "$2,157,937,396",
       "fiscalQuarterEnding": "Jun/2026",
       "epsForecast": "",
       "noOfEsts": "1"
@@ -2130,21 +2119,21 @@
       "time": "time-after-hours",
       "symbol": "PEB",
       "name": "Pebblebrook Hotel Trust",
-      "marketCap": "$2,107,534,079",
+      "marketCap": "$2,129,074,233",
       "fiscalQuarterEnding": "Jun/2026",
       "epsForecast": "$0.58",
       "noOfEsts": "3"
     },
     {
-      "lastYearRptDt": "7/29/2025",
-      "lastYearEPS": "N/A",
-      "time": "time-pre-market",
-      "symbol": "BAND",
-      "name": "Bandwidth Inc.",
-      "marketCap": "$2,042,384,014",
+      "lastYearRptDt": "7/30/2025",
+      "lastYearEPS": "$0.57",
+      "time": "time-not-supplied",
+      "symbol": "AIN",
+      "name": "Albany International Corporation",
+      "marketCap": "$2,084,276,000",
       "fiscalQuarterEnding": "Jun/2026",
-      "epsForecast": "$0.05",
-      "noOfEsts": "3"
+      "epsForecast": "$0.75",
+      "noOfEsts": "1"
     },
     {
       "lastYearRptDt": "7/30/2025",
@@ -2152,10 +2141,87 @@
       "time": "time-not-supplied",
       "symbol": "ALKT",
       "name": "Alkami Technology, Inc.",
-      "marketCap": "$2,003,398,937",
+      "marketCap": "$2,035,504,689",
       "fiscalQuarterEnding": "Jun/2026",
       "epsForecast": "$0.01",
       "noOfEsts": "2"
+    },
+    {
+      "lastYearRptDt": "7/29/2025",
+      "lastYearEPS": "N/A",
+      "time": "time-pre-market",
+      "symbol": "BAND",
+      "name": "Bandwidth Inc.",
+      "marketCap": "$1,972,266,111",
+      "fiscalQuarterEnding": "Jun/2026",
+      "epsForecast": "$0.05",
+      "noOfEsts": "3"
+    },
+    {
+      "lastYearRptDt": "7/30/2025",
+      "lastYearEPS": "$0.95",
+      "time": "time-not-supplied",
+      "symbol": "CBZ",
+      "name": "CBIZ, Inc.",
+      "marketCap": "$1,884,143,468",
+      "fiscalQuarterEnding": "Jun/2026",
+      "epsForecast": "$0.74",
+      "noOfEsts": "4"
+    },
+    {
+      "lastYearRptDt": "7/30/2025",
+      "lastYearEPS": "($1.05)",
+      "time": "time-not-supplied",
+      "symbol": "EOSE",
+      "name": "Eos Energy Enterprises, Inc.",
+      "marketCap": "$1,847,223,767",
+      "fiscalQuarterEnding": "Jun/2026",
+      "epsForecast": "($0.25)",
+      "noOfEsts": "4"
+    },
+    {
+      "lastYearRptDt": "7/30/2025",
+      "lastYearEPS": "$0.90",
+      "time": "time-not-supplied",
+      "symbol": "BHC",
+      "name": "Bausch Health Companies Inc.",
+      "marketCap": "$1,831,681,671",
+      "fiscalQuarterEnding": "Jun/2026",
+      "epsForecast": "$0.96",
+      "noOfEsts": "2"
+    },
+    {
+      "lastYearRptDt": "7/30/2025",
+      "lastYearEPS": "$1.52",
+      "time": "time-pre-market",
+      "symbol": "STRA",
+      "name": "Strategic Education, Inc.",
+      "marketCap": "$1,831,193,371",
+      "fiscalQuarterEnding": "Jun/2026",
+      "epsForecast": "$1.79",
+      "noOfEsts": "2"
+    },
+    {
+      "lastYearRptDt": "7/30/2025",
+      "lastYearEPS": "$0.97",
+      "time": "time-not-supplied",
+      "symbol": "CNXN",
+      "name": "PC Connection, Inc.",
+      "marketCap": "$1,827,122,584",
+      "fiscalQuarterEnding": "Jun/2026",
+      "epsForecast": "$1.04",
+      "noOfEsts": "2"
+    },
+    {
+      "lastYearRptDt": "7/30/2025",
+      "lastYearEPS": "$0.78",
+      "time": "time-not-supplied",
+      "symbol": "EVTC",
+      "name": "Evertec, Inc.",
+      "marketCap": "$1,825,810,793",
+      "fiscalQuarterEnding": "Jun/2026",
+      "epsForecast": "$0.81",
+      "noOfEsts": "4"
     },
     {
       "lastYearRptDt": "N/A",
@@ -2163,7 +2229,7 @@
       "time": "time-not-supplied",
       "symbol": "PLPC",
       "name": "Preformed Line Products Company",
-      "marketCap": "$1,923,530,482",
+      "marketCap": "$1,802,552,185",
       "fiscalQuarterEnding": "Jun/2026",
       "epsForecast": "",
       "noOfEsts": "1"
@@ -2174,75 +2240,9 @@
       "time": "time-not-supplied",
       "symbol": "AMSC",
       "name": "American Superconductor Corporation",
-      "marketCap": "$1,903,962,244",
+      "marketCap": "$1,769,940,854",
       "fiscalQuarterEnding": "Jun/2026",
       "epsForecast": "$0.11",
-      "noOfEsts": "2"
-    },
-    {
-      "lastYearRptDt": "7/30/2025",
-      "lastYearEPS": "($1.05)",
-      "time": "time-not-supplied",
-      "symbol": "EOSE",
-      "name": "Eos Energy Enterprises, Inc.",
-      "marketCap": "$1,884,302,850",
-      "fiscalQuarterEnding": "Jun/2026",
-      "epsForecast": "($0.25)",
-      "noOfEsts": "4"
-    },
-    {
-      "lastYearRptDt": "7/30/2025",
-      "lastYearEPS": "$0.97",
-      "time": "time-not-supplied",
-      "symbol": "CNXN",
-      "name": "PC Connection, Inc.",
-      "marketCap": "$1,862,439,050",
-      "fiscalQuarterEnding": "Jun/2026",
-      "epsForecast": "$1.04",
-      "noOfEsts": "2"
-    },
-    {
-      "lastYearRptDt": "7/30/2025",
-      "lastYearEPS": "$0.95",
-      "time": "time-not-supplied",
-      "symbol": "CBZ",
-      "name": "CBIZ, Inc.",
-      "marketCap": "$1,838,542,046",
-      "fiscalQuarterEnding": "Jun/2026",
-      "epsForecast": "$0.74",
-      "noOfEsts": "4"
-    },
-    {
-      "lastYearRptDt": "7/30/2025",
-      "lastYearEPS": "$1.52",
-      "time": "time-pre-market",
-      "symbol": "STRA",
-      "name": "Strategic Education, Inc.",
-      "marketCap": "$1,790,716,264",
-      "fiscalQuarterEnding": "Jun/2026",
-      "epsForecast": "$1.79",
-      "noOfEsts": "2"
-    },
-    {
-      "lastYearRptDt": "7/30/2025",
-      "lastYearEPS": "$0.78",
-      "time": "time-not-supplied",
-      "symbol": "EVTC",
-      "name": "Evertec, Inc.",
-      "marketCap": "$1,790,070,993",
-      "fiscalQuarterEnding": "Jun/2026",
-      "epsForecast": "$0.81",
-      "noOfEsts": "4"
-    },
-    {
-      "lastYearRptDt": "7/30/2025",
-      "lastYearEPS": "$0.90",
-      "time": "time-not-supplied",
-      "symbol": "BHC",
-      "name": "Bausch Health Companies Inc.",
-      "marketCap": "$1,783,086,035",
-      "fiscalQuarterEnding": "Jun/2026",
-      "epsForecast": "$0.96",
       "noOfEsts": "2"
     },
     {
@@ -2251,9 +2251,20 @@
       "time": "time-after-hours",
       "symbol": "NSP",
       "name": "Insperity, Inc.",
-      "marketCap": "$1,682,115,851",
+      "marketCap": "$1,731,735,787",
       "fiscalQuarterEnding": "Jun/2026",
       "epsForecast": "($0.03)",
+      "noOfEsts": "3"
+    },
+    {
+      "lastYearRptDt": "7/30/2025",
+      "lastYearEPS": "$0.15",
+      "time": "time-not-supplied",
+      "symbol": "CLVT",
+      "name": "Clarivate Plc",
+      "marketCap": "$1,655,570,761",
+      "fiscalQuarterEnding": "Jun/2026",
+      "epsForecast": "$0.14",
       "noOfEsts": "3"
     },
     {
@@ -2262,32 +2273,10 @@
       "time": "time-not-supplied",
       "symbol": "PUMP",
       "name": "ProPetro Holding Corp.",
-      "marketCap": "$1,638,162,799",
+      "marketCap": "$1,482,439,240",
       "fiscalQuarterEnding": "Jun/2026",
       "epsForecast": "($0.03)",
       "noOfEsts": "5"
-    },
-    {
-      "lastYearRptDt": "7/30/2025",
-      "lastYearEPS": "$0.15",
-      "time": "time-not-supplied",
-      "symbol": "CLVT",
-      "name": "Clarivate Plc",
-      "marketCap": "$1,419,060,652",
-      "fiscalQuarterEnding": "Jun/2026",
-      "epsForecast": "$0.14",
-      "noOfEsts": "3"
-    },
-    {
-      "lastYearRptDt": "7/30/2025",
-      "lastYearEPS": "$0.64",
-      "time": "time-not-supplied",
-      "symbol": "BLKB",
-      "name": "Blackbaud, Inc.",
-      "marketCap": "$1,382,556,391",
-      "fiscalQuarterEnding": "Jun/2026",
-      "epsForecast": "$0.79",
-      "noOfEsts": "2"
     },
     {
       "lastYearRptDt": "7/30/2025",
@@ -2295,10 +2284,21 @@
       "time": "time-after-hours",
       "symbol": "FMC",
       "name": "FMC Corporation",
-      "marketCap": "$1,369,246,046",
+      "marketCap": "$1,419,264,166",
       "fiscalQuarterEnding": "Jun/2026",
       "epsForecast": "$0.21",
       "noOfEsts": "4"
+    },
+    {
+      "lastYearRptDt": "7/30/2025",
+      "lastYearEPS": "$0.64",
+      "time": "time-not-supplied",
+      "symbol": "BLKB",
+      "name": "Blackbaud, Inc.",
+      "marketCap": "$1,382,097,070",
+      "fiscalQuarterEnding": "Jun/2026",
+      "epsForecast": "$0.79",
+      "noOfEsts": "2"
     },
     {
       "lastYearRptDt": "N/A",
@@ -2306,18 +2306,7 @@
       "time": "time-not-supplied",
       "symbol": "DMC",
       "name": "Del Monte Corporation",
-      "marketCap": "$1,314,541,707",
-      "fiscalQuarterEnding": "Jun/2026",
-      "epsForecast": "",
-      "noOfEsts": "1"
-    },
-    {
-      "lastYearRptDt": "N/A",
-      "lastYearEPS": "$0.15",
-      "time": "time-not-supplied",
-      "symbol": "RDWR",
-      "name": "Radware Ltd.",
-      "marketCap": "$1,301,362,397",
+      "marketCap": "$1,342,611,906",
       "fiscalQuarterEnding": "Jun/2026",
       "epsForecast": "",
       "noOfEsts": "1"
@@ -2328,9 +2317,20 @@
       "time": "time-not-supplied",
       "symbol": "SCL",
       "name": "Stepan Company",
-      "marketCap": "$1,267,630,557",
+      "marketCap": "$1,288,981,080",
       "fiscalQuarterEnding": "Jun/2026",
       "epsForecast": "$0.64",
+      "noOfEsts": "1"
+    },
+    {
+      "lastYearRptDt": "N/A",
+      "lastYearEPS": "$0.15",
+      "time": "time-not-supplied",
+      "symbol": "RDWR",
+      "name": "Radware Ltd.",
+      "marketCap": "$1,256,093,939",
+      "fiscalQuarterEnding": "Jun/2026",
+      "epsForecast": "",
       "noOfEsts": "1"
     },
     {
@@ -2339,7 +2339,7 @@
       "time": "time-after-hours",
       "symbol": "RYZ",
       "name": "Ryerson Holding Corporation",
-      "marketCap": "$1,233,394,969",
+      "marketCap": "$1,246,886,038",
       "fiscalQuarterEnding": "Jun/2026",
       "epsForecast": "$0.40",
       "noOfEsts": "1"
@@ -2350,21 +2350,10 @@
       "time": "time-not-supplied",
       "symbol": "UAN",
       "name": "CVR Partners, LP",
-      "marketCap": "$1,180,099,971",
+      "marketCap": "$1,204,938,618",
       "fiscalQuarterEnding": "Jun/2026",
       "epsForecast": "",
       "noOfEsts": "1"
-    },
-    {
-      "lastYearRptDt": "7/23/2025",
-      "lastYearEPS": "$0.45",
-      "time": "time-after-hours",
-      "symbol": "CVLG",
-      "name": "Covenant Logistics Group, Inc.",
-      "marketCap": "$1,128,415,437",
-      "fiscalQuarterEnding": "Jun/2026",
-      "epsForecast": "",
-      "noOfEsts": "N/A"
     },
     {
       "lastYearRptDt": "7/30/2025",
@@ -2372,21 +2361,21 @@
       "time": "time-not-supplied",
       "symbol": "WVE",
       "name": "WAVE Life Sciences Ltd.",
-      "marketCap": "$1,123,628,860",
+      "marketCap": "$1,204,437,785",
       "fiscalQuarterEnding": "Jun/2026",
       "epsForecast": "($0.31)",
       "noOfEsts": "5"
     },
     {
-      "lastYearRptDt": "7/30/2025",
-      "lastYearEPS": "($0.28)",
-      "time": "time-not-supplied",
-      "symbol": "TROX",
-      "name": "Tronox Holdings plc",
-      "marketCap": "$1,027,335,165",
+      "lastYearRptDt": "7/23/2025",
+      "lastYearEPS": "$0.45",
+      "time": "time-after-hours",
+      "symbol": "CVLG",
+      "name": "Covenant Logistics Group, Inc.",
+      "marketCap": "$1,106,013,257",
       "fiscalQuarterEnding": "Jun/2026",
-      "epsForecast": "($0.36)",
-      "noOfEsts": "3"
+      "epsForecast": "",
+      "noOfEsts": "N/A"
     },
     {
       "lastYearRptDt": "7/30/2025",
@@ -2394,21 +2383,21 @@
       "time": "time-after-hours",
       "symbol": "CNMD",
       "name": "CONMED Corporation",
-      "marketCap": "$986,377,195",
+      "marketCap": "$1,018,594,033",
       "fiscalQuarterEnding": "Jun/2026",
       "epsForecast": "$1.10",
       "noOfEsts": "3"
     },
     {
       "lastYearRptDt": "7/30/2025",
-      "lastYearEPS": "$0.26",
+      "lastYearEPS": "($0.28)",
       "time": "time-not-supplied",
-      "symbol": "WSR",
-      "name": "Whitestone REIT",
-      "marketCap": "$974,943,744",
+      "symbol": "TROX",
+      "name": "Tronox Holdings plc",
+      "marketCap": "$990,644,624",
       "fiscalQuarterEnding": "Jun/2026",
-      "epsForecast": "$0.28",
-      "noOfEsts": "1"
+      "epsForecast": "($0.36)",
+      "noOfEsts": "3"
     },
     {
       "lastYearRptDt": "7/23/2025",
@@ -2416,10 +2405,32 @@
       "time": "time-after-hours",
       "symbol": "ESRT",
       "name": "Empire State Realty Trust, Inc.",
-      "marketCap": "$950,090,441",
+      "marketCap": "$981,127,878",
       "fiscalQuarterEnding": "Jun/2026",
       "epsForecast": "",
       "noOfEsts": "N/A"
+    },
+    {
+      "lastYearRptDt": "7/30/2025",
+      "lastYearEPS": "$0.26",
+      "time": "time-not-supplied",
+      "symbol": "WSR",
+      "name": "Whitestone REIT",
+      "marketCap": "$975,457,683",
+      "fiscalQuarterEnding": "Jun/2026",
+      "epsForecast": "$0.28",
+      "noOfEsts": "1"
+    },
+    {
+      "lastYearRptDt": "7/30/2025",
+      "lastYearEPS": "$0.57",
+      "time": "time-not-supplied",
+      "symbol": "CRTO",
+      "name": "Criteo S.A.",
+      "marketCap": "$955,872,492",
+      "fiscalQuarterEnding": "Jun/2026",
+      "epsForecast": "$0.44",
+      "noOfEsts": "2"
     },
     {
       "lastYearRptDt": "7/30/2025",
@@ -2427,7 +2438,7 @@
       "time": "time-after-hours",
       "symbol": "EIG",
       "name": "Employers Holdings Inc",
-      "marketCap": "$934,402,414",
+      "marketCap": "$947,354,888",
       "fiscalQuarterEnding": "Jun/2026",
       "epsForecast": "$0.61",
       "noOfEsts": "1"
@@ -2438,21 +2449,10 @@
       "time": "time-not-supplied",
       "symbol": "INMD",
       "name": "INMODE LTD.",
-      "marketCap": "$930,106,450",
+      "marketCap": "$937,709,500",
       "fiscalQuarterEnding": "Jun/2026",
       "epsForecast": "",
       "noOfEsts": "1"
-    },
-    {
-      "lastYearRptDt": "7/30/2025",
-      "lastYearEPS": "$0.57",
-      "time": "time-not-supplied",
-      "symbol": "CRTO",
-      "name": "Criteo S.A.",
-      "marketCap": "$925,312,627",
-      "fiscalQuarterEnding": "Jun/2026",
-      "epsForecast": "$0.44",
-      "noOfEsts": "2"
     },
     {
       "lastYearRptDt": "N/A",
@@ -2460,7 +2460,7 @@
       "time": "time-not-supplied",
       "symbol": "TK",
       "name": "Teekay Corporation Ltd.",
-      "marketCap": "$865,181,964",
+      "marketCap": "$894,686,665",
       "fiscalQuarterEnding": "Jun/2026",
       "epsForecast": "",
       "noOfEsts": "1"
@@ -2471,7 +2471,7 @@
       "time": "time-not-supplied",
       "symbol": "ADAM",
       "name": "Adamas Trust, Inc.",
-      "marketCap": "$833,911,082",
+      "marketCap": "$821,330,527",
       "fiscalQuarterEnding": "Jun/2026",
       "epsForecast": "$0.25",
       "noOfEsts": "1"
@@ -2482,7 +2482,7 @@
       "time": "time-after-hours",
       "symbol": "ALRS",
       "name": "Alerus Financial Corporation",
-      "marketCap": "$793,060,068",
+      "marketCap": "$781,752,177",
       "fiscalQuarterEnding": "Jun/2026",
       "epsForecast": "$0.75",
       "noOfEsts": "2"
@@ -2493,7 +2493,7 @@
       "time": "time-after-hours",
       "symbol": "BBNX",
       "name": "Beta Bionics, Inc.",
-      "marketCap": "$744,180,307",
+      "marketCap": "$746,854,008",
       "fiscalQuarterEnding": "Jun/2026",
       "epsForecast": "($0.62)",
       "noOfEsts": "4"
@@ -2504,7 +2504,7 @@
       "time": "time-not-supplied",
       "symbol": "TIPT",
       "name": "Tiptree Inc.",
-      "marketCap": "$692,792,183",
+      "marketCap": "$683,775,365",
       "fiscalQuarterEnding": "Jun/2026",
       "epsForecast": "",
       "noOfEsts": "1"
@@ -2515,21 +2515,10 @@
       "time": "time-not-supplied",
       "symbol": "SXC",
       "name": "SunCoke Energy, Inc.",
-      "marketCap": "$660,157,880",
+      "marketCap": "$663,552,008",
       "fiscalQuarterEnding": "Jun/2026",
       "epsForecast": "$0.08",
       "noOfEsts": "1"
-    },
-    {
-      "lastYearRptDt": "7/30/2025",
-      "lastYearEPS": "($0.17)",
-      "time": "time-not-supplied",
-      "symbol": "NTGR",
-      "name": "NETGEAR, Inc.",
-      "marketCap": "$622,685,750",
-      "fiscalQuarterEnding": "Jun/2026",
-      "epsForecast": "($0.16)",
-      "noOfEsts": "4"
     },
     {
       "lastYearRptDt": "7/30/2025",
@@ -2537,7 +2526,7 @@
       "time": "time-not-supplied",
       "symbol": "RRBI",
       "name": "Red River Bancshares, Inc.",
-      "marketCap": "$622,385,466",
+      "marketCap": "$624,163,334",
       "fiscalQuarterEnding": "Jun/2026",
       "epsForecast": "$1.77",
       "noOfEsts": "2"
@@ -2548,42 +2537,9 @@
       "time": "time-not-supplied",
       "symbol": "FBRT",
       "name": "Franklin BSP Realty Trust, Inc.",
-      "marketCap": "$618,012,962",
+      "marketCap": "$621,091,483",
       "fiscalQuarterEnding": "Jun/2026",
       "epsForecast": "$0.20",
-      "noOfEsts": "2"
-    },
-    {
-      "lastYearRptDt": "7/29/2025",
-      "lastYearEPS": "$0.21",
-      "time": "time-after-hours",
-      "symbol": "ILPT",
-      "name": "Industrial Logistics Properties Trust",
-      "marketCap": "$599,989,239",
-      "fiscalQuarterEnding": "Jun/2026",
-      "epsForecast": "$0.32",
-      "noOfEsts": "1"
-    },
-    {
-      "lastYearRptDt": "7/30/2025",
-      "lastYearEPS": "$0.41",
-      "time": "time-not-supplied",
-      "symbol": "RGR",
-      "name": "Sturm, Ruger & Company, Inc.",
-      "marketCap": "$599,822,798",
-      "fiscalQuarterEnding": "Jun/2026",
-      "epsForecast": "",
-      "noOfEsts": "N/A"
-    },
-    {
-      "lastYearRptDt": "7/30/2025",
-      "lastYearEPS": "$0.18",
-      "time": "time-not-supplied",
-      "symbol": "RWT",
-      "name": "Redwood Trust, Inc.",
-      "marketCap": "$584,757,492",
-      "fiscalQuarterEnding": "Jun/2026",
-      "epsForecast": "$0.32",
       "noOfEsts": "2"
     },
     {
@@ -2592,9 +2548,31 @@
       "time": "time-not-supplied",
       "symbol": "ASC",
       "name": "Ardmore Shipping Corporation",
-      "marketCap": "$581,437,250",
+      "marketCap": "$606,326,844",
       "fiscalQuarterEnding": "Jun/2026",
       "epsForecast": "",
+      "noOfEsts": "1"
+    },
+    {
+      "lastYearRptDt": "7/30/2025",
+      "lastYearEPS": "$0.41",
+      "time": "time-not-supplied",
+      "symbol": "RGR",
+      "name": "Sturm, Ruger & Company, Inc.",
+      "marketCap": "$600,301,125",
+      "fiscalQuarterEnding": "Jun/2026",
+      "epsForecast": "",
+      "noOfEsts": "N/A"
+    },
+    {
+      "lastYearRptDt": "7/29/2025",
+      "lastYearEPS": "$0.21",
+      "time": "time-after-hours",
+      "symbol": "ILPT",
+      "name": "Industrial Logistics Properties Trust",
+      "marketCap": "$596,655,965",
+      "fiscalQuarterEnding": "Jun/2026",
+      "epsForecast": "$0.32",
       "noOfEsts": "1"
     },
     {
@@ -2603,10 +2581,32 @@
       "time": "time-not-supplied",
       "symbol": "MDXG",
       "name": "MiMedx Group, Inc",
-      "marketCap": "$580,888,351",
+      "marketCap": "$588,335,637",
       "fiscalQuarterEnding": "Jun/2026",
       "epsForecast": "",
       "noOfEsts": "N/A"
+    },
+    {
+      "lastYearRptDt": "7/30/2025",
+      "lastYearEPS": "($0.17)",
+      "time": "time-not-supplied",
+      "symbol": "NTGR",
+      "name": "NETGEAR, Inc.",
+      "marketCap": "$577,057,915",
+      "fiscalQuarterEnding": "Jun/2026",
+      "epsForecast": "($0.16)",
+      "noOfEsts": "4"
+    },
+    {
+      "lastYearRptDt": "7/30/2025",
+      "lastYearEPS": "$0.18",
+      "time": "time-not-supplied",
+      "symbol": "RWT",
+      "name": "Redwood Trust, Inc.",
+      "marketCap": "$560,966,502",
+      "fiscalQuarterEnding": "Jun/2026",
+      "epsForecast": "$0.32",
+      "noOfEsts": "2"
     },
     {
       "lastYearRptDt": "7/30/2025",
@@ -2614,7 +2614,7 @@
       "time": "time-not-supplied",
       "symbol": "ETD",
       "name": "Ethan Allen Interiors Inc.",
-      "marketCap": "$556,511,434",
+      "marketCap": "$551,931,093",
       "fiscalQuarterEnding": "Jun/2026",
       "epsForecast": "$0.35",
       "noOfEsts": "1"
@@ -2625,7 +2625,7 @@
       "time": "time-not-supplied",
       "symbol": "OBE",
       "name": "Obsidian Energy Ltd.",
-      "marketCap": "$552,184,492",
+      "marketCap": "$544,304,108",
       "fiscalQuarterEnding": "Jun/2026",
       "epsForecast": "",
       "noOfEsts": "1"
@@ -2636,7 +2636,7 @@
       "time": "time-pre-market",
       "symbol": "WNC",
       "name": "Wabash National Corporation",
-      "marketCap": "$538,930,063",
+      "marketCap": "$539,336,802",
       "fiscalQuarterEnding": "Jun/2026",
       "epsForecast": "($0.44)",
       "noOfEsts": "1"
@@ -2647,7 +2647,7 @@
       "time": "time-not-supplied",
       "symbol": "MNRO",
       "name": "Monro, Inc. ",
-      "marketCap": "$514,933,312",
+      "marketCap": "$516,734,828",
       "fiscalQuarterEnding": "Jun/2026",
       "epsForecast": "$0.04",
       "noOfEsts": "1"
@@ -2658,7 +2658,7 @@
       "time": "time-not-supplied",
       "symbol": "OBT",
       "name": "Orange County Bancorp, Inc.",
-      "marketCap": "$504,673,507",
+      "marketCap": "$504,807,586",
       "fiscalQuarterEnding": "Jun/2026",
       "epsForecast": "",
       "noOfEsts": "1"
@@ -2669,21 +2669,10 @@
       "time": "time-not-supplied",
       "symbol": "CLMB",
       "name": "Climb Global Solutions, Inc.",
-      "marketCap": "$456,933,204",
+      "marketCap": "$443,729,192",
       "fiscalQuarterEnding": "Jun/2026",
       "epsForecast": "$0.29",
       "noOfEsts": "1"
-    },
-    {
-      "lastYearRptDt": "7/30/2025",
-      "lastYearEPS": "$0.50",
-      "time": "time-not-supplied",
-      "symbol": "CMCO",
-      "name": "Columbus McKinnon Corporation",
-      "marketCap": "$418,358,109",
-      "fiscalQuarterEnding": "Jun/2026",
-      "epsForecast": "$0.28",
-      "noOfEsts": "2"
     },
     {
       "lastYearRptDt": "7/30/2025",
@@ -2691,7 +2680,7 @@
       "time": "time-not-supplied",
       "symbol": "HVT",
       "name": "Haverty Furniture Companies, Inc.",
-      "marketCap": "$409,465,780",
+      "marketCap": "$401,900,964",
       "fiscalQuarterEnding": "Jun/2026",
       "epsForecast": "$0.23",
       "noOfEsts": "2"
@@ -2702,10 +2691,21 @@
       "time": "time-not-supplied",
       "symbol": "HVT.A",
       "name": "Haverty Furniture Companies, Inc.",
-      "marketCap": "$409,465,780",
+      "marketCap": "$401,900,964",
       "fiscalQuarterEnding": "Jun/2026",
       "epsForecast": "",
       "noOfEsts": "1"
+    },
+    {
+      "lastYearRptDt": "7/30/2025",
+      "lastYearEPS": "$0.50",
+      "time": "time-not-supplied",
+      "symbol": "CMCO",
+      "name": "Columbus McKinnon Corporation",
+      "marketCap": "$390,679,006",
+      "fiscalQuarterEnding": "Jun/2026",
+      "epsForecast": "$0.28",
+      "noOfEsts": "2"
     },
     {
       "lastYearRptDt": "7/30/2025",
@@ -2713,7 +2713,7 @@
       "time": "time-not-supplied",
       "symbol": "FVRR",
       "name": "Fiverr International Ltd.",
-      "marketCap": "$392,222,442",
+      "marketCap": "$388,627,370",
       "fiscalQuarterEnding": "Jun/2026",
       "epsForecast": "$0.29",
       "noOfEsts": "1"
@@ -2724,7 +2724,7 @@
       "time": "time-after-hours",
       "symbol": "RM",
       "name": "Regional Management Corp.",
-      "marketCap": "$389,964,941",
+      "marketCap": "$383,611,321",
       "fiscalQuarterEnding": "Jun/2026",
       "epsForecast": "",
       "noOfEsts": "1"
@@ -2735,7 +2735,7 @@
       "time": "time-not-supplied",
       "symbol": "CZFS",
       "name": "Citizens Financial Services, Inc.",
-      "marketCap": "$356,189,906",
+      "marketCap": "$346,964,429",
       "fiscalQuarterEnding": "Jun/2026",
       "epsForecast": "$1.98",
       "noOfEsts": "1"
@@ -2746,7 +2746,7 @@
       "time": "time-not-supplied",
       "symbol": "AMRN",
       "name": "Amarin Corporation plc",
-      "marketCap": "$345,361,225",
+      "marketCap": "$343,264,314",
       "fiscalQuarterEnding": "Jun/2026",
       "epsForecast": "($0.21)",
       "noOfEsts": "1"
@@ -2757,7 +2757,7 @@
       "time": "time-not-supplied",
       "symbol": "OFLX",
       "name": "Omega Flex, Inc.",
-      "marketCap": "$318,576,802",
+      "marketCap": "$316,456,995",
       "fiscalQuarterEnding": "Jun/2026",
       "epsForecast": "",
       "noOfEsts": "1"
@@ -2768,29 +2768,7 @@
       "time": "time-not-supplied",
       "symbol": "HBB",
       "name": "Hamilton Beach Brands Holding Company",
-      "marketCap": "$310,468,132",
-      "fiscalQuarterEnding": "Jun/2026",
-      "epsForecast": "",
-      "noOfEsts": "1"
-    },
-    {
-      "lastYearRptDt": "7/30/2025",
-      "lastYearEPS": "$0.57",
-      "time": "time-not-supplied",
-      "symbol": "FXNC",
-      "name": "First National Corporation",
-      "marketCap": "$279,727,519",
-      "fiscalQuarterEnding": "Jun/2026",
-      "epsForecast": "$0.59",
-      "noOfEsts": "2"
-    },
-    {
-      "lastYearRptDt": "N/A",
-      "lastYearEPS": "$0.88",
-      "time": "time-not-supplied",
-      "symbol": "HWBK",
-      "name": "Hawthorn Bancshares, Inc.",
-      "marketCap": "$275,794,434",
+      "marketCap": "$307,894,443",
       "fiscalQuarterEnding": "Jun/2026",
       "epsForecast": "",
       "noOfEsts": "1"
@@ -2801,10 +2779,32 @@
       "time": "time-not-supplied",
       "symbol": "UIS",
       "name": "Unisys Corporation",
-      "marketCap": "$269,020,077",
+      "marketCap": "$273,394,388",
       "fiscalQuarterEnding": "Jun/2026",
       "epsForecast": "($0.02)",
       "noOfEsts": "2"
+    },
+    {
+      "lastYearRptDt": "7/30/2025",
+      "lastYearEPS": "$0.57",
+      "time": "time-not-supplied",
+      "symbol": "FXNC",
+      "name": "First National Corporation",
+      "marketCap": "$271,590,649",
+      "fiscalQuarterEnding": "Jun/2026",
+      "epsForecast": "$0.59",
+      "noOfEsts": "2"
+    },
+    {
+      "lastYearRptDt": "N/A",
+      "lastYearEPS": "$0.88",
+      "time": "time-not-supplied",
+      "symbol": "HWBK",
+      "name": "Hawthorn Bancshares, Inc.",
+      "marketCap": "$266,484,044",
+      "fiscalQuarterEnding": "Jun/2026",
+      "epsForecast": "",
+      "noOfEsts": "1"
     },
     {
       "lastYearRptDt": "N/A",
@@ -2812,10 +2812,21 @@
       "time": "time-not-supplied",
       "symbol": "DSX",
       "name": "Diana Shipping inc.",
-      "marketCap": "$255,727,297",
+      "marketCap": "$259,433,490",
       "fiscalQuarterEnding": "Jun/2026",
       "epsForecast": "",
       "noOfEsts": "1"
+    },
+    {
+      "lastYearRptDt": "7/30/2025",
+      "lastYearEPS": "$0.23",
+      "time": "time-not-supplied",
+      "symbol": "HDSN",
+      "name": "Hudson Technologies, Inc.",
+      "marketCap": "$251,992,040",
+      "fiscalQuarterEnding": "Jun/2026",
+      "epsForecast": "$0.17",
+      "noOfEsts": "2"
     },
     {
       "lastYearRptDt": "N/A",
@@ -2823,7 +2834,7 @@
       "time": "time-pre-market",
       "symbol": "SILC",
       "name": "Silicom Ltd",
-      "marketCap": "$253,929,454",
+      "marketCap": "$244,790,752",
       "fiscalQuarterEnding": "Jun/2026",
       "epsForecast": "",
       "noOfEsts": "1"
@@ -2834,21 +2845,21 @@
       "time": "time-not-supplied",
       "symbol": "MFIN",
       "name": "Medallion Financial Corp.",
-      "marketCap": "$238,984,946",
+      "marketCap": "$233,900,160",
       "fiscalQuarterEnding": "Jun/2026",
       "epsForecast": "$0.27",
       "noOfEsts": "2"
     },
     {
       "lastYearRptDt": "7/30/2025",
-      "lastYearEPS": "$0.23",
+      "lastYearEPS": "$0.22",
       "time": "time-not-supplied",
-      "symbol": "HDSN",
-      "name": "Hudson Technologies, Inc.",
-      "marketCap": "$238,530,028",
+      "symbol": "SPOK",
+      "name": "Spok Holdings, Inc.",
+      "marketCap": "$219,104,735",
       "fiscalQuarterEnding": "Jun/2026",
-      "epsForecast": "$0.17",
-      "noOfEsts": "2"
+      "epsForecast": "$0.15",
+      "noOfEsts": "1"
     },
     {
       "lastYearRptDt": "N/A",
@@ -2856,7 +2867,7 @@
       "time": "time-not-supplied",
       "symbol": "LVWR",
       "name": "LiveWire Group, Inc.",
-      "marketCap": "$227,285,631",
+      "marketCap": "$214,999,922",
       "fiscalQuarterEnding": "Jun/2026",
       "epsForecast": "",
       "noOfEsts": "1"
@@ -2867,20 +2878,9 @@
       "time": "time-not-supplied",
       "symbol": "GTE",
       "name": "Gran Tierra Energy Inc.",
-      "marketCap": "$221,869,693",
+      "marketCap": "$208,780,250",
       "fiscalQuarterEnding": "Jun/2026",
       "epsForecast": "$0.66",
-      "noOfEsts": "1"
-    },
-    {
-      "lastYearRptDt": "7/30/2025",
-      "lastYearEPS": "$0.22",
-      "time": "time-not-supplied",
-      "symbol": "SPOK",
-      "name": "Spok Holdings, Inc.",
-      "marketCap": "$220,775,696",
-      "fiscalQuarterEnding": "Jun/2026",
-      "epsForecast": "$0.15",
       "noOfEsts": "1"
     },
     {
@@ -2889,9 +2889,20 @@
       "time": "time-not-supplied",
       "symbol": "SMHI",
       "name": "SEACOR Marine Holdings Inc.",
-      "marketCap": "$208,108,910",
+      "marketCap": "$205,402,682",
       "fiscalQuarterEnding": "Jun/2026",
       "epsForecast": "($1.24)",
+      "noOfEsts": "1"
+    },
+    {
+      "lastYearRptDt": "7/30/2025",
+      "lastYearEPS": "($0.33)",
+      "time": "time-not-supplied",
+      "symbol": "ANIK",
+      "name": "Anika Therapeutics Inc.",
+      "marketCap": "$204,374,385",
+      "fiscalQuarterEnding": "Jun/2026",
+      "epsForecast": "($0.19)",
       "noOfEsts": "1"
     },
     {
@@ -2900,21 +2911,10 @@
       "time": "time-after-hours",
       "symbol": "FINW",
       "name": "FinWise Bancorp",
-      "marketCap": "$202,849,377",
+      "marketCap": "$199,559,928",
       "fiscalQuarterEnding": "Jun/2026",
       "epsForecast": "$0.25",
       "noOfEsts": "2"
-    },
-    {
-      "lastYearRptDt": "7/30/2025",
-      "lastYearEPS": "($0.33)",
-      "time": "time-not-supplied",
-      "symbol": "ANIK",
-      "name": "Anika Therapeutics Inc.",
-      "marketCap": "$201,979,372",
-      "fiscalQuarterEnding": "Jun/2026",
-      "epsForecast": "($0.19)",
-      "noOfEsts": "1"
     },
     {
       "lastYearRptDt": "7/30/2025",
@@ -2922,7 +2922,7 @@
       "time": "time-not-supplied",
       "symbol": "THRY",
       "name": "Thryv Holdings, Inc.",
-      "marketCap": "$183,164,616",
+      "marketCap": "$190,260,582",
       "fiscalQuarterEnding": "Jun/2026",
       "epsForecast": "$0.01",
       "noOfEsts": "1"
@@ -2933,7 +2933,7 @@
       "time": "time-not-supplied",
       "symbol": "LENZ",
       "name": "LENZ Therapeutics, Inc.",
-      "marketCap": "$181,541,941",
+      "marketCap": "$184,677,381",
       "fiscalQuarterEnding": "Jun/2026",
       "epsForecast": "($1.21)",
       "noOfEsts": "4"
@@ -2944,20 +2944,9 @@
       "time": "time-not-supplied",
       "symbol": "ACR",
       "name": "ACRES Commercial Realty Corp.",
-      "marketCap": "$129,001,617",
+      "marketCap": "$128,359,818",
       "fiscalQuarterEnding": "Jun/2026",
       "epsForecast": "$0.03",
-      "noOfEsts": "1"
-    },
-    {
-      "lastYearRptDt": "7/30/2025",
-      "lastYearEPS": "$0.01",
-      "time": "time-not-supplied",
-      "symbol": "CPSH",
-      "name": "CPS Technologies Corp.",
-      "marketCap": "$100,460,571",
-      "fiscalQuarterEnding": "Jun/2026",
-      "epsForecast": "$0",
       "noOfEsts": "1"
     },
     {
@@ -2973,11 +2962,22 @@
     },
     {
       "lastYearRptDt": "7/30/2025",
+      "lastYearEPS": "$0.01",
+      "time": "time-not-supplied",
+      "symbol": "CPSH",
+      "name": "CPS Technologies Corp.",
+      "marketCap": "$91,245,662",
+      "fiscalQuarterEnding": "Jun/2026",
+      "epsForecast": "$0",
+      "noOfEsts": "1"
+    },
+    {
+      "lastYearRptDt": "7/30/2025",
       "lastYearEPS": "$0.05",
       "time": "time-not-supplied",
       "symbol": "FATN",
       "name": "FATPIPE, INC.",
-      "marketCap": "$86,110,234",
+      "marketCap": "$83,866,319",
       "fiscalQuarterEnding": "Jun/2026",
       "epsForecast": "$0.07",
       "noOfEsts": "2"
@@ -2988,7 +2988,7 @@
       "time": "time-not-supplied",
       "symbol": "PBHC",
       "name": "Pathfinder Bancorp, Inc.",
-      "marketCap": "$79,140,937",
+      "marketCap": "$78,750,840",
       "fiscalQuarterEnding": "Jun/2026",
       "epsForecast": "",
       "noOfEsts": "1"
@@ -2999,7 +2999,7 @@
       "time": "time-not-supplied",
       "symbol": "LUNG",
       "name": "Pulmonx Corporation",
-      "marketCap": "$62,088,688",
+      "marketCap": "$58,709,712",
       "fiscalQuarterEnding": "Jun/2026",
       "epsForecast": "($0.28)",
       "noOfEsts": "2"
@@ -3010,7 +3010,7 @@
       "time": "time-not-supplied",
       "symbol": "AWRE",
       "name": "Aware, Inc.",
-      "marketCap": "$29,655,125",
+      "marketCap": "$29,222,204",
       "fiscalQuarterEnding": "Jun/2026",
       "epsForecast": "",
       "noOfEsts": "1"
@@ -3021,7 +3021,7 @@
       "time": "time-not-supplied",
       "symbol": "AHT",
       "name": "Ashford Hospitality Trust Inc",
-      "marketCap": "$21,048,596",
+      "marketCap": "$20,530,476",
       "fiscalQuarterEnding": "Jun/2026",
       "epsForecast": "$0.69",
       "noOfEsts": "1"
@@ -3032,7 +3032,7 @@
       "time": "time-not-supplied",
       "symbol": "PSHG",
       "name": "Performance Shipping Inc.",
-      "marketCap": "$21,009,164",
+      "marketCap": "$20,387,591",
       "fiscalQuarterEnding": "Jun/2026",
       "epsForecast": "",
       "noOfEsts": "1"
@@ -3043,7 +3043,7 @@
       "time": "time-not-supplied",
       "symbol": "NHTC",
       "name": "Natural Health Trends Corp.",
-      "marketCap": "$15,697,462",
+      "marketCap": "$15,740,351",
       "fiscalQuarterEnding": "Jun/2026",
       "epsForecast": "",
       "noOfEsts": "1"
