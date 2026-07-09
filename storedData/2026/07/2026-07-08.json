@@ -2,70 +2,103 @@
   "date": "2026-07-08",
   "data": [
     {
-      "lastYearRptDt": "7/10/2025",
-      "lastYearEPS": "$0.22",
-      "time": "time-pre-market",
+      "eps": "$0.28",
+      "surprise": "16.67",
+      "time": "time-not-supplied",
       "symbol": "LEVI",
       "name": "Levi Strauss & Co.",
-      "marketCap": "$9,484,143,550",
+      "marketCap": "$9,372,610,637",
       "fiscalQuarterEnding": "May/2026",
       "epsForecast": "$0.24",
       "noOfEsts": "5"
     },
     {
-      "lastYearRptDt": "N/A",
-      "lastYearEPS": "$1.14",
-      "time": "time-after-hours",
+      "eps": "$1.28",
+      "surprise": "N/A",
+      "time": "time-not-supplied",
       "symbol": "PSMT",
       "name": "PriceSmart, Inc.",
-      "marketCap": "$5,930,463,974",
+      "marketCap": "$5,842,719,678",
       "fiscalQuarterEnding": "May/2026",
       "epsForecast": "",
-      "noOfEsts": "4"
+      "noOfEsts": "N/A"
     },
     {
-      "lastYearRptDt": "7/09/2025",
-      "lastYearEPS": "$1.78",
-      "time": "time-after-hours",
+      "eps": "$1.85",
+      "surprise": "13.5",
+      "time": "time-not-supplied",
       "symbol": "AZZ",
       "name": "AZZ Inc.",
-      "marketCap": "$4,323,476,942",
+      "marketCap": "$4,309,970,766",
       "fiscalQuarterEnding": "May/2026",
       "epsForecast": "$1.63",
       "noOfEsts": "4"
     },
     {
-      "lastYearRptDt": "7/09/2025",
-      "lastYearEPS": "($0.52)",
+      "eps": "($0.52)",
+      "surprise": "N/A",
       "time": "time-not-supplied",
       "symbol": "NRIX",
       "name": "Nurix Therapeutics, Inc.",
-      "marketCap": "$2,523,101,837",
+      "marketCap": "$2,513,795,314",
       "fiscalQuarterEnding": "May/2026",
       "epsForecast": "($0.73)",
       "noOfEsts": "6"
     },
     {
-      "lastYearRptDt": "7/10/2025",
-      "lastYearEPS": "$0.40",
-      "time": "time-pre-market",
+      "eps": "($0.08)",
+      "surprise": "38.46",
+      "time": "time-not-supplied",
       "symbol": "HELE",
       "name": "Helen of Troy Limited",
-      "marketCap": "$653,109,390",
+      "marketCap": "$586,377,636",
       "fiscalQuarterEnding": "May/2026",
       "epsForecast": "($0.13)",
       "noOfEsts": "3"
     },
     {
-      "lastYearRptDt": "N/A",
-      "lastYearEPS": "$0.09",
-      "time": "time-after-hours",
+      "eps": "($0.03)",
+      "surprise": "-200",
+      "time": "time-not-supplied",
+      "symbol": "TMQ",
+      "name": "Trilogy Metals Inc.",
+      "marketCap": "$541,793,306",
+      "fiscalQuarterEnding": "May/2026",
+      "epsForecast": "($0.01)",
+      "noOfEsts": "1"
+    },
+    {
+      "eps": "$0.12",
+      "surprise": "N/A",
+      "time": "time-not-supplied",
       "symbol": "PCYO",
       "name": "Pure Cycle Corporation",
-      "marketCap": "$256,706,620",
+      "marketCap": "$256,465,581",
       "fiscalQuarterEnding": "May/2026",
       "epsForecast": "",
-      "noOfEsts": "4"
+      "noOfEsts": "N/A"
+    },
+    {
+      "eps": "$0.05",
+      "surprise": "N/A",
+      "time": "time-not-supplied",
+      "symbol": "SOTK",
+      "name": "Sono-Tek Corporation",
+      "marketCap": "$83,911,409",
+      "fiscalQuarterEnding": "May/2026",
+      "epsForecast": "$0.05",
+      "noOfEsts": "1"
+    },
+    {
+      "eps": "($0.11)",
+      "surprise": "N/A",
+      "time": "time-not-supplied",
+      "symbol": "GP",
+      "name": "GreenPower Motor Company Inc.",
+      "marketCap": "$7,141,593",
+      "fiscalQuarterEnding": "Mar/2026",
+      "epsForecast": "",
+      "noOfEsts": "N/A"
     }
   ]
 }
