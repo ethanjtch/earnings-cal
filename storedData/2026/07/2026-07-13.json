@@ -2,36 +2,25 @@
   "date": "2026-07-13",
   "data": [
     {
-      "eps": "$0.88",
+      "eps": "$1.14",
       "surprise": "N/A",
-      "time": "time-after-hours",
+      "time": "time-not-supplied",
       "symbol": "FBK",
       "name": "FB Financial Corporation",
-      "marketCap": "$2,920,349,826",
+      "marketCap": "$2,914,682,245",
       "fiscalQuarterEnding": "Jun/2026",
       "epsForecast": "$1.14",
       "noOfEsts": "3"
     },
     {
-      "eps": "N/A",
-      "surprise": "N/A",
-      "time": "time-after-hours",
+      "eps": "($0.40)",
+      "surprise": "-8.11",
+      "time": "time-not-supplied",
       "symbol": "AERO",
       "name": "Grupo Aeromexico, S.A.B. de C.V.",
-      "marketCap": "$2,440,964,033",
+      "marketCap": "$2,232,322,158",
       "fiscalQuarterEnding": "Jun/2026",
       "epsForecast": "($0.37)",
-      "noOfEsts": "2"
-    },
-    {
-      "eps": "$0",
-      "surprise": "N/A",
-      "time": "time-not-supplied",
-      "symbol": "TRX",
-      "name": "TRX Gold Corporation",
-      "marketCap": "$257,580,767",
-      "fiscalQuarterEnding": "May/2026",
-      "epsForecast": "$0.04",
       "noOfEsts": "2"
     },
     {
@@ -40,7 +29,7 @@
       "time": "time-not-supplied",
       "symbol": "GLDG",
       "name": "GoldMining Inc.",
-      "marketCap": "$188,752,393",
+      "marketCap": "$181,300,729",
       "fiscalQuarterEnding": "May/2026",
       "epsForecast": "($0.02)",
       "noOfEsts": "1"
@@ -51,18 +40,18 @@
       "time": "time-not-supplied",
       "symbol": "PAPL",
       "name": "Pineapple Financial Inc.",
-      "marketCap": "$24,718,997",
+      "marketCap": "$25,163,965",
       "fiscalQuarterEnding": "May/2026",
       "epsForecast": "",
-      "noOfEsts": "2"
+      "noOfEsts": "1"
     },
     {
-      "eps": "($0.21)",
-      "surprise": "N/A",
+      "eps": "($0.08)",
+      "surprise": "-33.33",
       "time": "time-not-supplied",
       "symbol": "LEXX",
       "name": "Lexaria Bioscience Corp.",
-      "marketCap": "$16,027,563",
+      "marketCap": "$14,746,052",
       "fiscalQuarterEnding": "May/2026",
       "epsForecast": "($0.06)",
       "noOfEsts": "1"
@@ -73,10 +62,21 @@
       "time": "time-not-supplied",
       "symbol": "JCTC",
       "name": "Jewett-Cameron Trading Company",
-      "marketCap": "$8,870,685",
+      "marketCap": "$9,011,489",
       "fiscalQuarterEnding": "May/2026",
       "epsForecast": "",
-      "noOfEsts": "2"
+      "noOfEsts": "1"
+    },
+    {
+      "eps": "($29.10)",
+      "surprise": "N/A",
+      "time": "time-not-supplied",
+      "symbol": "VMAR",
+      "name": "Vision Marine Technologies Inc.",
+      "marketCap": "$1,025,141",
+      "fiscalQuarterEnding": "May/2026",
+      "epsForecast": "",
+      "noOfEsts": "N/A"
     }
   ]
 }
