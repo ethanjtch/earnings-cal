@@ -2,8 +2,8 @@
   "date": "2026-07-20",
   "data": [
     {
-      "lastYearRptDt": "7/21/2025",
-      "lastYearEPS": "$2.01",
+      "eps": "$2.01",
+      "surprise": "N/A",
       "time": "time-after-hours",
       "symbol": "STLD",
       "name": "Steel Dynamics, Inc.",
@@ -13,9 +13,9 @@
       "noOfEsts": "3"
     },
     {
-      "lastYearRptDt": "7/21/2025",
-      "lastYearEPS": "$1.74",
-      "time": "time-pre-market",
+      "eps": "$1.19",
+      "surprise": "-4.8",
+      "time": "time-not-supplied",
       "symbol": "RYAAY",
       "name": "Ryanair Holdings plc",
       "marketCap": "$30,706,650,992",
@@ -24,8 +24,8 @@
       "noOfEsts": "3"
     },
     {
-      "lastYearRptDt": "7/21/2025",
-      "lastYearEPS": "$1.05",
+      "eps": "$1.05",
+      "surprise": "N/A",
       "time": "time-after-hours",
       "symbol": "WRB",
       "name": "W.R. Berkley Corporation",
@@ -35,8 +35,8 @@
       "noOfEsts": "5"
     },
     {
-      "lastYearRptDt": "7/21/2025",
-      "lastYearEPS": "$2.15",
+      "eps": "$2.15",
+      "surprise": "N/A",
       "time": "time-after-hours",
       "symbol": "CCK",
       "name": "Crown Holdings, Inc.",
@@ -46,8 +46,8 @@
       "noOfEsts": "5"
     },
     {
-      "lastYearRptDt": "7/21/2025",
-      "lastYearEPS": "$0.38",
+      "eps": "$0.38",
+      "surprise": "N/A",
       "time": "time-after-hours",
       "symbol": "AGNC",
       "name": "AGNC Investment Corp.",
@@ -57,8 +57,8 @@
       "noOfEsts": "4"
     },
     {
-      "lastYearRptDt": "7/21/2025",
-      "lastYearEPS": "$2.78",
+      "eps": "$2.78",
+      "surprise": "N/A",
       "time": "time-after-hours",
       "symbol": "WTFC",
       "name": "Wintrust Financial Corporation",
@@ -68,9 +68,9 @@
       "noOfEsts": "5"
     },
     {
-      "lastYearRptDt": "7/21/2025",
-      "lastYearEPS": "$3.81",
-      "time": "time-pre-market",
+      "eps": "$4.07",
+      "surprise": "-0.97",
+      "time": "time-not-supplied",
       "symbol": "DPZ",
       "name": "Domino's Pizza Inc",
       "marketCap": "$10,716,309,277",
@@ -79,8 +79,8 @@
       "noOfEsts": "7"
     },
     {
-      "lastYearRptDt": "7/21/2025",
-      "lastYearEPS": "$1.58",
+      "eps": "$1.58",
+      "surprise": "N/A",
       "time": "time-after-hours",
       "symbol": "ZION",
       "name": "Zions Bancorporation N.A.",
@@ -90,8 +90,8 @@
       "noOfEsts": "9"
     },
     {
-      "lastYearRptDt": "7/21/2025",
-      "lastYearEPS": "$2.19",
+      "eps": "$2.19",
+      "surprise": "N/A",
       "time": "time-after-hours",
       "symbol": "BOKF",
       "name": "BOK Financial Corporation",
@@ -101,8 +101,8 @@
       "noOfEsts": "2"
     },
     {
-      "lastYearRptDt": "7/21/2025",
-      "lastYearEPS": "$1.21",
+      "eps": "$1.21",
+      "surprise": "N/A",
       "time": "time-after-hours",
       "symbol": "SFBS",
       "name": "ServisFirst Bancshares, Inc.",
@@ -112,8 +112,19 @@
       "noOfEsts": "3"
     },
     {
-      "lastYearRptDt": "7/21/2025",
-      "lastYearEPS": "N/A",
+      "eps": "$0.36",
+      "surprise": "N/A",
+      "time": "time-not-supplied",
+      "symbol": "DX",
+      "name": "Dynex Capital, Inc.",
+      "marketCap": "$2,867,961,590",
+      "fiscalQuarterEnding": "Jun/2026",
+      "epsForecast": "",
+      "noOfEsts": "N/A"
+    },
+    {
+      "eps": "$0",
+      "surprise": "N/A",
       "time": "time-after-hours",
       "symbol": "CALX",
       "name": "Calix, Inc",
@@ -123,8 +134,8 @@
       "noOfEsts": "3"
     },
     {
-      "lastYearRptDt": "7/16/2025",
-      "lastYearEPS": "$1.44",
+      "eps": "$1.44",
+      "surprise": "N/A",
       "time": "time-after-hours",
       "symbol": "MCRI",
       "name": "Monarch Casino & Resort, Inc.",
@@ -134,19 +145,19 @@
       "noOfEsts": "1"
     },
     {
-      "lastYearRptDt": "8/11/2025",
-      "lastYearEPS": "N/A",
-      "time": "time-pre-market",
+      "eps": "$0.14",
+      "surprise": "1300",
+      "time": "time-not-supplied",
       "symbol": "AMC",
       "name": "AMC Entertainment Holdings, Inc.",
       "marketCap": "$1,731,652,998",
       "fiscalQuarterEnding": "Jun/2026",
-      "epsForecast": "$0",
+      "epsForecast": "$0.01",
       "noOfEsts": "4"
     },
     {
-      "lastYearRptDt": "7/21/2025",
-      "lastYearEPS": "$0.15",
+      "eps": "$0.15",
+      "surprise": "N/A",
       "time": "time-not-supplied",
       "symbol": "CPAC",
       "name": "Cementos Pacasmayo S.A.A.",
@@ -156,8 +167,8 @@
       "noOfEsts": "N/A"
     },
     {
-      "lastYearRptDt": "7/21/2025",
-      "lastYearEPS": "$0.69",
+      "eps": "$0.69",
+      "surprise": "N/A",
       "time": "time-after-hours",
       "symbol": "SMBK",
       "name": "SmartFinancial, Inc.",
@@ -167,8 +178,8 @@
       "noOfEsts": "3"
     },
     {
-      "lastYearRptDt": "7/21/2025",
-      "lastYearEPS": "$0.68",
+      "eps": "$0.68",
+      "surprise": "N/A",
       "time": "time-after-hours",
       "symbol": "WASH",
       "name": "Washington Trust Bancorp, Inc.",
@@ -178,8 +189,8 @@
       "noOfEsts": "3"
     },
     {
-      "lastYearRptDt": "N/A",
-      "lastYearEPS": "$0.10",
+      "eps": "$0.10",
+      "surprise": "N/A",
       "time": "time-after-hours",
       "symbol": "PKE",
       "name": "Park Aerospace Corp.",
@@ -189,8 +200,8 @@
       "noOfEsts": "4"
     },
     {
-      "lastYearRptDt": "7/21/2025",
-      "lastYearEPS": "$1.45",
+      "eps": "$1.45",
+      "surprise": "N/A",
       "time": "time-after-hours",
       "symbol": "HBCP",
       "name": "Home Bancorp, Inc.",
@@ -200,8 +211,8 @@
       "noOfEsts": "3"
     },
     {
-      "lastYearRptDt": "7/21/2025",
-      "lastYearEPS": "$0.52",
+      "eps": "$0.52",
+      "surprise": "N/A",
       "time": "time-after-hours",
       "symbol": "RBB",
       "name": "RBB Bancorp",
@@ -211,8 +222,8 @@
       "noOfEsts": "5"
     },
     {
-      "lastYearRptDt": "7/21/2025",
-      "lastYearEPS": "$0.47",
+      "eps": "$0.75",
+      "surprise": "7.14",
       "time": "time-not-supplied",
       "symbol": "ISTR",
       "name": "Investar Holding Corporation",
@@ -222,8 +233,8 @@
       "noOfEsts": "2"
     },
     {
-      "lastYearRptDt": "7/21/2025",
-      "lastYearEPS": "$0.92",
+      "eps": "$0.92",
+      "surprise": "N/A",
       "time": "time-not-supplied",
       "symbol": "FUNC",
       "name": "First United Corporation",
@@ -233,8 +244,30 @@
       "noOfEsts": "1"
     },
     {
-      "lastYearRptDt": "7/21/2025",
-      "lastYearEPS": "$0.01",
+      "eps": "$0.96",
+      "surprise": "N/A",
+      "time": "time-not-supplied",
+      "symbol": "PEBK",
+      "name": "Peoples Bancorp of North Carolina, Inc.",
+      "marketCap": "$232,331,785",
+      "fiscalQuarterEnding": "Jun/2026",
+      "epsForecast": "",
+      "noOfEsts": "N/A"
+    },
+    {
+      "eps": "$0.58",
+      "surprise": "9.43",
+      "time": "time-not-supplied",
+      "symbol": "MNSB",
+      "name": "MainStreet Bancshares, Inc.",
+      "marketCap": "$171,530,256",
+      "fiscalQuarterEnding": "Jun/2026",
+      "epsForecast": "$0.53",
+      "noOfEsts": "1"
+    },
+    {
+      "eps": "$0.01",
+      "surprise": "N/A",
       "time": "time-not-supplied",
       "symbol": "HIT",
       "name": "Health In Tech, Inc.",
@@ -244,8 +277,8 @@
       "noOfEsts": "1"
     },
     {
-      "lastYearRptDt": "N/A",
-      "lastYearEPS": "$1",
+      "eps": "$1",
+      "surprise": "N/A",
       "time": "time-not-supplied",
       "symbol": "PAPL",
       "name": "Pineapple Financial Inc.",
@@ -253,6 +286,17 @@
       "fiscalQuarterEnding": "May/2026",
       "epsForecast": "",
       "noOfEsts": "4"
+    },
+    {
+      "eps": "$0.02",
+      "surprise": "N/A",
+      "time": "time-not-supplied",
+      "symbol": "HIHO",
+      "name": "Highway Holdings Limited",
+      "marketCap": "$3,594,465",
+      "fiscalQuarterEnding": "Jun/2026",
+      "epsForecast": "",
+      "noOfEsts": "N/A"
     }
   ]
 }
