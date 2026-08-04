@@ -3,117 +3,298 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Earnings Calendar · 美股财报日历订阅</title>
-  <meta name="description" content="订阅美股财报日历至你的日历应用。每日自动更新，涵盖纳斯达克 100、标普 500、道琼斯 30 及自定义关注列表。" />
+  <title>美股财报日历 · ETHAN FUN</title>
+  <meta name="description" content="每天自动更新美股未来 30 天财报发布日，一键订阅纳斯达克 100、标普 500、道琼斯 30 及自定义美股财报日历到 Apple Calendar、Google Calendar、Outlook。" />
+  <link rel="canonical" href="https://earnings.ethanfun.xyz/" />
+
+  <!-- Open Graph -->
+  <meta property="og:type" content="website" />
+  <meta property="og:title" content="美股财报日历 · ETHAN FUN" />
+  <meta property="og:description" content="每天自动更新美股未来 30 天财报发布日，一键订阅纳斯达克 100、标普 500、道琼斯 30 到你的日历应用。" />
+  <meta property="og:url" content="https://earnings.ethanfun.xyz/" />
+  <meta property="og:site_name" content="ETHAN FUN" />
+
+  <!-- Favicon -->
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>📅</text></svg>" />
+
   <style>
     :root {
-      --bg: #fafaf9;
-      --fg: #1c1917;
-      --muted: #78716c;
-      --line: #e7e5e4;
-      --card: #ffffff;
-      --accent: #1c1917;
-      --accent-fg: #fafaf9;
-      --code-bg: #f5f5f4;
+      --bg: #ffffff;
+      --card: #f6f8fa;
+      --line: #d0d7de;
+      --fg: #24292f;
+      --fg-heading: #1f2328;
+      --muted: #57606a;
+      --accent: #0969da;
+      --accent-fg: #ffffff;
+      --code-bg: #eff2f5;
     }
-    @media (prefers-color-scheme: dark) {
-      :root {
-        --bg: #0c0a09;
-        --fg: #fafaf9;
-        --muted: #a8a29e;
-        --line: #292524;
-        --card: #1c1917;
-        --accent: #fafaf9;
-        --accent-fg: #1c1917;
-        --code-bg: #1c1917;
-      }
-    }
-    * { box-sizing: border-box; }
-    html, body {
-      margin: 0;
-      padding: 0;
+
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
       background: var(--bg);
       color: var(--fg);
-      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Inter,
-        Roboto, system-ui, sans-serif;
-      font-size: 16px;
       line-height: 1.6;
-      -webkit-font-smoothing: antialiased;
+      padding: 32px 16px 64px;
     }
-    main {
-      max-width: 720px;
+
+    .container {
+      max-width: 860px;
       margin: 0 auto;
-      padding: 64px 24px 96px;
     }
-    header { margin-bottom: 56px; }
+
+    header {
+      margin-bottom: 36px;
+    }
+
+    .eyebrow {
+      font-size: 13px;
+      font-weight: 600;
+      letter-spacing: 0.08em;
+      text-transform: uppercase;
+      color: var(--accent);
+      margin-bottom: 8px;
+    }
+
+    h1 {
+      font-size: clamp(28px, 5vw, 40px);
+      font-weight: 800;
+      color: var(--fg-heading);
+      line-height: 1.25;
+      letter-spacing: -0.02em;
+      margin-bottom: 12px;
+    }
+
+    .lede {
+      font-size: 16px;
+      color: var(--muted);
+      max-width: 680px;
+    }
+
+    h2 {
+      font-size: 20px;
+      font-weight: 700;
+      color: var(--fg-heading);
+      margin: 36px 0 16px;
+      letter-spacing: -0.01em;
+    }
+
+    .custom-builder {
+      background: var(--card);
+      border: 1px solid var(--line);
+      border-radius: 12px;
+      padding: 24px;
+      margin-bottom: 40px;
+    }
+    .custom-builder h2 {
+      margin-top: 0;
+      margin-bottom: 6px;
+    }
+    .custom-builder p {
+      font-size: 14px;
+      color: var(--muted);
+      margin-bottom: 16px;
+    }
+    .custom-input {
+      width: 100%;
+      font: inherit;
+      font-size: 14px;
+      padding: 10px 14px;
+      border-radius: 8px;
+      border: 1px solid var(--line);
+      background: var(--code-bg);
+      color: var(--fg);
+      outline: none;
+      transition: border-color 120ms ease;
+    }
+    .custom-input:focus {
+      border-color: var(--fg);
+    }
+    .custom-form-grid {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 16px;
+      margin-bottom: 16px;
+    }
+    @media (max-width: 600px) {
+      .custom-form-grid { grid-template-columns: 1fr; }
+    }
+    .field-group {
+      display: flex;
+      flex-direction: column;
+      gap: 6px;
+    }
+    .field-group label {
+      font-size: 12px;
+      font-weight: 500;
+      color: var(--muted);
+    }
+    .margin-top-sm { margin-top: 4px; }
+    .presets-row {
+      display: flex;
+      flex-wrap: wrap;
+      align-items: center;
+      gap: 8px;
+      margin: 12px 0 14px;
+    }
+    #custom-dynamic-card {
+      padding: 14px 18px;
+    }
+    .presets-label {
+      font-size: 12px;
+      color: var(--muted);
+      width: 100%;
+    }
+    .preset-btn {
+      font: inherit;
+      font-size: 12px;
+      font-weight: 500;
+      padding: 5px 12px;
+      border-radius: 6px;
+      border: 1px solid var(--line);
+      background: var(--code-bg);
+      color: var(--fg);
+      cursor: pointer;
+      transition: background 120ms ease, border-color 120ms ease;
+    }
+    .preset-btn:hover {
+      border-color: var(--fg);
+      background: #ffffff;
+    }
+    .preset-btn.active {
+      border-color: var(--fg-heading);
+      background: var(--fg-heading);
+      color: #ffffff;
+    }
+    .tags-container {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 6px;
+      margin-top: 0;
+      transition: margin-top 120ms ease;
+    }
+    .tags-container:not(:empty) {
+      margin-top: 10px;
+    }
+    .ticker-chip {
+      display: inline-flex;
+      align-items: center;
+      gap: 6px;
+      font-size: 12px;
+      font-weight: 600;
+      padding: 4px 10px;
+      border-radius: 6px;
+      background: var(--code-bg);
+      color: var(--fg);
+      border: 1px solid var(--line);
+      transition: all 120ms ease;
+    }
+    .ticker-chip .remove-btn {
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      width: 14px;
+      height: 14px;
+      border-radius: 50%;
+      background: var(--line);
+      color: var(--muted);
+      font-size: 11px;
+      line-height: 1;
+      cursor: pointer;
+      border: none;
+      padding: 0;
+      margin-left: 2px;
+      transition: background 120ms ease, color 120ms ease;
+    }
+    .ticker-chip .remove-btn:hover {
+      background: var(--fg);
+      color: var(--bg);
+    }
+    .request-stock-box {
+      margin-top: 16px;
+      padding-top: 16px;
+      border-top: 1px dashed var(--line);
+    }
+    .link-btn {
+      font: inherit;
+      font-size: 12px;
+      color: var(--muted);
+      background: none;
+      border: none;
+      padding: 0;
+      cursor: pointer;
+      text-decoration: underline;
+    }
+    .link-btn:hover { color: var(--fg); }
+    .request-panel {
+      margin-top: 12px;
+      padding: 16px;
+      background: var(--code-bg);
+      border-radius: 8px;
+      border: 1px solid var(--line);
+    }
+    .request-panel.hidden { display: none; }
+    .req-desc-text {
+      font-size: 12px;
+      color: var(--muted);
+      margin-bottom: 10px;
+    }
+    .custom-textarea {
+      resize: vertical;
+      min-height: 60px;
+    }
+    .margin-top-xs { margin-top: 8px; }
+    .status-msg {
+      font-size: 12px;
+      color: var(--muted);
+      margin-left: 10px;
+    }
     .top-bar {
       display: flex;
       justify-content: space-between;
       align-items: center;
       margin-bottom: 16px;
     }
-    .top-bar .eyebrow {
-      margin-bottom: 0;
-    }
-    .eyebrow {
-      font-size: 13px;
-      letter-spacing: 0.08em;
-      text-transform: uppercase;
-      color: var(--muted);
-      margin-bottom: 16px;
-    }
-    .lang-switch {
+
+    .lang-switcher {
       display: inline-flex;
-      background: var(--code-bg);
+      background: var(--card);
       border: 1px solid var(--line);
       border-radius: 8px;
-      padding: 2px;
+      padding: 3px;
       gap: 2px;
     }
+
     .lang-btn {
       font: inherit;
       font-size: 12px;
-      font-weight: 500;
-      padding: 4px 0;
-      min-width: 48px;
-      text-align: center;
+      font-weight: 600;
+      padding: 4px 10px;
       border-radius: 6px;
       border: none;
       background: transparent;
       color: var(--muted);
       cursor: pointer;
-      transition: background 120ms ease, color 120ms ease;
+      transition: color 120ms ease, background 120ms ease;
     }
+
     .lang-btn:hover {
       color: var(--fg);
     }
+
     .lang-btn.active {
-      background: var(--card);
-      color: var(--fg);
-      font-weight: 600;
-      box-shadow: 0 1px 2px rgba(0,0,0,0.05);
+      background: var(--code-bg);
+      color: var(--fg-heading);
     }
-    h1 {
-      font-size: 36px;
-      font-weight: 700;
-      letter-spacing: -0.02em;
-      margin: 0 0 16px;
-      line-height: 1.2;
+
+    .cards {
+      display: flex;
+      flex-direction: column;
+      gap: 12px;
     }
-    .lede {
-      font-size: 18px;
-      color: var(--muted);
-      margin: 0 0 8px;
-    }
-    h2 {
-      font-size: 14px;
-      font-weight: 600;
-      letter-spacing: 0.06em;
-      text-transform: uppercase;
-      color: var(--muted);
-      margin: 48px 0 20px;
-    }
-    .cards { display: grid; gap: 12px; }
+
     .card {
       background: var(--card);
       border: 1px solid var(--line);
@@ -125,178 +306,272 @@
       align-items: center;
       transition: border-color 120ms ease, transform 120ms ease;
     }
-    .card:hover { border-color: var(--fg); }
-    .icon {
-      font-size: 24px;
-      width: 40px;
-      height: 40px;
-      display: grid;
-      place-items: center;
-      background: var(--code-bg);
-      border-radius: 8px;
+
+    .card:hover {
+      border-color: #444c56;
     }
-    .meta { min-width: 0; }
-    .name {
-      font-weight: 600;
-      font-size: 15px;
-      margin: 0;
-      line-height: 1.4;
+
+    .card .icon {
+      font-size: 26px;
+      line-height: 1;
+      display: flex;
+      align-items: center;
+      justify-content: center;
     }
-    .desc {
+
+    .card .meta {
+      min-width: 0;
+    }
+
+    .card .name {
+      font-size: 16px;
+      font-weight: 700;
+      color: var(--fg-heading);
+      margin-bottom: 2px;
+    }
+
+    .card .desc {
       font-size: 13px;
       color: var(--muted);
-      margin: 2px 0 0;
-      line-height: 1.4;
       white-space: nowrap;
       overflow: hidden;
       text-overflow: ellipsis;
     }
-    .actions {
+
+    .card .actions {
       display: flex;
       gap: 8px;
-      width: 284px;
       justify-content: flex-end;
     }
+
     .btn {
-      font: inherit;
-      font-size: 13px;
-      font-weight: 500;
-      padding: 8px 0;
-      border-radius: 8px;
-      border: 1px solid var(--line);
-      background: transparent;
-      color: var(--fg);
-      cursor: pointer;
-      text-decoration: none;
       display: inline-flex;
       align-items: center;
       justify-content: center;
-      gap: 6px;
-      transition: background 120ms ease, border-color 120ms ease;
+      font: inherit;
+      font-size: 13px;
+      font-weight: 600;
+      padding: 8px 14px;
+      border-radius: 8px;
+      border: 1px solid var(--line);
+      background: var(--code-bg);
+      color: var(--fg);
+      text-decoration: none;
+      cursor: pointer;
+      transition: background 120ms ease, border-color 120ms ease, color 120ms ease;
+      white-space: nowrap;
     }
-    .btn-sub { min-width: 86px; }
-    .btn-copy { min-width: 96px; }
-    .btn-dl { min-width: 86px; }
 
-    .btn:hover { background: var(--code-bg); border-color: var(--fg); }
+    .btn:hover {
+      border-color: var(--fg);
+      color: var(--fg-heading);
+    }
+
     .btn.primary {
       background: var(--accent);
       color: var(--accent-fg);
       border-color: var(--accent);
     }
-    .btn.primary:hover { opacity: 0.85; }
-    .btn .copied {
-      display: none;
+
+    .btn.primary:hover {
+      opacity: 0.9;
     }
-    .btn.is-copied .label { display: none; }
-    .btn.is-copied .copied { display: inline; }
+
+    .btn-copy .copied { display: none; }
+    .btn-copy.is-copied .label { display: none; }
+    .btn-copy.is-copied .copied { display: inline; }
+
     .help {
-      margin-top: 56px;
+      margin-top: 48px;
       padding: 24px;
+      background: var(--card);
       border: 1px solid var(--line);
       border-radius: 12px;
-      background: var(--card);
     }
+
     .help h3 {
-      font-size: 14px;
-      font-weight: 600;
-      margin: 0 0 12px;
+      font-size: 16px;
+      font-weight: 700;
+      color: var(--fg-heading);
+      margin-bottom: 12px;
     }
+
     .help ol {
-      margin: 0;
       padding-left: 20px;
-      color: var(--muted);
       font-size: 14px;
+      color: var(--fg);
     }
-    .help li { margin-bottom: 6px; }
-    .help li:last-child { margin-bottom: 0; }
-    code {
-      font-family: ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, monospace;
-      background: var(--code-bg);
-      padding: 1px 6px;
-      border-radius: 4px;
-      font-size: 0.92em;
+
+    .help li {
+      margin-bottom: 8px;
     }
+
+    .help li:last-child {
+      margin-bottom: 0;
+    }
+
     footer {
-      margin-top: 64px;
-      padding-top: 24px;
-      border-top: 1px solid var(--line);
+      margin-top: 48px;
       font-size: 13px;
       color: var(--muted);
-      display: flex;
-      flex-wrap: wrap;
-      gap: 16px;
-      justify-content: space-between;
+      text-align: center;
     }
-    footer a { color: var(--fg); text-decoration: none; border-bottom: 1px solid var(--line); }
-    footer a:hover { border-color: var(--fg); }
-    @media (max-width: 540px) {
-      main { padding: 40px 20px 64px; }
-      h1 { font-size: 28px; }
-      .lede { font-size: 16px; }
+
+    footer a {
+      color: var(--muted);
+      text-decoration: underline;
+    }
+
+    footer a:hover {
+      color: var(--fg);
+    }
+
+    @media (max-width: 680px) {
+      body { padding: 20px 12px 48px; }
       .card {
-        grid-template-columns: 40px 1fr;
-        grid-template-rows: auto auto;
+        grid-template-columns: 1fr;
+        gap: 12px;
       }
-      .actions {
-        grid-column: 1 / -1;
+      .card .icon { display: none; }
+      .card .actions {
         justify-content: flex-start;
-        width: 100%;
-      }
-      .btn {
-        flex: 1;
-        min-width: 0;
       }
     }
   </style>
 </head>
 <body>
-  <main>
-    <header>
-      <div class="top-bar">
-        <p class="eyebrow" data-i18n="eyebrow">ETHAN FUN</p>
-        <div class="lang-switch" role="radiogroup" aria-label="Language">
-          <button type="button" class="lang-btn" data-lang="zh">中文</button>
-          <button type="button" class="lang-btn" data-lang="en">EN</button>
-        </div>
+  <div class="container">
+    <div class="top-bar">
+      <div class="eyebrow" data-i18n="eyebrow">ETHAN FUN</div>
+      <div class="lang-switcher">
+        <button class="lang-btn active" data-lang="zh">中文</button>
+        <button class="lang-btn" data-lang="en">EN</button>
       </div>
+    </div>
+
+    <header>
       <h1 data-i18n-html="heading">美股财报日历，<br/>一键订阅到你的日历应用</h1>
-      <p class="lede" data-i18n="lede">
-        每天从 Nasdaq 获取未来 30 天的美股财报发布日，并生成 .ics 日历订阅源 — 涵盖纳斯达克 100、标普 500、道琼斯 30 及自定义关注列表。
-      </p>
+      <p class="lede" data-i18n="lede">每天从 Nasdaq 获取未来 30 天的美股财报发布日，并生成 .ics 日历订阅源 — 涵盖纳斯达克 100、标普 500、道琼斯 30 及自定义关注列表。</p>
     </header>
 
-    <h2 data-i18n="byIndex">按指数与关注列表</h2>
+    <section class="custom-builder">
+      <h2 data-i18n="customBuilderTitle">🎯 定制专属财报日历</h2>
+      <p data-i18n="customBuilderDesc">填入你的称呼与关心的股票代码，生成属于你的专属订阅：</p>
+      
+      <div class="custom-form-grid">
+        <div class="field-group">
+          <label data-i18n="nameLabel">你的姓名 / 称呼</label>
+          <input type="text" id="custom-name-input" class="custom-input" data-i18n-placeholder="namePlaceholder" placeholder="例如: Ethan (选填)" />
+        </div>
+        <div class="field-group">
+          <label data-i18n="emailLabel">电子邮箱</label>
+          <input type="email" id="custom-email-input" class="custom-input" data-i18n-placeholder="emailPlaceholder" placeholder="例如: name@example.com (选填)" />
+        </div>
+      </div>
+
+      <div class="field-group margin-top-sm">
+        <label data-i18n="tickersLabel">关注的美股代码（用空格或逗号隔开，不区分大小写）</label>
+        <input type="text" id="custom-tickers-input" class="custom-input" data-i18n-placeholder="customPlaceholder" placeholder="例如: aapl tsla nvda pdd" value="AAPL TSLA NVDA PDD" />
+        <div id="tickers-tags-container" class="tags-container"></div>
+      </div>
+
+      <div class="presets-row">
+        <span class="presets-label" data-i18n="presetsLabel">💡 点击选择/组合作者推荐预设清单：</span>
+        <button type="button" class="preset-btn" data-preset="AAPL MSFT GOOGL AMZN META" data-i18n="presetTech">🚀 科技巨头</button>
+        <button type="button" class="preset-btn" data-preset="NVDA AMD TSM AVGO QCOM" data-i18n="presetChips">💻 芯片半导体</button>
+        <button type="button" class="preset-btn" data-preset="TSLA RIVN LCID" data-i18n="presetEV">⚡️ 新能源车</button>
+        <button type="button" class="preset-btn" data-preset="PDD BABA JD BIDU NIO" data-i18n="presetChina">🇨🇳 热门中概</button>
+      </div>
+
+      <div class="card" id="custom-dynamic-card">
+        <div class="icon" aria-hidden="true">⚡</div>
+        <div class="meta">
+          <p class="name" id="custom-card-name">专属动态订阅</p>
+          <p class="desc" id="custom-card-desc">AAPL TSLA NVDA PDD</p>
+        </div>
+        <div class="actions">
+          <a class="btn btn-sub primary" id="custom-btn-sub" href="#">订阅</a>
+          <button class="btn btn-copy" id="custom-btn-copy" data-copy="">
+            <span class="label">复制链接</span>
+            <span class="copied">已复制 ✓</span>
+          </button>
+        </div>
+      </div>
+
+      <div class="request-stock-box">
+        <button type="button" id="toggle-request-btn" class="link-btn" data-i18n="reqToggleBtn">
+          💬 找不到你想关注的美股？点击提交给我们
+        </button>
+        <div id="request-form-panel" class="request-panel hidden">
+          <p class="req-desc-text" data-i18n="reqDesc">填写你关注的股票与原因，我们会定期进行补充（注：定期人工处理，非实时响应）：</p>
+          <div class="field-group margin-top-xs">
+            <label data-i18n="reqSymbolLabel">股票代码或公司名称</label>
+            <input type="text" id="req-symbol-input" class="custom-input" data-i18n-placeholder="reqSymbolPlaceholder" placeholder="例如: RKLB 或 Rocket Lab" />
+          </div>
+          <div class="field-group margin-top-xs">
+            <label data-i18n="reqReasonLabel">提交原因或关注理由</label>
+            <textarea id="req-reason-input" class="custom-input custom-textarea" data-i18n-placeholder="reqReasonPlaceholder" placeholder="例如: 关注下季度财报毛利..."></textarea>
+          </div>
+          <div style="display:flex; align-items:center; margin-top:10px;">
+            <button type="button" id="submit-request-btn" class="btn primary" data-i18n="reqSubmitBtn">提交</button>
+            <span id="request-status-msg" class="status-msg"></span>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <h2 data-i18n="byIndex">按指数分类</h2>
     <div class="cards" id="cards-index"></div>
 
     <h2 data-i18n="byMarketCap">按市值分类</h2>
     <div class="cards" id="cards-marketcap"></div>
 
-    <section class="help">
-      <h3 data-i18n="helpTitle">如何订阅</h3>
+    <div class="help">
+      <h3 data-i18n="helpTitle">如何订阅到日历应用？</h3>
       <ol>
-        <li data-i18n-html="helpStep1"><strong>iOS / macOS 日历</strong>：复制链接 → 文件 → 新建日历订阅 → 粘贴。</li>
-        <li data-i18n-html="helpStep2"><strong>Google 日历</strong>：左侧边栏“其他日历” → + → 通过 URL 添加 → 粘贴。</li>
-        <li data-i18n-html="helpStep3"><strong>Outlook</strong>：日历 → 添加日历 → 从 Web 订阅 → 粘贴。</li>
+        <li data-i18n-html="helpStep1"><strong>iOS / macOS 日历</strong>：在 Safari 中直接点击“订阅”按钮唤起，或复制链接后在日历应用中选择“新建日历订阅”并粘贴。</li>
+        <li data-i18n-html="helpStep2"><strong>Google Calendar</strong>：在网页端左侧边栏找到“其他日历” → “+” → “通过 URL 添加”，粘贴链接。</li>
+        <li data-i18n-html="helpStep3"><strong>Outlook</strong>：打开日历 → “添加日历” → “从 Web 订阅”，粘贴链接。</li>
       </ol>
-    </section>
+    </div>
 
     <footer>
-      <span data-i18n="footerUpdated">每日 04:34 / 16:34 UTC 自动更新</span>
-      <a href="https://github.com/ethanjtch/earnings-cal" target="_blank" rel="noopener">GitHub</a>
+      <p><span data-i18n="footerUpdated">每日 04:34 / 16:34 UTC 自动更新</span> · Built with ❤️ by <a href="https://github.com/ethanjtch" target="_blank" rel="noopener">ETHAN FUN</a></p>
     </footer>
-  </main>
+  </div>
 
   <script>
     const TRANSLATIONS = {
       zh: {
         title: '美股财报日历 · ETHAN FUN',
-        metaDesc: '订阅美股财报日历至你的日历应用。每日自动更新，涵盖纳斯达克 100、标普 500、道琼斯 30 及自定义关注列表。',
+        metaDesc: '每天自动更新美股未来 30 天财报发布日，一键订阅纳斯达克 100、标普 500、道琼斯 30 及自定义美股财报日历到 Apple Calendar、Google Calendar、Outlook。',
         eyebrow: 'ETHAN FUN',
         heading: '美股财报日历，<br/>一键订阅到你的日历应用',
         lede: '每天从 Nasdaq 获取未来 30 天的美股财报发布日，并生成 .ics 日历订阅源 — 涵盖纳斯达克 100、标普 500、道琼斯 30 及自定义关注列表。',
-        byIndex: '按指数与关注列表',
+        byIndex: '按指数分类',
         byMarketCap: '按市值分类',
+        customBuilderTitle: '🎯 定制专属财报日历',
+        customBuilderDesc: '填入你的称呼与关心的股票代码，生成属于你的专属订阅：',
+        nameLabel: '你的姓名 / 称呼',
+        namePlaceholder: '例如: Ethan (选填)',
+        emailLabel: '电子邮箱',
+        emailPlaceholder: '例如: name@example.com (选填)',
+        tickersLabel: '关注的美股代码（用空格或逗号隔开，不区分大小写）',
+        customPlaceholder: '例如: aapl tsla nvda pdd',
+        presetsLabel: '💡 点击选择/组合作者推荐预设清单：',
+        presetTech: '🚀 科技巨头',
+        presetChips: '💻 芯片半导体',
+        presetEV: '⚡️ 新能源车',
+        presetChina: '🇨🇳 热门中概',
+        reqToggleBtn: '💬 找不到你想关注的美股？点击提交给我们',
+        reqDesc: '填写你关注的股票与原因，我们会定期进行补充（注：定期人工处理，非实时响应）：',
+        reqSymbolLabel: '股票代码或公司名称',
+        reqSymbolPlaceholder: '例如: RKLB 或 Rocket Lab',
+        reqReasonLabel: '提交原因或关注理由',
+        reqReasonPlaceholder: '例如: 关注下季度财报毛利...',
+        reqSubmitBtn: '提交',
+        reqSubmittedMsg: '已收到你的提交，我们会定期补充！',
+        customName: '专属动态订阅',
         subscribe: '订阅',
         copyLink: '复制链接',
         copied: '已复制 ✓',
@@ -308,12 +583,9 @@
         helpStep3: '<strong>Outlook</strong>：日历 → 添加日历 → 从 Web 订阅 → 粘贴。',
         footerUpdated: '每日 04:34 / 16:34 UTC 自动更新',
         indices: {
-          selected:    { name: '精选列表',     desc: '所有指数 + 自定义关注列表（已去重）' },
           nasdaq100:   { name: '纳斯达克 100', desc: '纳斯达克 100 成份股' },
           sp500:       { name: '标普 500',     desc: '标普 500 成份股' },
           dow30:       { name: '道琼斯 30',    desc: '道琼斯工业平均指数成份股' },
-          customstock: { name: '自定义关注',   desc: '由仓库 CUSTOM_STOCKS 环境变量指定' },
-          all:         { name: '全部财报',     desc: '所有发布财报的公司（文件较大）' },
         },
         marketCap: {
           megacap:  { name: '超大盘股', desc: '市值 > 2000 亿美元' },
@@ -328,124 +600,75 @@
         eyebrow: 'ETHAN FUN',
         heading: 'US earnings calendar,<br/>subscribed in your calendar app',
         lede: 'Pulls next 30 days of earnings from Nasdaq daily as .ics subscription feeds — Nasdaq-100, S&P 500, Dow 30 & custom watchlists.',
-        byIndex: 'By index & watchlist',
+        byIndex: 'By index',
         byMarketCap: 'By market cap',
+        customBuilderTitle: '🎯 Custom Earnings Calendar Generator',
+        customBuilderDesc: 'Fill in your name and tickers to generate your personalized subscription:',
+        nameLabel: 'Your Name / Nickname',
+        namePlaceholder: 'e.g. Ethan (Optional)',
+        emailLabel: 'Email',
+        emailPlaceholder: 'e.g. name@example.com (Optional)',
+        tickersLabel: 'Tickers to follow (separated by spaces or commas, case-insensitive)',
+        customPlaceholder: 'e.g. aapl tsla nvda pdd',
+        presetsLabel: '💡 Quick select / combine Author\'s Recommended Presets:',
+        presetTech: '🚀 Tech Giants',
+        presetChips: '💻 Semiconductors',
+        presetEV: '⚡️ EV & Auto',
+        presetChina: '🇨🇳 China Concept',
+        reqToggleBtn: '💬 Can\'t find your stock? Click here to submit',
+        reqDesc: 'Submit your stock and reason, we will review and add periodically (Non-realtime response):',
+        reqSymbolLabel: 'Ticker or Company Name',
+        reqSymbolPlaceholder: 'e.g. RKLB or Rocket Lab',
+        reqReasonLabel: 'Reason for following',
+        reqReasonPlaceholder: 'e.g. Space industry leader, tracking Q3 gross margin...',
+        reqSubmitBtn: 'Submit',
+        reqSubmittedMsg: 'Submitted! We will review and add periodically.',
+        customName: 'Custom Dynamic Feed',
         subscribe: 'Subscribe',
         copyLink: 'Copy link',
         copied: 'Copied ✓',
         download: 'Download',
-        copyPrompt: 'Copy this link:',
-        helpTitle: 'How to subscribe',
-        helpStep1: '<strong>iOS / macOS</strong>: Copy link → File → New Calendar Subscription → Paste.',
-        helpStep2: '<strong>Google Calendar</strong>: Left sidebar → Other calendars (+) → From URL → Paste.',
-        helpStep3: '<strong>Outlook</strong>: Calendar → Add calendar → Subscribe from web → Paste.',
+        copyPrompt: 'Please copy this URL:',
+        helpTitle: 'How to subscribe to your calendar app?',
+        helpStep1: '<strong>iOS / macOS Calendar</strong>: Click "Subscribe" in Safari, or copy link → File → New Calendar Subscription → Paste.',
+        helpStep2: '<strong>Google Calendar</strong>: Left sidebar "Other calendars" → "+" → "From URL" → Paste.',
+        helpStep3: '<strong>Outlook</strong>: Open Calendar → "Add calendar" → "Subscribe from web" → Paste.',
         footerUpdated: 'Updated daily at 04:34 / 16:34 UTC',
         indices: {
-          selected:    { name: 'Selected',     desc: 'All indices + custom watchlist (deduped)' },
-          nasdaq100:   { name: 'Nasdaq-100',   desc: 'Nasdaq-100 constituents' },
-          sp500:       { name: 'S&P 500',      desc: 'S&P 500 constituents' },
-          dow30:       { name: 'Dow 30',        desc: 'Dow 30 constituents' },
-          customstock: { name: 'Custom',       desc: 'Set by CUSTOM_STOCKS env variable' },
-          all:         { name: 'All earnings', desc: 'All reporting companies (large file)' },
+          nasdaq100:   { name: 'Nasdaq-100', desc: 'Nasdaq-100 components' },
+          sp500:       { name: 'S&P 500',     desc: 'S&P 500 components' },
+          dow30:       { name: 'Dow 30',      desc: 'Dow Jones Industrial Average' },
         },
         marketCap: {
-          megacap:  { name: 'Mega Cap',  desc: 'Market cap > $200B' },
-          largecap: { name: 'Large Cap', desc: 'Market cap $10B – $200B' },
-          midcap:   { name: 'Mid Cap',   desc: 'Market cap $2B – $10B' },
-          smallcap: { name: 'Small Cap', desc: 'Market cap < $2B' },
+          megacap:  { name: 'Mega Cap',  desc: 'Market Cap > $200B' },
+          largecap: { name: 'Large Cap', desc: 'Market Cap $10B – $200B' },
+          midcap:   { name: 'Mid Cap',   desc: 'Market Cap $2B – $10B' },
+          smallcap: { name: 'Small Cap', desc: 'Market Cap < $2B' },
         }
       }
     };
 
     const ICS_INDEX_KEYS = [
-      { slug: 'selected',    icon: '⭐' },
       { slug: 'nasdaq100',   icon: '💻' },
       { slug: 'sp500',       icon: '📈' },
       { slug: 'dow30',       icon: '🏛️' },
-      { slug: 'customstock', icon: '🎯' },
-      { slug: 'all',         icon: '🌐' },
     ];
 
     const ICS_MARKETCAP_KEYS = [
       { slug: 'megacap',  icon: '🐋' },
       { slug: 'largecap', icon: '🦈' },
-      { slug: 'midcap',   icon: '🐟' },
-      { slug: 'smallcap', icon: '🐠' },
+      { slug: 'midcap',   icon: '🐬' },
+      { slug: 'smallcap', icon: '🐟' },
     ];
 
-    const baseURL = new URL('ics/', window.location.href).toString();
-    let currentLang = localStorage.getItem('lang') || 'zh';
-    if (!TRANSLATIONS[currentLang]) currentLang = 'zh';
-
-    function getMetaDescTag() {
-      let meta = document.querySelector('meta[name="description"]');
-      if (!meta) {
-        meta = document.createElement('meta');
-        meta.name = 'description';
-        document.head.appendChild(meta);
-      }
-      return meta;
-    }
-
-    function createCard({ slug, icon }) {
-      const url = baseURL + slug + '.ics';
-      const webcalUrl = url.replace(/^https?:/, 'webcal:');
-      const card = document.createElement('div');
-      card.className = 'card';
-      card.dataset.slug = slug;
-      card.innerHTML = `
-        <div class="icon" aria-hidden="true">${icon}</div>
-        <div class="meta">
-          <p class="name"></p>
-          <p class="desc"></p>
-        </div>
-        <div class="actions">
-          <a class="btn btn-sub primary" href="${webcalUrl}"></a>
-          <button class="btn btn-copy" data-copy="${url}">
-            <span class="label"></span>
-            <span class="copied"></span>
-          </button>
-          <a class="btn btn-dl" href="ics/${slug}.ics" download></a>
-        </div>
-      `;
-      return card;
-    }
-
-    function initDOM() {
-      const indexContainer = document.getElementById('cards-index');
-      for (const item of ICS_INDEX_KEYS) {
-        indexContainer.appendChild(createCard(item));
-      }
-
-      const marketcapContainer = document.getElementById('cards-marketcap');
-      for (const item of ICS_MARKETCAP_KEYS) {
-        marketcapContainer.appendChild(createCard(item));
-      }
-    }
-
-    function updateCards(langDict) {
-      document.querySelectorAll('.card[data-slug]').forEach((card) => {
-        const slug = card.dataset.slug;
-        const isIndex = !!langDict.indices[slug];
-        const item = isIndex ? langDict.indices[slug] : langDict.marketCap[slug];
-        
-        card.querySelector('.name').textContent = item.name;
-        card.querySelector('.desc').textContent = item.desc;
-        card.querySelector('.btn-sub').textContent = langDict.subscribe;
-        card.querySelector('.btn-copy .label').textContent = langDict.copyLink;
-        card.querySelector('.btn-copy .copied').textContent = langDict.copied;
-        card.querySelector('.btn-dl').textContent = langDict.download;
-      });
-    }
+    let currentLang = localStorage.getItem('earnings_cal_lang') || 'zh';
 
     function setLanguage(lang) {
       currentLang = lang;
-      localStorage.getItem('lang') !== lang && localStorage.setItem('lang', lang);
-      const dict = TRANSLATIONS[lang];
-
+      localStorage.setItem('earnings_cal_lang', lang);
       document.documentElement.lang = lang === 'zh' ? 'zh-CN' : 'en';
-      document.title = dict.title;
-      getMetaDescTag().content = dict.metaDesc;
+
+      const dict = TRANSLATIONS[lang] || TRANSLATIONS.zh;
 
       document.querySelectorAll('[data-i18n]').forEach((el) => {
         const key = el.dataset.i18n;
@@ -457,12 +680,212 @@
         if (dict[key]) el.innerHTML = dict[key];
       });
 
+      document.querySelectorAll('[data-i18n-placeholder]').forEach((el) => {
+        const key = el.dataset.i18nPlaceholder;
+        if (dict[key]) el.placeholder = dict[key];
+      });
+
       document.querySelectorAll('.lang-btn').forEach((btn) => {
         btn.classList.toggle('active', btn.dataset.lang === lang);
       });
 
-      updateCards(dict);
+      document.title = dict.title;
+      const metaDesc = document.querySelector('meta[name="description"]');
+      if (metaDesc) metaDesc.content = dict.metaDesc;
+      const ogTitle = document.querySelector('meta[property="og:title"]');
+      if (ogTitle) ogTitle.content = dict.title;
+      const ogDesc = document.querySelector('meta[property="og:description"]');
+      if (ogDesc) ogDesc.content = dict.metaDesc;
+
+      updateCards();
+      updateCustomLink();
     }
+
+    function createCard(icon, name, desc, relativeIcsPath) {
+      const card = document.createElement('div');
+      card.className = 'card';
+
+      const httpUrl = new URL(relativeIcsPath, window.location.href).toString();
+      const webcalUrl = httpUrl.replace(/^https?:/, 'webcal:');
+
+      const dict = TRANSLATIONS[currentLang] || TRANSLATIONS.zh;
+
+      card.innerHTML = `
+        <div class="icon" aria-hidden="true">${icon}</div>
+        <div class="meta">
+          <p class="name">${name}</p>
+          <p class="desc">${desc}</p>
+        </div>
+        <div class="actions">
+          <a class="btn btn-sub primary" href="${webcalUrl}">${dict.subscribe}</a>
+          <button class="btn btn-copy" data-copy="${httpUrl}">
+            <span class="label">${dict.copyLink}</span>
+            <span class="copied">${dict.copied}</span>
+          </button>
+        </div>
+      `;
+
+      return card;
+    }
+
+    function updateCards() {
+      const dict = TRANSLATIONS[currentLang] || TRANSLATIONS.zh;
+
+      // Render Index Cards
+      const indexContainer = document.getElementById('cards-index');
+      if (indexContainer) {
+        indexContainer.innerHTML = '';
+        ICS_INDEX_KEYS.forEach(item => {
+          const info = dict.indices[item.slug] || { name: item.slug, desc: '' };
+          indexContainer.appendChild(createCard(item.icon, info.name, info.desc, `ics/${item.slug}.ics`));
+        });
+      }
+
+      // Render Market Cap Cards
+      const capContainer = document.getElementById('cards-marketcap');
+      if (capContainer) {
+        capContainer.innerHTML = '';
+        ICS_MARKETCAP_KEYS.forEach(item => {
+          const info = dict.marketCap[item.slug] || { name: item.slug, desc: '' };
+          capContainer.appendChild(createCard(item.icon, info.name, info.desc, `ics/${item.slug}.ics`));
+        });
+      }
+    }
+
+    const nameInput = document.getElementById('custom-name-input');
+    const emailInput = document.getElementById('custom-email-input');
+    const customInput = document.getElementById('custom-tickers-input');
+
+    function generateClientToken(str) {
+      let hash = 0;
+      for (let i = 0; i < str.length; i++) {
+        hash = (hash << 5) - hash + str.charCodeAt(i);
+        hash |= 0;
+      }
+      return Math.abs(hash).toString(36).slice(0, 8);
+    }
+
+    function renderTickerTags(tickers) {
+      const tagsContainer = document.getElementById('tickers-tags-container');
+      if (!tagsContainer) return;
+      tagsContainer.innerHTML = '';
+
+      tickers.forEach((ticker) => {
+        const chip = document.createElement('div');
+        chip.className = 'ticker-chip';
+        chip.innerHTML = `
+          <span>${ticker}</span>
+          <button type="button" class="remove-btn" data-remove="${ticker}" aria-label="Remove ${ticker}">✕</button>
+        `;
+        tagsContainer.appendChild(chip);
+      });
+    }
+
+    function updateCustomLink() {
+      const name = nameInput?.value.trim() || '';
+      const email = emailInput?.value.trim() || '';
+      const raw = customInput?.value || '';
+      // Support space, Chinese comma, English comma
+      const tickers = Array.from(new Set(raw.split(/[\s,，]+/).map(s => s.trim().toUpperCase()).filter(Boolean)));
+      const descEl = document.getElementById('custom-card-desc');
+      const subBtn = document.getElementById('custom-btn-sub');
+      const copyBtn = document.getElementById('custom-btn-copy');
+
+      // Highlight active preset buttons if all tickers in preset are selected
+      document.querySelectorAll('.preset-btn').forEach((btn) => {
+        const presetTickers = btn.dataset.preset.split(/[\s,，]+/);
+        const hasAll = presetTickers.every(t => tickers.includes(t));
+        btn.classList.toggle('active', hasAll && presetTickers.length > 0);
+      });
+
+      renderTickerTags(tickers);
+
+      if (tickers.length === 0) {
+        if (descEl) descEl.textContent = currentLang === 'zh' ? '请选择或输入股票代码' : 'No tickers selected';
+        if (subBtn) subBtn.href = '#';
+        if (copyBtn) copyBtn.dataset.copy = '';
+        return;
+      }
+
+      // Generate a clean Token ID for privacy (e.g. /ics/s/7k9x2m4p.ics)
+      const tokenSeed = `${name}_${email}_${tickers.join('_')}`;
+      const token = `s_${generateClientToken(tokenSeed)}`;
+
+      // Display clean OpenID/Token instead of repeating ticker list
+      if (descEl) {
+        const subTagText = currentLang === 'zh' ? '订阅标识' : 'Token';
+        descEl.textContent = name ? `${name} · ${token}` : `${subTagText}: ${token}`;
+      }
+
+      const apiPath = `ics/s/${token}.ics`;
+      const httpUrl = new URL(apiPath, window.location.href).toString();
+      const webcalUrl = httpUrl.replace(/^https?:/, 'webcal:');
+
+      if (subBtn) subBtn.href = webcalUrl;
+      if (copyBtn) copyBtn.dataset.copy = httpUrl;
+    }
+
+    nameInput?.addEventListener('input', updateCustomLink);
+    emailInput?.addEventListener('input', updateCustomLink);
+    customInput?.addEventListener('input', updateCustomLink);
+
+    document.getElementById('tickers-tags-container')?.addEventListener('click', (e) => {
+      const removeBtn = e.target.closest('button[data-remove]');
+      if (!removeBtn || !customInput) return;
+      const targetTicker = removeBtn.dataset.remove;
+      const currentRaw = customInput.value || '';
+      let currentTickers = Array.from(new Set(currentRaw.split(/[\s,，]+/).map(s => s.trim().toUpperCase()).filter(Boolean)));
+      currentTickers = currentTickers.filter(t => t !== targetTicker);
+      customInput.value = currentTickers.join(' ');
+      updateCustomLink();
+    });
+
+    document.querySelectorAll('.preset-btn').forEach((btn) => {
+      btn.addEventListener('click', () => {
+        if (!customInput) return;
+        const currentRaw = customInput.value || '';
+        let currentTickers = Array.from(new Set(currentRaw.split(/[\s,，]+/).map(s => s.trim().toUpperCase()).filter(Boolean)));
+        const presetTickers = btn.dataset.preset.split(/[\s,，]+/).map(s => s.trim().toUpperCase());
+
+        const hasAll = presetTickers.every(t => currentTickers.includes(t));
+        if (hasAll) {
+          // Toggle off: remove preset tickers
+          currentTickers = currentTickers.filter(t => !presetTickers.includes(t));
+        } else {
+          // Toggle on: append preset tickers
+          currentTickers = Array.from(new Set([...currentTickers, ...presetTickers]));
+        }
+
+        customInput.value = currentTickers.join(' ');
+        updateCustomLink();
+      });
+    });
+
+    document.getElementById('toggle-request-btn')?.addEventListener('click', () => {
+      document.getElementById('request-form-panel')?.classList.toggle('hidden');
+    });
+
+    document.getElementById('submit-request-btn')?.addEventListener('click', async () => {
+      const symbol = document.getElementById('req-symbol-input')?.value.trim();
+      const reason = document.getElementById('req-reason-input')?.value.trim();
+      const name = nameInput?.value.trim() || '';
+      const email = emailInput?.value.trim() || '';
+      const statusMsg = document.getElementById('request-status-msg');
+
+      if (!symbol) return;
+
+      if (statusMsg) statusMsg.textContent = '...';
+      try {
+        await fetch('api/record-subscriber', {
+          method: 'POST',
+          headers: { 'content-type': 'application/json' },
+          body: JSON.stringify({ type: 'custom_request', name, email, requestedSymbol: symbol, reason }),
+        });
+        if (statusMsg) statusMsg.textContent = TRANSLATIONS[currentLang].reqSubmittedMsg;
+      } catch {
+        if (statusMsg) statusMsg.textContent = TRANSLATIONS[currentLang].reqSubmittedMsg;
+      }
+    });
 
     initDOM();
 
@@ -472,21 +895,25 @@
       });
     });
 
-    // Initial language application
-    setLanguage(currentLang);
+    document.addEventListener('click', async (e) => {
+      const copyBtn = e.target.closest('.btn-copy');
+      if (!copyBtn) return;
 
-    document.body.addEventListener('click', async (e) => {
-      const btn = e.target.closest('button[data-copy]');
-      if (!btn) return;
-      const dict = TRANSLATIONS[currentLang];
+      const url = copyBtn.dataset.copy;
+      if (!url) return;
+
       try {
-        await navigator.clipboard.writeText(btn.dataset.copy);
-        btn.classList.add('is-copied');
-        setTimeout(() => btn.classList.remove('is-copied'), 1500);
-      } catch {
-        prompt(dict.copyPrompt, btn.dataset.copy);
+        await navigator.clipboard.writeText(url);
+        copyBtn.classList.add('is-copied');
+        setTimeout(() => copyBtn.classList.remove('is-copied'), 2000);
+      } catch (err) {
+        prompt(TRANSLATIONS[currentLang]?.copyPrompt || 'Copy URL:', url);
       }
     });
+
+    function initDOM() {
+      setLanguage(currentLang);
+    }
   </script>
 </body>
 </html>
