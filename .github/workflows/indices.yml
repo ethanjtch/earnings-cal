@@ -1,0 +1,63 @@
+name: Update index constituents
+
+on:
+  schedule:
+    - cron: '17 6 * * 1' # every Monday 06:17 UTC
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - 'src/fetch/indices.js'
+      - 'src/cli/fetch-indices.js'
+      - 'src/config/indices.js'
+      - 'src/lib/**'
+      - 'package.json'
+      - 'pnpm-lock.yaml'
+      - '.github/workflows/indices.yml'
+
+permissions:
+  contents: write
+  actions: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v6
+
+      - uses: pnpm/action-setup@v4
+
+      - uses: actions/setup-node@v6
+        with:
+          node-version: '24'
+          cache: 'pnpm'
+
+      - run: pnpm install --frozen-lockfile
+
+      - name: Refresh indices
+        run: pnpm run fetch:indices
+
+      - name: Commit and trigger earnings rebuild if changed
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          if git diff --quiet -- data/indices; then
+            echo "No index changes."
+          else
+            git add data/indices
+            git commit -m "chore(indices): weekly refresh"
+            # Remote may have advanced between checkout and push (manual
+            # commits, other workflows). Rebase + retry to avoid non-fast-
+            # forward failures.
+            for i in 1 2 3; do
+              git pull --rebase origin main && git push && break
+              echo "Push attempt $i failed, retrying..."
+              sleep $((i * 5))
+            done
+            # GITHUB_TOKEN-pushed commits don't trigger other workflows by
+            # design, so explicitly kick off the earnings build with the
+            # fresh constituents.
+            gh workflow run earnings.yml --ref main
+          fi

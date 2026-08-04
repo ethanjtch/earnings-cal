@@ -1,0 +1,30 @@
+{
+  "name": "oh-earnings-cal",
+  "version": "2.0.0",
+  "description": "US stock earnings calendar — generates ICS subscription files for Nasdaq-100, S&P 500, Dow 30 and a custom watchlist.",
+  "type": "module",
+  "private": true,
+  "packageManager": "pnpm@11.10.0",
+  "scripts": {
+    "fetch": "node src/cli/fetch.js",
+    "fetch:indices": "node src/cli/fetch-indices.js",
+    "gen": "node src/cli/gen.js",
+    "build": "pnpm run fetch && pnpm run gen",
+    "dev": "nodemon src/server.js",
+    "start": "node src/server.js",
+    "test": "node --test 'src/**/*.test.js'"
+  },
+  "dependencies": {
+    "cheerio": "^1.2.0",
+    "dotenv": "^17.4.2",
+    "express": "^5.2.1",
+    "ics": "^3.12.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.14"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "license": "MIT"
+}
