@@ -1,4 +1,4 @@
-# OhEarningsCal (US Stock Earnings Calendar)
+# 美股财报日历 (Earnings Calendar)
 
 Subscribe to US stock earnings dates from your calendar app.
 

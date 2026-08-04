@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>OhEarningsCal · 美股财报日历订阅</title>
+  <title>Earnings Calendar · 美股财报日历订阅</title>
   <meta name="description" content="订阅美股财报日历至你的日历应用。每日自动更新，涵盖纳斯达克 100、标普 500、道琼斯 30 及自定义关注列表。" />
   <style>
     :root {
@@ -74,7 +74,9 @@
       font: inherit;
       font-size: 12px;
       font-weight: 500;
-      padding: 4px 10px;
+      padding: 4px 0;
+      min-width: 48px;
+      text-align: center;
       border-radius: 6px;
       border: none;
       background: transparent;
@@ -102,7 +104,6 @@
       font-size: 18px;
       color: var(--muted);
       margin: 0 0 8px;
-      max-width: 56ch;
     }
     h2 {
       font-size: 14px;
@@ -119,7 +120,7 @@
       border-radius: 12px;
       padding: 20px 22px;
       display: grid;
-      grid-template-columns: 40px 1fr auto;
+      grid-template-columns: 40px 1fr 284px;
       gap: 16px;
       align-items: center;
       transition: border-color 120ms ease, transform 120ms ease;
@@ -139,21 +140,28 @@
       font-weight: 600;
       font-size: 15px;
       margin: 0;
+      line-height: 1.4;
     }
     .desc {
       font-size: 13px;
       color: var(--muted);
       margin: 2px 0 0;
+      line-height: 1.4;
       white-space: nowrap;
       overflow: hidden;
       text-overflow: ellipsis;
     }
-    .actions { display: flex; gap: 8px; }
+    .actions {
+      display: flex;
+      gap: 8px;
+      width: 284px;
+      justify-content: flex-end;
+    }
     .btn {
       font: inherit;
       font-size: 13px;
       font-weight: 500;
-      padding: 8px 14px;
+      padding: 8px 0;
       border-radius: 8px;
       border: 1px solid var(--line);
       background: transparent;
@@ -162,9 +170,14 @@
       text-decoration: none;
       display: inline-flex;
       align-items: center;
+      justify-content: center;
       gap: 6px;
       transition: background 120ms ease, border-color 120ms ease;
     }
+    .btn-sub { min-width: 86px; }
+    .btn-copy { min-width: 96px; }
+    .btn-dl { min-width: 86px; }
+
     .btn:hover { background: var(--code-bg); border-color: var(--fg); }
     .btn.primary {
       background: var(--accent);
@@ -225,7 +238,15 @@
         grid-template-columns: 40px 1fr;
         grid-template-rows: auto auto;
       }
-      .actions { grid-column: 1 / -1; justify-content: flex-end; }
+      .actions {
+        grid-column: 1 / -1;
+        justify-content: flex-start;
+        width: 100%;
+      }
+      .btn {
+        flex: 1;
+        min-width: 0;
+      }
     }
   </style>
 </head>
@@ -233,7 +254,7 @@
   <main>
     <header>
       <div class="top-bar">
-        <p class="eyebrow" data-i18n="eyebrow">OhEarningsCal</p>
+        <p class="eyebrow" data-i18n="eyebrow">ETHAN FUN</p>
         <div class="lang-switch" role="radiogroup" aria-label="Language">
           <button type="button" class="lang-btn" data-lang="zh">中文</button>
           <button type="button" class="lang-btn" data-lang="en">EN</button>
@@ -269,9 +290,9 @@
   <script>
     const TRANSLATIONS = {
       zh: {
-        title: 'OhEarningsCal · 美股财报日历订阅',
+        title: '美股财报日历 · ETHAN FUN',
         metaDesc: '订阅美股财报日历至你的日历应用。每日自动更新，涵盖纳斯达克 100、标普 500、道琼斯 30 及自定义关注列表。',
-        eyebrow: 'OhEarningsCal',
+        eyebrow: 'ETHAN FUN',
         heading: '美股财报日历，<br/>一键订阅到你的日历应用',
         lede: '每天从 Nasdaq 获取未来 30 天的美股财报发布日，并生成 .ics 日历订阅源 — 涵盖纳斯达克 100、标普 500、道琼斯 30 及自定义关注列表。',
         byIndex: '按指数与关注列表',
@@ -302,11 +323,11 @@
         }
       },
       en: {
-        title: 'OhEarningsCal · US Earnings Calendar Subscriptions',
+        title: 'US Earnings Calendar · ETHAN FUN',
         metaDesc: 'Subscribe to US stock earnings dates in your calendar app. Updated daily. Covers Nasdaq-100, S&P 500, and Dow 30.',
-        eyebrow: 'OhEarningsCal',
+        eyebrow: 'ETHAN FUN',
         heading: 'US earnings calendar,<br/>subscribed in your calendar app',
-        lede: 'Pulls the next 30 days of earnings reports from Nasdaq every day and publishes them as .ics subscription feeds — Nasdaq-100, S&P 500, Dow 30, plus a custom watchlist.',
+        lede: 'Pulls next 30 days of earnings from Nasdaq daily as .ics subscription feeds — Nasdaq-100, S&P 500, Dow 30 & custom watchlists.',
         byIndex: 'By index & watchlist',
         byMarketCap: 'By market cap',
         subscribe: 'Subscribe',
@@ -315,23 +336,23 @@
         download: 'Download',
         copyPrompt: 'Copy this link:',
         helpTitle: 'How to subscribe',
-        helpStep1: '<strong>iOS / macOS Calendar</strong>: copy the link → File → New Calendar Subscription → paste.',
-        helpStep2: '<strong>Google Calendar</strong>: left sidebar "Other calendars" → + → From URL → paste.',
-        helpStep3: '<strong>Outlook</strong>: Calendar → Add calendar → Subscribe from web → paste.',
+        helpStep1: '<strong>iOS / macOS</strong>: Copy link → File → New Calendar Subscription → Paste.',
+        helpStep2: '<strong>Google Calendar</strong>: Left sidebar → Other calendars (+) → From URL → Paste.',
+        helpStep3: '<strong>Outlook</strong>: Calendar → Add calendar → Subscribe from web → Paste.',
         footerUpdated: 'Updated daily at 04:34 / 16:34 UTC',
         indices: {
-          selected:    { name: 'Selected',     desc: 'All indices + custom watchlist, deduped' },
+          selected:    { name: 'Selected',     desc: 'All indices + custom watchlist (deduped)' },
           nasdaq100:   { name: 'Nasdaq-100',   desc: 'Nasdaq-100 constituents' },
           sp500:       { name: 'S&P 500',      desc: 'S&P 500 constituents' },
-          dow30:       { name: 'Dow 30',        desc: 'Dow Jones Industrial Average constituents' },
-          customstock: { name: 'Custom',       desc: 'Driven by the CUSTOM_STOCKS repo variable' },
-          all:         { name: 'All earnings', desc: 'Every reporting company — large file' },
+          dow30:       { name: 'Dow 30',        desc: 'Dow 30 constituents' },
+          customstock: { name: 'Custom',       desc: 'Set by CUSTOM_STOCKS env variable' },
+          all:         { name: 'All earnings', desc: 'All reporting companies (large file)' },
         },
         marketCap: {
-          megacap:  { name: 'Mega Cap',  desc: 'Companies > $200B' },
-          largecap: { name: 'Large Cap', desc: '$10B – $200B' },
-          midcap:   { name: 'Mid Cap',   desc: '$2B – $10B' },
-          smallcap: { name: 'Small Cap', desc: 'Companies < $2B' },
+          megacap:  { name: 'Mega Cap',  desc: 'Market cap > $200B' },
+          largecap: { name: 'Large Cap', desc: 'Market cap $10B – $200B' },
+          midcap:   { name: 'Mid Cap',   desc: 'Market cap $2B – $10B' },
+          smallcap: { name: 'Small Cap', desc: 'Market cap < $2B' },
         }
       }
     };
@@ -366,43 +387,55 @@
       return meta;
     }
 
-    function makeCard({ slug, icon }, langDict) {
-      const isIndex = !!langDict.indices[slug];
-      const item = isIndex ? langDict.indices[slug] : langDict.marketCap[slug];
+    function createCard({ slug, icon }) {
       const url = baseURL + slug + '.ics';
       const webcalUrl = url.replace(/^https?:/, 'webcal:');
       const card = document.createElement('div');
       card.className = 'card';
+      card.dataset.slug = slug;
       card.innerHTML = `
         <div class="icon" aria-hidden="true">${icon}</div>
         <div class="meta">
-          <p class="name">${item.name}</p>
-          <p class="desc">${item.desc}</p>
+          <p class="name"></p>
+          <p class="desc"></p>
         </div>
         <div class="actions">
-          <a class="btn primary" href="${webcalUrl}">${langDict.subscribe}</a>
-          <button class="btn" data-copy="${url}">
-            <span class="label">${langDict.copyLink}</span>
-            <span class="copied">${langDict.copied}</span>
+          <a class="btn btn-sub primary" href="${webcalUrl}"></a>
+          <button class="btn btn-copy" data-copy="${url}">
+            <span class="label"></span>
+            <span class="copied"></span>
           </button>
-          <a class="btn" href="ics/${slug}.ics" download>${langDict.download}</a>
+          <a class="btn btn-dl" href="ics/${slug}.ics" download></a>
         </div>
       `;
       return card;
     }
 
-    function renderCards(langDict) {
+    function initDOM() {
       const indexContainer = document.getElementById('cards-index');
-      indexContainer.innerHTML = '';
       for (const item of ICS_INDEX_KEYS) {
-        indexContainer.appendChild(makeCard(item, langDict));
+        indexContainer.appendChild(createCard(item));
       }
 
       const marketcapContainer = document.getElementById('cards-marketcap');
-      marketcapContainer.innerHTML = '';
       for (const item of ICS_MARKETCAP_KEYS) {
-        marketcapContainer.appendChild(makeCard(item, langDict));
+        marketcapContainer.appendChild(createCard(item));
       }
+    }
+
+    function updateCards(langDict) {
+      document.querySelectorAll('.card[data-slug]').forEach((card) => {
+        const slug = card.dataset.slug;
+        const isIndex = !!langDict.indices[slug];
+        const item = isIndex ? langDict.indices[slug] : langDict.marketCap[slug];
+        
+        card.querySelector('.name').textContent = item.name;
+        card.querySelector('.desc').textContent = item.desc;
+        card.querySelector('.btn-sub').textContent = langDict.subscribe;
+        card.querySelector('.btn-copy .label').textContent = langDict.copyLink;
+        card.querySelector('.btn-copy .copied').textContent = langDict.copied;
+        card.querySelector('.btn-dl').textContent = langDict.download;
+      });
     }
 
     function setLanguage(lang) {
@@ -428,8 +461,10 @@
         btn.classList.toggle('active', btn.dataset.lang === lang);
       });
 
-      renderCards(dict);
+      updateCards(dict);
     }
+
+    initDOM();
 
     document.querySelectorAll('.lang-btn').forEach((btn) => {
       btn.addEventListener('click', () => {
@@ -437,7 +472,7 @@
       });
     });
 
-    // Initial render
+    // Initial language application
     setLanguage(currentLang);
 
     document.body.addEventListener('click', async (e) => {
