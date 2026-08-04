@@ -1,10 +1,10 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="zh-CN">
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>OhEarningsCal · US Earnings Calendar Subscriptions</title>
-  <meta name="description" content="Subscribe to US stock earnings dates in your calendar app. Updated daily. Covers Nasdaq-100, S&P 500, and Dow 30." />
+  <title>OhEarningsCal · 美股财报日历订阅</title>
+  <meta name="description" content="订阅美股财报日历至你的日历应用。每日自动更新，涵盖纳斯达克 100、标普 500、道琼斯 30 及自定义关注列表。" />
   <style>
     :root {
       --bg: #fafaf9;
@@ -46,12 +46,50 @@
       padding: 64px 24px 96px;
     }
     header { margin-bottom: 56px; }
+    .top-bar {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      margin-bottom: 16px;
+    }
+    .top-bar .eyebrow {
+      margin-bottom: 0;
+    }
     .eyebrow {
       font-size: 13px;
       letter-spacing: 0.08em;
       text-transform: uppercase;
       color: var(--muted);
       margin-bottom: 16px;
+    }
+    .lang-switch {
+      display: inline-flex;
+      background: var(--code-bg);
+      border: 1px solid var(--line);
+      border-radius: 8px;
+      padding: 2px;
+      gap: 2px;
+    }
+    .lang-btn {
+      font: inherit;
+      font-size: 12px;
+      font-weight: 500;
+      padding: 4px 10px;
+      border-radius: 6px;
+      border: none;
+      background: transparent;
+      color: var(--muted);
+      cursor: pointer;
+      transition: background 120ms ease, color 120ms ease;
+    }
+    .lang-btn:hover {
+      color: var(--fg);
+    }
+    .lang-btn.active {
+      background: var(--card);
+      color: var(--fg);
+      font-weight: 600;
+      box-shadow: 0 1px 2px rgba(0,0,0,0.05);
     }
     h1 {
       font-size: 36px;
@@ -194,56 +232,143 @@
 <body>
   <main>
     <header>
-      <p class="eyebrow">OhEarningsCal</p>
-      <h1>US earnings calendar,<br/>subscribed in your calendar app</h1>
-      <p class="lede">
-        Pulls the next 30 days of earnings reports from Nasdaq every day and
-        publishes them as .ics subscription feeds — Nasdaq-100, S&amp;P 500,
-        Dow 30, plus a custom watchlist.
+      <div class="top-bar">
+        <p class="eyebrow" data-i18n="eyebrow">OhEarningsCal</p>
+        <div class="lang-switch" role="radiogroup" aria-label="Language">
+          <button type="button" class="lang-btn" data-lang="zh">中文</button>
+          <button type="button" class="lang-btn" data-lang="en">EN</button>
+        </div>
+      </div>
+      <h1 data-i18n-html="heading">美股财报日历，<br/>一键订阅到你的日历应用</h1>
+      <p class="lede" data-i18n="lede">
+        每天从 Nasdaq 获取未来 30 天的美股财报发布日，并生成 .ics 日历订阅源 — 涵盖纳斯达克 100、标普 500、道琼斯 30 及自定义关注列表。
       </p>
     </header>
 
-    <h2>By index &amp; watchlist</h2>
+    <h2 data-i18n="byIndex">按指数与关注列表</h2>
     <div class="cards" id="cards-index"></div>
 
-    <h2>By market cap</h2>
+    <h2 data-i18n="byMarketCap">按市值分类</h2>
     <div class="cards" id="cards-marketcap"></div>
 
     <section class="help">
-      <h3>How to subscribe</h3>
+      <h3 data-i18n="helpTitle">如何订阅</h3>
       <ol>
-        <li><strong>iOS / macOS Calendar</strong>: copy the link → File → New Calendar Subscription → paste.</li>
-        <li><strong>Google Calendar</strong>: left sidebar "Other calendars" → + → From URL → paste.</li>
-        <li><strong>Outlook</strong>: Calendar → Add calendar → Subscribe from web → paste.</li>
+        <li data-i18n-html="helpStep1"><strong>iOS / macOS 日历</strong>：复制链接 → 文件 → 新建日历订阅 → 粘贴。</li>
+        <li data-i18n-html="helpStep2"><strong>Google 日历</strong>：左侧边栏“其他日历” → + → 通过 URL 添加 → 粘贴。</li>
+        <li data-i18n-html="helpStep3"><strong>Outlook</strong>：日历 → 添加日历 → 从 Web 订阅 → 粘贴。</li>
       </ol>
     </section>
 
     <footer>
-      <span>Updated daily at 04:34 / 16:34 UTC</span>
+      <span data-i18n="footerUpdated">每日 04:34 / 16:34 UTC 自动更新</span>
       <a href="https://github.com/ethanjtch/earnings-cal" target="_blank" rel="noopener">GitHub</a>
     </footer>
   </main>
 
   <script>
-    const ICS_BY_INDEX = [
-      { slug: 'selected',    icon: '⭐', name: 'Selected',      desc: 'All indices + custom watchlist, deduped' },
-      { slug: 'nasdaq100',   icon: '💻', name: 'Nasdaq-100',    desc: 'Nasdaq-100 constituents' },
-      { slug: 'sp500',       icon: '📈', name: 'S&P 500',       desc: 'S&P 500 constituents' },
-      { slug: 'dow30',       icon: '🏛️', name: 'Dow 30',         desc: 'Dow Jones Industrial Average constituents' },
-      { slug: 'customstock', icon: '🎯', name: 'Custom',        desc: 'Driven by the CUSTOM_STOCKS repo variable' },
-      { slug: 'all',         icon: '🌐', name: 'All earnings',  desc: 'Every reporting company — large file' },
+    const TRANSLATIONS = {
+      zh: {
+        title: 'OhEarningsCal · 美股财报日历订阅',
+        metaDesc: '订阅美股财报日历至你的日历应用。每日自动更新，涵盖纳斯达克 100、标普 500、道琼斯 30 及自定义关注列表。',
+        eyebrow: 'OhEarningsCal',
+        heading: '美股财报日历，<br/>一键订阅到你的日历应用',
+        lede: '每天从 Nasdaq 获取未来 30 天的美股财报发布日，并生成 .ics 日历订阅源 — 涵盖纳斯达克 100、标普 500、道琼斯 30 及自定义关注列表。',
+        byIndex: '按指数与关注列表',
+        byMarketCap: '按市值分类',
+        subscribe: '订阅',
+        copyLink: '复制链接',
+        copied: '已复制 ✓',
+        download: '下载',
+        copyPrompt: '请复制此链接：',
+        helpTitle: '如何订阅',
+        helpStep1: '<strong>iOS / macOS 日历</strong>：复制链接 → 文件 → 新建日历订阅 → 粘贴。',
+        helpStep2: '<strong>Google 日历</strong>：左侧边栏“其他日历” → + → 通过 URL 添加 → 粘贴。',
+        helpStep3: '<strong>Outlook</strong>：日历 → 添加日历 → 从 Web 订阅 → 粘贴。',
+        footerUpdated: '每日 04:34 / 16:34 UTC 自动更新',
+        indices: {
+          selected:    { name: '精选列表',     desc: '所有指数 + 自定义关注列表（已去重）' },
+          nasdaq100:   { name: '纳斯达克 100', desc: '纳斯达克 100 成份股' },
+          sp500:       { name: '标普 500',     desc: '标普 500 成份股' },
+          dow30:       { name: '道琼斯 30',    desc: '道琼斯工业平均指数成份股' },
+          customstock: { name: '自定义关注',   desc: '由仓库 CUSTOM_STOCKS 环境变量指定' },
+          all:         { name: '全部财报',     desc: '所有发布财报的公司（文件较大）' },
+        },
+        marketCap: {
+          megacap:  { name: '超大盘股', desc: '市值 > 2000 亿美元' },
+          largecap: { name: '大盘股',   desc: '市值 100 亿 – 2000 亿美元' },
+          midcap:   { name: '中盘股',   desc: '市值 20 亿 – 100 亿美元' },
+          smallcap: { name: '小盘股',   desc: '市值 < 20 亿美元' },
+        }
+      },
+      en: {
+        title: 'OhEarningsCal · US Earnings Calendar Subscriptions',
+        metaDesc: 'Subscribe to US stock earnings dates in your calendar app. Updated daily. Covers Nasdaq-100, S&P 500, and Dow 30.',
+        eyebrow: 'OhEarningsCal',
+        heading: 'US earnings calendar,<br/>subscribed in your calendar app',
+        lede: 'Pulls the next 30 days of earnings reports from Nasdaq every day and publishes them as .ics subscription feeds — Nasdaq-100, S&P 500, Dow 30, plus a custom watchlist.',
+        byIndex: 'By index & watchlist',
+        byMarketCap: 'By market cap',
+        subscribe: 'Subscribe',
+        copyLink: 'Copy link',
+        copied: 'Copied ✓',
+        download: 'Download',
+        copyPrompt: 'Copy this link:',
+        helpTitle: 'How to subscribe',
+        helpStep1: '<strong>iOS / macOS Calendar</strong>: copy the link → File → New Calendar Subscription → paste.',
+        helpStep2: '<strong>Google Calendar</strong>: left sidebar "Other calendars" → + → From URL → paste.',
+        helpStep3: '<strong>Outlook</strong>: Calendar → Add calendar → Subscribe from web → paste.',
+        footerUpdated: 'Updated daily at 04:34 / 16:34 UTC',
+        indices: {
+          selected:    { name: 'Selected',     desc: 'All indices + custom watchlist, deduped' },
+          nasdaq100:   { name: 'Nasdaq-100',   desc: 'Nasdaq-100 constituents' },
+          sp500:       { name: 'S&P 500',      desc: 'S&P 500 constituents' },
+          dow30:       { name: 'Dow 30',        desc: 'Dow Jones Industrial Average constituents' },
+          customstock: { name: 'Custom',       desc: 'Driven by the CUSTOM_STOCKS repo variable' },
+          all:         { name: 'All earnings', desc: 'Every reporting company — large file' },
+        },
+        marketCap: {
+          megacap:  { name: 'Mega Cap',  desc: 'Companies > $200B' },
+          largecap: { name: 'Large Cap', desc: '$10B – $200B' },
+          midcap:   { name: 'Mid Cap',   desc: '$2B – $10B' },
+          smallcap: { name: 'Small Cap', desc: 'Companies < $2B' },
+        }
+      }
+    };
+
+    const ICS_INDEX_KEYS = [
+      { slug: 'selected',    icon: '⭐' },
+      { slug: 'nasdaq100',   icon: '💻' },
+      { slug: 'sp500',       icon: '📈' },
+      { slug: 'dow30',       icon: '🏛️' },
+      { slug: 'customstock', icon: '🎯' },
+      { slug: 'all',         icon: '🌐' },
     ];
 
-    const ICS_BY_MARKETCAP = [
-      { slug: 'megacap',  icon: '🐋', name: 'Mega Cap',  desc: 'Companies > $200B' },
-      { slug: 'largecap', icon: '🦈', name: 'Large Cap', desc: '$10B – $200B' },
-      { slug: 'midcap',   icon: '🐟', name: 'Mid Cap',   desc: '$2B – $10B' },
-      { slug: 'smallcap', icon: '🐠', name: 'Small Cap', desc: 'Companies < $2B' },
+    const ICS_MARKETCAP_KEYS = [
+      { slug: 'megacap',  icon: '🐋' },
+      { slug: 'largecap', icon: '🦈' },
+      { slug: 'midcap',   icon: '🐟' },
+      { slug: 'smallcap', icon: '🐠' },
     ];
 
     const baseURL = new URL('ics/', window.location.href).toString();
+    let currentLang = localStorage.getItem('lang') || 'zh';
+    if (!TRANSLATIONS[currentLang]) currentLang = 'zh';
 
-    function makeCard({ slug, icon, name, desc }) {
+    function getMetaDescTag() {
+      let meta = document.querySelector('meta[name="description"]');
+      if (!meta) {
+        meta = document.createElement('meta');
+        meta.name = 'description';
+        document.head.appendChild(meta);
+      }
+      return meta;
+    }
+
+    function makeCard({ slug, icon }, langDict) {
+      const isIndex = !!langDict.indices[slug];
+      const item = isIndex ? langDict.indices[slug] : langDict.marketCap[slug];
       const url = baseURL + slug + '.ics';
       const webcalUrl = url.replace(/^https?:/, 'webcal:');
       const card = document.createElement('div');
@@ -251,39 +376,80 @@
       card.innerHTML = `
         <div class="icon" aria-hidden="true">${icon}</div>
         <div class="meta">
-          <p class="name">${name}</p>
-          <p class="desc">${desc}</p>
+          <p class="name">${item.name}</p>
+          <p class="desc">${item.desc}</p>
         </div>
         <div class="actions">
-          <a class="btn primary" href="${webcalUrl}">Subscribe</a>
+          <a class="btn primary" href="${webcalUrl}">${langDict.subscribe}</a>
           <button class="btn" data-copy="${url}">
-            <span class="label">Copy link</span>
-            <span class="copied">Copied ✓</span>
+            <span class="label">${langDict.copyLink}</span>
+            <span class="copied">${langDict.copied}</span>
           </button>
-          <a class="btn" href="ics/${slug}.ics" download>Download</a>
+          <a class="btn" href="ics/${slug}.ics" download>${langDict.download}</a>
         </div>
       `;
       return card;
     }
 
-    function renderInto(containerId, list) {
-      const container = document.getElementById(containerId);
-      for (const item of list) container.appendChild(makeCard(item));
-      return container;
+    function renderCards(langDict) {
+      const indexContainer = document.getElementById('cards-index');
+      indexContainer.innerHTML = '';
+      for (const item of ICS_INDEX_KEYS) {
+        indexContainer.appendChild(makeCard(item, langDict));
+      }
+
+      const marketcapContainer = document.getElementById('cards-marketcap');
+      marketcapContainer.innerHTML = '';
+      for (const item of ICS_MARKETCAP_KEYS) {
+        marketcapContainer.appendChild(makeCard(item, langDict));
+      }
     }
 
-    renderInto('cards-index', ICS_BY_INDEX);
-    renderInto('cards-marketcap', ICS_BY_MARKETCAP);
+    function setLanguage(lang) {
+      currentLang = lang;
+      localStorage.getItem('lang') !== lang && localStorage.setItem('lang', lang);
+      const dict = TRANSLATIONS[lang];
+
+      document.documentElement.lang = lang === 'zh' ? 'zh-CN' : 'en';
+      document.title = dict.title;
+      getMetaDescTag().content = dict.metaDesc;
+
+      document.querySelectorAll('[data-i18n]').forEach((el) => {
+        const key = el.dataset.i18n;
+        if (dict[key]) el.textContent = dict[key];
+      });
+
+      document.querySelectorAll('[data-i18n-html]').forEach((el) => {
+        const key = el.dataset.i18nHtml;
+        if (dict[key]) el.innerHTML = dict[key];
+      });
+
+      document.querySelectorAll('.lang-btn').forEach((btn) => {
+        btn.classList.toggle('active', btn.dataset.lang === lang);
+      });
+
+      renderCards(dict);
+    }
+
+    document.querySelectorAll('.lang-btn').forEach((btn) => {
+      btn.addEventListener('click', () => {
+        setLanguage(btn.dataset.lang);
+      });
+    });
+
+    // Initial render
+    setLanguage(currentLang);
 
     document.body.addEventListener('click', async (e) => {
       const btn = e.target.closest('button[data-copy]');
       if (!btn) return;
+      const dict = TRANSLATIONS[currentLang];
       try {
         await navigator.clipboard.writeText(btn.dataset.copy);
         btn.classList.add('is-copied');
         setTimeout(() => btn.classList.remove('is-copied'), 1500);
       } catch {
-        prompt('Copy this link:', btn.dataset.copy);
+        prompt(dict.copyPrompt, btn.dataset.copy);
       }
     });
   </script>
