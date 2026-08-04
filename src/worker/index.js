@@ -83,6 +83,18 @@ export default {
   async fetch(request, env, ctx) {
     const url = new URL(request.url);
 
+    // Handle CORS preflight requests
+    if (request.method === 'OPTIONS') {
+      return new Response(null, {
+        status: 204,
+        headers: {
+          'access-control-allow-origin': '*',
+          'access-control-allow-methods': 'GET, POST, OPTIONS',
+          'access-control-allow-headers': 'Content-Type',
+        },
+      });
+    }
+
     // API 1: Register subscriber & return clean Token URL
     if (url.pathname === '/api/register' && request.method === 'POST') {
       try {

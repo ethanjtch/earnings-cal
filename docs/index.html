@@ -823,6 +823,22 @@
 
       if (subBtn) subBtn.href = webcalUrl;
       if (copyBtn) copyBtn.dataset.copy = httpUrl;
+
+      // Register subscriber details silently with Cloudflare Worker KV
+      if (tickers.length > 0) {
+        fetch('/api/register', {
+          method: 'POST',
+          headers: { 'content-type': 'application/json' },
+          body: JSON.stringify({ name, email, symbols: tickers }),
+        }).then(r => r.json()).then(data => {
+          if (data && data.url) {
+            const registeredHttpUrl = data.url;
+            const registeredWebcalUrl = registeredHttpUrl.replace(/^https?:/, 'webcal:');
+            if (subBtn) subBtn.href = registeredWebcalUrl;
+            if (copyBtn) copyBtn.dataset.copy = registeredHttpUrl;
+          }
+        }).catch(() => {});
+      }
     }
 
     nameInput?.addEventListener('input', updateCustomLink);
