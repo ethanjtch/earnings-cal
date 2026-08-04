@@ -20,8 +20,7 @@ function buildEvent(entry) {
     `🌐 Yahoo Finance: https://finance.yahoo.com/quote/${entry.symbol}`,
     '',
     '— — —',
-    'Earnings calendar by Beavern · https://beavern.com',
-    'Move your scattered records into one place and see the whole picture at a glance.',
+    'US Stock Earnings Calendar · https://earnings.ethanfun.xyz',
   ].filter((line) => line !== null).join('\n');
 
   return {

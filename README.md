@@ -1,12 +1,10 @@
-# OhEarningsCal
+# OhEarningsCal (US Stock Earnings Calendar)
 
-<a href="https://trendshift.io/repositories/8148" target="_blank"><img src="https://trendshift.io/api/badge/repositories/8148" alt="jason5ng32%2FOhEarningsCal | Trendshift" style="width: 250px; height: 55px;" width="250" height="55"/></a>
-
-Subscribe to US stock earnings dates from your calendar app. This started as a tool I built for myself — I'd rather glance at my calendar than open a brokerage app — and turned out useful enough to open-source.
+Subscribe to US stock earnings dates from your calendar app.
 
 ## Just use it
 
-Visit [https://earnings.beavern.com/](https://earnings.beavern.com/), pick a calendar, copy the link, then add it as a calendar subscription in your app of choice.
+Visit [https://earnings.ethanfun.xyz/](https://earnings.ethanfun.xyz/), pick a calendar, copy the link, then add it as a calendar subscription in your app of choice.
 
 The calendars cover the US market only, in a rolling window of ±30 days around today (anything further out isn't accurate enough to matter).
 

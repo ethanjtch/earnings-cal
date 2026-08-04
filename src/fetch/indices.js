@@ -121,7 +121,7 @@ function splitCSVLine(line) {
 // Wikipedia's UA policy asks bots to identify themselves with a contact URL.
 // See https://meta.wikimedia.org/wiki/User-Agent_policy
 const WIKIPEDIA_UA =
-  'oh-earnings-cal/2.0.0 (+https://github.com/jason5ng32/OhEarningsCal)';
+  'oh-earnings-cal/2.0.0 (+https://github.com/ethanjtch/earnings-cal)';
 
 async function fetchFromSource(source) {
   if (source.type === 'wikipedia') {
